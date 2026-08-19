@@ -1,0 +1,25 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0089701	1	6.7%	0.26%	0.0391	0.938	U2AF complex	Cc01g09880
+GO:0005680	1	6.7%	0.29%	0.0433	0.938	anaphase-promoting complex	Cc02g06280
+GO:0000152	1	6.7%	0.29%	0.0433	0.938	nuclear ubiquitin ligase complex	Cc02g06280
+GO:0015629	1	6.7%	0.41%	0.0602	0.938	actin cytoskeleton	Cc06g07980
+GO:0031461	1	6.7%	0.44%	0.0644	0.938	cullin-RING ubiquitin ligase complex	Cc02g06280
+GO:0005739	1	6.7%	0.47%	0.0685	0.938	mitochondrion	Cc02g38200
+GO:0000151	1	6.7%	0.5%	0.0726	0.938	ubiquitin ligase complex	Cc02g06280
+GO:0005856	1	6.7%	0.56%	0.0809	0.938	cytoskeleton	Cc06g07980
+GO:0043231	3	20%	12%	0.262	0.938	intracellular membrane-bounded organelle	Cc02g38200,Cc07g04190,Cc05g11850
+GO:0043227	3	20%	12%	0.262	0.938	membrane-bounded organelle	Cc02g38200,Cc07g04190,Cc05g11850
+GO:0140513	2	13%	7.2%	0.297	0.938	nuclear protein-containing complex	Cc01g09880,Cc02g06280
+GO:0110165	13	87%	79%	0.354	0.938	cellular anatomical structure	Cc02g38200,Cc06g20220,Cc07g17010,Cc02g06820,Cc05g11850,Cc06g07980,Cc06g11210,Cc07g12510,Cc07g04190,Cc06g02110,Cc05g04890,Cc04g16340,Cc06g03030
+GO:0005576	1	6.7%	3.0%	0.365	0.938	extracellular region	Cc04g16340
+GO:0016020	8	53%	47%	0.391	0.938	membrane	Cc06g20220,Cc06g11210,Cc07g17010,Cc07g12510,Cc06g02110,Cc05g04890,Cc02g06820,Cc06g03030
+GO:0005634	2	13%	9.2%	0.41	0.938	nucleus	Cc07g04190,Cc05g11850
+GO:1990234	1	6.7%	3.9%	0.449	0.938	transferase complex	Cc02g06280
+GO:0140535	1	6.7%	3.9%	0.451	0.938	intracellular protein-containing complex	Cc02g06280
+GO:0043229	4	27%	23%	0.467	0.938	intracellular organelle	Cc06g07980,Cc02g38200,Cc07g04190,Cc05g11850
+GO:0043226	4	27%	23%	0.467	0.938	organelle	Cc06g07980,Cc02g38200,Cc07g04190,Cc05g11850
+GO:1902494	1	6.7%	7.9%	0.709	0.938	catalytic complex	Cc02g06280
+GO:0043228	1	6.7%	11%	0.83	0.949	membraneless organelle	Cc06g07980
+GO:0043232	1	6.7%	11%	0.83	0.949	intracellular membraneless organelle	Cc06g07980
+GO:0032991	2	13%	26%	0.933	0.974	protein-containing complex	Cc01g09880,Cc02g06280
+GO:0005575	15	100%	100%	1.0	1.0	cellular_component	Cc02g38200,Cc06g20220,Cc07g17010,Cc02g06820,Cc05g11850,Cc06g07980,Cc06g11210,Cc07g12510,Cc07g04190,Cc01g09880,Cc06g02110,Cc05g04890,Cc04g16340,Cc06g03030,Cc02g06280

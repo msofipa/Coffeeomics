@@ -1,0 +1,14 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0005694	1	13%	0.41%	0.0325	0.423	chromosome	Cc01g08340
+GO:0048046	1	13%	1.6%	0.125	0.81	apoplast	Cc06g01620
+GO:0110165	8	100%	79%	0.148	0.81	cellular anatomical structure	Cc03g05040,Cc06g01620,Cc06g09470,Cc01g08340,Cc02g30730,Cc02g15480,Cc04g09340,Cc06g14690
+GO:0005576	1	13%	3.0%	0.215	0.81	extracellular region	Cc06g01620
+GO:0016020	5	63%	47%	0.29	0.81	membrane	Cc03g05040,Cc06g09470,Cc02g15480,Cc04g09340,Cc06g14690
+GO:0005634	1	13%	9.2%	0.54	1.0	nucleus	Cc02g30730
+GO:0043229	2	25%	23%	0.583	1.0	intracellular organelle	Cc01g08340,Cc02g30730
+GO:0043226	2	25%	23%	0.583	1.0	organelle	Cc01g08340,Cc02g30730
+GO:0043228	1	13%	11%	0.611	1.0	membraneless organelle	Cc01g08340
+GO:0043232	1	13%	11%	0.611	1.0	intracellular membraneless organelle	Cc01g08340
+GO:0043231	1	13%	12%	0.638	1.0	intracellular membrane-bounded organelle	Cc02g30730
+GO:0043227	1	13%	12%	0.638	1.0	membrane-bounded organelle	Cc02g30730
+GO:0005575	8	100%	100%	1.0	1.0	cellular_component	Cc03g05040,Cc06g01620,Cc06g09470,Cc01g08340,Cc02g30730,Cc02g15480,Cc04g09340,Cc06g14690

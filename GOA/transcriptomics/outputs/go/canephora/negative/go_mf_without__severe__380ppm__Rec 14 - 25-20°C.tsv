@@ -1,0 +1,40 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0016161	1	17%	0.08%	4.9E-3	0.191	beta-amylase activity	Cc08g01530
+GO:0016160	1	17%	0.11%	6.53E-3	0.191	amylase activity	Cc08g01530
+GO:0005200	1	17%	0.12%	6.94E-3	0.191	structural constituent of cytoskeleton	Cc04g06320
+GO:0005506	2	33%	3.6%	0.0172	0.191	iron ion binding	Cc04g11270,Cc07g19660
+GO:0016705	2	33%	3.6%	0.0176	0.191	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	Cc04g11270,Cc07g19660
+GO:0046906	2	33%	4.0%	0.0215	0.191	tetrapyrrole binding	Cc04g11270,Cc07g19660
+GO:0020037	2	33%	4.0%	0.0215	0.191	heme binding	Cc04g11270,Cc07g19660
+GO:0003924	1	17%	1.1%	0.0665	0.324	GTPase activity	Cc04g06320
+GO:0046914	2	33%	7.6%	0.0706	0.324	transition metal ion binding	Cc04g11270,Cc07g19660
+GO:0005525	1	17%	1.5%	0.0894	0.349	GTP binding	Cc04g06320
+GO:0032561	1	17%	1.5%	0.0894	0.349	guanyl ribonucleotide binding	Cc04g06320
+GO:0019001	1	17%	1.6%	0.0917	0.349	guanyl nucleotide binding	Cc04g06320
+GO:0003824	5	83%	52%	0.134	0.401	catalytic activity	Cc04g11270,Cc02g29080,Cc08g01530,Cc04g06320,Cc07g19660
+GO:0016491	2	33%	11%	0.135	0.401	oxidoreductase activity	Cc04g11270,Cc07g19660
+GO:0046872	2	33%	11%	0.143	0.401	metal ion binding	Cc04g11270,Cc07g19660
+GO:0005198	1	17%	2.6%	0.149	0.401	structural molecule activity	Cc04g06320
+GO:0043169	2	33%	12%	0.149	0.401	cation binding	Cc04g11270,Cc07g19660
+GO:0004553	1	17%	3.1%	0.171	0.401	hydrolase activity, hydrolyzing O-glycosyl compounds	Cc08g01530
+GO:0017111	1	17%	3.2%	0.175	0.401	ribonucleoside triphosphate phosphatase activity	Cc04g06320
+GO:0016798	1	17%	3.2%	0.178	0.401	hydrolase activity, acting on glycosyl bonds	Cc08g01530
+GO:0016462	1	17%	3.3%	0.184	0.401	pyrophosphatase activity	Cc04g06320
+GO:0016818	1	17%	3.4%	0.187	0.401	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	Cc04g06320
+GO:0016817	1	17%	3.4%	0.188	0.401	hydrolase activity, acting on acid anhydrides	Cc04g06320
+GO:0016787	2	33%	15%	0.232	0.401	hydrolase activity	Cc08g01530,Cc04g06320
+GO:0022857	1	17%	5.9%	0.308	0.48	transmembrane transporter activity	Cc03g02590
+GO:0005215	1	17%	6.1%	0.313	0.48	transporter activity	Cc03g02590
+GO:0043167	3	50%	34%	0.325	0.48	ion binding	Cc04g11270,Cc04g06320,Cc07g19660
+GO:0036094	3	50%	35%	0.35	0.487	small molecule binding	Cc04g11270,Cc04g06320,Cc07g19660
+GO:0035639	1	17%	16%	0.639	0.859	purine ribonucleoside triphosphate binding	Cc04g06320
+GO:0032555	1	17%	20%	0.747	0.971	purine ribonucleotide binding	Cc04g06320
+GO:0032553	1	17%	21%	0.751	0.971	ribonucleotide binding	Cc04g06320
+GO:0097367	1	17%	21%	0.755	0.971	carbohydrate derivative binding	Cc04g06320
+GO:0017076	1	17%	21%	0.76	0.971	purine nucleotide binding	Cc04g06320
+GO:0000166	1	17%	22%	0.783	0.971	nucleotide binding	Cc04g06320
+GO:1901265	1	17%	23%	0.784	0.971	nucleoside phosphate binding	Cc04g06320
+GO:0043168	1	17%	23%	0.787	0.971	anion binding	Cc04g06320
+GO:1901363	1	17%	23%	0.797	0.971	heterocyclic compound binding	Cc04g06320
+GO:0005488	3	50%	64%	0.872	0.971	binding	Cc04g11270,Cc04g06320,Cc07g19660
+GO:0003674	6	100%	100%	1.0	1.0	molecular_function	Cc04g11270,Cc02g29080,Cc08g01530,Cc03g02590,Cc04g06320,Cc07g19660

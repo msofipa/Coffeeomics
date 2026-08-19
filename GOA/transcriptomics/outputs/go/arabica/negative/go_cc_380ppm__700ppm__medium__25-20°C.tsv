@@ -1,0 +1,12 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0008278	1	20%	0.18%	8.81E-3	0.0969	cohesin complex	Cc02g05730
+GO:0009507	1	20%	0.32%	0.0161	0.0969	chloroplast	Cc11g12670
+GO:0009536	1	20%	0.35%	0.0175	0.0969	plastid	Cc11g12670
+GO:0016020	3	60%	47%	0.435	1.0	membrane	Cc06g20220,Cc10g12680,Cc04g15240
+GO:0043231	1	20%	12%	0.47	1.0	intracellular membrane-bounded organelle	Cc11g12670
+GO:0043227	1	20%	12%	0.47	1.0	membrane-bounded organelle	Cc11g12670
+GO:0110165	4	80%	79%	0.713	1.0	cellular anatomical structure	Cc11g12670,Cc06g20220,Cc10g12680,Cc04g15240
+GO:0043229	1	20%	23%	0.73	1.0	intracellular organelle	Cc11g12670
+GO:0043226	1	20%	23%	0.73	1.0	organelle	Cc11g12670
+GO:0032991	1	20%	26%	0.78	1.0	protein-containing complex	Cc02g05730
+GO:0005575	5	100%	100%	1.0	1.0	cellular_component	Cc11g12670,Cc06g20220,Cc10g12680,Cc02g05730,Cc04g15240

@@ -1,0 +1,8 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0048500	1	11%	0.35%	0.0314	0.22	signal recognition particle	Cc08g10520
+GO:0016020	7	78%	47%	0.0598	0.22	membrane	Cc10g06500,Cc01g12260,Cc04g15730,Cc06g21490,Cc05g03140,Cc08g09400,Cc05g12730
+GO:1990904	1	11%	4.3%	0.327	0.763	ribonucleoprotein complex	Cc08g10520
+GO:0005737	1	11%	4.9%	0.367	0.763	cytoplasm	Cc02g07340
+GO:0110165	8	89%	79%	0.401	0.763	cellular anatomical structure	Cc10g06500,Cc01g12260,Cc02g07340,Cc04g15730,Cc06g21490,Cc05g03140,Cc08g09400,Cc05g12730
+GO:0032991	1	11%	26%	0.935	1.0	protein-containing complex	Cc08g10520
+GO:0005575	9	100%	100%	1.0	1.0	cellular_component	Cc10g06500,Cc01g12260,Cc02g07340,Cc08g10520,Cc04g15730,Cc06g21490,Cc05g03140,Cc08g09400,Cc05g12730

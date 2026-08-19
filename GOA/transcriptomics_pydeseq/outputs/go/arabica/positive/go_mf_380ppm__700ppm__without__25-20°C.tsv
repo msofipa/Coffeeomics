@@ -1,0 +1,27 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0004824	1	50%	0.02%	4.09E-4	0.0106	lysine-tRNA ligase activity	Cc04g03360
+GO:0004812	1	50%	0.35%	7.08E-3	0.0921	aminoacyl-tRNA ligase activity	Cc04g03360
+GO:0016875	1	50%	0.35%	7.08E-3	0.0921	ligase activity, forming carbon-oxygen bonds	Cc04g03360
+GO:0140101	1	50%	0.58%	0.0116	0.0921	catalytic activity, acting on a tRNA	Cc04g03360
+GO:0016874	1	50%	0.93%	0.0186	0.0968	ligase activity	Cc04g03360
+GO:0140098	1	50%	1.7%	0.0332	0.144	catalytic activity, acting on RNA	Cc04g03360
+GO:0016798	1	50%	3.2%	0.0631	0.234	hydrolase activity, acting on glycosyl bonds	Cc05g08230
+GO:0140640	1	50%	3.2%	0.0635	0.234	catalytic activity, acting on a nucleic acid	Cc04g03360
+GO:0005524	1	50%	14%	0.262	0.756	ATP binding	Cc04g03360
+GO:0003824	2	100%	52%	0.275	0.756	catalytic activity	Cc05g08230,Cc04g03360
+GO:0016787	1	50%	15%	0.283	0.756	hydrolase activity	Cc05g08230
+GO:0035639	1	50%	16%	0.288	0.756	purine ribonucleoside triphosphate binding	Cc04g03360
+GO:0032559	1	50%	19%	0.343	0.756	adenyl ribonucleotide binding	Cc04g03360
+GO:0030554	1	50%	20%	0.354	0.756	adenyl nucleotide binding	Cc04g03360
+GO:0032555	1	50%	20%	0.368	0.756	purine ribonucleotide binding	Cc04g03360
+GO:0032553	1	50%	21%	0.371	0.756	ribonucleotide binding	Cc04g03360
+GO:0097367	1	50%	21%	0.374	0.756	carbohydrate derivative binding	Cc04g03360
+GO:0017076	1	50%	21%	0.379	0.756	purine nucleotide binding	Cc04g03360
+GO:0000166	1	50%	22%	0.399	0.756	nucleotide binding	Cc04g03360
+GO:1901265	1	50%	23%	0.4	0.756	nucleoside phosphate binding	Cc04g03360
+GO:0043168	1	50%	23%	0.403	0.756	anion binding	Cc04g03360
+GO:1901363	1	50%	23%	0.412	0.756	heterocyclic compound binding	Cc04g03360
+GO:0043167	1	50%	34%	0.559	0.756	ion binding	Cc04g03360
+GO:0036094	1	50%	35%	0.575	0.756	small molecule binding	Cc04g03360
+GO:0005488	1	50%	64%	0.871	0.906	binding	Cc04g03360
+GO:0003674	2	100%	100%	1.0	1.0	molecular_function	Cc05g08230,Cc04g03360

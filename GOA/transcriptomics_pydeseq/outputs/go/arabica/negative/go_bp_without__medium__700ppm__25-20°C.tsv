@@ -1,0 +1,40 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0001101	1	14%	0.08%	5.93E-3	0.231	response to acid chemical	Cc10g00870
+GO:0009415	1	14%	0.08%	5.93E-3	0.231	response to water	Cc10g00870
+GO:1901700	1	14%	0.22%	0.0152	0.231	response to oxygen-containing compound	Cc10g00870
+GO:0009698	1	14%	0.28%	0.0194	0.231	phenylpropanoid metabolic process	Cc02g05960
+GO:0019748	1	14%	0.28%	0.0194	0.231	secondary metabolic process	Cc02g05960
+GO:0009808	1	14%	0.28%	0.0194	0.231	lignin metabolic process	Cc02g05960
+GO:0046271	1	14%	0.28%	0.0194	0.231	phenylpropanoid catabolic process	Cc02g05960
+GO:0046274	1	14%	0.28%	0.0194	0.231	lignin catabolic process	Cc02g05960
+GO:0009628	1	14%	0.64%	0.0442	0.231	response to abiotic stimulus	Cc10g00870
+GO:0042221	1	14%	0.9%	0.0612	0.239	response to chemical	Cc10g00870
+GO:0016567	1	14%	1.1%	0.0724	0.257	protein ubiquitination	Cc06g06630
+GO:0032446	1	14%	1.1%	0.0772	0.257	protein modification by small protein conjugation	Cc06g06630
+GO:0070647	1	14%	1.6%	0.108	0.323	protein modification by small protein conjugation or removal	Cc06g06630
+GO:0043687	1	14%	1.6%	0.108	0.323	post-translational protein modification	Cc06g06630
+GO:0005975	2	29%	8.4%	0.111	0.323	carbohydrate metabolic process	Cc02g19810,Cc05g14210
+GO:0009056	1	14%	4.3%	0.263	0.642	catabolic process	Cc02g05960
+GO:0050896	1	14%	5.8%	0.344	0.789	response to stimulus	Cc10g00870
+GO:0006508	1	14%	6.0%	0.351	0.789	proteolysis	Cc01g19650
+GO:0008152	5	71%	62%	0.474	0.973	metabolic process	Cc02g19810,Cc06g06630,Cc02g05960,Cc01g19650,Cc05g14210
+GO:0006355	1	14%	9.1%	0.485	0.973	regulation of DNA-templated transcription	Cc05g07590
+GO:2001141	1	14%	9.1%	0.485	0.973	regulation of RNA biosynthetic process	Cc05g07590
+GO:0051252	1	14%	9.1%	0.488	0.973	regulation of RNA metabolic process	Cc05g07590
+GO:0019219	1	14%	9.3%	0.495	0.973	regulation of nucleobase-containing compound metabolic process	Cc05g07590
+GO:0010468	1	14%	9.7%	0.511	0.973	regulation of gene expression	Cc05g07590
+GO:0010556	1	14%	9.7%	0.512	0.973	regulation of macromolecule biosynthetic process	Cc05g07590
+GO:0009889	1	14%	9.8%	0.513	0.973	regulation of biosynthetic process	Cc05g07590
+GO:0080090	1	14%	9.8%	0.515	0.973	regulation of primary metabolic process	Cc05g07590
+GO:0060255	1	14%	10%	0.534	0.973	regulation of macromolecule metabolic process	Cc05g07590
+GO:0019222	1	14%	10%	0.537	0.973	regulation of metabolic process	Cc05g07590
+GO:0044238	4	57%	55%	0.604	0.973	primary metabolic process	Cc02g19810,Cc06g06630,Cc01g19650,Cc05g14210
+GO:0019538	2	29%	28%	0.624	0.973	protein metabolic process	Cc06g06630,Cc01g19650
+GO:0050794	1	14%	13%	0.633	0.973	regulation of cellular process	Cc05g07590
+GO:0050789	1	14%	14%	0.65	0.973	regulation of biological process	Cc05g07590
+GO:0065007	1	14%	14%	0.661	0.973	biological regulation	Cc05g07590
+GO:0036211	1	14%	18%	0.75	0.973	protein modification process	Cc06g06630
+GO:0043412	1	14%	19%	0.771	0.973	macromolecule modification	Cc06g06630
+GO:0043170	2	29%	38%	0.815	0.973	macromolecule metabolic process	Cc06g06630,Cc01g19650
+GO:0009987	5	71%	85%	0.926	0.973	cellular process	Cc02g19810,Cc06g06630,Cc02g05960,Cc01g19650,Cc05g14210
+GO:0008150	7	100%	100%	1.0	1.0	biological_process	Cc05g07590,Cc02g19810,Cc06g06630,Cc02g05960,Cc01g19650,Cc10g00870,Cc05g14210

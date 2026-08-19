@@ -1,0 +1,45 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0004601	2	20%	0.72%	2.2E-3	0.097	peroxidase activity	Cc09g01700,Cc05g08480
+GO:0016684	2	20%	0.72%	2.2E-3	0.097	oxidoreductase activity, acting on peroxide as acceptor	Cc09g01700,Cc05g08480
+GO:0016209	2	20%	0.82%	2.87E-3	0.097	antioxidant activity	Cc09g01700,Cc05g08480
+GO:0019139	1	10%	0.03%	3.41E-3	0.097	cytokinin dehydrogenase activity	Cc10g02380
+GO:0004089	1	10%	0.06%	6.13E-3	0.097	carbonate dehydratase activity	Cc07g02160
+GO:0046906	3	30%	4.0%	6.18E-3	0.097	tetrapyrrole binding	Cc09g01700,Cc05g08480,Cc08g02380
+GO:0020037	3	30%	4.0%	6.18E-3	0.097	heme binding	Cc09g01700,Cc05g08480,Cc08g02380
+GO:0016645	1	10%	0.11%	0.0109	0.097	oxidoreductase activity, acting on the CH-NH group of donors	Cc10g02380
+GO:0015211	1	10%	0.11%	0.0109	0.097	purine nucleoside transmembrane transporter activity	Cc10g15400
+GO:0005337	1	10%	0.16%	0.0156	0.097	nucleoside transmembrane transporter activity	Cc10g15400
+GO:0016491	4	40%	11%	0.018	0.097	oxidoreductase activity	Cc09g01700,Cc10g02380,Cc05g08480,Cc08g02380
+GO:1901505	1	10%	0.27%	0.0263	0.097	carbohydrate derivative transmembrane transporter activity	Cc10g15400
+GO:0015932	1	10%	0.27%	0.0263	0.097	nucleobase-containing compound transmembrane transporter activity	Cc10g15400
+GO:0016836	1	10%	0.29%	0.0283	0.097	hydro-lyase activity	Cc07g02160
+GO:0071949	1	10%	0.46%	0.0455	0.133	FAD binding	Cc10g02380
+GO:0008017	1	10%	0.53%	0.0513	0.141	microtubule binding	Cc11g05720
+GO:0015631	1	10%	0.61%	0.0591	0.153	tubulin binding	Cc11g05720
+GO:0016835	1	10%	0.71%	0.0688	0.168	carbon-oxygen lyase activity	Cc07g02160
+GO:0004857	1	10%	0.91%	0.0872	0.202	enzyme inhibitor activity	Cc02g04130
+GO:0140678	1	10%	0.91%	0.0872	0.202	molecular function inhibitor activity	Cc02g04130
+GO:0008092	1	10%	0.96%	0.0916	0.202	cytoskeletal protein binding	Cc11g05720
+GO:0050660	1	10%	0.98%	0.0934	0.202	flavin adenine dinucleotide binding	Cc10g02380
+GO:0046872	3	30%	11%	0.0966	0.202	metal ion binding	Cc07g02160,Cc02g11770,Cc08g02380
+GO:0043169	3	30%	12%	0.102	0.202	cation binding	Cc07g02160,Cc02g11770,Cc08g02380
+GO:0022857	2	20%	5.9%	0.116	0.204	transmembrane transporter activity	Cc10g09750,Cc10g15400
+GO:0005215	2	20%	6.1%	0.12	0.204	transporter activity	Cc10g09750,Cc10g15400
+GO:0005509	1	10%	1.3%	0.123	0.204	calcium ion binding	Cc02g11770
+GO:0016829	1	10%	1.5%	0.142	0.223	lyase activity	Cc07g02160
+GO:0030234	1	10%	1.5%	0.142	0.223	enzyme regulator activity	Cc02g04130
+GO:0098772	1	10%	1.7%	0.16	0.234	molecular function regulator activity	Cc02g04130
+GO:0046914	2	20%	7.6%	0.173	0.246	transition metal ion binding	Cc07g02160,Cc08g02380
+GO:0008270	1	10%	3.1%	0.273	0.375	zinc ion binding	Cc07g02160
+GO:0005506	1	10%	3.6%	0.304	0.405	iron ion binding	Cc08g02380
+GO:0016705	1	10%	3.6%	0.307	0.405	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	Cc08g02380
+GO:0043167	4	40%	34%	0.449	0.564	ion binding	Cc10g02380,Cc07g02160,Cc02g11770,Cc08g02380
+GO:0036094	4	40%	35%	0.482	0.589	small molecule binding	Cc10g02380,Cc07g02160,Cc02g11770,Cc08g02380
+GO:0005488	7	70%	64%	0.488	0.589	binding	Cc09g01700,Cc10g02380,Cc11g05720,Cc07g02160,Cc05g08480,Cc02g11770,Cc08g02380
+GO:0003824	5	50%	52%	0.681	0.788	catalytic activity	Cc09g01700,Cc10g02380,Cc07g02160,Cc05g08480,Cc08g02380
+GO:0000166	1	10%	22%	0.922	1.0	nucleotide binding	Cc10g02380
+GO:1901265	1	10%	23%	0.922	1.0	nucleoside phosphate binding	Cc10g02380
+GO:0043168	1	10%	23%	0.924	1.0	anion binding	Cc10g02380
+GO:1901363	1	10%	23%	0.93	1.0	heterocyclic compound binding	Cc10g02380
+GO:0005515	1	10%	23%	0.93	1.0	protein binding	Cc11g05720
+GO:0003674	10	100%	100%	1.0	1.0	molecular_function	Cc09g01700,Cc10g02380,Cc11g05720,Cc07g02160,Cc05g08480,Cc10g09750,Cc02g11770,Cc08g02380,Cc10g15400,Cc02g04130

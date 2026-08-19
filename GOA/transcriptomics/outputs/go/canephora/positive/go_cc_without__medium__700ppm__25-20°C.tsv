@@ -1,0 +1,26 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0099081	3	30%	0.91%	7.91E-5	1.98E-3	supramolecular polymer	Cc07g03260,Cc10g01640,Cc06g20040
+GO:0005874	3	30%	0.91%	7.91E-5	1.98E-3	microtubule	Cc07g03260,Cc10g01640,Cc06g20040
+GO:0099513	3	30%	0.91%	7.91E-5	1.98E-3	polymeric cytoskeletal fiber	Cc07g03260,Cc10g01640,Cc06g20040
+GO:0099512	3	30%	0.91%	7.91E-5	1.98E-3	supramolecular fiber	Cc07g03260,Cc10g01640,Cc06g20040
+GO:0099080	3	30%	1.0%	1.05E-4	1.98E-3	supramolecular complex	Cc07g03260,Cc10g01640,Cc06g20040
+GO:0005576	3	30%	3.0%	2.63E-3	0.011	extracellular region	Cc01g15270,Cc02g05420,Cc04g16340
+GO:0098803	1	10%	0.12%	0.0117	0.0419	respiratory chain complex	Cc08g01750
+GO:0045277	1	10%	0.12%	0.0117	0.0419	respiratory chain complex IV	Cc08g01750
+GO:0070069	1	10%	0.15%	0.0146	0.0419	cytochrome complex	Cc08g01750
+GO:1902495	1	10%	0.26%	0.0262	0.0655	transmembrane transporter complex	Cc08g01750
+GO:1990351	1	10%	0.26%	0.0262	0.0655	transporter complex	Cc08g01750
+GO:0005739	1	10%	0.47%	0.0462	0.0962	mitochondrion	Cc08g01750
+GO:0110165	10	100%	79%	0.092	0.177	cellular anatomical structure	Cc02g23210,Cc08g01750,Cc04g15000,Cc01g15270,Cc02g05420,Cc07g03260,Cc11g14480,Cc10g01640,Cc04g16340,Cc06g20040
+GO:0005840	2	20%	8.9%	0.223	0.399	ribosome	Cc02g23210,Cc04g15000
+GO:0043228	2	20%	11%	0.308	0.513	membraneless organelle	Cc02g23210,Cc04g15000
+GO:0043232	2	20%	11%	0.308	0.513	intracellular membraneless organelle	Cc02g23210,Cc04g15000
+GO:0098796	1	10%	4.3%	0.354	0.52	membrane protein complex	Cc08g01750
+GO:0043229	3	30%	23%	0.415	0.577	intracellular organelle	Cc02g23210,Cc08g01750,Cc04g15000
+GO:0043226	3	30%	23%	0.415	0.577	organelle	Cc02g23210,Cc08g01750,Cc04g15000
+GO:1902494	1	10%	7.9%	0.561	0.701	catalytic complex	Cc08g01750
+GO:0043231	1	10%	12%	0.72	0.857	intracellular membrane-bounded organelle	Cc08g01750
+GO:0043227	1	10%	12%	0.72	0.857	membrane-bounded organelle	Cc08g01750
+GO:0032991	1	10%	26%	0.952	1.0	protein-containing complex	Cc08g01750
+GO:0016020	1	10%	47%	0.998	1.0	membrane	Cc11g14480
+GO:0005575	10	100%	100%	1.0	1.0	cellular_component	Cc02g23210,Cc08g01750,Cc04g15000,Cc01g15270,Cc02g05420,Cc07g03260,Cc11g14480,Cc10g01640,Cc04g16340,Cc06g20040

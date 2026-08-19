@@ -1,0 +1,27 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0006355	3	60%	9.1%	6.43E-3	0.167	regulation of DNA-templated transcription	Cc08g14180,Cc02g05970,Cc01g19020
+GO:2001141	3	60%	9.1%	6.43E-3	0.167	regulation of RNA biosynthetic process	Cc08g14180,Cc02g05970,Cc01g19020
+GO:0051252	3	60%	9.1%	6.55E-3	0.167	regulation of RNA metabolic process	Cc08g14180,Cc02g05970,Cc01g19020
+GO:0019219	3	60%	9.3%	6.91E-3	0.167	regulation of nucleobase-containing compound metabolic process	Cc08g14180,Cc02g05970,Cc01g19020
+GO:0010468	3	60%	9.7%	7.85E-3	0.167	regulation of gene expression	Cc08g14180,Cc02g05970,Cc01g19020
+GO:0010556	3	60%	9.7%	7.9E-3	0.167	regulation of macromolecule biosynthetic process	Cc08g14180,Cc02g05970,Cc01g19020
+GO:0009889	3	60%	9.8%	7.96E-3	0.167	regulation of biosynthetic process	Cc08g14180,Cc02g05970,Cc01g19020
+GO:0080090	3	60%	9.8%	8.1E-3	0.167	regulation of primary metabolic process	Cc08g14180,Cc02g05970,Cc01g19020
+GO:0060255	3	60%	10%	9.35E-3	0.167	regulation of macromolecule metabolic process	Cc08g14180,Cc02g05970,Cc01g19020
+GO:0019222	3	60%	10%	9.57E-3	0.167	regulation of metabolic process	Cc08g14180,Cc02g05970,Cc01g19020
+GO:0050794	3	60%	13%	0.0192	0.167	regulation of cellular process	Cc08g14180,Cc02g05970,Cc01g19020
+GO:0050789	3	60%	14%	0.0216	0.167	regulation of biological process	Cc08g14180,Cc02g05970,Cc01g19020
+GO:0065007	3	60%	14%	0.0233	0.167	biological regulation	Cc08g14180,Cc02g05970,Cc01g19020
+GO:0006508	1	20%	6.0%	0.265	0.493	proteolysis	Cc07g12510
+GO:0019538	2	40%	28%	0.428	0.742	protein metabolic process	Cc07g17460,Cc07g12510
+GO:0006468	1	20%	15%	0.556	0.904	protein phosphorylation	Cc07g17460
+GO:0016310	1	20%	15%	0.56	0.904	phosphorylation	Cc07g17460
+GO:0036211	1	20%	18%	0.628	0.907	protein modification process	Cc07g17460
+GO:0043170	2	40%	38%	0.629	0.907	macromolecule metabolic process	Cc07g17460,Cc07g12510
+GO:0043412	1	20%	19%	0.652	0.907	macromolecule modification	Cc07g17460
+GO:0006796	1	20%	19%	0.661	0.907	phosphate-containing compound metabolic process	Cc07g17460
+GO:0006793	1	20%	19%	0.661	0.907	phosphorus metabolic process	Cc07g17460
+GO:0044238	2	40%	55%	0.867	0.98	primary metabolic process	Cc07g17460,Cc07g12510
+GO:0008152	2	40%	62%	0.93	1.0	metabolic process	Cc07g17460,Cc07g12510
+GO:0009987	2	40%	85%	0.998	1.0	cellular process	Cc07g17460,Cc07g12510
+GO:0008150	5	100%	100%	1.0	1.0	biological_process	Cc08g14180,Cc07g17460,Cc02g05970,Cc07g12510,Cc01g19020

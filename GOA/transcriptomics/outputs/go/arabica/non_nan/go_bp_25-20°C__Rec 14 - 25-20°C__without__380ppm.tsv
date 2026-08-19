@@ -1,0 +1,40 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0009611	1	14%	0.05%	3.39E-3	0.132	response to wounding	Cc03g04970
+GO:0009737	1	14%	0.07%	5.09E-3	0.132	response to abscisic acid	Cc03g07610
+GO:0097305	1	14%	0.07%	5.09E-3	0.132	response to alcohol	Cc03g07610
+GO:0033993	1	14%	0.1%	6.78E-3	0.132	response to lipid	Cc03g07610
+GO:0050794	4	57%	13%	7.91E-3	0.132	regulation of cellular process	Cc10g15100,Cc11g14050,Cc11g12740,Cc05g12500
+GO:0050789	4	57%	14%	9.21E-3	0.132	regulation of biological process	Cc10g15100,Cc11g14050,Cc11g12740,Cc05g12500
+GO:0065007	4	57%	14%	0.0101	0.132	biological regulation	Cc10g15100,Cc11g14050,Cc11g12740,Cc05g12500
+GO:1901700	1	14%	0.22%	0.0152	0.132	response to oxygen-containing compound	Cc03g07610
+GO:0010411	1	14%	0.27%	0.0185	0.132	xyloglucan metabolic process	Cc06g13410
+GO:0006355	3	43%	9.1%	0.0196	0.132	regulation of DNA-templated transcription	Cc10g15100,Cc11g12740,Cc05g12500
+GO:2001141	3	43%	9.1%	0.0196	0.132	regulation of RNA biosynthetic process	Cc10g15100,Cc11g12740,Cc05g12500
+GO:0051252	3	43%	9.1%	0.02	0.132	regulation of RNA metabolic process	Cc10g15100,Cc11g12740,Cc05g12500
+GO:0019219	3	43%	9.3%	0.021	0.132	regulation of nucleobase-containing compound metabolic process	Cc10g15100,Cc11g12740,Cc05g12500
+GO:0042546	1	14%	0.34%	0.0236	0.132	cell wall biogenesis	Cc06g13410
+GO:0010468	3	43%	9.7%	0.0237	0.132	regulation of gene expression	Cc10g15100,Cc11g12740,Cc05g12500
+GO:0010556	3	43%	9.7%	0.0238	0.132	regulation of macromolecule biosynthetic process	Cc10g15100,Cc11g12740,Cc05g12500
+GO:0009889	3	43%	9.8%	0.024	0.132	regulation of biosynthetic process	Cc10g15100,Cc11g12740,Cc05g12500
+GO:0080090	3	43%	9.8%	0.0244	0.132	regulation of primary metabolic process	Cc10g15100,Cc11g12740,Cc05g12500
+GO:0060255	3	43%	10%	0.0279	0.132	regulation of macromolecule metabolic process	Cc10g15100,Cc11g12740,Cc05g12500
+GO:0019222	3	43%	10%	0.0286	0.132	regulation of metabolic process	Cc10g15100,Cc11g12740,Cc05g12500
+GO:0000160	1	14%	0.42%	0.0294	0.132	phosphorelay signal transduction system	Cc11g14050
+GO:0044085	1	14%	0.64%	0.0442	0.132	cellular component biogenesis	Cc06g13410
+GO:0009725	1	14%	0.72%	0.0491	0.132	response to hormone	Cc03g07610
+GO:0009719	1	14%	0.74%	0.0507	0.132	response to endogenous stimulus	Cc03g07610
+GO:0050896	2	29%	5.8%	0.0587	0.132	response to stimulus	Cc03g07610,Cc03g04970
+GO:0042221	1	14%	0.9%	0.0612	0.132	response to chemical	Cc03g07610
+GO:0044042	1	14%	0.95%	0.0644	0.132	glucan metabolic process	Cc06g13410
+GO:0035556	1	14%	1.1%	0.074	0.132	intracellular signal transduction	Cc11g14050
+GO:0005976	1	14%	1.2%	0.0835	0.132	polysaccharide metabolic process	Cc06g13410
+GO:0071554	1	14%	1.3%	0.0859	0.132	cell wall organization or biogenesis	Cc06g13410
+GO:0007165	1	14%	2.3%	0.153	0.192	signal transduction	Cc11g14050
+GO:0006950	1	14%	4.4%	0.273	0.332	response to stress	Cc03g04970
+GO:0071840	1	14%	6.5%	0.373	0.441	cellular component organization or biogenesis	Cc06g13410
+GO:0005975	1	14%	8.4%	0.459	0.526	carbohydrate metabolic process	Cc06g13410
+GO:0043170	1	14%	38%	0.965	1.0	macromolecule metabolic process	Cc06g13410
+GO:0044238	1	14%	55%	0.996	1.0	primary metabolic process	Cc06g13410
+GO:0008152	1	14%	62%	0.999	1.0	metabolic process	Cc06g13410
+GO:0009987	2	29%	85%	1.0	1.0	cellular process	Cc06g13410,Cc11g14050
+GO:0008150	7	100%	100%	1.0	1.0	biological_process	Cc06g13410,Cc10g15100,Cc11g14050,Cc11g12740,Cc03g07610,Cc05g12500,Cc03g04970

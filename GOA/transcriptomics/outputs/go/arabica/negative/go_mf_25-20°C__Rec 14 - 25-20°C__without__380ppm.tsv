@@ -1,0 +1,29 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0004867	1	17%	0.07%	4.09E-3	0.114	serine-type endopeptidase inhibitor activity	Cc03g04970
+GO:0003677	3	50%	6.8%	5.27E-3	0.114	DNA binding	Cc10g15100,Cc11g12740,Cc05g12500
+GO:0016762	1	17%	0.2%	0.0118	0.114	xyloglucan:xyloglucosyl transferase activity	Cc06g13410
+GO:0004866	1	17%	0.29%	0.0171	0.12	endopeptidase inhibitor activity	Cc03g04970
+GO:0030414	1	17%	0.29%	0.0171	0.12	peptidase inhibitor activity	Cc03g04970
+GO:0061135	1	17%	0.29%	0.0171	0.12	endopeptidase regulator activity	Cc03g04970
+GO:0061134	1	17%	0.29%	0.0175	0.12	peptidase regulator activity	Cc03g04970
+GO:0003676	3	50%	12%	0.0281	0.12	nucleic acid binding	Cc10g15100,Cc11g12740,Cc05g12500
+GO:0046527	1	17%	0.63%	0.0371	0.12	glucosyltransferase activity	Cc06g13410
+GO:0004857	1	17%	0.91%	0.0532	0.149	enzyme inhibitor activity	Cc03g04970
+GO:0140678	1	17%	0.91%	0.0532	0.149	molecular function inhibitor activity	Cc03g04970
+GO:0016758	1	17%	1.2%	0.0726	0.169	hexosyltransferase activity	Cc06g13410
+GO:0030234	1	17%	1.5%	0.0875	0.189	enzyme regulator activity	Cc03g04970
+GO:0098772	1	17%	1.7%	0.0992	0.198	molecular function regulator activity	Cc03g04970
+GO:0003700	1	17%	2.8%	0.155	0.29	DNA-binding transcription factor activity	Cc10g15100
+GO:0140110	1	17%	3.1%	0.17	0.298	transcription regulator activity	Cc10g15100
+GO:0004553	1	17%	3.1%	0.171	0.298	hydrolase activity, hydrolyzing O-glycosyl compounds	Cc06g13410
+GO:0016798	1	17%	3.2%	0.178	0.298	hydrolase activity, acting on glycosyl bonds	Cc06g13410
+GO:0016757	1	17%	3.9%	0.212	0.313	glycosyltransferase activity	Cc06g13410
+GO:0046872	1	17%	11%	0.517	0.724	metal ion binding	Cc07g11100
+GO:0043169	1	17%	12%	0.526	0.724	cation binding	Cc07g11100
+GO:0005488	4	67%	64%	0.628	0.799	binding	Cc10g15100,Cc07g11100,Cc11g12740,Cc05g12500
+GO:0016787	1	17%	15%	0.632	0.799	hydrolase activity	Cc06g13410
+GO:0016740	1	17%	20%	0.739	0.862	transferase activity	Cc06g13410
+GO:0043167	1	17%	34%	0.915	1.0	ion binding	Cc07g11100
+GO:0036094	1	17%	35%	0.923	1.0	small molecule binding	Cc07g11100
+GO:0003824	1	17%	52%	0.988	1.0	catalytic activity	Cc06g13410
+GO:0003674	6	100%	100%	1.0	1.0	molecular_function	Cc06g13410,Cc10g15100,Cc07g11100,Cc11g12740,Cc05g12500,Cc03g04970

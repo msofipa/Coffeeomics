@@ -1,0 +1,15 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0099081	3	38%	0.91%	3.74E-5	5.23E-4	supramolecular polymer	Cc07g03260,Cc10g01640,Cc06g20040
+GO:0005874	3	38%	0.91%	3.74E-5	5.23E-4	microtubule	Cc07g03260,Cc10g01640,Cc06g20040
+GO:0099513	3	38%	0.91%	3.74E-5	5.23E-4	polymeric cytoskeletal fiber	Cc07g03260,Cc10g01640,Cc06g20040
+GO:0099512	3	38%	0.91%	3.74E-5	5.23E-4	supramolecular fiber	Cc07g03260,Cc10g01640,Cc06g20040
+GO:0099080	3	38%	1.0%	4.96E-5	5.23E-4	supramolecular complex	Cc07g03260,Cc10g01640,Cc06g20040
+GO:0005576	3	38%	3.0%	1.28E-3	2.99E-3	extracellular region	Cc01g15270,Cc02g05420,Cc04g16340
+GO:0110165	8	100%	79%	0.148	0.297	cellular anatomical structure	Cc04g15000,Cc01g15270,Cc02g05420,Cc07g03260,Cc11g14480,Cc10g01640,Cc04g16340,Cc06g20040
+GO:0005840	1	13%	8.9%	0.528	0.924	ribosome	Cc04g15000
+GO:0043228	1	13%	11%	0.611	0.951	membraneless organelle	Cc04g15000
+GO:0043232	1	13%	11%	0.611	0.951	intracellular membraneless organelle	Cc04g15000
+GO:0043229	1	13%	23%	0.877	1.0	intracellular organelle	Cc04g15000
+GO:0043226	1	13%	23%	0.877	1.0	organelle	Cc04g15000
+GO:0016020	1	13%	47%	0.993	1.0	membrane	Cc11g14480
+GO:0005575	8	100%	100%	1.0	1.0	cellular_component	Cc04g15000,Cc01g15270,Cc02g05420,Cc07g03260,Cc11g14480,Cc10g01640,Cc04g16340,Cc06g20040

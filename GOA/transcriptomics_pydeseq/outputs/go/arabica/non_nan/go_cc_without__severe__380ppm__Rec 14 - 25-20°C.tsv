@@ -1,0 +1,13 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0005576	2	33%	3.0%	0.0121	0.146	extracellular region	Cc02g26270,Cc02g20290
+GO:0005618	1	17%	0.82%	0.0485	0.291	cell wall	Cc02g26270
+GO:0030312	1	17%	0.91%	0.0536	0.291	external encapsulating structure	Cc02g26270
+GO:0048046	1	17%	1.6%	0.095	0.291	apoplast	Cc02g26270
+GO:0110165	6	100%	79%	0.239	0.574	cellular anatomical structure	Cc02g34330,Cc11g01710,Cc07g07340,Cc04g02930,Cc02g26270,Cc02g20290
+GO:0005840	1	17%	8.9%	0.43	0.861	ribosome	Cc07g07340
+GO:0043228	1	17%	11%	0.508	0.87	membraneless organelle	Cc07g07340
+GO:0043232	1	17%	11%	0.508	0.87	intracellular membraneless organelle	Cc07g07340
+GO:0016020	3	50%	47%	0.589	0.87	membrane	Cc02g34330,Cc11g01710,Cc04g02930
+GO:0043229	1	17%	23%	0.793	0.951	intracellular organelle	Cc07g07340
+GO:0043226	1	17%	23%	0.793	0.951	organelle	Cc07g07340
+GO:0005575	6	100%	100%	1.0	1.0	cellular_component	Cc02g34330,Cc11g01710,Cc07g07340,Cc04g02930,Cc02g26270,Cc02g20290

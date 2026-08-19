@@ -1,0 +1,37 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0042132	1	25%	0.02%	8.19E-4	0.0295	fructose 1,6-bisphosphate 1-phosphatase activity	Cc06g01860
+GO:0050308	1	25%	0.03%	1.09E-3	0.0295	sugar-phosphatase activity	Cc06g01860
+GO:0019203	1	25%	0.03%	1.36E-3	0.0295	carbohydrate phosphatase activity	Cc06g01860
+GO:0030145	1	25%	0.33%	0.0133	0.12	manganese ion binding	Cc06g12080
+GO:0005507	1	25%	0.46%	0.0184	0.133	copper ion binding	Cc10g01080
+GO:0009055	1	25%	0.57%	0.0227	0.136	electron transfer activity	Cc10g01080
+GO:0046914	2	50%	7.6%	0.0313	0.161	transition metal ion binding	Cc06g12080,Cc10g01080
+GO:0016791	1	25%	1.1%	0.0435	0.196	phosphatase activity	Cc06g01860
+GO:0042578	1	25%	1.4%	0.053	0.212	phosphoric ester hydrolase activity	Cc06g01860
+GO:0046872	2	50%	11%	0.0668	0.24	metal ion binding	Cc06g12080,Cc10g01080
+GO:0043169	2	50%	12%	0.0699	0.24	cation binding	Cc06g12080,Cc10g01080
+GO:0016887	1	25%	2.0%	0.0779	0.24	ATP hydrolysis activity	Cc04g05910
+GO:0043167	3	75%	34%	0.114	0.315	ion binding	Cc06g12080,Cc04g05910,Cc10g01080
+GO:0016787	2	50%	15%	0.114	0.315	hydrolase activity	Cc06g01860,Cc04g05910
+GO:0017111	1	25%	3.2%	0.12	0.315	ribonucleoside triphosphate phosphatase activity	Cc04g05910
+GO:0036094	3	75%	35%	0.125	0.315	small molecule binding	Cc06g12080,Cc04g05910,Cc10g01080
+GO:0016462	1	25%	3.3%	0.127	0.315	pyrophosphatase activity	Cc04g05910
+GO:0016818	1	25%	3.4%	0.129	0.315	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	Cc04g05910
+GO:0016817	1	25%	3.4%	0.13	0.315	hydrolase activity, acting on acid anhydrides	Cc04g05910
+GO:0016788	1	25%	3.6%	0.136	0.315	hydrolase activity, acting on ester bonds	Cc06g01860
+GO:0005524	1	25%	14%	0.455	0.78	ATP binding	Cc04g05910
+GO:0035639	1	25%	16%	0.493	0.807	purine ribonucleoside triphosphate binding	Cc04g05910
+GO:0005488	3	75%	64%	0.546	0.855	binding	Cc06g12080,Cc04g05910,Cc10g01080
+GO:0032559	1	25%	19%	0.568	0.855	adenyl ribonucleotide binding	Cc04g05910
+GO:0030554	1	25%	20%	0.582	0.855	adenyl nucleotide binding	Cc04g05910
+GO:0032555	1	25%	20%	0.6	0.855	purine ribonucleotide binding	Cc04g05910
+GO:0032553	1	25%	21%	0.605	0.855	ribonucleotide binding	Cc04g05910
+GO:0097367	1	25%	21%	0.608	0.855	carbohydrate derivative binding	Cc04g05910
+GO:0017076	1	25%	21%	0.614	0.855	purine nucleotide binding	Cc04g05910
+GO:0000166	1	25%	22%	0.639	0.855	nucleotide binding	Cc04g05910
+GO:1901265	1	25%	23%	0.64	0.855	nucleoside phosphate binding	Cc04g05910
+GO:0043168	1	25%	23%	0.644	0.855	anion binding	Cc04g05910
+GO:1901363	1	25%	23%	0.655	0.855	heterocyclic compound binding	Cc04g05910
+GO:0005515	1	25%	23%	0.655	0.855	protein binding	Cc04g05910
+GO:0003824	2	50%	52%	0.723	0.855	catalytic activity	Cc06g01860,Cc04g05910
+GO:0003674	4	100%	100%	1.0	1.0	molecular_function	Cc06g12080,Cc06g01860,Cc04g05910,Cc10g01080

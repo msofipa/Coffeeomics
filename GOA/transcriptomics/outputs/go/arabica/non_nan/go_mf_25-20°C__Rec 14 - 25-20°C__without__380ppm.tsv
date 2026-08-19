@@ -1,0 +1,38 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0004867	1	13%	0.07%	5.45E-3	0.202	serine-type endopeptidase inhibitor activity	Cc03g04970
+GO:0003677	3	38%	6.8%	0.0133	0.246	DNA binding	Cc10g15100,Cc11g12740,Cc05g12500
+GO:0016762	1	13%	0.2%	0.0157	0.246	xyloglucan:xyloglucosyl transferase activity	Cc06g13410
+GO:0004866	1	13%	0.29%	0.0227	0.246	endopeptidase inhibitor activity	Cc03g04970
+GO:0030414	1	13%	0.29%	0.0227	0.246	peptidase inhibitor activity	Cc03g04970
+GO:0061135	1	13%	0.29%	0.0227	0.246	endopeptidase regulator activity	Cc03g04970
+GO:0061134	1	13%	0.29%	0.0232	0.246	peptidase regulator activity	Cc03g04970
+GO:0046527	1	13%	0.63%	0.0491	0.246	glucosyltransferase activity	Cc06g13410
+GO:0003676	3	38%	12%	0.065	0.267	nucleic acid binding	Cc10g15100,Cc11g12740,Cc05g12500
+GO:0004857	1	13%	0.91%	0.0704	0.267	enzyme inhibitor activity	Cc03g04970
+GO:0140678	1	13%	0.91%	0.0704	0.267	molecular function inhibitor activity	Cc03g04970
+GO:0050660	1	13%	0.98%	0.0755	0.267	flavin adenine dinucleotide binding	Cc04g01940
+GO:0016614	1	13%	1.0%	0.0795	0.267	oxidoreductase activity, acting on CH-OH group of donors	Cc04g01940
+GO:0016758	1	13%	1.2%	0.0957	0.267	hexosyltransferase activity	Cc06g13410
+GO:0030234	1	13%	1.5%	0.115	0.284	enzyme regulator activity	Cc03g04970
+GO:0098772	1	13%	1.7%	0.13	0.301	molecular function regulator activity	Cc03g04970
+GO:0003700	1	13%	2.8%	0.201	0.438	DNA-binding transcription factor activity	Cc10g15100
+GO:0140110	1	13%	3.1%	0.22	0.453	transcription regulator activity	Cc10g15100
+GO:0004553	1	13%	3.1%	0.221	0.453	hydrolase activity, hydrolyzing O-glycosyl compounds	Cc06g13410
+GO:0016798	1	13%	3.2%	0.23	0.453	hydrolase activity, acting on glycosyl bonds	Cc06g13410
+GO:0016757	1	13%	3.9%	0.272	0.48	glycosyltransferase activity	Cc06g13410
+GO:0022857	1	13%	5.9%	0.388	0.652	transmembrane transporter activity	Cc10g14810
+GO:0005215	1	13%	6.1%	0.394	0.652	transporter activity	Cc10g14810
+GO:0016491	1	13%	11%	0.608	0.938	oxidoreductase activity	Cc04g01940
+GO:0046872	1	13%	11%	0.621	0.938	metal ion binding	Cc07g11100
+GO:0043169	1	13%	12%	0.631	0.938	cation binding	Cc07g11100
+GO:0005488	5	63%	64%	0.686	0.94	binding	Cc10g15100,Cc07g11100,Cc04g01940,Cc11g12740,Cc05g12500
+GO:0016787	1	13%	15%	0.736	0.973	hydrolase activity	Cc06g13410
+GO:0043167	2	25%	34%	0.81	1.0	ion binding	Cc07g11100,Cc04g01940
+GO:0036094	2	25%	35%	0.828	1.0	small molecule binding	Cc07g11100,Cc04g01940
+GO:0016740	1	13%	20%	0.833	1.0	transferase activity	Cc06g13410
+GO:0000166	1	13%	22%	0.87	1.0	nucleotide binding	Cc04g01940
+GO:1901265	1	13%	23%	0.87	1.0	nucleoside phosphate binding	Cc04g01940
+GO:0043168	1	13%	23%	0.873	1.0	anion binding	Cc04g01940
+GO:1901363	1	13%	23%	0.881	1.0	heterocyclic compound binding	Cc04g01940
+GO:0003824	2	25%	52%	0.974	1.0	catalytic activity	Cc06g13410,Cc04g01940
+GO:0003674	8	100%	100%	1.0	1.0	molecular_function	Cc06g13410,Cc10g15100,Cc07g11100,Cc04g01940,Cc11g12740,Cc05g12500,Cc10g14810,Cc03g04970

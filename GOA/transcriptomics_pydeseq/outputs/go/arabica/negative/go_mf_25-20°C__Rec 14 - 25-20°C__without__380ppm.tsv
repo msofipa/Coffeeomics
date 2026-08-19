@@ -1,0 +1,18 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0016762	1	25%	0.2%	7.89E-3	0.134	xyloglucan:xyloglucosyl transferase activity	Cc06g13410
+GO:0046527	1	25%	0.63%	0.0249	0.211	glucosyltransferase activity	Cc06g13410
+GO:0003677	2	50%	6.8%	0.025	0.211	DNA binding	Cc11g12740,Cc05g12500
+GO:0016758	1	25%	1.2%	0.049	0.211	hexosyltransferase activity	Cc06g13410
+GO:0003676	2	50%	12%	0.0769	0.261	nucleic acid binding	Cc11g12740,Cc05g12500
+GO:0004553	1	25%	3.1%	0.117	0.332	hydrolase activity, hydrolyzing O-glycosyl compounds	Cc06g13410
+GO:0016798	1	25%	3.2%	0.122	0.332	hydrolase activity, acting on glycosyl bonds	Cc06g13410
+GO:0016757	1	25%	3.9%	0.147	0.332	glycosyltransferase activity	Cc06g13410
+GO:0046872	1	25%	11%	0.384	0.726	metal ion binding	Cc07g11100
+GO:0043169	1	25%	12%	0.392	0.726	cation binding	Cc07g11100
+GO:0016787	1	25%	15%	0.486	0.752	hydrolase activity	Cc06g13410
+GO:0005488	3	75%	64%	0.546	0.774	binding	Cc07g11100,Cc11g12740,Cc05g12500
+GO:0016740	1	25%	20%	0.592	0.774	transferase activity	Cc06g13410
+GO:0043167	1	25%	34%	0.806	0.979	ion binding	Cc07g11100
+GO:0036094	1	25%	35%	0.82	0.979	small molecule binding	Cc07g11100
+GO:0003824	1	25%	52%	0.949	1.0	catalytic activity	Cc06g13410
+GO:0003674	4	100%	100%	1.0	1.0	molecular_function	Cc06g13410,Cc07g11100,Cc11g12740,Cc05g12500

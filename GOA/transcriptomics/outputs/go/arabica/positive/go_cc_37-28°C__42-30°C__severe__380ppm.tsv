@@ -1,0 +1,21 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0009507	1	11%	0.32%	0.0288	0.576	chloroplast	Cc09g08730
+GO:0016459	1	11%	0.32%	0.0288	0.576	myosin complex	Cc01g18570
+GO:0009536	1	11%	0.35%	0.0314	0.576	plastid	Cc09g08730
+GO:0022625	1	11%	0.44%	0.0391	0.576	cytosolic large ribosomal subunit	Cc04g06180
+GO:0015934	1	11%	1.2%	0.104	0.576	large ribosomal subunit	Cc04g06180
+GO:0044391	1	11%	1.7%	0.146	0.576	ribosomal subunit	Cc04g06180
+GO:1990904	1	11%	4.3%	0.327	0.934	ribonucleoprotein complex	Cc04g06180
+GO:0005737	1	11%	4.9%	0.367	0.934	cytoplasm	Cc06g10610
+GO:0110165	8	89%	79%	0.401	0.934	cellular anatomical structure	Cc01g11380,Cc06g10610,Cc09g08730,Cc06g09070,Cc01g21810,Cc02g04540,Cc02g00670,Cc04g06180
+GO:0016020	5	56%	47%	0.415	0.934	membrane	Cc01g11380,Cc06g09070,Cc01g21810,Cc02g04540,Cc02g00670
+GO:0005840	1	11%	8.9%	0.57	1.0	ribosome	Cc04g06180
+GO:0005634	1	11%	9.2%	0.583	1.0	nucleus	Cc09g08730
+GO:0043229	2	22%	23%	0.651	1.0	intracellular organelle	Cc09g08730,Cc04g06180
+GO:0043226	2	22%	23%	0.651	1.0	organelle	Cc09g08730,Cc04g06180
+GO:0043228	1	11%	11%	0.655	1.0	membraneless organelle	Cc04g06180
+GO:0043232	1	11%	11%	0.655	1.0	intracellular membraneless organelle	Cc04g06180
+GO:0043231	1	11%	12%	0.681	1.0	intracellular membrane-bounded organelle	Cc09g08730
+GO:0043227	1	11%	12%	0.681	1.0	membrane-bounded organelle	Cc09g08730
+GO:0032991	2	22%	26%	0.726	1.0	protein-containing complex	Cc01g18570,Cc04g06180
+GO:0005575	9	100%	100%	1.0	1.0	cellular_component	Cc01g11380,Cc06g10610,Cc09g08730,Cc06g09070,Cc01g21810,Cc02g04540,Cc02g00670,Cc01g18570,Cc04g06180

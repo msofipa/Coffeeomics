@@ -1,0 +1,11 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0004553	1	50%	3.1%	0.0605	0.605	hydrolase activity, hydrolyzing O-glycosyl compounds	Cc06g18240
+GO:0016798	1	50%	3.2%	0.0631	0.605	hydrolase activity, acting on glycosyl bonds	Cc06g18240
+GO:0046872	1	50%	11%	0.215	0.718	metal ion binding	Cc10g08840
+GO:0043169	1	50%	12%	0.22	0.718	cation binding	Cc10g08840
+GO:0016787	1	50%	15%	0.283	0.718	hydrolase activity	Cc06g18240
+GO:0043167	1	50%	34%	0.559	0.932	ion binding	Cc10g08840
+GO:0036094	1	50%	35%	0.575	0.932	small molecule binding	Cc10g08840
+GO:0003824	1	50%	52%	0.773	0.967	catalytic activity	Cc06g18240
+GO:0005488	1	50%	64%	0.871	0.967	binding	Cc10g08840
+GO:0003674	2	100%	100%	1.0	1.0	molecular_function	Cc10g08840,Cc06g18240

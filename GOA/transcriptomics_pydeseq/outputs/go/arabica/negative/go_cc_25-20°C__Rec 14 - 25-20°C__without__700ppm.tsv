@@ -1,0 +1,8 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0005634	2	100%	9.2%	8.52E-3	0.0596	nucleus	Cc01g09440,Cc02g30730
+GO:0043231	2	100%	12%	0.0142	0.0596	intracellular membrane-bounded organelle	Cc01g09440,Cc02g30730
+GO:0043227	2	100%	12%	0.0142	0.0596	membrane-bounded organelle	Cc01g09440,Cc02g30730
+GO:0043229	2	100%	23%	0.0531	0.0929	intracellular organelle	Cc01g09440,Cc02g30730
+GO:0043226	2	100%	23%	0.0531	0.0929	organelle	Cc01g09440,Cc02g30730
+GO:0110165	2	100%	79%	0.621	0.724	cellular anatomical structure	Cc01g09440,Cc02g30730
+GO:0005575	2	100%	100%	1.0	1.0	cellular_component	Cc01g09440,Cc02g30730

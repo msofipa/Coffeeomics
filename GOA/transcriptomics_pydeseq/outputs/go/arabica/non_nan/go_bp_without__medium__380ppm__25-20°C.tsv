@@ -1,0 +1,6 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0005975	2	100%	8.4%	7.04E-3	0.0352	carbohydrate metabolic process	Cc05g00770,Cc06g18240
+GO:0044238	2	100%	55%	0.3	0.751	primary metabolic process	Cc05g00770,Cc06g18240
+GO:0008152	2	100%	62%	0.39	0.751	metabolic process	Cc05g00770,Cc06g18240
+GO:0009987	2	100%	85%	0.722	0.903	cellular process	Cc05g00770,Cc06g18240
+GO:0008150	2	100%	100%	1.0	1.0	biological_process	Cc05g00770,Cc06g18240

@@ -1,0 +1,14 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0005811	1	17%	0.47%	0.0279	0.363	lipid droplet	Cc10g10160
+GO:0048046	1	17%	1.6%	0.095	0.617	apoplast	Cc06g13940
+GO:0005634	2	33%	9.2%	0.0995	0.617	nucleus	Cc10g13150,Cc04g02510
+GO:0043229	3	50%	23%	0.14	0.617	intracellular organelle	Cc10g13150,Cc10g10160,Cc04g02510
+GO:0043226	3	50%	23%	0.14	0.617	organelle	Cc10g13150,Cc10g10160,Cc04g02510
+GO:0043231	2	33%	12%	0.154	0.617	intracellular membrane-bounded organelle	Cc10g13150,Cc04g02510
+GO:0043227	2	33%	12%	0.154	0.617	membrane-bounded organelle	Cc10g13150,Cc04g02510
+GO:0005576	1	17%	3.0%	0.166	0.617	extracellular region	Cc06g13940
+GO:0110165	6	100%	79%	0.239	0.617	cellular anatomical structure	Cc08g14520,Cc10g13150,Cc10g10160,Cc06g13940,Cc04g02510,Cc07g19360
+GO:0043228	1	17%	11%	0.508	0.66	membraneless organelle	Cc10g10160
+GO:0043232	1	17%	11%	0.508	0.66	intracellular membraneless organelle	Cc10g10160
+GO:0016020	2	33%	47%	0.855	0.926	membrane	Cc08g14520,Cc07g19360
+GO:0005575	6	100%	100%	1.0	1.0	cellular_component	Cc08g14520,Cc10g13150,Cc10g10160,Cc06g13940,Cc04g02510,Cc07g19360

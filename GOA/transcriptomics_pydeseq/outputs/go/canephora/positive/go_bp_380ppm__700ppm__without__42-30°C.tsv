@@ -1,0 +1,16 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0009765	1	33%	0.24%	7.26E-3	0.109	photosynthesis, light harvesting	Cc05g09650
+GO:0006749	1	33%	0.98%	0.0292	0.219	glutathione metabolic process	Cc05g10090
+GO:0006575	1	33%	1.3%	0.037	0.219	modified amino acid metabolic process	Cc05g10090
+GO:0043603	1	33%	1.3%	0.0388	0.219	amide metabolic process	Cc05g10090
+GO:0006091	1	33%	1.3%	0.0395	0.219	generation of precursor metabolites and energy	Cc05g09650
+GO:0006790	1	33%	1.7%	0.0487	0.219	sulfur compound metabolic process	Cc05g10090
+GO:0006412	1	33%	3.9%	0.113	0.243	translation	Cc09g08950
+GO:0009059	1	33%	7.1%	0.199	0.373	macromolecule biosynthetic process	Cc09g08950
+GO:0008152	3	100%	62%	0.243	0.406	metabolic process	Cc05g09650,Cc09g08950,Cc05g10090
+GO:0009058	1	33%	15%	0.389	0.583	biosynthetic process	Cc09g08950
+GO:0009987	3	100%	85%	0.614	0.837	cellular process	Cc05g09650,Cc09g08950,Cc05g10090
+GO:0019538	1	33%	28%	0.625	0.837	protein metabolic process	Cc09g08950
+GO:0043170	1	33%	38%	0.763	0.88	macromolecule metabolic process	Cc09g08950
+GO:0044238	1	33%	55%	0.908	0.973	primary metabolic process	Cc09g08950
+GO:0008150	3	100%	100%	1.0	1.0	biological_process	Cc05g09650,Cc09g08950,Cc05g10090

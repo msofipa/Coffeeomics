@@ -1,0 +1,12 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0009523	2	29%	0.68%	9.02E-4	9.93E-3	photosystem II	Cc06g11950,Cc02g11770
+GO:0009521	2	29%	0.91%	1.65E-3	9.93E-3	photosystem	Cc06g11950,Cc02g11770
+GO:0019898	1	14%	0.44%	0.0305	0.112	extrinsic component of membrane	Cc02g11770
+GO:0098796	2	29%	4.3%	0.033	0.112	membrane protein complex	Cc06g11950,Cc02g11770
+GO:0009654	1	14%	0.53%	0.0365	0.112	photosystem II oxygen evolving complex	Cc02g11770
+GO:0016020	6	86%	47%	0.0425	0.112	membrane	Cc06g11950,Cc08g10620,Cc10g09750,Cc10g04190,Cc07g12510,Cc10g15400
+GO:1990204	1	14%	0.77%	0.0524	0.112	oxidoreductase complex	Cc02g11770
+GO:0110165	7	100%	79%	0.188	0.259	cellular anatomical structure	Cc06g11950,Cc02g11770,Cc08g10620,Cc10g09750,Cc10g04190,Cc07g12510,Cc10g15400
+GO:1902494	1	14%	7.9%	0.438	0.535	catalytic complex	Cc02g11770
+GO:0032991	2	29%	26%	0.583	0.641	protein-containing complex	Cc06g11950,Cc02g11770
+GO:0005575	7	100%	100%	1.0	1.0	cellular_component	Cc06g11950,Cc02g11770,Cc08g10620,Cc10g09750,Cc10g04190,Cc07g12510,Cc10g15400

@@ -1,0 +1,60 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0043467	1	14%	0.01%	8.5E-4	0.0501	regulation of generation of precursor metabolites and energy	Cc07g05350
+GO:0042549	1	14%	0.01%	8.5E-4	0.0501	photosystem II stabilization	Cc07g05350
+GO:0042548	1	14%	0.01%	8.5E-4	0.0501	regulation of photosynthesis, light reaction	Cc07g05350
+GO:0010109	1	14%	0.01%	8.5E-4	0.0501	regulation of photosynthesis	Cc07g05350
+GO:0010207	1	14%	0.05%	3.39E-3	0.0501	photosystem II assembly	Cc07g05350
+GO:0009082	1	14%	0.11%	7.62E-3	0.075	branched-chain amino acid biosynthetic process	Cc05g08250
+GO:0009081	1	14%	0.13%	9.31E-3	0.0785	branched-chain amino acid metabolic process	Cc05g08250
+GO:0009765	1	14%	0.24%	0.0169	0.124	photosynthesis, light harvesting	Cc06g01460
+GO:1902600	1	14%	0.41%	0.0285	0.187	proton transmembrane transport	Cc04g00160
+GO:0015979	1	14%	0.46%	0.0318	0.188	photosynthesis	Cc09g06610
+GO:0046034	1	14%	0.74%	0.0507	0.272	ATP metabolic process	Cc04g00160
+GO:0009144	1	14%	0.79%	0.0539	0.272	purine nucleoside triphosphate metabolic process	Cc04g00160
+GO:0009205	1	14%	0.79%	0.0539	0.272	purine ribonucleoside triphosphate metabolic process	Cc04g00160
+GO:0009141	1	14%	0.91%	0.062	0.272	nucleoside triphosphate metabolic process	Cc04g00160
+GO:0009150	1	14%	1.1%	0.0724	0.285	purine ribonucleotide metabolic process	Cc04g00160
+GO:0098655	1	14%	1.1%	0.074	0.285	monoatomic cation transmembrane transport	Cc04g00160
+GO:0019693	1	14%	1.1%	0.0756	0.285	ribose phosphate metabolic process	Cc04g00160
+GO:0009259	1	14%	1.1%	0.0756	0.285	ribonucleotide metabolic process	Cc04g00160
+GO:0044281	2	29%	6.7%	0.0756	0.285	small molecule metabolic process	Cc05g08250,Cc04g00160
+GO:0034220	1	14%	1.2%	0.0796	0.285	monoatomic ion transmembrane transport	Cc04g00160
+GO:0006091	1	14%	1.3%	0.0898	0.285	generation of precursor metabolites and energy	Cc06g01460
+GO:0065003	1	14%	1.4%	0.0937	0.285	protein-containing complex assembly	Cc07g05350
+GO:0006163	1	14%	1.4%	0.0969	0.285	purine nucleotide metabolic process	Cc04g00160
+GO:0043933	1	14%	1.7%	0.11	0.285	protein-containing complex organization	Cc07g05350
+GO:0005975	2	29%	8.4%	0.111	0.285	carbohydrate metabolic process	Cc06g01860,Cc02g21830
+GO:0072521	1	14%	1.8%	0.117	0.285	purine-containing compound metabolic process	Cc04g00160
+GO:0009117	1	14%	1.8%	0.12	0.285	nucleotide metabolic process	Cc04g00160
+GO:0022607	1	14%	1.9%	0.128	0.285	cellular component assembly	Cc07g05350
+GO:0046394	1	14%	2.0%	0.131	0.285	carboxylic acid biosynthetic process	Cc05g08250
+GO:0016053	1	14%	2.0%	0.131	0.285	organic acid biosynthetic process	Cc05g08250
+GO:0006753	1	14%	2.2%	0.143	0.285	nucleoside phosphate metabolic process	Cc04g00160
+GO:0006812	1	14%	2.4%	0.157	0.289	monoatomic cation transport	Cc04g00160
+GO:0055086	1	14%	2.5%	0.165	0.296	nucleobase-containing small molecule metabolic process	Cc04g00160
+GO:0006520	1	14%	2.6%	0.168	0.296	amino acid metabolic process	Cc05g08250
+GO:0044283	1	14%	2.7%	0.176	0.296	small molecule biosynthetic process	Cc05g08250
+GO:1901135	1	14%	2.7%	0.177	0.296	carbohydrate derivative metabolic process	Cc04g00160
+GO:0006811	1	14%	2.8%	0.178	0.296	monoatomic ion transport	Cc04g00160
+GO:0008152	6	86%	62%	0.193	0.299	metabolic process	Cc05g08250,Cc04g00160,Cc06g01860,Cc02g21830,Cc06g01460,Cc09g06610
+GO:0019752	1	14%	3.5%	0.221	0.334	carboxylic acid metabolic process	Cc05g08250
+GO:0006082	1	14%	3.5%	0.222	0.334	organic acid metabolic process	Cc05g08250
+GO:0043436	1	14%	3.5%	0.222	0.334	oxoacid metabolic process	Cc05g08250
+GO:0019637	1	14%	3.7%	0.23	0.334	organophosphate metabolic process	Cc04g00160
+GO:0009987	7	100%	85%	0.32	0.44	cellular process	Cc05g08250,Cc04g00160,Cc07g05350,Cc06g01860,Cc02g21830,Cc06g01460,Cc09g06610
+GO:0016043	1	14%	5.9%	0.345	0.463	cellular component organization	Cc07g05350
+GO:0071840	1	14%	6.5%	0.373	0.49	cellular component organization or biogenesis	Cc07g05350
+GO:0055085	1	14%	9.5%	0.501	0.643	transmembrane transport	Cc04g00160
+GO:0019222	1	14%	10%	0.537	0.674	regulation of metabolic process	Cc07g05350
+GO:0006139	1	14%	12%	0.578	0.711	nucleobase-containing compound metabolic process	Cc04g00160
+GO:0044238	4	57%	55%	0.604	0.728	primary metabolic process	Cc05g08250,Cc04g00160,Cc06g01860,Cc02g21830
+GO:0050794	1	14%	13%	0.633	0.747	regulation of cellular process	Cc07g05350
+GO:0050789	1	14%	14%	0.65	0.752	regulation of biological process	Cc07g05350
+GO:0065007	1	14%	14%	0.661	0.752	biological regulation	Cc07g05350
+GO:0006810	1	14%	15%	0.671	0.752	transport	Cc04g00160
+GO:0051234	1	14%	15%	0.681	0.752	establishment of localization	Cc04g00160
+GO:0009058	1	14%	15%	0.683	0.752	biosynthetic process	Cc05g08250
+GO:0051179	1	14%	15%	0.684	0.752	localization	Cc04g00160
+GO:0006793	1	14%	19%	0.78	0.807	phosphorus metabolic process	Cc04g00160
+GO:0006796	1	14%	19%	0.78	0.807	phosphate-containing compound metabolic process	Cc04g00160
+GO:0008150	7	100%	100%	1.0	1.0	biological_process	Cc05g08250,Cc04g00160,Cc07g05350,Cc06g01860,Cc02g21830,Cc06g01460,Cc09g06610

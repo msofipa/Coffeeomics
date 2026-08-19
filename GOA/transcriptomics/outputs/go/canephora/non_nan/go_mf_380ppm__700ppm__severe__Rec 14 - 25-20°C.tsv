@@ -1,0 +1,17 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0003849	1	50%	0.05%	9.55E-4	0.0153	3-deoxy-7-phosphoheptulonate synthase activity	Cc07g14820
+GO:0016765	1	50%	0.48%	9.67E-3	0.0773	transferase activity, transferring alkyl or aryl (other than methyl) groups	Cc07g14820
+GO:0005506	1	50%	3.6%	0.0698	0.372	iron ion binding	Cc08g12110
+GO:0016705	1	50%	3.6%	0.0706	0.372	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	Cc08g12110
+GO:0020037	1	50%	4.0%	0.0784	0.372	heme binding	Cc08g12110
+GO:0046906	1	50%	4.0%	0.0784	0.372	tetrapyrrole binding	Cc08g12110
+GO:0046914	1	50%	7.6%	0.146	0.372	transition metal ion binding	Cc08g12110
+GO:0016491	1	50%	11%	0.209	0.418	oxidoreductase activity	Cc08g12110
+GO:0046872	1	50%	11%	0.215	0.418	metal ion binding	Cc08g12110
+GO:0043169	1	50%	12%	0.22	0.418	cation binding	Cc08g12110
+GO:0003824	2	100%	52%	0.275	0.418	catalytic activity	Cc08g12110,Cc07g14820
+GO:0016740	1	50%	20%	0.361	0.481	transferase activity	Cc07g14820
+GO:0043167	1	50%	34%	0.559	0.689	ion binding	Cc08g12110
+GO:0036094	1	50%	35%	0.575	0.689	small molecule binding	Cc08g12110
+GO:0005488	1	50%	64%	0.871	0.929	binding	Cc08g12110
+GO:0003674	2	100%	100%	1.0	1.0	molecular_function	Cc08g12110,Cc07g14820

@@ -1,0 +1,54 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0004455	1	20%	0.01%	3.41E-4	0.0181	ketol-acid reductoisomerase activity	Cc05g08250
+GO:0042132	1	20%	0.02%	1.02E-3	0.0271	fructose 1,6-bisphosphate 1-phosphatase activity	Cc06g01860
+GO:0050308	1	20%	0.03%	1.36E-3	0.0271	sugar-phosphatase activity	Cc06g01860
+GO:0019203	1	20%	0.03%	1.7E-3	0.0271	carbohydrate phosphatase activity	Cc06g01860
+GO:0044769	1	20%	0.03%	1.7E-3	0.0271	ATPase activity, coupled to transmembrane movement of ions, rotational mechanism	Cc04g00160
+GO:0046961	1	20%	0.03%	1.7E-3	0.0271	proton-transporting ATPase activity, rotational mechanism	Cc04g00160
+GO:0042625	1	20%	0.03%	1.7E-3	0.0271	ATPase-coupled ion transmembrane transporter activity	Cc04g00160
+GO:0051213	1	20%	0.2%	9.86E-3	0.0653	dioxygenase activity	Cc01g04060
+GO:0016702	1	20%	0.2%	9.86E-3	0.0653	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen	Cc01g04060
+GO:0019829	1	20%	0.23%	0.0115	0.0653	ATPase-coupled monoatomic cation transmembrane transporter activity	Cc04g00160
+GO:0016701	1	20%	0.29%	0.0142	0.0687	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen	Cc01g04060
+GO:0022853	1	20%	0.34%	0.0169	0.0748	active monoatomic ion transmembrane transporter activity	Cc04g00160
+GO:0015078	1	20%	0.46%	0.023	0.0937	proton transmembrane transporter activity	Cc04g00160
+GO:0016616	1	20%	0.9%	0.0442	0.167	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	Cc05g08250
+GO:0016614	1	20%	1.0%	0.0505	0.178	oxidoreductase activity, acting on CH-OH group of donors	Cc05g08250
+GO:0042626	1	20%	1.1%	0.0541	0.179	ATPase-coupled transmembrane transporter activity	Cc04g00160
+GO:0016791	1	20%	1.1%	0.0541	0.179	phosphatase activity	Cc06g01860
+GO:0015399	1	20%	1.2%	0.0593	0.179	primary active transmembrane transporter activity	Cc04g00160
+GO:0042578	1	20%	1.4%	0.0658	0.183	phosphoric ester hydrolase activity	Cc06g01860
+GO:0008324	1	20%	1.4%	0.0671	0.183	monoatomic cation transmembrane transporter activity	Cc04g00160
+GO:0015075	1	20%	1.7%	0.0831	0.21	monoatomic ion transmembrane transporter activity	Cc04g00160
+GO:0022804	1	20%	2.0%	0.0948	0.228	active transmembrane transporter activity	Cc04g00160
+GO:0016887	1	20%	2.0%	0.0964	0.228	ATP hydrolysis activity	Cc04g05910
+GO:0016491	2	40%	11%	0.0972	0.228	oxidoreductase activity	Cc05g08250,Cc01g04060
+GO:0140657	1	20%	2.7%	0.128	0.271	ATP-dependent activity	Cc04g00160
+GO:0017111	1	20%	3.2%	0.148	0.302	ribonucleoside triphosphate phosphatase activity	Cc04g05910
+GO:0005524	2	40%	14%	0.148	0.302	ATP binding	Cc04g00160,Cc04g05910
+GO:0016462	1	20%	3.3%	0.156	0.302	pyrophosphatase activity	Cc04g05910
+GO:0016818	1	20%	3.4%	0.159	0.302	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	Cc04g05910
+GO:0016817	1	20%	3.4%	0.159	0.302	hydrolase activity, acting on acid anhydrides	Cc04g05910
+GO:0016788	1	20%	3.6%	0.166	0.302	hydrolase activity, acting on ester bonds	Cc06g01860
+GO:0016787	2	40%	15%	0.171	0.302	hydrolase activity	Cc06g01860,Cc04g05910
+GO:0035639	2	40%	16%	0.176	0.302	purine ribonucleoside triphosphate binding	Cc04g00160,Cc04g05910
+GO:0043167	3	60%	34%	0.214	0.334	ion binding	Cc04g00160,Cc01g04060,Cc04g05910
+GO:0003824	4	80%	52%	0.219	0.334	catalytic activity	Cc05g08250,Cc06g01860,Cc01g04060,Cc04g05910
+GO:0036094	3	60%	35%	0.233	0.342	small molecule binding	Cc04g00160,Cc01g04060,Cc04g05910
+GO:0032559	2	40%	19%	0.241	0.345	adenyl ribonucleotide binding	Cc04g00160,Cc04g05910
+GO:0030554	2	40%	20%	0.255	0.355	adenyl nucleotide binding	Cc04g00160,Cc04g05910
+GO:0022857	1	20%	5.9%	0.264	0.359	transmembrane transporter activity	Cc04g00160
+GO:0005215	1	20%	6.1%	0.269	0.359	transporter activity	Cc04g00160
+GO:0032555	2	40%	20%	0.272	0.359	purine ribonucleotide binding	Cc04g00160,Cc04g05910
+GO:0032553	2	40%	21%	0.277	0.359	ribonucleotide binding	Cc04g00160,Cc04g05910
+GO:0097367	2	40%	21%	0.281	0.359	carbohydrate derivative binding	Cc04g00160,Cc04g05910
+GO:0017076	2	40%	21%	0.287	0.359	purine nucleotide binding	Cc04g00160,Cc04g05910
+GO:0000166	2	40%	22%	0.314	0.37	nucleotide binding	Cc04g00160,Cc04g05910
+GO:1901265	2	40%	23%	0.315	0.37	nucleoside phosphate binding	Cc04g00160,Cc04g05910
+GO:0043168	2	40%	23%	0.32	0.37	anion binding	Cc04g00160,Cc04g05910
+GO:1901363	2	40%	23%	0.332	0.37	heterocyclic compound binding	Cc04g00160,Cc04g05910
+GO:0005515	2	40%	23%	0.332	0.37	protein binding	Cc01g04060,Cc04g05910
+GO:0046872	1	20%	11%	0.455	0.482	metal ion binding	Cc01g04060
+GO:0043169	1	20%	12%	0.463	0.482	cation binding	Cc01g04060
+GO:0005488	3	60%	64%	0.75	0.764	binding	Cc04g00160,Cc01g04060,Cc04g05910
+GO:0003674	5	100%	100%	1.0	1.0	molecular_function	Cc05g08250,Cc04g00160,Cc06g01860,Cc01g04060,Cc04g05910

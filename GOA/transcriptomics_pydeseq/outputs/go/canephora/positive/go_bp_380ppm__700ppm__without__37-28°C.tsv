@@ -1,0 +1,47 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0006112	2	20%	0.1%	3.7E-5	1.7E-3	energy reserve metabolic process	Cc02g17340,Cc05g09820
+GO:0005977	2	20%	0.1%	3.7E-5	1.7E-3	glycogen metabolic process	Cc02g17340,Cc05g09820
+GO:0005978	2	20%	0.1%	3.7E-5	1.7E-3	glycogen biosynthetic process	Cc02g17340,Cc05g09820
+GO:0015980	2	20%	0.15%	8.69E-5	1.7E-3	energy derivation by oxidation of organic compounds	Cc02g17340,Cc05g09820
+GO:0009250	2	20%	0.66%	1.83E-3	0.0169	glucan biosynthetic process	Cc02g17340,Cc05g09820
+GO:0000271	2	20%	0.79%	2.65E-3	0.0203	polysaccharide biosynthetic process	Cc02g17340,Cc05g09820
+GO:0044042	2	20%	0.95%	3.79E-3	0.0249	glucan metabolic process	Cc02g17340,Cc05g09820
+GO:0016051	2	20%	1.1%	5.12E-3	0.0295	carbohydrate biosynthetic process	Cc02g17340,Cc05g09820
+GO:0005976	2	20%	1.2%	6.4E-3	0.0327	polysaccharide metabolic process	Cc02g17340,Cc05g09820
+GO:0006839	1	10%	0.07%	7.26E-3	0.0334	mitochondrial transport	Cc07g14260
+GO:0006091	2	20%	1.3%	7.41E-3	0.0334	generation of precursor metabolites and energy	Cc02g17340,Cc05g09820
+GO:0009059	3	30%	7.1%	0.0297	0.114	macromolecule biosynthetic process	Cc05g00640,Cc02g17340,Cc05g09820
+GO:0009733	1	10%	0.38%	0.037	0.131	response to auxin	Cc11g17330
+GO:0006810	4	40%	15%	0.0464	0.153	transport	Cc07g14260,Cc07g12020,Cc07g08560,Cc05g04890
+GO:0051234	4	40%	15%	0.0504	0.155	establishment of localization	Cc07g14260,Cc07g12020,Cc07g08560,Cc05g04890
+GO:0051179	4	40%	15%	0.0518	0.155	localization	Cc07g14260,Cc07g12020,Cc07g08560,Cc05g04890
+GO:0006869	1	10%	0.58%	0.0568	0.155	lipid transport	Cc07g08560
+GO:0009725	1	10%	0.72%	0.0694	0.177	response to hormone	Cc11g17330
+GO:0009719	1	10%	0.74%	0.0716	0.177	response to endogenous stimulus	Cc11g17330
+GO:0042221	1	10%	0.9%	0.0863	0.199	response to chemical	Cc11g17330
+GO:0006351	1	10%	1.3%	0.124	0.271	DNA-templated transcription	Cc05g00640
+GO:0032774	1	10%	2.0%	0.18	0.377	RNA biosynthetic process	Cc05g00640
+GO:0009058	3	30%	15%	0.183	0.377	biosynthetic process	Cc05g00640,Cc02g17340,Cc05g09820
+GO:0141187	1	10%	2.1%	0.187	0.377	nucleic acid biosynthetic process	Cc05g00640
+GO:0005975	2	20%	8.4%	0.203	0.377	carbohydrate metabolic process	Cc02g17340,Cc05g09820
+GO:0046907	1	10%	2.3%	0.205	0.377	intracellular transport	Cc07g14260
+GO:0051649	1	10%	2.4%	0.214	0.377	establishment of localization in cell	Cc07g14260
+GO:0051641	1	10%	2.5%	0.228	0.377	cellular localization	Cc07g14260
+GO:0055085	2	20%	9.5%	0.243	0.385	transmembrane transport	Cc07g12020,Cc05g04890
+GO:0034654	1	10%	3.3%	0.287	0.44	nucleobase-containing compound biosynthetic process	Cc05g00640
+GO:0043170	5	50%	38%	0.32	0.474	macromolecule metabolic process	Cc05g00640,Cc02g17340,Cc07g06080,Cc10g13910,Cc05g09820
+GO:0050896	1	10%	5.8%	0.452	0.65	response to stimulus	Cc11g17330
+GO:0006468	2	20%	15%	0.455	0.65	protein phosphorylation	Cc07g06080,Cc10g13910
+GO:0016070	1	10%	5.9%	0.458	0.65	RNA metabolic process	Cc05g00640
+GO:0016310	2	20%	15%	0.462	0.65	phosphorylation	Cc07g06080,Cc10g13910
+GO:0036211	2	20%	18%	0.559	0.714	protein modification process	Cc07g06080,Cc10g13910
+GO:0043412	2	20%	19%	0.594	0.738	macromolecule modification	Cc07g06080,Cc10g13910
+GO:0090304	1	10%	8.8%	0.602	0.738	nucleic acid metabolic process	Cc05g00640
+GO:0006796	2	20%	19%	0.607	0.738	phosphate-containing compound metabolic process	Cc07g06080,Cc10g13910
+GO:0006793	2	20%	19%	0.607	0.738	phosphorus metabolic process	Cc07g06080,Cc10g13910
+GO:0006139	1	10%	12%	0.709	0.795	nucleobase-containing compound metabolic process	Cc05g00640
+GO:0044238	5	50%	55%	0.734	0.804	primary metabolic process	Cc05g00640,Cc02g17340,Cc07g06080,Cc10g13910,Cc05g09820
+GO:0019538	2	20%	28%	0.815	0.872	protein metabolic process	Cc07g06080,Cc10g13910
+GO:0009987	8	80%	85%	0.82	0.872	cellular process	Cc05g00640,Cc07g14260,Cc07g12020,Cc02g17340,Cc05g04890,Cc07g06080,Cc10g13910,Cc05g09820
+GO:0008152	5	50%	62%	0.872	0.891	metabolic process	Cc05g00640,Cc02g17340,Cc07g06080,Cc10g13910,Cc05g09820
+GO:0008150	10	100%	100%	1.0	1.0	biological_process	Cc05g00640,Cc07g14260,Cc07g12020,Cc07g08560,Cc11g17330,Cc02g17340,Cc05g04890,Cc07g06080,Cc10g13910,Cc05g09820

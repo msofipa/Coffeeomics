@@ -1,0 +1,34 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0000097	2	100%	0.22%	4.51E-6	1.49E-4	sulfur amino acid biosynthetic process	Cc02g38200,Cc06g07310
+GO:0000096	2	100%	0.25%	6.19E-6	1.49E-4	sulfur amino acid metabolic process	Cc02g38200,Cc06g07310
+GO:0044272	2	100%	0.51%	2.54E-5	2.79E-4	sulfur compound biosynthetic process	Cc02g38200,Cc06g07310
+GO:1901607	2	100%	0.86%	7.32E-5	6.04E-4	alpha-amino acid biosynthetic process	Cc02g38200,Cc06g07310
+GO:0008652	2	100%	0.92%	8.4E-5	6.04E-4	amino acid biosynthetic process	Cc02g38200,Cc06g07310
+GO:0170033	2	100%	1.1%	1.1E-4	6.06E-4	L-amino acid metabolic process	Cc02g38200,Cc06g07310
+GO:0170039	2	100%	1.1%	1.21E-4	6.06E-4	proteinogenic amino acid metabolic process	Cc02g38200,Cc06g07310
+GO:1901605	2	100%	1.2%	1.37E-4	6.06E-4	alpha-amino acid metabolic process	Cc02g38200,Cc06g07310
+GO:0019499	1	50%	0.01%	2.43E-4	8.9E-4	cyanide metabolic process	Cc02g38200
+GO:0006790	2	100%	1.7%	2.7E-4	8.92E-4	sulfur compound metabolic process	Cc02g38200,Cc06g07310
+GO:0046394	2	100%	2.0%	3.89E-4	1.17E-3	carboxylic acid biosynthetic process	Cc02g38200,Cc06g07310
+GO:0016053	2	100%	2.0%	3.89E-4	1.17E-3	organic acid biosynthetic process	Cc02g38200,Cc06g07310
+GO:0006520	2	100%	2.6%	6.71E-4	1.7E-3	amino acid metabolic process	Cc02g38200,Cc06g07310
+GO:0044283	2	100%	2.7%	7.36E-4	1.73E-3	small molecule biosynthetic process	Cc02g38200,Cc06g07310
+GO:0019752	2	100%	3.5%	1.22E-3	2.68E-3	carboxylic acid metabolic process	Cc02g38200,Cc06g07310
+GO:0043436	2	100%	3.5%	1.23E-3	2.68E-3	oxoacid metabolic process	Cc02g38200,Cc06g07310
+GO:0006082	2	100%	3.5%	1.23E-3	2.68E-3	organic acid metabolic process	Cc02g38200,Cc06g07310
+GO:0009086	1	50%	0.11%	2.18E-3	4E-3	methionine biosynthetic process	Cc06g07310
+GO:0006555	1	50%	0.11%	2.18E-3	4E-3	methionine metabolic process	Cc06g07310
+GO:0019344	1	50%	0.11%	2.18E-3	4E-3	cysteine biosynthetic process	Cc02g38200
+GO:0006535	1	50%	0.11%	2.18E-3	4E-3	cysteine biosynthetic process from serine	Cc02g38200
+GO:0006534	1	50%	0.16%	3.15E-3	4.73E-3	cysteine metabolic process	Cc02g38200
+GO:0009067	1	50%	0.17%	3.4E-3	4.87E-3	aspartate family amino acid biosynthetic process	Cc06g07310
+GO:0044281	2	100%	6.7%	4.51E-3	6.2E-3	small molecule metabolic process	Cc02g38200,Cc06g07310
+GO:0009070	1	50%	0.23%	4.61E-3	6.2E-3	serine family amino acid biosynthetic process	Cc02g38200
+GO:0006563	1	50%	0.23%	4.61E-3	6.2E-3	L-serine metabolic process	Cc02g38200
+GO:0170034	1	50%	0.68%	0.0135	0.0166	L-amino acid biosynthetic process	Cc06g07310
+GO:0170038	1	50%	0.75%	0.015	0.0177	proteinogenic amino acid biosynthetic process	Cc06g07310
+GO:0009058	2	100%	15%	0.0229	0.026	biosynthetic process	Cc02g38200,Cc06g07310
+GO:0044238	2	100%	55%	0.3	0.33	primary metabolic process	Cc02g38200,Cc06g07310
+GO:0008152	2	100%	62%	0.39	0.415	metabolic process	Cc02g38200,Cc06g07310
+GO:0009987	2	100%	85%	0.722	0.745	cellular process	Cc02g38200,Cc06g07310
+GO:0008150	2	100%	100%	1.0	1.0	biological_process	Cc02g38200,Cc06g07310

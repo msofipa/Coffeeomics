@@ -1,0 +1,20 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0016020	11	73%	47%	0.0331	0.629	membrane	Cc03g05450,Cc08g10680,Cc03g04570,Cc03g07460,Cc10g04260,Cc02g36810,Cc03g06810,Cc02g22710,Cc07g08840,Cc02g21280,Cc04g09340
+GO:0009522	1	6.7%	0.24%	0.0348	0.629	photosystem I	Cc02g09420
+GO:0032040	1	6.7%	0.29%	0.0433	0.629	small-subunit processome	Cc02g38790
+GO:0030684	1	6.7%	0.38%	0.056	0.629	preribosome	Cc02g38790
+GO:0005886	1	6.7%	0.47%	0.0685	0.629	plasma membrane	Cc10g04260
+GO:0009521	1	6.7%	0.91%	0.129	0.629	photosystem	Cc02g09420
+GO:0000786	1	6.7%	1.4%	0.193	0.629	nucleosome	Cc04g03840
+GO:0032993	1	6.7%	1.5%	0.203	0.629	protein-DNA complex	Cc04g03840
+GO:0098796	1	6.7%	4.3%	0.481	1.0	membrane protein complex	Cc02g09420
+GO:1990904	1	6.7%	4.3%	0.483	1.0	ribonucleoprotein complex	Cc02g38790
+GO:0110165	12	80%	79%	0.603	1.0	cellular anatomical structure	Cc03g05450,Cc08g10680,Cc11g09350,Cc03g04570,Cc03g07460,Cc10g04260,Cc02g36810,Cc03g06810,Cc02g22710,Cc07g08840,Cc02g21280,Cc04g09340
+GO:0140513	1	6.7%	7.2%	0.677	1.0	nuclear protein-containing complex	Cc02g38790
+GO:0005634	1	6.7%	9.2%	0.767	1.0	nucleus	Cc11g09350
+GO:0032991	3	20%	26%	0.793	1.0	protein-containing complex	Cc02g09420,Cc04g03840,Cc02g38790
+GO:0043231	1	6.7%	12%	0.852	1.0	intracellular membrane-bounded organelle	Cc11g09350
+GO:0043227	1	6.7%	12%	0.852	1.0	membrane-bounded organelle	Cc11g09350
+GO:0043229	1	6.7%	23%	0.981	1.0	intracellular organelle	Cc11g09350
+GO:0043226	1	6.7%	23%	0.981	1.0	organelle	Cc11g09350
+GO:0005575	15	100%	100%	1.0	1.0	cellular_component	Cc03g05450,Cc08g10680,Cc11g09350,Cc03g04570,Cc03g07460,Cc02g36810,Cc02g09420,Cc04g03840,Cc03g06810,Cc02g22710,Cc07g08840,Cc04g09340,Cc02g38790,Cc10g04260,Cc02g21280

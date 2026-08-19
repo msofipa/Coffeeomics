@@ -1,0 +1,56 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0006801	2	18%	0.13%	8.85E-5	4.87E-3	superoxide metabolic process	Cc01g10280,Cc08g13620
+GO:0072593	2	18%	0.92%	4.38E-3	0.12	reactive oxygen species metabolic process	Cc01g10280,Cc08g13620
+GO:0005992	1	9.1%	0.16%	0.0172	0.316	trehalose biosynthetic process	Cc07g15380
+GO:0005991	1	9.1%	0.17%	0.0185	0.316	trehalose metabolic process	Cc07g15380
+GO:0046351	1	9.1%	0.22%	0.0238	0.316	disaccharide biosynthetic process	Cc07g15380
+GO:0009312	1	9.1%	0.23%	0.0251	0.316	oligosaccharide biosynthetic process	Cc07g15380
+GO:0007275	1	9.1%	0.29%	0.0316	0.316	multicellular organism development	Cc08g12950
+GO:0071805	1	9.1%	0.3%	0.0329	0.316	potassium ion transmembrane transport	Cc06g16560
+GO:0005984	1	9.1%	0.32%	0.0342	0.316	disaccharide metabolic process	Cc07g15380
+GO:0009311	1	9.1%	0.34%	0.0368	0.316	oligosaccharide metabolic process	Cc07g15380
+GO:0032501	1	9.1%	0.47%	0.0509	0.316	multicellular organismal process	Cc08g12950
+GO:0006813	1	9.1%	0.49%	0.0522	0.316	potassium ion transport	Cc06g16560
+GO:0007018	1	9.1%	0.63%	0.0673	0.316	microtubule-based movement	Cc05g15410
+GO:0048856	1	9.1%	0.74%	0.0785	0.316	anatomical structure development	Cc08g12950
+GO:0032502	1	9.1%	1.0%	0.109	0.4	developmental process	Cc08g12950
+GO:0098655	1	9.1%	1.1%	0.114	0.4	monoatomic cation transmembrane transport	Cc06g16560
+GO:0051603	1	9.1%	1.1%	0.114	0.4	proteolysis involved in protein catabolic process	Cc08g10320
+GO:0016051	1	9.1%	1.1%	0.115	0.4	carbohydrate biosynthetic process	Cc07g15380
+GO:0034220	1	9.1%	1.2%	0.122	0.4	monoatomic ion transmembrane transport	Cc06g16560
+GO:0007017	1	9.1%	1.3%	0.132	0.4	microtubule-based process	Cc05g15410
+GO:0030001	1	9.1%	1.5%	0.15	0.4	metal ion transport	Cc06g16560
+GO:0006812	1	9.1%	2.4%	0.235	0.587	monoatomic cation transport	Cc06g16560
+GO:2001141	2	18%	9.1%	0.262	0.627	regulation of RNA biosynthetic process	Cc11g13310,Cc11g13820
+GO:0006355	2	18%	9.1%	0.262	0.627	regulation of DNA-templated transcription	Cc11g13310,Cc11g13820
+GO:0006811	1	9.1%	2.8%	0.265	0.627	monoatomic ion transport	Cc06g16560
+GO:0051252	2	18%	9.1%	0.265	0.627	regulation of RNA metabolic process	Cc11g13310,Cc11g13820
+GO:0019219	2	18%	9.3%	0.272	0.627	regulation of nucleobase-containing compound metabolic process	Cc11g13310,Cc11g13820
+GO:0010468	2	18%	9.7%	0.29	0.627	regulation of gene expression	Cc11g13310,Cc11g13820
+GO:0010556	2	18%	9.7%	0.291	0.627	regulation of macromolecule biosynthetic process	Cc11g13310,Cc11g13820
+GO:0009889	2	18%	9.8%	0.292	0.627	regulation of biosynthetic process	Cc11g13310,Cc11g13820
+GO:0080090	2	18%	9.8%	0.295	0.627	regulation of primary metabolic process	Cc11g13310,Cc11g13820
+GO:0060255	2	18%	10%	0.317	0.627	regulation of macromolecule metabolic process	Cc11g13310,Cc11g13820
+GO:0019222	2	18%	10%	0.32	0.627	regulation of metabolic process	Cc11g13310,Cc11g13820
+GO:0050794	2	18%	13%	0.443	0.716	regulation of cellular process	Cc11g13310,Cc11g13820
+GO:0050789	2	18%	14%	0.466	0.732	regulation of biological process	Cc11g13310,Cc11g13820
+GO:0065007	2	18%	14%	0.481	0.734	biological regulation	Cc11g13310,Cc11g13820
+GO:0006508	1	9.1%	6.0%	0.493	0.734	proteolysis	Cc08g10320
+GO:0006468	2	18%	15%	0.507	0.734	protein phosphorylation	Cc06g19800,Cc09g10140
+GO:0016310	2	18%	15%	0.514	0.734	phosphorylation	Cc06g19800,Cc09g10140
+GO:0036211	2	18%	18%	0.613	0.843	protein modification process	Cc06g19800,Cc09g10140
+GO:0005975	1	9.1%	8.4%	0.619	0.843	carbohydrate metabolic process	Cc07g15380
+GO:0019538	3	27%	28%	0.631	0.843	protein metabolic process	Cc08g10320,Cc06g19800,Cc09g10140
+GO:0043412	2	18%	19%	0.648	0.843	macromolecule modification	Cc06g19800,Cc09g10140
+GO:0006793	2	18%	19%	0.661	0.843	phosphorus metabolic process	Cc06g19800,Cc09g10140
+GO:0006796	2	18%	19%	0.661	0.843	phosphate-containing compound metabolic process	Cc06g19800,Cc09g10140
+GO:0055085	1	9.1%	9.5%	0.665	0.843	transmembrane transport	Cc06g16560
+GO:0008152	6	55%	62%	0.805	0.942	metabolic process	Cc01g10280,Cc08g13620,Cc08g10320,Cc06g19800,Cc09g10140,Cc07g15380
+GO:0006810	1	9.1%	15%	0.826	0.946	transport	Cc06g16560
+GO:0051234	1	9.1%	15%	0.834	0.946	establishment of localization	Cc06g16560
+GO:0009058	1	9.1%	15%	0.836	0.946	biosynthetic process	Cc07g15380
+GO:0051179	1	9.1%	15%	0.837	0.946	localization	Cc06g16560
+GO:0043170	3	27%	38%	0.854	0.946	macromolecule metabolic process	Cc08g10320,Cc06g19800,Cc09g10140
+GO:0009987	8	73%	85%	0.931	0.966	cellular process	Cc01g10280,Cc08g13620,Cc08g10320,Cc06g19800,Cc09g10140,Cc07g15380,Cc05g15410,Cc06g16560
+GO:0044238	4	36%	55%	0.938	0.966	primary metabolic process	Cc08g10320,Cc06g19800,Cc09g10140,Cc07g15380
+GO:0008150	11	100%	100%	1.0	1.0	biological_process	Cc01g10280,Cc11g13310,Cc08g13620,Cc08g10320,Cc11g13820,Cc08g12950,Cc06g19800,Cc09g10140,Cc07g15380,Cc05g15410,Cc06g16560

@@ -1,0 +1,51 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0003824	15	83%	52%	6.68E-3	0.334	catalytic activity	Cc01g14790,Cc02g19810,Cc07g16990,Cc11g12930,Cc02g05960,Cc01g19650,Cc02g14560,Cc02g10380,Cc05g14210,Cc02g35350,Cc05g13950,Cc06g05540,Cc06g06630,Cc09g01110,Cc06g06040
+GO:0033897	1	5.6%	0.1%	0.0171	0.427	ribonuclease T2 activity	Cc11g12930
+GO:0016849	1	5.6%	0.11%	0.0195	0.427	phosphorus-oxygen lyase activity	Cc11g12930
+GO:0016788	3	17%	3.6%	0.0249	0.427	hydrolase activity, acting on ester bonds	Cc01g14790,Cc02g14560,Cc05g13950
+GO:0052716	1	5.6%	0.16%	0.0279	0.427	hydroquinone:oxygen oxidoreductase activity	Cc02g05960
+GO:0016679	1	5.6%	0.23%	0.041	0.427	oxidoreductase activity, acting on diphenols and related substances as donors	Cc02g05960
+GO:0016682	1	5.6%	0.23%	0.041	0.427	oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor	Cc02g05960
+GO:0016491	5	28%	11%	0.0411	0.427	oxidoreductase activity	Cc06g05540,Cc07g16990,Cc09g01110,Cc02g05960,Cc06g06040
+GO:0016787	6	33%	15%	0.0461	0.427	hydrolase activity	Cc01g14790,Cc02g19810,Cc01g19650,Cc02g14560,Cc05g14210,Cc05g13950
+GO:0004521	1	5.6%	0.46%	0.0792	0.427	RNA endonuclease activity	Cc11g12930
+GO:0005507	1	5.6%	0.46%	0.0804	0.427	copper ion binding	Cc02g05960
+GO:0003700	2	11%	2.8%	0.0875	0.427	DNA-binding transcription factor activity	Cc05g07590,Cc10g01330
+GO:0004190	1	5.6%	0.52%	0.0894	0.427	aspartic-type endopeptidase activity	Cc01g19650
+GO:0070001	1	5.6%	0.52%	0.0894	0.427	aspartic-type peptidase activity	Cc01g19650
+GO:0004497	1	5.6%	0.55%	0.0939	0.427	monooxygenase activity	Cc07g16990
+GO:0004540	1	5.6%	0.59%	0.101	0.427	RNA nuclease activity	Cc11g12930
+GO:0140110	2	11%	3.1%	0.104	0.427	transcription regulator activity	Cc05g07590,Cc10g01330
+GO:0004553	2	11%	3.1%	0.104	0.427	hydrolase activity, hydrolyzing O-glycosyl compounds	Cc02g19810,Cc05g14210
+GO:0016798	2	11%	3.2%	0.112	0.427	hydrolase activity, acting on glycosyl bonds	Cc02g19810,Cc05g14210
+GO:0004519	1	5.6%	0.68%	0.116	0.427	endonuclease activity	Cc11g12930
+GO:0005506	2	11%	3.6%	0.133	0.427	iron ion binding	Cc06g05540,Cc07g16990
+GO:0016705	2	11%	3.6%	0.135	0.427	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	Cc06g05540,Cc07g16990
+GO:0004842	1	5.6%	0.89%	0.148	0.427	ubiquitin-protein transferase activity	Cc06g06630
+GO:0019787	1	5.6%	0.91%	0.151	0.427	ubiquitin-like protein transferase activity	Cc06g06630
+GO:0046914	3	17%	7.6%	0.153	0.427	transition metal ion binding	Cc06g05540,Cc07g16990,Cc02g05960
+GO:0016755	1	5.6%	0.93%	0.155	0.427	aminoacyltransferase activity	Cc06g06630
+GO:0046906	2	11%	4.0%	0.161	0.427	tetrapyrrole binding	Cc06g05540,Cc07g16990
+GO:0020037	2	11%	4.0%	0.161	0.427	heme binding	Cc06g05540,Cc07g16990
+GO:0004518	1	5.6%	1.0%	0.168	0.427	nuclease activity	Cc11g12930
+GO:0016791	1	5.6%	1.1%	0.181	0.427	phosphatase activity	Cc01g14790
+GO:0042578	1	5.6%	1.4%	0.217	0.427	phosphoric ester hydrolase activity	Cc01g14790
+GO:0016829	1	5.6%	1.5%	0.24	0.427	lyase activity	Cc11g12930
+GO:0140098	1	5.6%	1.7%	0.262	0.427	catalytic activity, acting on RNA	Cc11g12930
+GO:0004175	1	5.6%	1.8%	0.276	0.427	endopeptidase activity	Cc01g19650
+GO:0046872	3	17%	11%	0.339	0.484	metal ion binding	Cc06g05540,Cc07g16990,Cc02g05960
+GO:0043169	3	17%	12%	0.354	0.491	cation binding	Cc06g05540,Cc07g16990,Cc02g05960
+GO:0003723	1	5.6%	2.5%	0.367	0.496	RNA binding	Cc11g12930
+GO:0016746	1	5.6%	2.7%	0.386	0.508	acyltransferase activity	Cc06g06630
+GO:0140640	1	5.6%	3.2%	0.446	0.572	catalytic activity, acting on a nucleic acid	Cc11g12930
+GO:0008233	1	5.6%	3.4%	0.462	0.578	peptidase activity	Cc01g19650
+GO:0016757	1	5.6%	3.9%	0.511	0.623	glycosyltransferase activity	Cc02g35350
+GO:0003676	2	11%	12%	0.67	0.797	nucleic acid binding	Cc05g07590,Cc11g12930
+GO:0003677	1	5.6%	6.8%	0.716	0.833	DNA binding	Cc05g07590
+GO:0140096	2	11%	15%	0.759	0.862	catalytic activity, acting on a protein	Cc06g06630,Cc01g19650
+GO:0016740	2	11%	20%	0.902	1.0	transferase activity	Cc06g06630,Cc02g35350
+GO:0043167	3	17%	34%	0.969	1.0	ion binding	Cc06g05540,Cc07g16990,Cc02g05960
+GO:0036094	3	17%	35%	0.976	1.0	small molecule binding	Cc06g05540,Cc07g16990,Cc02g05960
+GO:0005515	1	5.6%	23%	0.992	1.0	protein binding	Cc06g08340
+GO:0005488	6	33%	64%	0.998	1.0	binding	Cc05g07590,Cc06g05540,Cc07g16990,Cc11g12930,Cc02g05960,Cc06g08340
+GO:0003674	18	100%	100%	1.0	1.0	molecular_function	Cc01g14790,Cc02g19810,Cc07g16990,Cc11g12930,Cc02g05960,Cc01g19650,Cc02g14560,Cc02g10380,Cc05g14210,Cc02g35350,Cc05g13950,Cc05g07590,Cc06g05540,Cc10g01330,Cc06g06630,Cc09g01110,Cc06g06040,Cc06g08340

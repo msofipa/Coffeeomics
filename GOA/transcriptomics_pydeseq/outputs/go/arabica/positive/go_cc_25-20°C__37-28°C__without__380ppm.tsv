@@ -1,0 +1,8 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0089701	1	14%	0.26%	0.0184	0.129	U2AF complex	Cc01g09880
+GO:0005737	2	29%	4.9%	0.0433	0.152	cytoplasm	Cc07g04080,Cc02g09290
+GO:0140513	1	14%	7.2%	0.409	0.955	nuclear protein-containing complex	Cc01g09880
+GO:0016020	4	57%	47%	0.424	0.955	membrane	Cc06g14090,Cc09g03020,Cc07g12510,Cc05g14860
+GO:0110165	6	86%	79%	0.544	0.955	cellular anatomical structure	Cc06g14090,Cc09g03020,Cc07g12510,Cc07g04080,Cc02g09290,Cc05g14860
+GO:0032991	1	14%	26%	0.88	1.0	protein-containing complex	Cc01g09880
+GO:0005575	7	100%	100%	1.0	1.0	cellular_component	Cc06g14090,Cc09g03020,Cc07g12510,Cc01g09880,Cc07g04080,Cc02g09290,Cc05g14860

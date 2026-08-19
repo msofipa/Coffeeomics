@@ -1,0 +1,13 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0005576	2	25%	3.0%	0.0218	0.262	extracellular region	Cc04g16340,Cc02g20290
+GO:0005737	2	25%	4.9%	0.0559	0.336	cytoplasm	Cc04g02360,Cc04g03360
+GO:0031966	1	13%	0.94%	0.073	0.336	mitochondrial membrane	Cc07g14260
+GO:0110165	8	100%	79%	0.148	0.445	cellular anatomical structure	Cc04g02360,Cc07g14260,Cc01g09440,Cc02g30730,Cc05g04890,Cc04g03360,Cc04g16340,Cc02g20290
+GO:0005634	2	25%	9.2%	0.165	0.445	nucleus	Cc01g09440,Cc02g30730
+GO:0031090	1	13%	2.8%	0.203	0.445	organelle membrane	Cc07g14260
+GO:0043231	2	25%	12%	0.246	0.445	intracellular membrane-bounded organelle	Cc01g09440,Cc02g30730
+GO:0043227	2	25%	12%	0.246	0.445	membrane-bounded organelle	Cc01g09440,Cc02g30730
+GO:0043229	2	25%	23%	0.583	0.777	intracellular organelle	Cc01g09440,Cc02g30730
+GO:0043226	2	25%	23%	0.583	0.777	organelle	Cc01g09440,Cc02g30730
+GO:0016020	2	25%	47%	0.947	1.0	membrane	Cc07g14260,Cc05g04890
+GO:0005575	8	100%	100%	1.0	1.0	cellular_component	Cc04g02360,Cc07g14260,Cc01g09440,Cc02g30730,Cc05g04890,Cc04g03360,Cc04g16340,Cc02g20290

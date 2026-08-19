@@ -1,0 +1,20 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0036033	1	17%	0.01%	4.09E-4	7.78E-3	mediator complex binding	Cc02g18370
+GO:0008083	1	17%	0.05%	3.27E-3	0.0311	growth factor activity	Cc07g07320
+GO:0048018	1	17%	0.06%	3.68E-3	0.0311	receptor ligand activity	Cc07g07320
+GO:0030545	1	17%	0.06%	3.68E-3	0.0311	signaling receptor regulator activity	Cc07g07320
+GO:0030546	1	17%	0.06%	3.68E-3	0.0311	signaling receptor activator activity	Cc07g07320
+GO:0016868	1	17%	0.08%	4.5E-3	0.0311	intramolecular phosphotransferase activity	Cc11g08330
+GO:0005102	1	17%	0.09%	5.31E-3	0.0311	signaling receptor binding	Cc07g07320
+GO:0016844	1	17%	0.21%	0.0126	0.0311	strictosidine synthase activity	Cc06g18950
+GO:0140677	1	17%	0.31%	0.0187	0.0395	molecular function activator activity	Cc07g07320
+GO:0016866	1	17%	0.34%	0.0203	0.0395	intramolecular transferase activity	Cc11g08330
+GO:0044877	1	17%	0.35%	0.0207	0.0395	protein-containing complex binding	Cc02g18370
+GO:0016810	1	17%	0.6%	0.0355	0.0562	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	Cc06g18950
+GO:0098772	1	17%	1.7%	0.0992	0.145	molecular function regulator activity	Cc07g07320
+GO:0016853	1	17%	2.3%	0.132	0.179	isomerase activity	Cc11g08330
+GO:0005515	3	50%	23%	0.144	0.183	protein binding	Cc02g34460,Cc07g07320,Cc01g14750
+GO:0005488	4	67%	64%	0.628	0.745	binding	Cc02g34460,Cc07g07320,Cc01g14750,Cc02g18370
+GO:0016787	1	17%	15%	0.632	0.745	hydrolase activity	Cc06g18950
+GO:0003824	2	33%	52%	0.912	0.962	catalytic activity	Cc06g18950,Cc11g08330
+GO:0003674	6	100%	100%	1.0	1.0	molecular_function	Cc02g34460,Cc06g18950,Cc07g07320,Cc11g08330,Cc01g14750,Cc02g18370

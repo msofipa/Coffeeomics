@@ -1,0 +1,61 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0046219	1	14%	0.08%	5.93E-3	0.356	indolalkylamine biosynthetic process	Cc02g11550
+GO:0042435	1	14%	0.08%	5.93E-3	0.356	indole-containing compound biosynthetic process	Cc02g11550
+GO:0000162	1	14%	0.08%	5.93E-3	0.356	L-tryptophan biosynthetic process	Cc02g11550
+GO:0006568	1	14%	0.15%	0.0102	0.356	L-tryptophan metabolic process	Cc02g11550
+GO:0042430	1	14%	0.15%	0.0102	0.356	indole-containing compound metabolic process	Cc02g11550
+GO:0009309	1	14%	0.18%	0.0127	0.356	amine biosynthetic process	Cc02g11550
+GO:0042401	1	14%	0.18%	0.0127	0.356	biogenic amine biosynthetic process	Cc02g11550
+GO:0006576	1	14%	0.19%	0.0135	0.356	biogenic amine metabolic process	Cc02g11550
+GO:0009308	1	14%	0.38%	0.026	0.356	amine metabolic process	Cc02g11550
+GO:0009073	1	14%	0.44%	0.0302	0.356	aromatic amino acid family biosynthetic process	Cc02g11550
+GO:0009072	1	14%	0.61%	0.0417	0.356	aromatic amino acid metabolic process	Cc02g11550
+GO:0170034	1	14%	0.68%	0.0466	0.356	L-amino acid biosynthetic process	Cc02g11550
+GO:0170038	1	14%	0.75%	0.0515	0.356	proteinogenic amino acid biosynthetic process	Cc02g11550
+GO:1901607	1	14%	0.86%	0.0588	0.356	alpha-amino acid biosynthetic process	Cc02g11550
+GO:0008652	1	14%	0.92%	0.0628	0.356	amino acid biosynthetic process	Cc02g11550
+GO:0170033	1	14%	1.1%	0.0716	0.356	L-amino acid metabolic process	Cc02g11550
+GO:0006952	1	14%	1.1%	0.074	0.356	defense response	Cc03g11020
+GO:0170039	1	14%	1.1%	0.0748	0.356	proteinogenic amino acid metabolic process	Cc02g11550
+GO:1901605	1	14%	1.2%	0.0796	0.356	alpha-amino acid metabolic process	Cc02g11550
+GO:0046394	1	14%	2.0%	0.131	0.392	carboxylic acid biosynthetic process	Cc02g11550
+GO:0016053	1	14%	2.0%	0.131	0.392	organic acid biosynthetic process	Cc02g11550
+GO:0006520	1	14%	2.6%	0.168	0.459	amino acid metabolic process	Cc02g11550
+GO:0044283	1	14%	2.7%	0.176	0.459	small molecule biosynthetic process	Cc02g11550
+GO:0019752	1	14%	3.5%	0.221	0.551	carboxylic acid metabolic process	Cc02g11550
+GO:0006082	1	14%	3.5%	0.222	0.551	organic acid metabolic process	Cc02g11550
+GO:0043436	1	14%	3.5%	0.222	0.551	oxoacid metabolic process	Cc02g11550
+GO:0006950	1	14%	4.4%	0.273	0.606	response to stress	Cc03g11020
+GO:0006468	2	29%	15%	0.283	0.607	protein phosphorylation	Cc02g32030,Cc08g15740
+GO:0016310	2	29%	15%	0.288	0.607	phosphorylation	Cc02g32030,Cc08g15740
+GO:0006629	1	14%	4.7%	0.288	0.607	lipid metabolic process	Cc11g03870
+GO:0050896	1	14%	5.8%	0.344	0.665	response to stimulus	Cc03g11020
+GO:0036211	2	29%	18%	0.366	0.686	protein modification process	Cc02g32030,Cc08g15740
+GO:0044281	1	14%	6.7%	0.386	0.701	small molecule metabolic process	Cc02g11550
+GO:0043412	2	29%	19%	0.396	0.701	macromolecule modification	Cc02g32030,Cc08g15740
+GO:0006793	2	29%	19%	0.408	0.701	phosphorus metabolic process	Cc02g32030,Cc08g15740
+GO:0006796	2	29%	19%	0.408	0.701	phosphate-containing compound metabolic process	Cc02g32030,Cc08g15740
+GO:2001141	1	14%	9.1%	0.485	0.787	regulation of RNA biosynthetic process	Cc11g12870
+GO:0006355	1	14%	9.1%	0.485	0.787	regulation of DNA-templated transcription	Cc11g12870
+GO:0051252	1	14%	9.1%	0.488	0.787	regulation of RNA metabolic process	Cc11g12870
+GO:0019219	1	14%	9.3%	0.495	0.787	regulation of nucleobase-containing compound metabolic process	Cc11g12870
+GO:0055085	1	14%	9.5%	0.501	0.787	transmembrane transport	Cc10g12380
+GO:0010468	1	14%	9.7%	0.511	0.787	regulation of gene expression	Cc11g12870
+GO:0010556	1	14%	9.7%	0.512	0.787	regulation of macromolecule biosynthetic process	Cc11g12870
+GO:0009889	1	14%	9.8%	0.513	0.787	regulation of biosynthetic process	Cc11g12870
+GO:0080090	1	14%	9.8%	0.515	0.787	regulation of primary metabolic process	Cc11g12870
+GO:0060255	1	14%	10%	0.534	0.787	regulation of macromolecule metabolic process	Cc11g12870
+GO:0019222	1	14%	10%	0.537	0.787	regulation of metabolic process	Cc11g12870
+GO:0044238	4	57%	55%	0.604	0.787	primary metabolic process	Cc02g32030,Cc08g15740,Cc02g11550,Cc11g03870
+GO:0019538	2	29%	28%	0.624	0.787	protein metabolic process	Cc02g32030,Cc08g15740
+GO:0050794	1	14%	13%	0.633	0.787	regulation of cellular process	Cc11g12870
+GO:0050789	1	14%	14%	0.65	0.787	regulation of biological process	Cc11g12870
+GO:0065007	1	14%	14%	0.661	0.787	biological regulation	Cc11g12870
+GO:0006810	1	14%	15%	0.671	0.787	transport	Cc10g12380
+GO:0051234	1	14%	15%	0.681	0.787	establishment of localization	Cc10g12380
+GO:0009058	1	14%	15%	0.683	0.787	biosynthetic process	Cc02g11550
+GO:0051179	1	14%	15%	0.684	0.787	localization	Cc10g12380
+GO:0008152	4	57%	62%	0.756	0.796	metabolic process	Cc02g32030,Cc08g15740,Cc02g11550,Cc11g03870
+GO:0043170	2	29%	38%	0.815	0.843	macromolecule metabolic process	Cc02g32030,Cc08g15740
+GO:0009987	5	71%	85%	0.926	0.942	cellular process	Cc02g32030,Cc10g12380,Cc08g15740,Cc02g11550,Cc11g03870
+GO:0008150	7	100%	100%	1.0	1.0	biological_process	Cc02g32030,Cc10g12380,Cc08g15740,Cc02g11550,Cc03g11020,Cc11g03870,Cc11g12870

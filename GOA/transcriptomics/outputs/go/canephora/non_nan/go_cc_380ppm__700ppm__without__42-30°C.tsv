@@ -1,0 +1,16 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0010598	1	33%	0.06%	1.77E-3	0.0265	NAD(P)H dehydrogenase complex (plastoquinone)	Cc04g16320
+GO:0055035	1	33%	0.21%	6.17E-3	0.0463	plastid thylakoid membrane	Cc04g16320
+GO:0009535	1	33%	0.21%	6.17E-3	0.0463	chloroplast thylakoid membrane	Cc04g16320
+GO:0042651	1	33%	0.24%	7.05E-3	0.0463	thylakoid membrane	Cc04g16320
+GO:0034357	1	33%	0.24%	7.05E-3	0.0463	photosynthetic membrane	Cc04g16320
+GO:0042170	1	33%	0.35%	0.0106	0.0463	plastid membrane	Cc04g16320
+GO:0031968	1	33%	0.59%	0.0176	0.0463	organelle outer membrane	Cc04g16320
+GO:0019867	1	33%	0.71%	0.0211	0.0463	outer membrane	Cc04g16320
+GO:0098588	1	33%	0.88%	0.0263	0.0463	bounding membrane of organelle	Cc04g16320
+GO:0031090	1	33%	2.8%	0.0816	0.122	organelle membrane	Cc04g16320
+GO:0016020	3	100%	47%	0.101	0.137	membrane	Cc05g09650,Cc04g16320,Cc07g18620
+GO:1902494	1	33%	7.9%	0.219	0.273	catalytic complex	Cc04g16320
+GO:0110165	3	100%	79%	0.489	0.565	cellular anatomical structure	Cc05g09650,Cc04g16320,Cc07g18620
+GO:0032991	1	33%	26%	0.597	0.639	protein-containing complex	Cc04g16320
+GO:0005575	3	100%	100%	1.0	1.0	cellular_component	Cc05g09650,Cc04g16320,Cc07g18620

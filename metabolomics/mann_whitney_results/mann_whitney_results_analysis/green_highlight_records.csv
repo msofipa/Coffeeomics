@@ -1,0 +1,652 @@
+file,species,metabolite,contrast
+mannwhiteneyu_co2.xlsx,C. arabica,Isoleucine,380 vs 700 | 42/30°C | without
+mannwhiteneyu_co2.xlsx,C. arabica,Threonine,380 vs 700 | 42/30°C | without
+mannwhiteneyu_co2.xlsx,C. arabica,Fumarate,380 vs 700 | 42/30°C | without
+mannwhiteneyu_co2.xlsx,C. arabica,Nicotinic acid,380 vs 700 | 37/28°C | severe
+mannwhiteneyu_co2.xlsx,C. arabica,Aspartate,380 vs 700 | 25/20°C | medium
+mannwhiteneyu_co2.xlsx,C. arabica,Fucose,380 vs 700 | 37/28°C | without
+mannwhiteneyu_co2.xlsx,C. arabica,Phenylalanine,380 vs 700 | 25/20°C | severe
+mannwhiteneyu_co2.xlsx,C. arabica,Citrate,380 vs 700 | 37/28°C | without
+mannwhiteneyu_co2.xlsx,C. arabica,Arginine,380 vs 700 | 25/20°C | medium
+mannwhiteneyu_co2.xlsx,C. arabica,Lysine,380 vs 700 | 42/30°C | without
+mannwhiteneyu_co2.xlsx,C. arabica,Dehydroascorbate,380 vs 700 | 42/30°C | severe
+mannwhiteneyu_co2.xlsx,C. arabica,myo-Inositol,380 vs 700 | 37/28°C | severe
+mannwhiteneyu_co2.xlsx,C. arabica,Tyrosine,380 vs 700 | 42/30°C | without
+mannwhiteneyu_co2.xlsx,C. arabica,Tryptophan,380 vs 700 | 42/30°C | without
+mannwhiteneyu_co2.xlsx,C. arabica,Cystine,380 vs 700 | 42/30°C | without
+mannwhiteneyu_co2.xlsx,C. arabica,Raffinose,380 vs 700 | 37/28°C | without
+mannwhiteneyu_co2.xlsx,C. arabica,Fructose,380 vs 700 | 25/20°C | medium
+mannwhiteneyu_co2.xlsx,C. arabica,Sucrose,380 vs 700 | 25/20°C | medium
+mannwhiteneyu_co2.xlsx,C. arabica,Sucrose,380 vs 700 | 42/30°C | without
+mannwhiteneyu_co2.xlsx,C. canephora,Alanine,380 vs 700 | Rec 14 - 25/20°C | without
+mannwhiteneyu_co2.xlsx,C. canephora,Pyruvate,380 vs 700 | 25/20°C | severe
+mannwhiteneyu_co2.xlsx,C. canephora,Pyruvate,380 vs 700 | 37/28°C | severe
+mannwhiteneyu_co2.xlsx,C. canephora,Succinate,380 vs 700 | Rec 14 - 25/20°C | without
+mannwhiteneyu_co2.xlsx,C. canephora,Erythritol,380 vs 700 | Rec 14 - 25/20°C | without
+mannwhiteneyu_co2.xlsx,C. canephora,Pyroglutamate,380 vs 700 | 25/20°C | severe
+mannwhiteneyu_co2.xlsx,C. canephora,Glutamate,380 vs 700 | 25/20°C | severe
+mannwhiteneyu_co2.xlsx,C. canephora,Rhamnose,380 vs 700 | Rec 14 - 25/20°C | without
+mannwhiteneyu_co2.xlsx,C. canephora,Glycerol-3-phosphate,380 vs 700 | 25/20°C | medium
+mannwhiteneyu_co2.xlsx,C. canephora,Tyramine,380 vs 700 | 37/28°C | severe
+mannwhiteneyu_co2.xlsx,C. canephora,Histidine,380 vs 700 | Rec 14 - 25/20°C | severe
+mannwhiteneyu_co2.xlsx,C. canephora,Tryptophan,380 vs 700 | Rec 14 - 25/20°C | severe
+mannwhiteneyu_co2.xlsx,C. canephora,Trehalose,380 vs 700 | 25/20°C | medium
+mannwhiteneyu_co2.xlsx,C. canephora,Fructose,380 vs 700 | Rec 14 - 25/20°C | without
+mannwhiteneyu_co2.xlsx,C. canephora,Sucrose,380 vs 700 | 25/20°C | severe
+mannwhiteneyu_drought.xlsx,C. arabica,Alanine,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. arabica,Pyruvate,medium vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Valine,without vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Valine,medium vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Isoleucine,without vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Isoleucine,without vs severe | 380ppm | 37/28°C
+mannwhiteneyu_drought.xlsx,C. arabica,Isoleucine,medium vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Isoleucine,medium vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Glycine,without vs severe | 380ppm | 37/28°C
+mannwhiteneyu_drought.xlsx,C. arabica,Glycine,medium vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Phosphoric acid,without vs severe | 380ppm | Rec 14 - 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Phosphoric acid,without vs severe | 700ppm | Rec 14 - 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Phosphoric acid,medium vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Proline,without vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Proline,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. arabica,Proline,medium vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Proline,medium vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Glycerate,without vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Glycerate,without vs severe | 380ppm | Rec 14 - 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Glycerate,without vs severe | 700ppm | 37/28°C
+mannwhiteneyu_drought.xlsx,C. arabica,Serine,without vs severe | 700ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. arabica,Succinate,without vs severe | 700ppm | Rec 14 - 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Threonine,medium vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Fumarate,without vs medium | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Fumarate,without vs severe | 380ppm | 37/28°C
+mannwhiteneyu_drought.xlsx,C. arabica,Fumarate,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. arabica,Nicotinic acid,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. arabica,beta-Alanine,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. arabica,Erythritol,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. arabica,Erythritol,medium vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,GABA,without vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,GABA,without vs severe | 380ppm | 37/28°C
+mannwhiteneyu_drought.xlsx,C. arabica,GABA,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. arabica,GABA,without vs severe | 700ppm | 37/28°C
+mannwhiteneyu_drought.xlsx,C. arabica,GABA,without vs severe | 700ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. arabica,GABA,without vs severe | 700ppm | Rec 14 - 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,GABA,medium vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Threonate,without vs severe | 380ppm | 37/28°C
+mannwhiteneyu_drought.xlsx,C. arabica,Threonate,medium vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Methionine,without vs medium | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Ornithine,medium vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Pyroglutamate,medium vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Rhamnose,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. arabica,Rhamnose,without vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Rhamnose,without vs severe | 700ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. arabica,Rhamnose,medium vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Putrescine,without vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Putrescine,medium vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Putrescine,medium vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Fucose,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. arabica,Phenylalanine,without vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Phenylalanine,medium vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Phenylalanine,medium vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Asparagine,without vs severe | 700ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. arabica,Asparagine,medium vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Glycerol-3-phosphate,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. arabica,Glycerol-3-phosphate,without vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Citrate,without vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Citrate,without vs severe | 700ppm | 37/28°C
+mannwhiteneyu_drought.xlsx,C. arabica,Arginine,without vs severe | 380ppm | 37/28°C
+mannwhiteneyu_drought.xlsx,C. arabica,Arginine,without vs severe | 700ppm | 37/28°C
+mannwhiteneyu_drought.xlsx,C. arabica,Dehydroascorbate,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. arabica,Dehydroascorbate,medium vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,myo-Inositol,without vs severe | 700ppm | 37/28°C
+mannwhiteneyu_drought.xlsx,C. arabica,myo-Inositol,medium vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Tyrosine,without vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Tyrosine,without vs severe | 380ppm | 37/28°C
+mannwhiteneyu_drought.xlsx,C. arabica,Tyrosine,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. arabica,Tyrosine,medium vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Histidine,without vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Histidine,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. arabica,Histidine,medium vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Glucose-6-phosphate,without vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Glucose-6-phosphate,without vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Tryptophan,without vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Tryptophan,without vs severe | 380ppm | 37/28°C
+mannwhiteneyu_drought.xlsx,C. arabica,Tryptophan,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. arabica,Tryptophan,medium vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Tryptophan,medium vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Cystine,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. arabica,Cystine,medium vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Trehalose,without vs severe | 380ppm | Rec 14 - 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Spermine,without vs medium | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Spermine,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. arabica,Spermine,without vs severe | 700ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. arabica,Galactinol,without vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Galactinol,without vs severe | 700ppm | 37/28°C
+mannwhiteneyu_drought.xlsx,C. arabica,Raffinose,without vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Raffinose,without vs severe | 700ppm | 37/28°C
+mannwhiteneyu_drought.xlsx,C. arabica,Quinate,without vs severe | 380ppm | Rec 14 - 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Fructose,without vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Fructose,without vs severe | 380ppm | 37/28°C
+mannwhiteneyu_drought.xlsx,C. arabica,Fructose,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. arabica,Fructose,medium vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Fructose,medium vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Glucose,without vs severe | 380ppm | 37/28°C
+mannwhiteneyu_drought.xlsx,C. arabica,Sucrose,without vs medium | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Sucrose,without vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. arabica,Sucrose,without vs severe | 380ppm | 37/28°C
+mannwhiteneyu_drought.xlsx,C. arabica,Sucrose,without vs severe | 700ppm | 37/28°C
+mannwhiteneyu_drought.xlsx,C. arabica,Sucrose,without vs severe | 700ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,Pyruvate,without vs severe | 380ppm | Rec 14 - 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Pyruvate,without vs severe | 700ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,Valine,without vs medium | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Valine,without vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Valine,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,Glycerol,without vs severe | 700ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,Isoleucine,without vs medium | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Isoleucine,without vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Phosphoric acid,without vs medium | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Glycerate,without vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Glycerate,medium vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Serine,without vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Threonine,without vs medium | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Fumarate,without vs severe | 700ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,Nicotinic acid,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,beta-Alanine,without vs severe | 380ppm | 37/28°C
+mannwhiteneyu_drought.xlsx,C. canephora,beta-Alanine,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,beta-Alanine,without vs severe | 700ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,Erythritol,without vs severe | 380ppm | Rec 14 - 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,GABA,without vs medium | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,GABA,without vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,GABA,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,Aspartate,without vs medium | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Aspartate,without vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Threonate,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,Threonate,without vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Threonate,without vs severe | 700ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,Ornithine,without vs severe | 380ppm | Rec 14 - 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Pyroglutamate,without vs medium | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Rhamnose,without vs medium | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Rhamnose,without vs severe | 380ppm | 37/28°C
+mannwhiteneyu_drought.xlsx,C. canephora,Rhamnose,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,Rhamnose,without vs severe | 700ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,Putrescine,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,Putrescine,without vs severe | 700ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,2-Oxoglutarate,without vs severe | 700ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,Phenylalanine,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,Phenylalanine,without vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Phenylalanine,without vs severe | 700ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,Glycerol-3-phosphate,without vs medium | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Glycerol-3-phosphate,without vs severe | 700ppm | Rec 14 - 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Citrate,without vs severe | 380ppm | 37/28°C
+mannwhiteneyu_drought.xlsx,C. canephora,Arginine,without vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Arginine,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,Arginine,without vs severe | 700ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,Arginine,medium vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Arginine,medium vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Lysine,without vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Lysine,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,Lysine,without vs severe | 700ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,Tyramine,without vs severe | 380ppm | Rec 14 - 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Tyrosine,without vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Tyrosine,without vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Tyrosine,without vs severe | 700ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,Tyrosine,medium vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Histidine,without vs medium | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Histidine,without vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Histidine,without vs severe | 380ppm | Rec 14 - 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Histidine,without vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Histidine,without vs severe | 700ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,Histidine,medium vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Tryptophan,without vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Tryptophan,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,Tryptophan,without vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Tryptophan,without vs severe | 700ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,Cystine,without vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Cystine,medium vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Trehalose,medium vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Raffinose,without vs medium | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Raffinose,without vs severe | 380ppm | 37/28°C
+mannwhiteneyu_drought.xlsx,C. canephora,Fructose,without vs medium | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Fructose,without vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Fructose,without vs severe | 380ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,Fructose,without vs severe | 380ppm | Rec 14 - 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Fructose,without vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Fructose,without vs severe | 700ppm | 42/30°C
+mannwhiteneyu_drought.xlsx,C. canephora,Fructose,medium vs severe | 700ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Glucose,medium vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Sucrose,without vs severe | 380ppm | 25/20°C
+mannwhiteneyu_drought.xlsx,C. canephora,Sucrose,without vs severe | 700ppm | 42/30°C
+mannwhiteneyu_temperature.xlsx,C. arabica,Alanine,25/20°C vs 42/30°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Alanine,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Alanine,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Pyruvate,25/20°C vs 37/28°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Pyruvate,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Pyruvate,25/20°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Pyruvate,25/20°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Pyruvate,37/28°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Pyruvate,37/28°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Pyruvate,37/28°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Pyruvate,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Pyruvate,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Pyruvate,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Pyruvate,42/30°C vs Rec 14 - 25/20°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Pyruvate,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Valine,25/20°C vs 37/28°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Valine,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Valine,25/20°C vs 42/30°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Valine,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Valine,37/28°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Valine,37/28°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Valine,37/28°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Valine,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Valine,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Isoleucine,25/20°C vs 37/28°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Isoleucine,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Isoleucine,25/20°C vs 42/30°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Isoleucine,25/20°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Isoleucine,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Isoleucine,37/28°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Isoleucine,37/28°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Isoleucine,37/28°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Isoleucine,37/28°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Isoleucine,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Isoleucine,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Isoleucine,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Isoleucine,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Phosphoric acid,25/20°C vs 37/28°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Phosphoric acid,25/20°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Phosphoric acid,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Phosphoric acid,37/28°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Phosphoric acid,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Phosphoric acid,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Phosphoric acid,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Proline,25/20°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Proline,37/28°C vs 42/30°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Proline,37/28°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Proline,37/28°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Proline,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Proline,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Glycerate,25/20°C vs 37/28°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Glycerate,25/20°C vs 37/28°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Glycerate,25/20°C vs 37/28°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Glycerate,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Glycerate,25/20°C vs 42/30°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Glycerate,25/20°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Glycerate,37/28°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Glycerate,37/28°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Glycerate,37/28°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Glycerate,37/28°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Glycerate,37/28°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Glycerate,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Glycerate,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Glycerate,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Glycerate,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Serine,25/20°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Serine,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Serine,37/28°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Serine,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Serine,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Succinate,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Succinate,25/20°C vs 42/30°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Succinate,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Succinate,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Threonine,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Threonine,25/20°C vs 42/30°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Threonine,37/28°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Threonine,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Threonine,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Threonine,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Nicotinic acid,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,beta-Alanine,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,beta-Alanine,25/20°C vs 42/30°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,beta-Alanine,25/20°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,beta-Alanine,25/20°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,beta-Alanine,37/28°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,beta-Alanine,37/28°C vs 42/30°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,beta-Alanine,37/28°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,beta-Alanine,37/28°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,beta-Alanine,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,beta-Alanine,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,beta-Alanine,42/30°C vs Rec 14 - 25/20°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,beta-Alanine,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Erythritol,25/20°C vs 37/28°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Erythritol,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Erythritol,25/20°C vs 42/30°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Erythritol,25/20°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Erythritol,37/28°C vs 42/30°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Erythritol,37/28°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Erythritol,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Erythritol,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Erythritol,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,GABA,25/20°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,GABA,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,GABA,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,GABA,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,GABA,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Threonate,25/20°C vs 37/28°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Threonate,25/20°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Threonate,37/28°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Threonate,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Threonate,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Threonate,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Threonate,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Ornithine,37/28°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Ornithine,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Pyroglutamate,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Pyroglutamate,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Rhamnose,25/20°C vs 37/28°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Rhamnose,25/20°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Rhamnose,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Rhamnose,37/28°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Rhamnose,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Rhamnose,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Putrescine,25/20°C vs 37/28°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Putrescine,25/20°C vs 37/28°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Putrescine,37/28°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,2-Oxoglutarate,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,2-Oxoglutarate,25/20°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,2-Oxoglutarate,37/28°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,2-Oxoglutarate,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,2-Oxoglutarate,42/30°C vs Rec 14 - 25/20°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,2-Oxoglutarate,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Phenylalanine,25/20°C vs 37/28°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Phenylalanine,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Phenylalanine,25/20°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Phenylalanine,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Phenylalanine,37/28°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Phenylalanine,37/28°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Phenylalanine,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Phenylalanine,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Phenylalanine,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Phenylalanine,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Asparagine,25/20°C vs 37/28°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Asparagine,25/20°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Asparagine,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Asparagine,37/28°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Asparagine,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Glycerol-3-phosphate,25/20°C vs 42/30°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Glycerol-3-phosphate,25/20°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Glycerol-3-phosphate,37/28°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Glycerol-3-phosphate,37/28°C vs Rec 14 - 25/20°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Glycerol-3-phosphate,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Citrate,37/28°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Citrate,37/28°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Citrate,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Arginine,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Lysine,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Lysine,25/20°C vs 42/30°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Lysine,37/28°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Lysine,37/28°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Lysine,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Lysine,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Lysine,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Dehydroascorbate,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Dehydroascorbate,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Dehydroascorbate,37/28°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Dehydroascorbate,37/28°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Dehydroascorbate,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Dehydroascorbate,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Dehydroascorbate,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Dehydroascorbate,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,myo-Inositol,37/28°C vs 42/30°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,myo-Inositol,37/28°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,myo-Inositol,37/28°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Tyrosine,25/20°C vs 37/28°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Tyrosine,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Tyrosine,25/20°C vs 42/30°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Tyrosine,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Tyrosine,37/28°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Tyrosine,37/28°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Tyrosine,37/28°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Tyrosine,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Tyrosine,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Tyrosine,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Histidine,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Histidine,25/20°C vs 42/30°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Histidine,25/20°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Histidine,37/28°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Histidine,37/28°C vs 42/30°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Histidine,37/28°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Histidine,37/28°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Histidine,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Histidine,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Histidine,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Glucose-6-phosphate,25/20°C vs 37/28°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Glucose-6-phosphate,25/20°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Tryptophan,25/20°C vs 42/30°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Tryptophan,25/20°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Tryptophan,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Tryptophan,37/28°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Tryptophan,37/28°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Tryptophan,37/28°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Tryptophan,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Tryptophan,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Tryptophan,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Cystine,37/28°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Cystine,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Cystine,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Spermine,37/28°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Spermine,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Galactinol,25/20°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Raffinose,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Quinate,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Quinate,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Fructose,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Fructose,25/20°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Fructose,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Fructose,37/28°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Fructose,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Glucose,25/20°C vs 42/30°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Glucose,25/20°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Glucose,25/20°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Glucose,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Glucose,37/28°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Glucose,37/28°C vs 42/30°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Glucose,37/28°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Glucose,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Sucrose,25/20°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Sucrose,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Sucrose,37/28°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Sucrose,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Sucrose,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. arabica,Sucrose,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. arabica,Sucrose,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Pyruvate,25/20°C vs 37/28°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Pyruvate,25/20°C vs 37/28°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Pyruvate,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Pyruvate,25/20°C vs 42/30°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Pyruvate,25/20°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Pyruvate,25/20°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Pyruvate,37/28°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Pyruvate,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Pyruvate,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Pyruvate,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Pyruvate,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Valine,25/20°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Valine,25/20°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Valine,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Valine,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Valine,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Valine,42/30°C vs Rec 14 - 25/20°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Valine,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Glycerol,42/30°C vs Rec 14 - 25/20°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Isoleucine,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Isoleucine,25/20°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Isoleucine,25/20°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Isoleucine,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Isoleucine,37/28°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Isoleucine,37/28°C vs Rec 14 - 25/20°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Isoleucine,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Isoleucine,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Isoleucine,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Isoleucine,42/30°C vs Rec 14 - 25/20°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Isoleucine,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Glycine,25/20°C vs 37/28°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Phosphoric acid,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Phosphoric acid,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Phosphoric acid,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Glycerate,25/20°C vs 37/28°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Glycerate,25/20°C vs 37/28°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Glycerate,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Glycerate,25/20°C vs 42/30°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Glycerate,25/20°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Glycerate,25/20°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Glycerate,37/28°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Glycerate,37/28°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Glycerate,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Glycerate,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Glycerate,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Glycerate,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Serine,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Serine,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Serine,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Serine,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Succinate,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Succinate,37/28°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Succinate,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Threonine,25/20°C vs 37/28°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Threonine,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Threonine,25/20°C vs 42/30°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Threonine,25/20°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Threonine,25/20°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Threonine,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Threonine,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Threonine,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Threonine,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Fumarate,25/20°C vs 37/28°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,beta-Alanine,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,beta-Alanine,25/20°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,beta-Alanine,25/20°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,beta-Alanine,37/28°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,beta-Alanine,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,beta-Alanine,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,beta-Alanine,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,beta-Alanine,42/30°C vs Rec 14 - 25/20°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,beta-Alanine,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Erythritol,25/20°C vs 37/28°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Erythritol,25/20°C vs 37/28°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Erythritol,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Erythritol,25/20°C vs 42/30°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Erythritol,25/20°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Erythritol,25/20°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Erythritol,25/20°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Erythritol,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Erythritol,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Erythritol,42/30°C vs Rec 14 - 25/20°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Erythritol,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Malate,25/20°C vs 37/28°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Malate,25/20°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Malate,25/20°C vs Rec 14 - 25/20°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,GABA,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,GABA,25/20°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,GABA,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,GABA,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,GABA,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,GABA,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Aspartate,25/20°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Aspartate,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Threonate,25/20°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Threonate,25/20°C vs Rec 14 - 25/20°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Threonate,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Threonate,37/28°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Threonate,37/28°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Threonate,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Threonate,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Threonate,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Methionine,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Methionine,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Methionine,37/28°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Methionine,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Methionine,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Methionine,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Methionine,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Pyroglutamate,25/20°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Glutamate,25/20°C vs 42/30°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Rhamnose,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Rhamnose,25/20°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Rhamnose,25/20°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Rhamnose,25/20°C vs Rec 14 - 25/20°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Rhamnose,37/28°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Rhamnose,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Rhamnose,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Putrescine,25/20°C vs 37/28°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Putrescine,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Putrescine,25/20°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,2-Oxoglutarate,25/20°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,2-Oxoglutarate,37/28°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,2-Oxoglutarate,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,2-Oxoglutarate,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Phenylalanine,25/20°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Phenylalanine,25/20°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Phenylalanine,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Phenylalanine,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Phenylalanine,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Phenylalanine,42/30°C vs Rec 14 - 25/20°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Phenylalanine,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Asparagine,37/28°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Asparagine,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Glycerol-3-phosphate,25/20°C vs 37/28°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Glycerol-3-phosphate,25/20°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Glycerol-3-phosphate,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Glycerol-3-phosphate,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Glycerol-3-phosphate,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Citrate,25/20°C vs 37/28°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Citrate,25/20°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Citrate,37/28°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Arginine,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Arginine,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Lysine,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Dehydroascorbate,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Dehydroascorbate,25/20°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Dehydroascorbate,37/28°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Dehydroascorbate,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Tyramine,37/28°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,myo-Inositol,25/20°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,myo-Inositol,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,myo-Inositol,42/30°C vs Rec 14 - 25/20°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Tyrosine,25/20°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Tyrosine,25/20°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Tyrosine,25/20°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Tyrosine,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Tyrosine,37/28°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Tyrosine,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Tyrosine,42/30°C vs Rec 14 - 25/20°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Tyrosine,42/30°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Tyrosine,42/30°C vs Rec 14 - 25/20°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Tyrosine,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Histidine,25/20°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Histidine,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Histidine,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Histidine,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Glucose-6-phosphate,42/30°C vs Rec 14 - 25/20°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Tryptophan,25/20°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Tryptophan,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Tryptophan,37/28°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Tryptophan,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Tryptophan,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Cystine,25/20°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Cystine,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Cystine,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Cystine,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Spermine,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Galactinol,25/20°C vs 37/28°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Galactinol,25/20°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Galactinol,37/28°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Raffinose,25/20°C vs 37/28°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Raffinose,37/28°C vs 42/30°C | 380ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Quinate,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Quinate,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Fructose,25/20°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Fructose,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Glucose,25/20°C vs 42/30°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Glucose,25/20°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Glucose,25/20°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Glucose,25/20°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Glucose,37/28°C vs 42/30°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Glucose,37/28°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Glucose,42/30°C vs Rec 14 - 25/20°C | 700ppm | without
+mannwhiteneyu_temperature.xlsx,C. canephora,Glucose,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Sucrose,25/20°C vs 37/28°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Sucrose,25/20°C vs 42/30°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Sucrose,25/20°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Sucrose,37/28°C vs Rec 14 - 25/20°C | 380ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Sucrose,37/28°C vs Rec 14 - 25/20°C | 700ppm | severe
+mannwhiteneyu_temperature.xlsx,C. canephora,Sucrose,42/30°C vs Rec 14 - 25/20°C | 700ppm | severe

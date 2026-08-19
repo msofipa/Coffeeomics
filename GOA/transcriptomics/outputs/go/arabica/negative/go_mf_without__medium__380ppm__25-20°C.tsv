@@ -1,0 +1,52 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0046872	5	56%	11%	1.63E-3	0.0833	metal ion binding	Cc04g11270,Cc11g04730,Cc08g08180,Cc10g05350,Cc04g02060
+GO:0043169	5	56%	12%	1.83E-3	0.0833	cation binding	Cc04g11270,Cc11g04730,Cc08g08180,Cc10g05350,Cc04g02060
+GO:0004491	1	11%	0.03%	3.07E-3	0.0833	methylmalonate-semialdehyde dehydrogenase (acylating, NAD) activity	Cc07g13850
+GO:0046914	4	44%	7.6%	3.08E-3	0.0833	transition metal ion binding	Cc04g11270,Cc11g04730,Cc08g08180,Cc10g05350
+GO:0005506	3	33%	3.6%	3.2E-3	0.0833	iron ion binding	Cc04g11270,Cc11g04730,Cc10g05350
+GO:0016705	3	33%	3.6%	3.3E-3	0.0833	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	Cc04g11270,Cc11g04730,Cc10g05350
+GO:0046906	3	33%	4.0%	4.46E-3	0.0833	tetrapyrrole binding	Cc04g11270,Cc11g04730,Cc10g05350
+GO:0020037	3	33%	4.0%	4.46E-3	0.0833	heme binding	Cc04g11270,Cc11g04730,Cc10g05350
+GO:0004630	1	11%	0.06%	5.52E-3	0.0833	phospholipase D activity	Cc04g02060
+GO:0043167	7	78%	34%	8.72E-3	0.0833	ion binding	Cc04g11270,Cc11g04730,Cc08g08180,Cc10g05350,Cc04g14500,Cc05g10820,Cc04g02060
+GO:0036094	7	78%	35%	0.0108	0.0833	small molecule binding	Cc04g11270,Cc11g04730,Cc08g08180,Cc10g05350,Cc04g14500,Cc05g10820,Cc04g02060
+GO:0016491	4	44%	11%	0.0118	0.0833	oxidoreductase activity	Cc04g11270,Cc11g04730,Cc10g05350,Cc07g13850
+GO:0004620	1	11%	0.17%	0.0153	0.0833	phospholipase activity	Cc04g02060
+GO:0016298	1	11%	0.22%	0.0195	0.0833	lipase activity	Cc04g02060
+GO:0008081	1	11%	0.22%	0.0195	0.0833	phosphoric diester hydrolase activity	Cc04g02060
+GO:0016620	1	11%	0.26%	0.0231	0.0833	oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor	Cc07g13850
+GO:0003824	8	89%	52%	0.0273	0.0833	catalytic activity	Cc04g11270,Cc11g04730,Cc10g05350,Cc04g14500,Cc02g20860,Cc05g10820,Cc07g13850,Cc04g02060
+GO:0016903	1	11%	0.34%	0.0303	0.0858	oxidoreductase activity, acting on the aldehyde or oxo group of donors	Cc07g13850
+GO:0005509	1	11%	1.3%	0.111	0.299	calcium ion binding	Cc04g02060
+GO:0042578	1	11%	1.4%	0.115	0.299	phosphoric ester hydrolase activity	Cc04g02060
+GO:0016887	1	11%	2.0%	0.167	0.405	ATP hydrolysis activity	Cc04g14500
+GO:0008194	1	11%	2.2%	0.183	0.424	UDP-glycosyltransferase activity	Cc02g20860
+GO:0008270	1	11%	3.1%	0.249	0.552	zinc ion binding	Cc08g08180
+GO:0017111	1	11%	3.2%	0.251	0.552	ribonucleoside triphosphate phosphatase activity	Cc04g14500
+GO:0016462	1	11%	3.3%	0.263	0.552	pyrophosphatase activity	Cc04g14500
+GO:0016818	1	11%	3.4%	0.267	0.552	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	Cc04g14500
+GO:0016817	1	11%	3.4%	0.268	0.552	hydrolase activity, acting on acid anhydrides	Cc04g14500
+GO:0016788	1	11%	3.6%	0.279	0.552	hydrolase activity, acting on ester bonds	Cc04g02060
+GO:0016757	1	11%	3.9%	0.301	0.552	glycosyltransferase activity	Cc02g20860
+GO:0005488	7	78%	64%	0.315	0.552	binding	Cc04g11270,Cc11g04730,Cc08g08180,Cc10g05350,Cc04g14500,Cc05g10820,Cc04g02060
+GO:0005524	2	22%	14%	0.368	0.606	ATP binding	Cc04g14500,Cc05g10820
+GO:0016787	2	22%	15%	0.413	0.657	hydrolase activity	Cc04g14500,Cc04g02060
+GO:0035639	2	22%	16%	0.422	0.657	purine ribonucleoside triphosphate binding	Cc04g14500,Cc05g10820
+GO:0032559	2	22%	19%	0.531	0.796	adenyl ribonucleotide binding	Cc04g14500,Cc05g10820
+GO:0030554	2	22%	20%	0.552	0.804	adenyl nucleotide binding	Cc04g14500,Cc05g10820
+GO:0004672	1	11%	8.6%	0.554	0.804	protein kinase activity	Cc05g10820
+GO:0016740	2	22%	20%	0.566	0.804	transferase activity	Cc02g20860,Cc05g10820
+GO:0032555	2	22%	20%	0.578	0.804	purine ribonucleotide binding	Cc04g14500,Cc05g10820
+GO:0016773	1	11%	9.2%	0.58	0.804	phosphotransferase activity, alcohol group as acceptor	Cc05g10820
+GO:0032553	2	22%	21%	0.585	0.804	ribonucleotide binding	Cc04g14500,Cc05g10820
+GO:0097367	2	22%	21%	0.59	0.804	carbohydrate derivative binding	Cc04g14500,Cc05g10820
+GO:0016301	1	11%	9.5%	0.594	0.804	kinase activity	Cc05g10820
+GO:0017076	2	22%	21%	0.599	0.804	purine nucleotide binding	Cc04g14500,Cc05g10820
+GO:0016772	1	11%	11%	0.632	0.804	transferase activity, transferring phosphorus-containing groups	Cc05g10820
+GO:0000166	2	22%	22%	0.635	0.804	nucleotide binding	Cc04g14500,Cc05g10820
+GO:1901265	2	22%	23%	0.637	0.804	nucleoside phosphate binding	Cc04g14500,Cc05g10820
+GO:0043168	2	22%	23%	0.642	0.804	anion binding	Cc04g14500,Cc05g10820
+GO:1901363	2	22%	23%	0.658	0.804	heterocyclic compound binding	Cc04g14500,Cc05g10820
+GO:0140096	1	11%	15%	0.756	0.804	catalytic activity, acting on a protein	Cc05g10820
+GO:0005515	1	11%	23%	0.909	0.927	protein binding	Cc05g10820
+GO:0003674	9	100%	100%	1.0	1.0	molecular_function	Cc04g11270,Cc11g04730,Cc08g08180,Cc10g05350,Cc04g14500,Cc02g20860,Cc05g10820,Cc07g13850,Cc04g02060

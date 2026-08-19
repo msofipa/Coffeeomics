@@ -1,0 +1,11 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0003700	1	50%	2.8%	0.0546	0.546	DNA-binding transcription factor activity	Cc11g15010
+GO:0140110	1	50%	3.1%	0.0603	0.546	transcription regulator activity	Cc11g15010
+GO:0003677	1	50%	6.8%	0.131	0.546	DNA binding	Cc11g15010
+GO:0046872	1	50%	11%	0.215	0.546	metal ion binding	Cc07g11100
+GO:0043169	1	50%	12%	0.22	0.546	cation binding	Cc07g11100
+GO:0003676	1	50%	12%	0.231	0.546	nucleic acid binding	Cc11g15010
+GO:0005488	2	100%	64%	0.41	0.586	binding	Cc07g11100,Cc11g15010
+GO:0043167	1	50%	34%	0.559	0.699	ion binding	Cc07g11100
+GO:0036094	1	50%	35%	0.575	0.699	small molecule binding	Cc07g11100
+GO:0003674	2	100%	100%	1.0	1.0	molecular_function	Cc07g11100,Cc11g15010

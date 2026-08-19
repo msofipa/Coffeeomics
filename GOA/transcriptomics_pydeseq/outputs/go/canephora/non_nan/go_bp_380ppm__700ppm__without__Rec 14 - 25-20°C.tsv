@@ -1,0 +1,38 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0006935	1	10%	0.01%	1.21E-3	0.0449	chemotaxis	Cc02g18370
+GO:0010183	1	10%	0.01%	1.21E-3	0.0449	pollen tube guidance	Cc02g18370
+GO:0040011	1	10%	0.01%	1.21E-3	0.0449	locomotion	Cc02g18370
+GO:0050918	1	10%	0.01%	1.21E-3	0.0449	positive chemotaxis	Cc02g18370
+GO:0042330	1	10%	0.01%	1.21E-3	0.0449	taxis	Cc02g18370
+GO:0016036	1	10%	0.05%	4.85E-3	0.0449	cellular response to phosphate starvation	Cc06g08450
+GO:0008283	1	10%	0.06%	6.05E-3	0.0449	cell population proliferation	Cc07g07320
+GO:0009267	1	10%	0.06%	6.05E-3	0.0449	cellular response to starvation	Cc06g08450
+GO:0042594	1	10%	0.06%	6.05E-3	0.0449	response to starvation	Cc06g08450
+GO:0031669	1	10%	0.07%	7.26E-3	0.0449	cellular response to nutrient levels	Cc06g08450
+GO:0031667	1	10%	0.11%	0.0109	0.0449	response to nutrient levels	Cc06g08450
+GO:0045491	1	10%	0.13%	0.0133	0.0449	xylan metabolic process	Cc07g06260
+GO:0045492	1	10%	0.13%	0.0133	0.0449	xylan biosynthetic process	Cc07g06260
+GO:0070592	1	10%	0.13%	0.0133	0.0449	cell wall polysaccharide biosynthetic process	Cc07g06260
+GO:0044038	1	10%	0.13%	0.0133	0.0449	cell wall macromolecule biosynthetic process	Cc07g06260
+GO:0010383	1	10%	0.13%	0.0133	0.0449	cell wall polysaccharide metabolic process	Cc07g06260
+GO:0044036	1	10%	0.28%	0.0276	0.06	cell wall macromolecule metabolic process	Cc07g06260
+GO:0005975	3	30%	8.4%	0.0453	0.093	carbohydrate metabolic process	Cc02g19810,Cc07g06260,Cc11g08330
+GO:0000271	1	10%	0.79%	0.0762	0.148	polysaccharide biosynthetic process	Cc07g06260
+GO:0016051	1	10%	1.1%	0.105	0.195	carbohydrate biosynthetic process	Cc07g06260
+GO:0005976	1	10%	1.2%	0.117	0.206	polysaccharide metabolic process	Cc07g06260
+GO:0033554	1	10%	1.9%	0.171	0.288	cellular response to stress	Cc06g08450
+GO:0051716	1	10%	1.9%	0.178	0.288	cellular response to stimulus	Cc06g08450
+GO:0055085	2	20%	9.5%	0.243	0.374	transmembrane transport	Cc05g03140,Cc02g04240
+GO:0006950	1	10%	4.4%	0.365	0.541	response to stress	Cc06g08450
+GO:0006629	1	10%	4.7%	0.384	0.547	lipid metabolic process	Cc07g01090
+GO:0006810	2	20%	15%	0.444	0.608	transport	Cc05g03140,Cc02g04240
+GO:0050896	1	10%	5.8%	0.452	0.608	response to stimulus	Cc06g08450
+GO:0051234	2	20%	15%	0.458	0.608	establishment of localization	Cc05g03140,Cc02g04240
+GO:0009058	2	20%	15%	0.461	0.608	biosynthetic process	Cc06g18950,Cc07g06260
+GO:0051179	2	20%	15%	0.462	0.608	localization	Cc05g03140,Cc02g04240
+GO:0009059	1	10%	7.1%	0.523	0.608	macromolecule biosynthetic process	Cc07g06260
+GO:0009987	9	90%	85%	0.544	0.61	cellular process	Cc06g18950,Cc02g19810,Cc05g03140,Cc07g06260,Cc07g07320,Cc02g04240,Cc07g01090,Cc06g08450,Cc11g08330
+GO:0008152	5	50%	62%	0.872	0.949	metabolic process	Cc06g18950,Cc02g19810,Cc07g06260,Cc07g01090,Cc11g08330
+GO:0044238	4	40%	55%	0.896	0.949	primary metabolic process	Cc02g19810,Cc07g06260,Cc07g01090,Cc11g08330
+GO:0043170	1	10%	38%	0.992	1.0	macromolecule metabolic process	Cc07g06260
+GO:0008150	10	100%	100%	1.0	1.0	biological_process	Cc06g18950,Cc02g19810,Cc05g03140,Cc07g06260,Cc07g07320,Cc02g04240,Cc07g01090,Cc06g08450,Cc11g08330,Cc02g18370

@@ -1,0 +1,7 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0042026	2	50%	0.12%	7.94E-6	4.77E-5	protein refolding	Cc04g02750,Cc01g00200
+GO:0015979	2	50%	0.46%	1.24E-4	3.71E-4	photosynthesis	Cc02g11770,Cc09g06610
+GO:0006457	2	50%	1.1%	7.13E-4	1.43E-3	protein folding	Cc04g02750,Cc01g00200
+GO:0009987	4	100%	85%	0.522	0.783	cellular process	Cc04g02750,Cc02g11770,Cc01g00200,Cc09g06610
+GO:0008152	2	50%	62%	0.848	1.0	metabolic process	Cc02g11770,Cc09g06610
+GO:0008150	4	100%	100%	1.0	1.0	biological_process	Cc04g02750,Cc02g11770,Cc01g00200,Cc09g06610

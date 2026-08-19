@@ -1,0 +1,16 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0004866	1	50%	0.29%	5.72E-3	0.0859	endopeptidase inhibitor activity	Cc00g30520
+GO:0030414	1	50%	0.29%	5.72E-3	0.0859	peptidase inhibitor activity	Cc00g30520
+GO:0061135	1	50%	0.29%	5.72E-3	0.0859	endopeptidase regulator activity	Cc00g30520
+GO:0061134	1	50%	0.29%	5.86E-3	0.0859	peptidase regulator activity	Cc00g30520
+GO:0046982	1	50%	0.48%	9.53E-3	0.0859	protein heterodimerization activity	Cc01g12010
+GO:0004857	1	50%	0.91%	0.0181	0.0859	enzyme inhibitor activity	Cc00g30520
+GO:0140678	1	50%	0.91%	0.0181	0.0859	molecular function inhibitor activity	Cc00g30520
+GO:0030234	1	50%	1.5%	0.0301	0.0859	enzyme regulator activity	Cc00g30520
+GO:0098772	1	50%	1.7%	0.0342	0.0859	molecular function regulator activity	Cc00g30520
+GO:0046983	1	50%	2.2%	0.0441	0.0859	protein dimerization activity	Cc01g12010
+GO:0003677	1	50%	6.8%	0.131	0.178	DNA binding	Cc01g12010
+GO:0003676	1	50%	12%	0.231	0.289	nucleic acid binding	Cc01g12010
+GO:0005515	1	50%	23%	0.412	0.476	protein binding	Cc01g12010
+GO:0005488	1	50%	64%	0.871	0.933	binding	Cc01g12010
+GO:0003674	2	100%	100%	1.0	1.0	molecular_function	Cc00g30520,Cc01g12010

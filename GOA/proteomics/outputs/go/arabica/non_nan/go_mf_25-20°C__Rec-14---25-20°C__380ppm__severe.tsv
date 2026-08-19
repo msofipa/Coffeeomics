@@ -1,0 +1,39 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0003871	1	33%	0.01%	2.05E-4	7.78E-3	5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase activity	Cc06g07310
+GO:0042085	1	33%	0.01%	2.05E-4	7.78E-3	5-methyltetrahydropteroyltri-L-glutamate-dependent methyltransferase activity	Cc06g07310
+GO:0008172	1	33%	0.02%	6.14E-4	7.78E-3	S-methyltransferase activity	Cc06g07310
+GO:0003755	1	33%	0.36%	0.0108	0.103	peptidyl-prolyl cis-trans isomerase activity	Cc10g01600
+GO:0016859	1	33%	0.37%	0.011	0.103	cis-trans isomerase activity	Cc10g01600
+GO:0008168	1	33%	1.9%	0.0549	0.347	methyltransferase activity	Cc06g07310
+GO:0016741	1	33%	2.0%	0.0586	0.347	transferase activity, transferring one-carbon groups	Cc06g07310
+GO:0016887	1	33%	2.0%	0.059	0.347	ATP hydrolysis activity	Cc04g05910
+GO:0016853	1	33%	2.3%	0.0684	0.347	isomerase activity	Cc10g01600
+GO:0008270	1	33%	3.1%	0.0911	0.347	zinc ion binding	Cc06g07310
+GO:0017111	1	33%	3.2%	0.0916	0.347	ribonucleoside triphosphate phosphatase activity	Cc04g05910
+GO:0016462	1	33%	3.3%	0.0966	0.347	pyrophosphatase activity	Cc04g05910
+GO:0016818	1	33%	3.4%	0.0985	0.347	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	Cc04g05910
+GO:0016817	1	33%	3.4%	0.0989	0.347	hydrolase activity, acting on acid anhydrides	Cc04g05910
+GO:0003824	3	100%	52%	0.144	0.365	catalytic activity	Cc06g07310,Cc04g05910,Cc10g01600
+GO:0046914	1	33%	7.6%	0.211	0.502	transition metal ion binding	Cc06g07310
+GO:0043167	2	67%	34%	0.263	0.588	ion binding	Cc06g07310,Cc04g05910
+GO:0036094	2	67%	35%	0.279	0.59	small molecule binding	Cc06g07310,Cc04g05910
+GO:0046872	1	33%	11%	0.305	0.61	metal ion binding	Cc06g07310
+GO:0043169	1	33%	12%	0.312	0.61	cation binding	Cc06g07310
+GO:0005524	1	33%	14%	0.366	0.662	ATP binding	Cc04g05910
+GO:0140096	1	33%	15%	0.375	0.662	catalytic activity, acting on a protein	Cc10g01600
+GO:0016787	1	33%	15%	0.393	0.662	hydrolase activity	Cc04g05910
+GO:0035639	1	33%	16%	0.399	0.662	purine ribonucleoside triphosphate binding	Cc04g05910
+GO:0032559	1	33%	19%	0.467	0.71	adenyl ribonucleotide binding	Cc04g05910
+GO:0030554	1	33%	20%	0.48	0.71	adenyl nucleotide binding	Cc04g05910
+GO:0016740	1	33%	20%	0.489	0.71	transferase activity	Cc06g07310
+GO:0032555	1	33%	20%	0.497	0.71	purine ribonucleotide binding	Cc04g05910
+GO:0032553	1	33%	21%	0.501	0.71	ribonucleotide binding	Cc04g05910
+GO:0097367	1	33%	21%	0.504	0.71	carbohydrate derivative binding	Cc04g05910
+GO:0017076	1	33%	21%	0.51	0.71	purine nucleotide binding	Cc04g05910
+GO:0000166	1	33%	22%	0.534	0.71	nucleotide binding	Cc04g05910
+GO:1901265	1	33%	23%	0.535	0.71	nucleoside phosphate binding	Cc04g05910
+GO:0043168	1	33%	23%	0.539	0.71	anion binding	Cc04g05910
+GO:1901363	1	33%	23%	0.549	0.71	heterocyclic compound binding	Cc04g05910
+GO:0005515	1	33%	23%	0.55	0.71	protein binding	Cc04g05910
+GO:0005488	2	67%	64%	0.705	0.724	binding	Cc06g07310,Cc04g05910
+GO:0003674	3	100%	100%	1.0	1.0	molecular_function	Cc06g07310,Cc04g05910,Cc10g01600

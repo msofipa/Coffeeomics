@@ -1,0 +1,19 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0089701	1	25%	0.26%	0.0106	0.19	U2AF complex	Cc01g09880
+GO:0005680	1	25%	0.29%	0.0117	0.19	anaphase-promoting complex	Cc02g06280
+GO:0000152	1	25%	0.29%	0.0117	0.19	nuclear ubiquitin ligase complex	Cc02g06280
+GO:0031461	1	25%	0.44%	0.0176	0.19	cullin-RING ubiquitin ligase complex	Cc02g06280
+GO:0000151	1	25%	0.5%	0.0199	0.19	ubiquitin ligase complex	Cc02g06280
+GO:0140513	2	50%	7.2%	0.0284	0.19	nuclear protein-containing complex	Cc01g09880,Cc02g06280
+GO:1990234	1	25%	3.9%	0.147	0.377	transferase complex	Cc02g06280
+GO:0140535	1	25%	3.9%	0.148	0.377	intracellular protein-containing complex	Cc02g06280
+GO:1902494	1	25%	7.9%	0.28	0.561	catalytic complex	Cc02g06280
+GO:0032991	2	50%	26%	0.281	0.561	protein-containing complex	Cc01g09880,Cc02g06280
+GO:0005634	1	25%	9.2%	0.322	0.561	nucleus	Cc07g04190
+GO:0043231	1	25%	12%	0.398	0.597	intracellular membrane-bounded organelle	Cc07g04190
+GO:0043227	1	25%	12%	0.398	0.597	membrane-bounded organelle	Cc07g04190
+GO:0043229	1	25%	23%	0.65	0.835	intracellular organelle	Cc07g04190
+GO:0043226	1	25%	23%	0.65	0.835	organelle	Cc07g04190
+GO:0016020	1	25%	47%	0.918	1.0	membrane	Cc07g12510
+GO:0110165	2	50%	79%	0.968	1.0	cellular anatomical structure	Cc07g12510,Cc07g04190
+GO:0005575	4	100%	100%	1.0	1.0	cellular_component	Cc07g12510,Cc07g04190,Cc01g09880,Cc02g06280

@@ -1,0 +1,35 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0009737	1	25%	0.07%	2.91E-3	0.0989	response to abscisic acid	Cc03g07610
+GO:0097305	1	25%	0.07%	2.91E-3	0.0989	response to alcohol	Cc03g07610
+GO:0033993	1	25%	0.1%	3.88E-3	0.0989	response to lipid	Cc03g07610
+GO:1901700	1	25%	0.22%	8.71E-3	0.0989	response to oxygen-containing compound	Cc03g07610
+GO:0010411	1	25%	0.27%	0.0106	0.0989	xyloglucan metabolic process	Cc06g13410
+GO:0042546	1	25%	0.34%	0.0135	0.0989	cell wall biogenesis	Cc06g13410
+GO:0044085	1	25%	0.64%	0.0255	0.124	cellular component biogenesis	Cc06g13410
+GO:0009725	1	25%	0.72%	0.0283	0.124	response to hormone	Cc03g07610
+GO:0009719	1	25%	0.74%	0.0293	0.124	response to endogenous stimulus	Cc03g07610
+GO:0042221	1	25%	0.9%	0.0354	0.124	response to chemical	Cc03g07610
+GO:0044042	1	25%	0.95%	0.0373	0.124	glucan metabolic process	Cc06g13410
+GO:0006355	2	50%	9.1%	0.0434	0.124	regulation of DNA-templated transcription	Cc11g12740,Cc05g12500
+GO:2001141	2	50%	9.1%	0.0434	0.124	regulation of RNA biosynthetic process	Cc11g12740,Cc05g12500
+GO:0051252	2	50%	9.1%	0.044	0.124	regulation of RNA metabolic process	Cc11g12740,Cc05g12500
+GO:0019219	2	50%	9.3%	0.0455	0.124	regulation of nucleobase-containing compound metabolic process	Cc11g12740,Cc05g12500
+GO:0005976	1	25%	1.2%	0.0486	0.124	polysaccharide metabolic process	Cc06g13410
+GO:0010468	2	50%	9.7%	0.0495	0.124	regulation of gene expression	Cc11g12740,Cc05g12500
+GO:0010556	2	50%	9.7%	0.0497	0.124	regulation of macromolecule biosynthetic process	Cc11g12740,Cc05g12500
+GO:0009889	2	50%	9.8%	0.0499	0.124	regulation of biosynthetic process	Cc11g12740,Cc05g12500
+GO:0071554	1	25%	1.3%	0.05	0.124	cell wall organization or biogenesis	Cc06g13410
+GO:0080090	2	50%	9.8%	0.0505	0.124	regulation of primary metabolic process	Cc11g12740,Cc05g12500
+GO:0060255	2	50%	10%	0.0555	0.124	regulation of macromolecule metabolic process	Cc11g12740,Cc05g12500
+GO:0019222	2	50%	10%	0.0563	0.124	regulation of metabolic process	Cc11g12740,Cc05g12500
+GO:0050794	2	50%	13%	0.0888	0.126	regulation of cellular process	Cc11g12740,Cc05g12500
+GO:0050789	2	50%	14%	0.0958	0.13	regulation of biological process	Cc11g12740,Cc05g12500
+GO:0065007	2	50%	14%	0.1	0.131	biological regulation	Cc11g12740,Cc05g12500
+GO:0050896	1	25%	5.8%	0.214	0.269	response to stimulus	Cc03g07610
+GO:0071840	1	25%	6.5%	0.234	0.285	cellular component organization or biogenesis	Cc06g13410
+GO:0005975	1	25%	8.4%	0.296	0.347	carbohydrate metabolic process	Cc06g13410
+GO:0043170	1	25%	38%	0.853	0.967	macromolecule metabolic process	Cc06g13410
+GO:0044238	1	25%	55%	0.958	1.0	primary metabolic process	Cc06g13410
+GO:0008152	1	25%	62%	0.98	1.0	metabolic process	Cc06g13410
+GO:0009987	1	25%	85%	0.999	1.0	cellular process	Cc06g13410
+GO:0008150	4	100%	100%	1.0	1.0	biological_process	Cc06g13410,Cc11g12740,Cc03g07610,Cc05g12500

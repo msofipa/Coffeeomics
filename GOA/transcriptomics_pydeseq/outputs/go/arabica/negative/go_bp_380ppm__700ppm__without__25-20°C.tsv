@@ -1,0 +1,66 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0046174	1	13%	0.07%	5.81E-3	0.378	polyol catabolic process	Cc04g02360
+GO:0009737	1	13%	0.07%	5.81E-3	0.378	response to abscisic acid	Cc03g07610
+GO:0046164	1	13%	0.07%	5.81E-3	0.378	alcohol catabolic process	Cc04g02360
+GO:0019953	1	13%	0.07%	5.81E-3	0.378	sexual reproduction	Cc08g11410
+GO:0097305	1	13%	0.07%	5.81E-3	0.378	response to alcohol	Cc03g07610
+GO:0019310	1	13%	0.07%	5.81E-3	0.378	inositol catabolic process	Cc04g02360
+GO:0006020	1	13%	0.08%	6.78E-3	0.378	inositol metabolic process	Cc04g02360
+GO:0006536	1	13%	0.08%	6.78E-3	0.378	glutamate metabolic process	Cc07g12910
+GO:0033993	1	13%	0.1%	7.74E-3	0.378	response to lipid	Cc03g07610
+GO:0009627	1	13%	0.12%	9.67E-3	0.378	systemic acquired resistance	Cc11g05220
+GO:0140546	1	13%	0.13%	0.0106	0.378	defense response to symbiont	Cc11g05220
+GO:0098542	1	13%	0.13%	0.0106	0.378	defense response to other organism	Cc11g05220
+GO:0043207	1	13%	0.22%	0.0174	0.378	response to external biotic stimulus	Cc11g05220
+GO:1901700	1	13%	0.22%	0.0174	0.378	response to oxygen-containing compound	Cc03g07610
+GO:0019751	1	13%	0.22%	0.0174	0.378	polyol metabolic process	Cc04g02360
+GO:0051707	1	13%	0.22%	0.0174	0.378	response to other organism	Cc11g05220
+GO:0044419	1	13%	0.23%	0.0183	0.378	biological process involved in interspecies interaction between organisms	Cc11g05220
+GO:0009607	1	13%	0.24%	0.0193	0.378	response to biotic stimulus	Cc11g05220
+GO:0043648	1	13%	0.24%	0.0193	0.378	dicarboxylic acid metabolic process	Cc07g12910
+GO:0010411	1	13%	0.27%	0.0212	0.378	xyloglucan metabolic process	Cc06g13410
+GO:0009064	1	13%	0.27%	0.0212	0.378	glutamine family amino acid metabolic process	Cc07g12910
+GO:0006066	1	13%	0.3%	0.024	0.378	alcohol metabolic process	Cc04g02360
+GO:0042546	1	13%	0.34%	0.0269	0.378	cell wall biogenesis	Cc06g13410
+GO:0044282	1	13%	0.36%	0.0288	0.378	small molecule catabolic process	Cc04g02360
+GO:0022414	1	13%	0.53%	0.0419	0.378	reproductive process	Cc08g11410
+GO:0009605	1	13%	0.53%	0.0419	0.378	response to external stimulus	Cc11g05220
+GO:0044085	1	13%	0.64%	0.0503	0.378	cellular component biogenesis	Cc06g13410
+GO:0009725	1	13%	0.72%	0.0559	0.378	response to hormone	Cc03g07610
+GO:0009719	1	13%	0.74%	0.0577	0.378	response to endogenous stimulus	Cc03g07610
+GO:0042221	1	13%	0.9%	0.0697	0.378	response to chemical	Cc03g07610
+GO:0044042	1	13%	0.95%	0.0733	0.378	glucan metabolic process	Cc06g13410
+GO:0050896	2	25%	5.8%	0.0753	0.378	response to stimulus	Cc03g07610,Cc11g05220
+GO:0170033	1	13%	1.1%	0.0814	0.378	L-amino acid metabolic process	Cc07g12910
+GO:0006952	1	13%	1.1%	0.0841	0.378	defense response	Cc11g05220
+GO:0170039	1	13%	1.1%	0.085	0.378	proteinogenic amino acid metabolic process	Cc07g12910
+GO:1901605	1	13%	1.2%	0.0904	0.378	alpha-amino acid metabolic process	Cc07g12910
+GO:0005976	1	13%	1.2%	0.0949	0.378	polysaccharide metabolic process	Cc06g13410
+GO:0044281	2	25%	6.7%	0.0964	0.378	small molecule metabolic process	Cc04g02360,Cc07g12910
+GO:0071554	1	13%	1.3%	0.0975	0.378	cell wall organization or biogenesis	Cc06g13410
+GO:2001141	2	25%	9.1%	0.159	0.378	regulation of RNA biosynthetic process	Cc08g16780,Cc05g12500
+GO:0006355	2	25%	9.1%	0.159	0.378	regulation of DNA-templated transcription	Cc08g16780,Cc05g12500
+GO:0051252	2	25%	9.1%	0.161	0.378	regulation of RNA metabolic process	Cc08g16780,Cc05g12500
+GO:0019219	2	25%	9.3%	0.166	0.378	regulation of nucleobase-containing compound metabolic process	Cc08g16780,Cc05g12500
+GO:0010468	2	25%	9.7%	0.178	0.378	regulation of gene expression	Cc08g16780,Cc05g12500
+GO:0010556	2	25%	9.7%	0.179	0.378	regulation of macromolecule biosynthetic process	Cc08g16780,Cc05g12500
+GO:0009889	2	25%	9.8%	0.18	0.378	regulation of biosynthetic process	Cc08g16780,Cc05g12500
+GO:0080090	2	25%	9.8%	0.181	0.378	regulation of primary metabolic process	Cc08g16780,Cc05g12500
+GO:0006520	1	13%	2.6%	0.19	0.378	amino acid metabolic process	Cc07g12910
+GO:0060255	2	25%	10%	0.197	0.378	regulation of macromolecule metabolic process	Cc08g16780,Cc05g12500
+GO:0019222	2	25%	10%	0.199	0.378	regulation of metabolic process	Cc08g16780,Cc05g12500
+GO:0019752	1	13%	3.5%	0.248	0.378	carboxylic acid metabolic process	Cc07g12910
+GO:0006082	1	13%	3.5%	0.249	0.378	organic acid metabolic process	Cc07g12910
+GO:0043436	1	13%	3.5%	0.249	0.378	oxoacid metabolic process	Cc07g12910
+GO:0050794	2	25%	13%	0.29	0.378	regulation of cellular process	Cc08g16780,Cc05g12500
+GO:0009056	1	13%	4.3%	0.295	0.378	catabolic process	Cc04g02360
+GO:0006950	1	13%	4.4%	0.305	0.378	response to stress	Cc11g05220
+GO:0050789	2	25%	14%	0.309	0.378	regulation of biological process	Cc08g16780,Cc05g12500
+GO:0065007	2	25%	14%	0.32	0.378	biological regulation	Cc08g16780,Cc05g12500
+GO:0071840	1	13%	6.5%	0.414	0.456	cellular component organization or biogenesis	Cc06g13410
+GO:0005975	1	13%	8.4%	0.504	0.546	carbohydrate metabolic process	Cc06g13410
+GO:0008152	3	38%	62%	0.964	1.0	metabolic process	Cc04g02360,Cc06g13410,Cc07g12910
+GO:0043170	1	13%	38%	0.978	1.0	macromolecule metabolic process	Cc06g13410
+GO:0044238	2	25%	55%	0.981	1.0	primary metabolic process	Cc06g13410,Cc07g12910
+GO:0009987	3	38%	85%	1.0	1.0	cellular process	Cc04g02360,Cc06g13410,Cc07g12910
+GO:0008150	8	100%	100%	1.0	1.0	biological_process	Cc04g02360,Cc08g11410,Cc06g13410,Cc08g16780,Cc07g12910,Cc03g07610,Cc05g12500,Cc11g05220

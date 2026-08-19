@@ -1,0 +1,55 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0016036	2	18%	0.05%	9.71E-6	5.24E-4	cellular response to phosphate starvation	Cc02g24440,Cc06g08450
+GO:0009267	2	18%	0.06%	1.62E-5	5.24E-4	cellular response to starvation	Cc02g24440,Cc06g08450
+GO:0042594	2	18%	0.06%	1.62E-5	5.24E-4	response to starvation	Cc02g24440,Cc06g08450
+GO:0031669	2	18%	0.07%	2.42E-5	5.24E-4	cellular response to nutrient levels	Cc02g24440,Cc06g08450
+GO:0031667	2	18%	0.11%	5.8E-5	6.27E-4	response to nutrient levels	Cc02g24440,Cc06g08450
+GO:0006869	2	18%	0.58%	1.77E-3	0.0159	lipid transport	Cc06g18440,Cc06g18430
+GO:0006810	6	55%	15%	2.35E-3	0.0181	transport	Cc06g18440,Cc05g14830,Cc06g18430,Cc01g13200,Cc02g37110,Cc02g01090
+GO:0051234	6	55%	15%	2.68E-3	0.0181	establishment of localization	Cc06g18440,Cc05g14830,Cc06g18430,Cc01g13200,Cc02g37110,Cc02g01090
+GO:0051179	6	55%	15%	2.81E-3	0.0181	localization	Cc06g18440,Cc05g14830,Cc06g18430,Cc01g13200,Cc02g37110,Cc02g01090
+GO:0009435	1	9.1%	0.08%	9.31E-3	0.0503	NAD+ biosynthetic process	Cc07g02190
+GO:0030001	2	18%	1.5%	0.0108	0.053	metal ion transport	Cc05g14830,Cc01g13200
+GO:0019359	1	9.1%	0.12%	0.0133	0.0597	nicotinamide nucleotide biosynthetic process	Cc07g02190
+GO:0019363	1	9.1%	0.12%	0.0133	0.0597	pyridine nucleotide biosynthetic process	Cc07g02190
+GO:0019674	1	9.1%	0.12%	0.0133	0.0597	NAD+ metabolic process	Cc07g02190
+GO:0055085	4	36%	9.5%	0.0152	0.0597	transmembrane transport	Cc05g14830,Cc01g13200,Cc02g37110,Cc02g01090
+GO:0033554	2	18%	1.9%	0.0169	0.0597	cellular response to stress	Cc02g24440,Cc06g08450
+GO:0051716	2	18%	1.9%	0.0184	0.0597	cellular response to stimulus	Cc02g24440,Cc06g08450
+GO:0072525	1	9.1%	0.22%	0.0238	0.0713	pyridine-containing compound biosynthetic process	Cc07g02190
+GO:0006812	2	18%	2.4%	0.0274	0.0779	monoatomic cation transport	Cc05g14830,Cc01g13200
+GO:0006811	2	18%	2.8%	0.0353	0.0953	monoatomic ion transport	Cc05g14830,Cc01g13200
+GO:0000160	1	9.1%	0.42%	0.0458	0.118	phosphorelay signal transduction system	Cc11g14050
+GO:0006164	1	9.1%	0.69%	0.0736	0.181	purine nucleotide biosynthetic process	Cc07g02190
+GO:0046496	1	9.1%	0.78%	0.0822	0.193	nicotinamide nucleotide metabolic process	Cc07g02190
+GO:0006950	2	18%	4.4%	0.083	0.193	response to stress	Cc02g24440,Cc06g08450
+GO:0072524	1	9.1%	0.87%	0.0921	0.199	pyridine-containing compound metabolic process	Cc07g02190
+GO:0072522	1	9.1%	0.92%	0.097	0.201	purine-containing compound biosynthetic process	Cc07g02190
+GO:0009165	1	9.1%	1.0%	0.108	0.216	nucleotide biosynthetic process	Cc07g02190
+GO:0035556	1	9.1%	1.1%	0.114	0.22	intracellular signal transduction	Cc11g14050
+GO:1901293	1	9.1%	1.2%	0.128	0.239	nucleoside phosphate biosynthetic process	Cc07g02190
+GO:0050896	2	18%	5.8%	0.132	0.239	response to stimulus	Cc02g24440,Cc06g08450
+GO:0006163	1	9.1%	1.4%	0.148	0.258	purine nucleotide metabolic process	Cc07g02190
+GO:0072521	1	9.1%	1.8%	0.178	0.3	purine-containing compound metabolic process	Cc07g02190
+GO:0009117	1	9.1%	1.8%	0.182	0.3	nucleotide metabolic process	Cc07g02190
+GO:0090407	1	9.1%	2.1%	0.204	0.324	organophosphate biosynthetic process	Cc07g02190
+GO:0006753	1	9.1%	2.2%	0.216	0.333	nucleoside phosphate metabolic process	Cc07g02190
+GO:0007165	1	9.1%	2.3%	0.23	0.344	signal transduction	Cc11g14050
+GO:0055086	1	9.1%	2.5%	0.247	0.361	nucleobase-containing small molecule metabolic process	Cc07g02190
+GO:0034654	1	9.1%	3.3%	0.311	0.442	nucleobase-containing compound biosynthetic process	Cc07g02190
+GO:0019637	1	9.1%	3.7%	0.337	0.467	organophosphate metabolic process	Cc07g02190
+GO:0006508	1	9.1%	6.0%	0.493	0.665	proteolysis	Cc07g12510
+GO:0044281	1	9.1%	6.7%	0.535	0.705	small molecule metabolic process	Cc07g02190
+GO:0006139	1	9.1%	12%	0.743	0.955	nucleobase-containing compound metabolic process	Cc07g02190
+GO:0009987	9	82%	85%	0.779	0.978	cellular process	Cc05g14830,Cc02g24440,Cc07g12510,Cc11g14050,Cc07g02190,Cc01g13200,Cc02g37110,Cc06g08450,Cc02g01090
+GO:0050794	1	9.1%	13%	0.793	0.978	regulation of cellular process	Cc11g14050
+GO:0050789	1	9.1%	14%	0.808	0.978	regulation of biological process	Cc11g14050
+GO:0065007	1	9.1%	14%	0.817	0.978	biological regulation	Cc11g14050
+GO:0009058	1	9.1%	15%	0.836	0.978	biosynthetic process	Cc07g02190
+GO:0006793	1	9.1%	19%	0.907	1.0	phosphorus metabolic process	Cc07g02190
+GO:0006796	1	9.1%	19%	0.907	1.0	phosphate-containing compound metabolic process	Cc07g02190
+GO:0019538	1	9.1%	28%	0.973	1.0	protein metabolic process	Cc07g12510
+GO:0043170	1	9.1%	38%	0.995	1.0	macromolecule metabolic process	Cc07g12510
+GO:0044238	2	18%	55%	0.998	1.0	primary metabolic process	Cc07g12510,Cc07g02190
+GO:0008152	2	18%	62%	1.0	1.0	metabolic process	Cc07g12510,Cc07g02190
+GO:0008150	11	100%	100%	1.0	1.0	biological_process	Cc06g18440,Cc05g14830,Cc06g18430,Cc02g24440,Cc07g12510,Cc11g14050,Cc07g02190,Cc01g13200,Cc02g37110,Cc06g08450,Cc02g01090

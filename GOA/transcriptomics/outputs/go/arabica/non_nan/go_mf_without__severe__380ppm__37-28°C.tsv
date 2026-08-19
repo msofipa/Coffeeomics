@@ -1,0 +1,15 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0016717	1	33%	0.08%	2.45E-3	0.0344	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water	Cc04g04380
+GO:0016491	2	67%	11%	0.0339	0.237	oxidoreductase activity	Cc01g08270,Cc04g04380
+GO:0008270	1	33%	3.1%	0.0911	0.425	zinc ion binding	Cc01g08270
+GO:0016705	1	33%	3.6%	0.104	0.425	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	Cc04g04380
+GO:0003677	1	33%	6.8%	0.189	0.53	DNA binding	Cc02g13910
+GO:0046914	1	33%	7.6%	0.211	0.53	transition metal ion binding	Cc01g08270
+GO:0046872	1	33%	11%	0.305	0.61	metal ion binding	Cc01g08270
+GO:0043169	1	33%	12%	0.312	0.61	cation binding	Cc01g08270
+GO:0003676	1	33%	12%	0.326	0.61	nucleic acid binding	Cc02g13910
+GO:0003824	2	67%	52%	0.536	0.75	catalytic activity	Cc01g08270,Cc04g04380
+GO:0005488	2	67%	64%	0.705	0.897	binding	Cc01g08270,Cc02g13910
+GO:0043167	1	33%	34%	0.708	0.897	ion binding	Cc01g08270
+GO:0036094	1	33%	35%	0.723	0.897	small molecule binding	Cc01g08270
+GO:0003674	3	100%	100%	1.0	1.0	molecular_function	Cc01g08270,Cc02g13910,Cc04g04380

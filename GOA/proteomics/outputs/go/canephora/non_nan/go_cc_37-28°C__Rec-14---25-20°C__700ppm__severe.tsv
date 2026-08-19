@@ -1,0 +1,15 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0009522	2	50%	0.24%	2.91E-5	4.07E-4	photosystem I	Cc10g12590,Cc09g06610
+GO:0009521	2	50%	0.91%	4.78E-4	3.35E-3	photosystem	Cc10g12590,Cc09g06610
+GO:0009538	1	25%	0.15%	5.88E-3	0.0274	photosystem I reaction center	Cc09g06610
+GO:0098796	2	50%	4.3%	0.0103	0.0359	membrane protein complex	Cc10g12590,Cc09g06610
+GO:0005739	1	25%	0.47%	0.0187	0.0524	mitochondrion	Cc02g38200
+GO:0000786	1	25%	1.4%	0.0554	0.129	nucleosome	Cc01g12010
+GO:0032991	3	75%	26%	0.0572	0.129	protein-containing complex	Cc10g12590,Cc09g06610,Cc01g12010
+GO:0032993	1	25%	1.5%	0.0587	0.129	protein-DNA complex	Cc01g12010
+GO:0043231	1	25%	12%	0.398	0.62	intracellular membrane-bounded organelle	Cc02g38200
+GO:0043227	1	25%	12%	0.398	0.62	membrane-bounded organelle	Cc02g38200
+GO:0043229	1	25%	23%	0.65	0.827	intracellular organelle	Cc02g38200
+GO:0043226	1	25%	23%	0.65	0.827	organelle	Cc02g38200
+GO:0110165	1	25%	79%	0.998	1.0	cellular anatomical structure	Cc02g38200
+GO:0005575	4	100%	100%	1.0	1.0	cellular_component	Cc10g12590,Cc02g38200,Cc09g06610,Cc01g12010

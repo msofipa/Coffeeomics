@@ -1,0 +1,60 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0009298	1	14%	0.02%	1.7E-3	0.1	GDP-mannose biosynthetic process	Cc07g08780
+GO:0019673	1	14%	0.04%	2.55E-3	0.1	GDP-mannose metabolic process	Cc07g08780
+GO:0009269	1	14%	0.05%	3.39E-3	0.1	response to desiccation	Cc02g38620
+GO:0009414	1	14%	0.05%	3.39E-3	0.1	response to water deprivation	Cc02g38620
+GO:0045927	1	14%	0.08%	5.93E-3	0.1	positive regulation of growth	Cc06g02310
+GO:0009226	1	14%	0.08%	5.93E-3	0.1	nucleotide-sugar biosynthetic process	Cc07g08780
+GO:0001101	1	14%	0.08%	5.93E-3	0.1	response to acid chemical	Cc02g38620
+GO:0009415	1	14%	0.08%	5.93E-3	0.1	response to water	Cc02g38620
+GO:0002098	1	14%	0.11%	7.62E-3	0.1	tRNA wobble uridine modification	Cc07g08770
+GO:0009225	1	14%	0.13%	9.31E-3	0.1	nucleotide-sugar metabolic process	Cc07g08780
+GO:0002097	1	14%	0.13%	9.31E-3	0.1	tRNA wobble base modification	Cc07g08770
+GO:1901700	1	14%	0.22%	0.0152	0.1	response to oxygen-containing compound	Cc02g38620
+GO:0040008	1	14%	0.23%	0.016	0.1	regulation of growth	Cc06g02310
+GO:0010411	1	14%	0.27%	0.0185	0.1	xyloglucan metabolic process	Cc06g13410
+GO:0042546	1	14%	0.34%	0.0236	0.1	cell wall biogenesis	Cc06g13410
+GO:0006400	1	14%	0.5%	0.0343	0.127	tRNA modification	Cc07g08770
+GO:0009628	1	14%	0.64%	0.0442	0.153	response to abiotic stimulus	Cc02g38620
+GO:0044085	1	14%	0.64%	0.0442	0.153	cellular component biogenesis	Cc06g13410
+GO:0008033	1	14%	0.74%	0.0507	0.157	tRNA processing	Cc07g08770
+GO:0042221	1	14%	0.9%	0.0612	0.181	response to chemical	Cc02g38620
+GO:0044042	1	14%	0.95%	0.0644	0.181	glucan metabolic process	Cc06g13410
+GO:0006749	1	14%	0.98%	0.0668	0.181	glutathione metabolic process	Cc08g14560
+GO:0009451	1	14%	1.1%	0.0724	0.186	RNA modification	Cc07g08770
+GO:0048518	1	14%	1.1%	0.0772	0.19	positive regulation of biological process	Cc06g02310
+GO:0005976	1	14%	1.2%	0.0835	0.197	polysaccharide metabolic process	Cc06g13410
+GO:1901293	1	14%	1.2%	0.0835	0.197	nucleoside phosphate biosynthetic process	Cc07g08780
+GO:0006575	1	14%	1.3%	0.0843	0.197	modified amino acid metabolic process	Cc08g14560
+GO:0071554	1	14%	1.3%	0.0859	0.197	cell wall organization or biogenesis	Cc06g13410
+GO:1901137	1	14%	1.3%	0.0867	0.197	carbohydrate derivative biosynthetic process	Cc07g08780
+GO:0043603	1	14%	1.3%	0.0882	0.197	amide metabolic process	Cc08g14560
+GO:0006399	1	14%	1.4%	0.0922	0.197	tRNA metabolic process	Cc07g08770
+GO:0006790	1	14%	1.7%	0.11	0.203	sulfur compound metabolic process	Cc08g14560
+GO:0005975	2	29%	8.4%	0.111	0.203	carbohydrate metabolic process	Cc06g13410,Cc07g08780
+GO:0090407	1	14%	2.1%	0.135	0.234	organophosphate biosynthetic process	Cc07g08780
+GO:0006753	1	14%	2.2%	0.143	0.242	nucleoside phosphate metabolic process	Cc07g08780
+GO:0055086	1	14%	2.5%	0.165	0.271	nucleobase-containing small molecule metabolic process	Cc07g08780
+GO:0006520	1	14%	2.6%	0.168	0.271	amino acid metabolic process	Cc05g07610
+GO:1901135	1	14%	2.7%	0.177	0.275	carbohydrate derivative metabolic process	Cc07g08780
+GO:0006139	2	29%	12%	0.191	0.288	nucleobase-containing compound metabolic process	Cc07g08780,Cc07g08770
+GO:0034654	1	14%	3.3%	0.211	0.311	nucleobase-containing compound biosynthetic process	Cc07g08780
+GO:0019637	1	14%	3.7%	0.23	0.331	organophosphate metabolic process	Cc07g08780
+GO:0006396	1	14%	3.8%	0.235	0.331	RNA processing	Cc07g08770
+GO:0006950	1	14%	4.4%	0.273	0.374	response to stress	Cc02g38620
+GO:0009058	2	29%	15%	0.287	0.385	biosynthetic process	Cc07g08780,Cc05g07610
+GO:0050896	1	14%	5.8%	0.344	0.451	response to stimulus	Cc02g38620
+GO:0016070	1	14%	5.9%	0.348	0.451	RNA metabolic process	Cc07g08770
+GO:0071840	1	14%	6.5%	0.373	0.469	cellular component organization or biogenesis	Cc06g13410
+GO:0044281	1	14%	6.7%	0.386	0.474	small molecule metabolic process	Cc07g08780
+GO:0008152	5	71%	62%	0.474	0.571	metabolic process	Cc06g13410,Cc07g08780,Cc07g08770,Cc08g14560,Cc05g07610
+GO:0090304	1	14%	8.8%	0.475	0.571	nucleic acid metabolic process	Cc07g08770
+GO:0044238	4	57%	55%	0.604	0.699	primary metabolic process	Cc06g13410,Cc07g08780,Cc07g08770,Cc05g07610
+GO:0050789	1	14%	14%	0.65	0.737	regulation of biological process	Cc06g02310
+GO:0065007	1	14%	14%	0.661	0.737	biological regulation	Cc06g02310
+GO:0043412	1	14%	19%	0.771	0.843	macromolecule modification	Cc07g08770
+GO:0006793	1	14%	19%	0.78	0.843	phosphorus metabolic process	Cc07g08780
+GO:0006796	1	14%	19%	0.78	0.843	phosphate-containing compound metabolic process	Cc07g08780
+GO:0043170	2	29%	38%	0.815	0.844	macromolecule metabolic process	Cc06g13410,Cc07g08770
+GO:0009987	5	71%	85%	0.926	0.942	cellular process	Cc06g13410,Cc07g08780,Cc07g08770,Cc08g14560,Cc05g07610
+GO:0008150	7	100%	100%	1.0	1.0	biological_process	Cc02g38620,Cc06g13410,Cc07g08780,Cc07g08770,Cc06g02310,Cc08g14560,Cc05g07610

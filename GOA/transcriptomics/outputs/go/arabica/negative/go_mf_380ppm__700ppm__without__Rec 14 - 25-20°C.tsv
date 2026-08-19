@@ -1,0 +1,139 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0008725	2	2.9%	0.03%	2.16E-4	0.0299	DNA-3-methyladenine glycosylase activity	Cc11g11470,Cc10g03280
+GO:0043733	2	2.9%	0.03%	2.16E-4	0.0299	DNA-3-methylbase glycosylase activity	Cc11g11470,Cc10g03280
+GO:0003905	2	2.9%	0.04%	3.24E-4	0.0299	alkylbase DNA N-glycosylase activity	Cc11g11470,Cc10g03280
+GO:0015116	2	2.9%	0.06%	7.7E-4	0.0299	sulfate transmembrane transporter activity	Cc10g05870,Cc11g08520
+GO:1901682	2	2.9%	0.06%	7.7E-4	0.0299	sulfur compound transmembrane transporter activity	Cc10g05870,Cc11g08520
+GO:0008271	2	2.9%	0.06%	7.7E-4	0.0299	secondary active sulfate transmembrane transporter activity	Cc10g05870,Cc11g08520
+GO:0016799	2	2.9%	0.06%	7.7E-4	0.0299	hydrolase activity, hydrolyzing N-glycosyl compounds	Cc11g11470,Cc10g03280
+GO:0019104	2	2.9%	0.06%	7.7E-4	0.0299	DNA N-glycosylase activity	Cc11g11470,Cc10g03280
+GO:0008092	4	5.8%	0.96%	4.27E-3	0.0654	cytoskeletal protein binding	Cc01g21160,Cc09g00490,Cc05g13160,Cc02g30970
+GO:0008017	3	4.3%	0.53%	5.7E-3	0.0786	microtubule binding	Cc01g21160,Cc09g00490,Cc05g13160
+GO:0016798	7	10%	3.2%	6.49E-3	0.0814	hydrolase activity, acting on glycosyl bonds	Cc02g20260,Cc11g11470,Cc11g12290,Cc06g07710,Cc02g21830,Cc10g03280,Cc08g16000
+GO:0008146	2	2.9%	0.2%	8.17E-3	0.094	sulfotransferase activity	Cc09g03850,Cc08g06890
+GO:0015631	3	4.3%	0.61%	8.5E-3	0.094	tubulin binding	Cc01g21160,Cc09g00490,Cc05g13160
+GO:0016782	2	2.9%	0.26%	0.0138	0.136	transferase activity, transferring sulphur-containing groups	Cc09g03850,Cc08g06890
+GO:0017022	1	1.4%	0.03%	0.0187	0.172	myosin binding	Cc02g30970
+GO:0004351	1	1.4%	0.03%	0.0233	0.201	glutamate decarboxylase activity	Cc11g05190
+GO:0008171	2	2.9%	0.4%	0.0315	0.255	O-methyltransferase activity	Cc05g07890,Cc06g21560
+GO:0019900	1	1.4%	0.05%	0.0325	0.255	kinase binding	Cc02g24650
+GO:0019901	1	1.4%	0.05%	0.0325	0.255	protein kinase binding	Cc02g24650
+GO:0004089	1	1.4%	0.06%	0.0416	0.287	carbonate dehydratase activity	Cc06g05880
+GO:0016757	6	8.7%	3.9%	0.0517	0.34	glycosyltransferase activity	Cc02g20260,Cc03g09300,Cc02g35340,Cc09g08680,Cc06g04630,Cc06g14690
+GO:0005509	3	4.3%	1.3%	0.0611	0.383	calcium ion binding	Cc03g00700,Cc10g13610,Cc06g07260
+GO:0008194	4	5.8%	2.2%	0.0669	0.401	UDP-glycosyltransferase activity	Cc03g09300,Cc09g08680,Cc06g04630,Cc06g14690
+GO:0046983	4	5.8%	2.2%	0.0681	0.401	protein dimerization activity	Cc05g07890,Cc06g21560,Cc02g34050,Cc11g10650
+GO:0046527	2	2.9%	0.63%	0.0698	0.401	glucosyltransferase activity	Cc02g20260,Cc06g14690
+GO:0005544	1	1.4%	0.12%	0.0815	0.433	calcium-dependent phospholipid binding	Cc06g07260
+GO:0046872	12	17%	11%	0.0897	0.458	metal ion binding	Cc07g11160,Cc03g00700,Cc04g11250,Cc06g05880,Cc02g24560,Cc02g05960,Cc04g09880,Cc10g13610,Cc05g05110,Cc06g07260,Cc08g14880,Cc11g09530
+GO:0010427	1	1.4%	0.14%	0.0901	0.458	abscisic acid binding	Cc03g01290
+GO:0019840	1	1.4%	0.14%	0.0901	0.458	isoprenoid binding	Cc03g01290
+GO:0017171	3	4.3%	1.6%	0.0934	0.458	serine hydrolase activity	Cc10g04590,Cc02g28930,Cc02g37040
+GO:0008236	3	4.3%	1.6%	0.0934	0.458	serine-type peptidase activity	Cc10g04590,Cc02g28930,Cc02g37040
+GO:0140097	2	2.9%	0.75%	0.0948	0.458	catalytic activity, acting on DNA	Cc11g11470,Cc10g03280
+GO:0015291	2	2.9%	0.76%	0.0962	0.458	secondary active transmembrane transporter activity	Cc10g05870,Cc11g08520
+GO:0019212	1	1.4%	0.15%	0.0987	0.458	phosphatase inhibitor activity	Cc03g01290
+GO:0004864	1	1.4%	0.15%	0.0987	0.458	protein phosphatase inhibitor activity	Cc03g01290
+GO:0043178	1	1.4%	0.15%	0.0987	0.458	alcohol binding	Cc03g01290
+GO:0016787	15	22%	15%	0.0988	0.458	hydrolase activity	Cc01g14890,Cc11g11470,Cc11g12290,Cc02g37040,Cc02g14590,Cc02g21830,Cc10g03280,Cc02g36010,Cc02g36340,Cc02g20260,Cc02g24560,Cc10g04590,Cc02g28930,Cc06g07710,Cc08g16000
+GO:0042562	1	1.4%	0.16%	0.103	0.458	hormone binding	Cc03g01290
+GO:0052716	1	1.4%	0.16%	0.103	0.458	hydroquinone:oxygen oxidoreductase activity	Cc02g05960
+GO:0043169	12	17%	12%	0.103	0.458	cation binding	Cc07g11160,Cc03g00700,Cc04g11250,Cc06g05880,Cc02g24560,Cc02g05960,Cc04g09880,Cc10g13610,Cc05g05110,Cc06g07260,Cc08g14880,Cc11g09530
+GO:0004252	2	2.9%	0.82%	0.11	0.458	serine-type endopeptidase activity	Cc10g04590,Cc02g37040
+GO:0033293	1	1.4%	0.17%	0.111	0.458	monocarboxylic acid binding	Cc03g01290
+GO:0004175	3	4.3%	1.8%	0.124	0.458	endopeptidase activity	Cc02g24560,Cc10g04590,Cc02g37040
+GO:0016762	1	1.4%	0.2%	0.128	0.458	xyloglucan:xyloglucosyl transferase activity	Cc02g20260
+GO:0038023	1	1.4%	0.2%	0.132	0.458	signaling receptor activity	Cc03g01290
+GO:0060089	1	1.4%	0.2%	0.132	0.458	molecular transducer activity	Cc03g01290
+GO:0008289	2	2.9%	0.93%	0.134	0.458	lipid binding	Cc03g01290,Cc06g07260
+GO:0016759	1	1.4%	0.22%	0.14	0.458	cellulose synthase activity	Cc06g14690
+GO:0016760	1	1.4%	0.22%	0.14	0.458	cellulose synthase (UDP-forming) activity	Cc06g14690
+GO:0050660	2	2.9%	0.98%	0.146	0.458	flavin adenine dinucleotide binding	Cc09g07170,Cc08g13880
+GO:0019208	1	1.4%	0.23%	0.148	0.458	phosphatase regulator activity	Cc03g01290
+GO:0019888	1	1.4%	0.23%	0.148	0.458	protein phosphatase regulator activity	Cc03g01290
+GO:0016679	1	1.4%	0.23%	0.148	0.458	oxidoreductase activity, acting on diphenols and related substances as donors	Cc02g05960
+GO:0016682	1	1.4%	0.23%	0.148	0.458	oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor	Cc02g05960
+GO:0003777	1	1.4%	0.25%	0.156	0.458	microtubule motor activity	Cc05g13160
+GO:0031406	1	1.4%	0.26%	0.164	0.458	carboxylic acid binding	Cc03g01290
+GO:0019899	1	1.4%	0.26%	0.164	0.458	enzyme binding	Cc02g24650
+GO:0043177	1	1.4%	0.26%	0.164	0.458	organic acid binding	Cc03g01290
+GO:0016836	1	1.4%	0.29%	0.18	0.458	hydro-lyase activity	Cc06g05880
+GO:0016831	1	1.4%	0.29%	0.184	0.458	carboxy-lyase activity	Cc11g05190
+GO:0120544	1	1.4%	0.29%	0.184	0.458	polypeptide conformation or assembly isomerase activity	Cc05g13160
+GO:0005543	1	1.4%	0.31%	0.192	0.458	phospholipid binding	Cc06g07260
+GO:0004222	1	1.4%	0.31%	0.195	0.458	metalloendopeptidase activity	Cc02g24560
+GO:0003774	1	1.4%	0.32%	0.199	0.458	cytoskeletal motor activity	Cc05g13160
+GO:0008233	4	5.8%	3.4%	0.205	0.458	peptidase activity	Cc02g24560,Cc10g04590,Cc02g28930,Cc02g37040
+GO:0003824	40	58%	52%	0.21	0.458	catalytic activity	Cc01g14890,Cc03g09300,Cc02g35340,Cc09g08680,Cc11g12290,Cc03g02190,Cc02g37040,Cc09g07170,Cc02g21830,Cc02g36010,Cc03g09960,Cc06g14690,Cc08g06890,Cc02g20260,Cc04g11250,Cc02g24560,Cc10g04590,Cc06g07710,Cc05g13160,Cc09g03850,Cc02g05560,Cc09g00220,Cc06g21560,Cc08g13880,Cc11g11470,Cc02g35750,Cc11g05190,Cc03g10700,Cc02g05960,Cc02g14590,Cc01g14620,Cc10g03280,Cc02g36340,Cc06g05880,Cc05g07890,Cc02g28930,Cc06g04630,Cc05g05110,Cc08g14880,Cc08g16000
+GO:0016758	2	2.9%	1.2%	0.213	0.458	hexosyltransferase activity	Cc02g20260,Cc06g14690
+GO:0015035	1	1.4%	0.36%	0.222	0.458	protein-disulfide reductase activity	Cc03g02190
+GO:0015036	1	1.4%	0.38%	0.229	0.458	disulfide oxidoreductase activity	Cc03g02190
+GO:0000981	1	1.4%	0.38%	0.233	0.459	DNA-binding transcription factor activity, RNA polymerase II-specific	Cc11g13310
+GO:0035251	1	1.4%	0.41%	0.247	0.48	UDP-glucosyltransferase activity	Cc06g14690
+GO:0016830	1	1.4%	0.44%	0.265	0.507	carbon-carbon lyase activity	Cc11g05190
+GO:0046914	7	10%	7.6%	0.27	0.511	transition metal ion binding	Cc07g11160,Cc04g11250,Cc06g05880,Cc02g24560,Cc02g05960,Cc05g05110,Cc08g14880
+GO:0071949	1	1.4%	0.46%	0.275	0.513	FAD binding	Cc09g07170
+GO:0005507	1	1.4%	0.46%	0.275	0.513	copper ion binding	Cc02g05960
+GO:0016829	2	2.9%	1.5%	0.281	0.513	lyase activity	Cc06g05880,Cc11g05190
+GO:0016765	1	1.4%	0.48%	0.285	0.513	transferase activity, transferring alkyl or aryl (other than methyl) groups	Cc09g00220
+GO:0003700	3	4.3%	2.8%	0.299	0.529	DNA-binding transcription factor activity	Cc11g13310,Cc08g00740,Cc04g04250
+GO:0016667	1	1.4%	0.52%	0.302	0.529	oxidoreductase activity, acting on a sulfur group of donors	Cc03g02190
+GO:0008237	1	1.4%	0.53%	0.309	0.532	metallopeptidase activity	Cc02g24560
+GO:0003677	6	8.7%	6.8%	0.322	0.549	DNA binding	Cc11g13310,Cc04g09840,Cc02g07960,Cc08g00740,Cc04g04250,Cc07g10520
+GO:0070279	1	1.4%	0.59%	0.334	0.563	vitamin B6 binding	Cc11g05190
+GO:0030170	1	1.4%	0.59%	0.334	0.563	pyridoxal phosphate binding	Cc11g05190
+GO:0070008	1	1.4%	0.61%	0.344	0.565	serine-type exopeptidase activity	Cc02g28930
+GO:0004185	1	1.4%	0.61%	0.344	0.565	serine-type carboxypeptidase activity	Cc02g28930
+GO:0004180	1	1.4%	0.63%	0.353	0.567	carboxypeptidase activity	Cc02g28930
+GO:0140110	3	4.3%	3.1%	0.355	0.567	transcription regulator activity	Cc11g13310,Cc08g00740,Cc04g04250
+GO:0004553	3	4.3%	3.1%	0.356	0.567	hydrolase activity, hydrolyzing O-glycosyl compounds	Cc02g20260,Cc02g21830,Cc08g16000
+GO:0008270	3	4.3%	3.1%	0.368	0.57	zinc ion binding	Cc07g11160,Cc06g05880,Cc02g24560
+GO:0008168	2	2.9%	1.9%	0.369	0.57	methyltransferase activity	Cc05g07890,Cc06g21560
+GO:0016835	1	1.4%	0.71%	0.389	0.59	carbon-oxygen lyase activity	Cc06g05880
+GO:0008238	1	1.4%	0.72%	0.395	0.592	exopeptidase activity	Cc02g28930
+GO:0022804	2	2.9%	2.0%	0.396	0.592	active transmembrane transporter activity	Cc10g05870,Cc11g08520
+GO:0016741	2	2.9%	2.0%	0.401	0.592	transferase activity, transferring one-carbon groups	Cc05g07890,Cc06g21560
+GO:0016740	15	22%	20%	0.41	0.595	transferase activity	Cc03g09300,Cc02g35750,Cc02g35340,Cc09g08680,Cc03g10700,Cc01g14620,Cc06g14690,Cc08g06890,Cc02g20260,Cc05g07890,Cc06g04630,Cc09g03850,Cc02g05560,Cc09g00220,Cc06g21560
+GO:0019842	1	1.4%	0.81%	0.428	0.616	vitamin binding	Cc11g05190
+GO:0005506	3	4.3%	3.6%	0.446	0.635	iron ion binding	Cc04g11250,Cc05g05110,Cc08g14880
+GO:0016705	3	4.3%	3.6%	0.454	0.639	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	Cc04g11250,Cc05g05110,Cc08g14880
+GO:0004857	1	1.4%	0.91%	0.468	0.652	enzyme inhibitor activity	Cc03g01290
+GO:0140678	1	1.4%	0.91%	0.468	0.652	molecular function inhibitor activity	Cc03g01290
+GO:0016491	8	12%	11%	0.499	0.681	oxidoreductase activity	Cc04g11250,Cc03g02190,Cc09g07170,Cc02g05960,Cc05g05110,Cc08g13880,Cc08g14880,Cc03g09960
+GO:0016614	1	1.4%	1.0%	0.511	0.692	oxidoreductase activity, acting on CH-OH group of donors	Cc08g13880
+GO:0020037	3	4.3%	4.0%	0.525	0.703	heme binding	Cc04g11250,Cc05g05110,Cc08g14880
+GO:0046906	3	4.3%	4.0%	0.525	0.703	tetrapyrrole binding	Cc04g11250,Cc05g05110,Cc08g14880
+GO:0030246	1	1.4%	1.1%	0.534	0.703	carbohydrate binding	Cc08g16000
+GO:0120543	1	1.4%	1.2%	0.556	0.724	macromolecular conformation isomerase activity	Cc05g13160
+GO:0005515	16	23%	23%	0.559	0.724	protein binding	Cc09g00490,Cc03g10700,Cc02g12370,Cc02g34050,Cc11g10650,Cc03g04660,Cc02g24650,Cc07g02210,Cc01g21160,Cc05g07890,Cc04g13960,Cc05g13160,Cc02g30970,Cc02g30730,Cc02g27550,Cc06g21560
+GO:0043167	23	33%	34%	0.566	0.724	ion binding	Cc03g01290,Cc07g11160,Cc02g35750,Cc11g05190,Cc03g10700,Cc09g07170,Cc02g05960,Cc04g09880,Cc10g13610,Cc01g14620,Cc03g00700,Cc04g11250,Cc01g21160,Cc06g05880,Cc02g24560,Cc10g07650,Cc05g13160,Cc02g05560,Cc05g05110,Cc08g13880,Cc06g07260,Cc08g14880,Cc11g09530
+GO:0043565	1	1.4%	1.3%	0.596	0.755	sequence-specific DNA binding	Cc11g13310
+GO:0036094	23	33%	35%	0.647	0.812	small molecule binding	Cc03g01290,Cc07g11160,Cc02g35750,Cc11g05190,Cc03g10700,Cc09g07170,Cc02g05960,Cc04g09880,Cc10g13610,Cc01g14620,Cc03g00700,Cc04g11250,Cc01g21160,Cc06g05880,Cc02g24560,Cc10g07650,Cc05g13160,Cc02g05560,Cc05g05110,Cc08g13880,Cc06g07260,Cc08g14880,Cc11g09530
+GO:0030234	1	1.4%	1.5%	0.652	0.812	enzyme regulator activity	Cc03g01290
+GO:0140640	2	2.9%	3.2%	0.657	0.812	catalytic activity, acting on a nucleic acid	Cc11g11470,Cc10g03280
+GO:0005488	43	62%	64%	0.668	0.816	binding	Cc09g07170,Cc10g13610,Cc02g34050,Cc11g10650,Cc04g11250,Cc07g02210,Cc01g21160,Cc02g24560,Cc05g13160,Cc02g30970,Cc02g05560,Cc02g30730,Cc02g27550,Cc06g21560,Cc08g13880,Cc11g09530,Cc07g10520,Cc03g01290,Cc07g11160,Cc11g13310,Cc02g35750,Cc09g00490,Cc11g05190,Cc04g09840,Cc03g10700,Cc02g07960,Cc02g05960,Cc04g09880,Cc02g12370,Cc01g14620,Cc03g04660,Cc04g04250,Cc03g00700,Cc02g24650,Cc06g05880,Cc05g07890,Cc10g07650,Cc08g00740,Cc04g13960,Cc05g05110,Cc06g07260,Cc08g14880,Cc08g16000
+GO:0140096	9	13%	15%	0.687	0.831	catalytic activity, acting on a protein	Cc02g35750,Cc02g24560,Cc10g04590,Cc02g28930,Cc03g02190,Cc03g10700,Cc02g37040,Cc02g05560,Cc01g14620
+GO:0098772	1	1.4%	1.7%	0.7	0.84	molecular function regulator activity	Cc03g01290
+GO:0016788	2	2.9%	3.6%	0.712	0.847	hydrolase activity, acting on ester bonds	Cc01g14890,Cc02g14590
+GO:0022857	3	4.3%	5.9%	0.786	0.927	transmembrane transporter activity	Cc10g05870,Cc11g08520,Cc06g08580
+GO:0005215	3	4.3%	6.1%	0.798	0.933	transporter activity	Cc10g05870,Cc11g08520,Cc06g08580
+GO:0016853	1	1.4%	2.3%	0.805	0.933	isomerase activity	Cc05g13160
+GO:0140657	1	1.4%	2.7%	0.849	0.976	ATP-dependent activity	Cc05g13160
+GO:0004672	4	5.8%	8.6%	0.854	0.976	protein kinase activity	Cc02g35750,Cc03g10700,Cc02g05560,Cc01g14620
+GO:0003676	6	8.7%	12%	0.868	0.982	nucleic acid binding	Cc11g13310,Cc04g09840,Cc02g07960,Cc08g00740,Cc04g04250,Cc07g10520
+GO:0005524	7	10%	14%	0.871	0.982	ATP binding	Cc02g35750,Cc01g21160,Cc03g10700,Cc10g07650,Cc05g13160,Cc02g05560,Cc01g14620
+GO:0016773	4	5.8%	9.2%	0.889	0.99	phosphotransferase activity, alcohol group as acceptor	Cc02g35750,Cc03g10700,Cc02g05560,Cc01g14620
+GO:0016301	4	5.8%	9.5%	0.905	1.0	kinase activity	Cc02g35750,Cc03g10700,Cc02g05560,Cc01g14620
+GO:0035639	7	10%	16%	0.93	1.0	purine ribonucleoside triphosphate binding	Cc02g35750,Cc01g21160,Cc03g10700,Cc10g07650,Cc05g13160,Cc02g05560,Cc01g14620
+GO:0043168	11	16%	23%	0.938	1.0	anion binding	Cc03g01290,Cc02g35750,Cc01g21160,Cc11g05190,Cc03g10700,Cc10g07650,Cc05g13160,Cc09g07170,Cc02g05560,Cc01g14620,Cc08g13880
+GO:0016772	4	5.8%	11%	0.941	1.0	transferase activity, transferring phosphorus-containing groups	Cc02g35750,Cc03g10700,Cc02g05560,Cc01g14620
+GO:1901363	10	14%	23%	0.975	1.0	heterocyclic compound binding	Cc02g35750,Cc01g21160,Cc11g05190,Cc03g10700,Cc10g07650,Cc05g13160,Cc09g07170,Cc02g05560,Cc01g14620,Cc08g13880
+GO:0000166	9	13%	22%	0.984	1.0	nucleotide binding	Cc02g35750,Cc01g21160,Cc03g10700,Cc10g07650,Cc05g13160,Cc09g07170,Cc02g05560,Cc01g14620,Cc08g13880
+GO:1901265	9	13%	23%	0.984	1.0	nucleoside phosphate binding	Cc02g35750,Cc01g21160,Cc03g10700,Cc10g07650,Cc05g13160,Cc09g07170,Cc02g05560,Cc01g14620,Cc08g13880
+GO:0032559	7	10%	19%	0.984	1.0	adenyl ribonucleotide binding	Cc02g35750,Cc01g21160,Cc03g10700,Cc10g07650,Cc05g13160,Cc02g05560,Cc01g14620
+GO:0030554	7	10%	20%	0.989	1.0	adenyl nucleotide binding	Cc02g35750,Cc01g21160,Cc03g10700,Cc10g07650,Cc05g13160,Cc02g05560,Cc01g14620
+GO:0032555	7	10%	20%	0.993	1.0	purine ribonucleotide binding	Cc02g35750,Cc01g21160,Cc03g10700,Cc10g07650,Cc05g13160,Cc02g05560,Cc01g14620
+GO:0032553	7	10%	21%	0.994	1.0	ribonucleotide binding	Cc02g35750,Cc01g21160,Cc03g10700,Cc10g07650,Cc05g13160,Cc02g05560,Cc01g14620
+GO:0097367	7	10%	21%	0.994	1.0	carbohydrate derivative binding	Cc02g35750,Cc01g21160,Cc03g10700,Cc10g07650,Cc05g13160,Cc02g05560,Cc01g14620
+GO:0017076	7	10%	21%	0.995	1.0	purine nucleotide binding	Cc02g35750,Cc01g21160,Cc03g10700,Cc10g07650,Cc05g13160,Cc02g05560,Cc01g14620
+GO:0003674	69	100%	100%	1.0	1.0	molecular_function	Cc01g14890,Cc09g07170,Cc02g21830,Cc11g10650,Cc02g36010,Cc03g09960,Cc02g20260,Cc04g11250,Cc07g02210,Cc10g04590,Cc11g08520,Cc05g13160,Cc09g03850,Cc09g00220,Cc06g21560,Cc08g13880,Cc11g09530,Cc06g08580,Cc07g10520,Cc03g01290,Cc07g11160,Cc11g13310,Cc09g00490,Cc11g05190,Cc04g09840,Cc02g07960,Cc04g09880,Cc01g14620,Cc02g36340,Cc10g05870,Cc02g24650,Cc05g07890,Cc02g28930,Cc10g07650,Cc08g00740,Cc05g05110,Cc08g16000,Cc03g09300,Cc02g35340,Cc09g08680,Cc11g12290,Cc03g02190,Cc02g37040,Cc10g13610,Cc02g34050,Cc06g14690,Cc08g06890,Cc01g21160,Cc02g24560,Cc06g07710,Cc02g30970,Cc02g05560,Cc02g30730,Cc02g27550,Cc11g11470,Cc02g35750,Cc03g10700,Cc02g05960,Cc02g14590,Cc02g12370,Cc10g03280,Cc03g04660,Cc04g04250,Cc03g00700,Cc06g05880,Cc06g04630,Cc04g13960,Cc06g07260,Cc08g14880

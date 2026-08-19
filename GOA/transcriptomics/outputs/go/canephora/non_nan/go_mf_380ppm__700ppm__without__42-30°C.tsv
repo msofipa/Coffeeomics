@@ -1,0 +1,28 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0005504	1	20%	0.03%	1.7E-3	0.046	fatty acid binding	Cc02g07220
+GO:0033293	1	20%	0.17%	8.5E-3	0.115	monocarboxylic acid binding	Cc02g07220
+GO:0043177	1	20%	0.26%	0.0129	0.116	organic acid binding	Cc02g07220
+GO:0031406	1	20%	0.26%	0.0129	0.116	carboxylic acid binding	Cc02g07220
+GO:0008289	1	20%	0.93%	0.0456	0.246	lipid binding	Cc02g07220
+GO:0008270	1	20%	3.1%	0.147	0.662	zinc ion binding	Cc08g08180
+GO:0043167	3	60%	34%	0.214	0.826	ion binding	Cc02g07220,Cc08g08180,Cc11g02900
+GO:0043531	1	20%	4.9%	0.22	0.826	ADP binding	Cc11g02900
+GO:0036094	3	60%	35%	0.233	0.826	small molecule binding	Cc02g07220,Cc08g08180,Cc11g02900
+GO:0022857	1	20%	5.9%	0.264	0.826	transmembrane transporter activity	Cc07g18620
+GO:0005215	1	20%	6.1%	0.269	0.826	transporter activity	Cc07g18620
+GO:0043168	2	40%	23%	0.32	0.826	anion binding	Cc02g07220,Cc11g02900
+GO:0046914	1	20%	7.6%	0.327	0.826	transition metal ion binding	Cc08g08180
+GO:0005488	4	80%	64%	0.41	0.826	binding	Cc02g07220,Cc08g08180,Cc04g10750,Cc11g02900
+GO:0046872	1	20%	11%	0.455	0.826	metal ion binding	Cc08g08180
+GO:0043169	1	20%	12%	0.463	0.826	cation binding	Cc08g08180
+GO:0032559	1	20%	19%	0.65	1.0	adenyl ribonucleotide binding	Cc11g02900
+GO:0030554	1	20%	20%	0.664	1.0	adenyl nucleotide binding	Cc11g02900
+GO:0032555	1	20%	20%	0.682	1.0	purine ribonucleotide binding	Cc11g02900
+GO:0032553	1	20%	21%	0.687	1.0	ribonucleotide binding	Cc11g02900
+GO:0097367	1	20%	21%	0.69	1.0	carbohydrate derivative binding	Cc11g02900
+GO:0017076	1	20%	21%	0.696	1.0	purine nucleotide binding	Cc11g02900
+GO:0000166	1	20%	22%	0.72	1.0	nucleotide binding	Cc11g02900
+GO:1901265	1	20%	23%	0.721	1.0	nucleoside phosphate binding	Cc11g02900
+GO:1901363	1	20%	23%	0.735	1.0	heterocyclic compound binding	Cc11g02900
+GO:0005515	1	20%	23%	0.735	1.0	protein binding	Cc04g10750
+GO:0003674	5	100%	100%	1.0	1.0	molecular_function	Cc07g18620,Cc02g07220,Cc08g08180,Cc04g10750,Cc11g02900

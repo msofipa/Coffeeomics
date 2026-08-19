@@ -1,0 +1,14 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0030286	1	17%	0.24%	0.0141	0.183	dynein complex	Cc04g03100
+GO:0009507	1	17%	0.32%	0.0193	0.183	chloroplast	Cc07g06010
+GO:0009536	1	17%	0.35%	0.021	0.183	plastid	Cc07g06010
+GO:0005875	1	17%	0.41%	0.0245	0.183	microtubule associated complex	Cc04g03100
+GO:0016020	5	83%	47%	0.0798	0.207	membrane	Cc08g12750,Cc04g14210,Cc02g29800,Cc07g06010,Cc05g04780
+GO:1902494	1	17%	7.9%	0.389	0.844	catalytic complex	Cc04g03100
+GO:0043231	1	17%	12%	0.533	0.991	intracellular membrane-bounded organelle	Cc07g06010
+GO:0043227	1	17%	12%	0.533	0.991	membrane-bounded organelle	Cc07g06010
+GO:0110165	5	83%	79%	0.626	0.991	cellular anatomical structure	Cc08g12750,Cc04g14210,Cc02g29800,Cc07g06010,Cc05g04780
+GO:0043229	1	17%	23%	0.793	1.0	intracellular organelle	Cc07g06010
+GO:0043226	1	17%	23%	0.793	1.0	organelle	Cc07g06010
+GO:0032991	1	17%	26%	0.838	1.0	protein-containing complex	Cc04g03100
+GO:0005575	6	100%	100%	1.0	1.0	cellular_component	Cc04g03100,Cc08g12750,Cc04g14210,Cc02g29800,Cc07g06010,Cc05g04780

@@ -1,0 +1,31 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0016702	1	50%	0.2%	3.95E-3	0.119	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen	Cc01g04060
+GO:0051213	1	50%	0.2%	3.95E-3	0.119	dioxygenase activity	Cc01g04060
+GO:0016701	1	50%	0.29%	5.72E-3	0.119	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen	Cc01g04060
+GO:0016887	1	50%	2.0%	0.0397	0.298	ATP hydrolysis activity	Cc04g05910
+GO:0005515	2	100%	23%	0.0545	0.327	protein binding	Cc01g04060,Cc04g05910
+GO:0017111	1	50%	3.2%	0.0621	0.327	ribonucleoside triphosphate phosphatase activity	Cc04g05910
+GO:0016462	1	50%	3.3%	0.0655	0.327	pyrophosphatase activity	Cc04g05910
+GO:0016818	1	50%	3.4%	0.0668	0.327	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	Cc04g05910
+GO:0016817	1	50%	3.4%	0.0671	0.327	hydrolase activity, acting on acid anhydrides	Cc04g05910
+GO:0043167	2	100%	34%	0.113	0.339	ion binding	Cc01g04060,Cc04g05910
+GO:0036094	2	100%	35%	0.121	0.339	small molecule binding	Cc01g04060,Cc04g05910
+GO:0016491	1	50%	11%	0.209	0.522	oxidoreductase activity	Cc01g04060
+GO:0046872	1	50%	11%	0.215	0.522	metal ion binding	Cc01g04060
+GO:0043169	1	50%	12%	0.22	0.522	cation binding	Cc01g04060
+GO:0005524	1	50%	14%	0.262	0.523	ATP binding	Cc04g05910
+GO:0003824	2	100%	52%	0.275	0.523	catalytic activity	Cc01g04060,Cc04g05910
+GO:0016787	1	50%	15%	0.283	0.523	hydrolase activity	Cc04g05910
+GO:0035639	1	50%	16%	0.288	0.523	purine ribonucleoside triphosphate binding	Cc04g05910
+GO:0032559	1	50%	19%	0.343	0.541	adenyl ribonucleotide binding	Cc04g05910
+GO:0030554	1	50%	20%	0.354	0.541	adenyl nucleotide binding	Cc04g05910
+GO:0032555	1	50%	20%	0.368	0.541	purine ribonucleotide binding	Cc04g05910
+GO:0032553	1	50%	21%	0.371	0.541	ribonucleotide binding	Cc04g05910
+GO:0097367	1	50%	21%	0.374	0.541	carbohydrate derivative binding	Cc04g05910
+GO:0017076	1	50%	21%	0.379	0.541	purine nucleotide binding	Cc04g05910
+GO:0000166	1	50%	22%	0.399	0.541	nucleotide binding	Cc04g05910
+GO:1901265	1	50%	23%	0.4	0.541	nucleoside phosphate binding	Cc04g05910
+GO:0043168	1	50%	23%	0.403	0.541	anion binding	Cc04g05910
+GO:0005488	2	100%	64%	0.41	0.541	binding	Cc01g04060,Cc04g05910
+GO:1901363	1	50%	23%	0.412	0.541	heterocyclic compound binding	Cc04g05910
+GO:0003674	2	100%	100%	1.0	1.0	molecular_function	Cc01g04060,Cc04g05910

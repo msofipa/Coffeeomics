@@ -1,0 +1,6 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0003735	1	50%	2.3%	0.0445	0.223	structural constituent of ribosome	Cc09g08950
+GO:0005198	1	50%	2.6%	0.0523	0.223	structural molecule activity	Cc09g08950
+GO:0005515	1	50%	23%	0.412	0.687	protein binding	Cc05g10090
+GO:0005488	1	50%	64%	0.871	1.0	binding	Cc05g10090
+GO:0003674	2	100%	100%	1.0	1.0	molecular_function	Cc09g08950,Cc05g10090

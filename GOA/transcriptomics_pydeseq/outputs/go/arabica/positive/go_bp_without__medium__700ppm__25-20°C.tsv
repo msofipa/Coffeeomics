@@ -1,0 +1,35 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0009116	1	33%	0.35%	0.0105	0.358	nucleoside metabolic process	Cc02g10380
+GO:0000160	1	33%	0.42%	0.0127	0.358	phosphorelay signal transduction system	Cc08g09890
+GO:1902680	1	33%	0.73%	0.0217	0.358	positive regulation of RNA biosynthetic process	Cc10g01330
+GO:0051254	1	33%	0.73%	0.0217	0.358	positive regulation of RNA metabolic process	Cc10g01330
+GO:0045893	1	33%	0.73%	0.0217	0.358	positive regulation of DNA-templated transcription	Cc10g01330
+GO:0009891	1	33%	0.75%	0.0224	0.358	positive regulation of biosynthetic process	Cc10g01330
+GO:0010557	1	33%	0.75%	0.0224	0.358	positive regulation of macromolecule biosynthetic process	Cc10g01330
+GO:0010604	1	33%	0.95%	0.0281	0.358	positive regulation of macromolecule metabolic process	Cc10g01330
+GO:0009893	1	33%	0.96%	0.0285	0.358	positive regulation of metabolic process	Cc10g01330
+GO:0048522	1	33%	1.0%	0.0296	0.358	positive regulation of cellular process	Cc10g01330
+GO:0035556	1	33%	1.1%	0.0324	0.358	intracellular signal transduction	Cc08g09890
+GO:0048518	1	33%	1.1%	0.0338	0.358	positive regulation of biological process	Cc10g01330
+GO:0050794	2	67%	13%	0.0487	0.358	regulation of cellular process	Cc08g09890,Cc10g01330
+GO:0050789	2	67%	14%	0.0527	0.358	regulation of biological process	Cc08g09890,Cc10g01330
+GO:0065007	2	67%	14%	0.0554	0.358	biological regulation	Cc08g09890,Cc10g01330
+GO:0007165	1	33%	2.3%	0.0686	0.358	signal transduction	Cc08g09890
+GO:0055086	1	33%	2.5%	0.0745	0.358	nucleobase-containing small molecule metabolic process	Cc02g10380
+GO:1901135	1	33%	2.7%	0.0801	0.358	carbohydrate derivative metabolic process	Cc02g10380
+GO:0044281	1	33%	6.7%	0.188	0.358	small molecule metabolic process	Cc02g10380
+GO:0006355	1	33%	9.1%	0.248	0.421	regulation of DNA-templated transcription	Cc10g01330
+GO:2001141	1	33%	9.1%	0.248	0.421	regulation of RNA biosynthetic process	Cc10g01330
+GO:0051252	1	33%	9.1%	0.249	0.421	regulation of RNA metabolic process	Cc10g01330
+GO:0019219	1	33%	9.3%	0.253	0.421	regulation of nucleobase-containing compound metabolic process	Cc10g01330
+GO:0010468	1	33%	9.7%	0.264	0.421	regulation of gene expression	Cc10g01330
+GO:0010556	1	33%	9.7%	0.265	0.421	regulation of macromolecule biosynthetic process	Cc10g01330
+GO:0009889	1	33%	9.8%	0.265	0.421	regulation of biosynthetic process	Cc10g01330
+GO:0080090	1	33%	9.8%	0.267	0.421	regulation of primary metabolic process	Cc10g01330
+GO:0060255	1	33%	10%	0.279	0.421	regulation of macromolecule metabolic process	Cc10g01330
+GO:0019222	1	33%	10%	0.281	0.421	regulation of metabolic process	Cc10g01330
+GO:0006139	1	33%	12%	0.309	0.421	nucleobase-containing compound metabolic process	Cc02g10380
+GO:0044238	1	33%	55%	0.908	0.996	primary metabolic process	Cc02g10380
+GO:0009987	2	67%	85%	0.939	0.998	cellular process	Cc08g09890,Cc02g10380
+GO:0008152	1	33%	62%	0.947	0.998	metabolic process	Cc02g10380
+GO:0008150	3	100%	100%	1.0	1.0	biological_process	Cc08g09890,Cc10g01330,Cc02g10380

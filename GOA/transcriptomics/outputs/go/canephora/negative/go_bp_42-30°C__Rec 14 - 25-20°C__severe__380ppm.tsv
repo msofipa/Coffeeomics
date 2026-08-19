@@ -1,0 +1,44 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0006457	3	27%	1.1%	2.02E-4	8.67E-3	protein folding	Cc02g13840,Cc08g15170,Cc01g07750
+GO:0001510	1	9.1%	0.29%	0.0316	0.679	RNA methylation	Cc08g11070
+GO:0043414	1	9.1%	0.46%	0.0496	0.711	macromolecule methylation	Cc08g11070
+GO:0006355	3	27%	9.1%	0.0704	0.756	regulation of DNA-templated transcription	Cc08g10810,Cc01g19020,Cc02g05270
+GO:2001141	3	27%	9.1%	0.0704	0.756	regulation of RNA biosynthetic process	Cc08g10810,Cc01g19020,Cc02g05270
+GO:0051252	3	27%	9.1%	0.0715	0.756	regulation of RNA metabolic process	Cc08g10810,Cc01g19020,Cc02g05270
+GO:0032259	1	9.1%	0.68%	0.0723	0.756	methylation	Cc08g11070
+GO:0019219	3	27%	9.3%	0.0748	0.756	regulation of nucleobase-containing compound metabolic process	Cc08g10810,Cc01g19020,Cc02g05270
+GO:0000398	1	9.1%	0.72%	0.076	0.756	mRNA splicing, via spliceosome	Cc01g09880
+GO:0010468	3	27%	9.7%	0.0833	0.756	regulation of gene expression	Cc08g10810,Cc01g19020,Cc02g05270
+GO:0000377	1	9.1%	0.79%	0.0835	0.756	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	Cc01g09880
+GO:0000375	1	9.1%	0.79%	0.0835	0.756	RNA splicing, via transesterification reactions	Cc01g09880
+GO:0010556	3	27%	9.7%	0.0838	0.756	regulation of macromolecule biosynthetic process	Cc08g10810,Cc01g19020,Cc02g05270
+GO:0009889	3	27%	9.8%	0.0843	0.756	regulation of biosynthetic process	Cc08g10810,Cc01g19020,Cc02g05270
+GO:0080090	3	27%	9.8%	0.0856	0.756	regulation of primary metabolic process	Cc08g10810,Cc01g19020,Cc02g05270
+GO:0060255	3	27%	10%	0.0965	0.756	regulation of macromolecule metabolic process	Cc08g10810,Cc01g19020,Cc02g05270
+GO:0008380	1	9.1%	0.92%	0.097	0.756	RNA splicing	Cc01g09880
+GO:0019222	3	27%	10%	0.0984	0.756	regulation of metabolic process	Cc08g10810,Cc01g19020,Cc02g05270
+GO:0006749	1	9.1%	0.98%	0.103	0.756	glutathione metabolic process	Cc10g09980
+GO:0009451	1	9.1%	1.1%	0.111	0.756	RNA modification	Cc08g11070
+GO:0006397	1	9.1%	1.1%	0.111	0.756	mRNA processing	Cc01g09880
+GO:0006575	1	9.1%	1.3%	0.129	0.756	modified amino acid metabolic process	Cc10g09980
+GO:0016071	1	9.1%	1.3%	0.132	0.756	mRNA metabolic process	Cc01g09880
+GO:0006979	1	9.1%	1.3%	0.132	0.756	response to oxidative stress	Cc06g03490
+GO:0043603	1	9.1%	1.3%	0.135	0.756	amide metabolic process	Cc10g09980
+GO:0016070	2	18%	5.9%	0.136	0.756	RNA metabolic process	Cc01g09880,Cc08g11070
+GO:0006790	1	9.1%	1.7%	0.167	0.756	sulfur compound metabolic process	Cc10g09980
+GO:0050794	3	27%	13%	0.173	0.756	regulation of cellular process	Cc08g10810,Cc01g19020,Cc02g05270
+GO:0050789	3	27%	14%	0.189	0.756	regulation of biological process	Cc08g10810,Cc01g19020,Cc02g05270
+GO:0065007	3	27%	14%	0.2	0.756	biological regulation	Cc08g10810,Cc01g19020,Cc02g05270
+GO:0090304	2	18%	8.8%	0.252	0.756	nucleic acid metabolic process	Cc01g09880,Cc08g11070
+GO:0006396	1	9.1%	3.8%	0.344	0.756	RNA processing	Cc01g09880
+GO:0006139	2	18%	12%	0.371	0.756	nucleobase-containing compound metabolic process	Cc01g09880,Cc08g11070
+GO:0006950	1	9.1%	4.4%	0.394	0.756	response to stress	Cc06g03490
+GO:0050896	1	9.1%	5.8%	0.484	0.756	response to stimulus	Cc06g03490
+GO:0006508	1	9.1%	6.0%	0.493	0.756	proteolysis	Cc07g12510
+GO:0043170	3	27%	38%	0.854	0.992	macromolecule metabolic process	Cc07g12510,Cc01g09880,Cc08g11070
+GO:0043412	1	9.1%	19%	0.902	1.0	macromolecule modification	Cc08g11070
+GO:0019538	1	9.1%	28%	0.973	1.0	protein metabolic process	Cc07g12510
+GO:0008152	4	36%	62%	0.981	1.0	metabolic process	Cc10g09980,Cc07g12510,Cc01g09880,Cc08g11070
+GO:0009987	7	64%	85%	0.984	1.0	cellular process	Cc02g13840,Cc08g15170,Cc10g09980,Cc07g12510,Cc01g09880,Cc08g11070,Cc01g07750
+GO:0044238	3	27%	55%	0.985	1.0	primary metabolic process	Cc07g12510,Cc01g09880,Cc08g11070
+GO:0008150	11	100%	100%	1.0	1.0	biological_process	Cc06g03490,Cc02g13840,Cc08g15170,Cc10g09980,Cc08g10810,Cc07g12510,Cc01g19020,Cc01g09880,Cc08g11070,Cc02g05270,Cc01g07750

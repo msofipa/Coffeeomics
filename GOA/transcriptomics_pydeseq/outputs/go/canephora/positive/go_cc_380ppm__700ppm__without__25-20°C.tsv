@@ -1,0 +1,14 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0005618	1	10%	0.82%	0.0795	1.0	cell wall	Cc01g10410
+GO:0030312	1	10%	0.91%	0.0877	1.0	external encapsulating structure	Cc01g10410
+GO:0110165	10	100%	79%	0.092	1.0	cellular anatomical structure	Cc05g14500,Cc07g00260,Cc04g14210,Cc07g12280,Cc04g02360,Cc01g10410,Cc06g05390,Cc06g03900,Cc06g13570,Cc05g11850
+GO:0048046	1	10%	1.6%	0.153	1.0	apoplast	Cc01g10410
+GO:0005634	2	20%	9.2%	0.235	1.0	nucleus	Cc06g05390,Cc05g11850
+GO:0005576	1	10%	3.0%	0.261	1.0	extracellular region	Cc01g10410
+GO:0016020	6	60%	47%	0.294	1.0	membrane	Cc05g14500,Cc07g00260,Cc04g14210,Cc07g12280,Cc06g03900,Cc06g13570
+GO:0043231	2	20%	12%	0.339	1.0	intracellular membrane-bounded organelle	Cc06g05390,Cc05g11850
+GO:0043227	2	20%	12%	0.339	1.0	membrane-bounded organelle	Cc06g05390,Cc05g11850
+GO:0005737	1	10%	4.9%	0.398	1.0	cytoplasm	Cc04g02360
+GO:0043229	2	20%	23%	0.71	1.0	intracellular organelle	Cc06g05390,Cc05g11850
+GO:0043226	2	20%	23%	0.71	1.0	organelle	Cc06g05390,Cc05g11850
+GO:0005575	10	100%	100%	1.0	1.0	cellular_component	Cc05g14500,Cc07g00260,Cc04g14210,Cc07g12280,Cc04g02360,Cc01g10410,Cc06g05390,Cc06g03900,Cc06g13570,Cc05g11850

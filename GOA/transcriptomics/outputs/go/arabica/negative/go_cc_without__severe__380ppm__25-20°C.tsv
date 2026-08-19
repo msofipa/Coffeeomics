@@ -1,0 +1,18 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0033588	1	33%	0.12%	3.53E-3	0.06	elongator holoenzyme complex	Cc07g08770
+GO:0012511	1	33%	0.18%	5.29E-3	0.06	monolayer-surrounded lipid storage body	Cc08g11890
+GO:0005811	1	33%	0.47%	0.0141	0.0797	lipid droplet	Cc08g11890
+GO:0005618	1	33%	0.82%	0.0245	0.104	cell wall	Cc06g13410
+GO:0030312	1	33%	0.91%	0.0271	0.104	external encapsulating structure	Cc06g13410
+GO:0048046	1	33%	1.6%	0.0487	0.138	apoplast	Cc06g13410
+GO:0005576	1	33%	3.0%	0.0866	0.21	extracellular region	Cc06g13410
+GO:0140535	1	33%	3.9%	0.113	0.24	intracellular protein-containing complex	Cc07g08770
+GO:1902494	1	33%	7.9%	0.219	0.413	catalytic complex	Cc07g08770
+GO:0043228	1	33%	11%	0.298	0.507	membraneless organelle	Cc08g11890
+GO:0043232	1	33%	11%	0.298	0.507	intracellular membraneless organelle	Cc08g11890
+GO:0043229	1	33%	23%	0.544	0.771	intracellular organelle	Cc08g11890
+GO:0043226	1	33%	23%	0.544	0.771	organelle	Cc08g11890
+GO:0032991	1	33%	26%	0.597	0.771	protein-containing complex	Cc07g08770
+GO:0016020	1	33%	47%	0.847	0.96	membrane	Cc08g11890
+GO:0110165	2	67%	79%	0.884	0.96	cellular anatomical structure	Cc08g11890,Cc06g13410
+GO:0005575	3	100%	100%	1.0	1.0	cellular_component	Cc08g11890,Cc06g13410,Cc07g08770

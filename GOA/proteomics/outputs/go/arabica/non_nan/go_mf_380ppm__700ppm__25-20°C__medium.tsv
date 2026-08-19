@@ -1,0 +1,26 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0070001	3	38%	0.52%	7.37E-6	1.84E-4	aspartic-type peptidase activity	Cc01g08480,Cc02g29650,Cc04g09640
+GO:0004190	3	38%	0.52%	7.37E-6	1.84E-4	aspartic-type endopeptidase activity	Cc01g08480,Cc02g29650,Cc04g09640
+GO:0004175	3	38%	1.8%	2.89E-4	2.41E-3	endopeptidase activity	Cc01g08480,Cc02g29650,Cc04g09640
+GO:0008233	3	38%	3.4%	1.9E-3	0.0119	peptidase activity	Cc01g08480,Cc02g29650,Cc04g09640
+GO:0016787	5	63%	15%	3.16E-3	0.0158	hydrolase activity	Cc01g08480,Cc02g29650,Cc04g09640,Cc02g21830,Cc09g04820
+GO:0030145	1	13%	0.33%	0.0264	0.11	manganese ion binding	Cc06g12080
+GO:0003824	7	88%	52%	0.047	0.168	catalytic activity	Cc07g06870,Cc01g08480,Cc02g29650,Cc04g09640,Cc07g03170,Cc02g21830,Cc09g04820
+GO:0004601	1	13%	0.72%	0.0559	0.175	peroxidase activity	Cc07g06870
+GO:0016684	1	13%	0.72%	0.0559	0.175	oxidoreductase activity, acting on peroxide as acceptor	Cc07g06870
+GO:0016209	1	13%	0.82%	0.0637	0.175	antioxidant activity	Cc07g06870
+GO:0030246	1	13%	1.1%	0.0846	0.192	carbohydrate binding	Cc07g03170
+GO:0140096	3	38%	15%	0.097	0.202	catalytic activity, acting on a protein	Cc01g08480,Cc02g29650,Cc04g09640
+GO:0016853	1	13%	2.3%	0.172	0.331	isomerase activity	Cc07g03170
+GO:0004553	1	13%	3.1%	0.221	0.394	hydrolase activity, hydrolyzing O-glycosyl compounds	Cc02g21830
+GO:0016798	1	13%	3.2%	0.23	0.394	hydrolase activity, acting on glycosyl bonds	Cc02g21830
+GO:0046906	1	13%	4.0%	0.279	0.435	tetrapyrrole binding	Cc07g06870
+GO:0020037	1	13%	4.0%	0.279	0.435	heme binding	Cc07g06870
+GO:0046914	1	13%	7.6%	0.469	0.652	transition metal ion binding	Cc06g12080
+GO:0016491	1	13%	11%	0.608	0.8	oxidoreductase activity	Cc07g06870
+GO:0046872	1	13%	11%	0.621	0.8	metal ion binding	Cc06g12080
+GO:0043169	1	13%	12%	0.631	0.8	cation binding	Cc06g12080
+GO:0043167	1	13%	34%	0.962	1.0	ion binding	Cc06g12080
+GO:0036094	1	13%	35%	0.968	1.0	small molecule binding	Cc06g12080
+GO:0005488	3	38%	64%	0.971	1.0	binding	Cc06g12080,Cc07g06870,Cc07g03170
+GO:0003674	8	100%	100%	1.0	1.0	molecular_function	Cc06g12080,Cc07g06870,Cc01g08480,Cc02g29650,Cc04g09640,Cc07g03170,Cc02g21830,Cc09g04820

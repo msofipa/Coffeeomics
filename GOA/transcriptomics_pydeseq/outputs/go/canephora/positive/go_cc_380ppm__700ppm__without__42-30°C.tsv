@@ -1,0 +1,9 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0005840	1	50%	8.9%	0.171	1.0	ribosome	Cc09g08950
+GO:0043228	1	50%	11%	0.21	1.0	membraneless organelle	Cc09g08950
+GO:0043232	1	50%	11%	0.21	1.0	intracellular membraneless organelle	Cc09g08950
+GO:0043229	1	50%	23%	0.408	1.0	intracellular organelle	Cc09g08950
+GO:0043226	1	50%	23%	0.408	1.0	organelle	Cc09g08950
+GO:0110165	2	100%	79%	0.621	1.0	cellular anatomical structure	Cc05g09650,Cc09g08950
+GO:0016020	1	50%	47%	0.714	1.0	membrane	Cc05g09650
+GO:0005575	2	100%	100%	1.0	1.0	cellular_component	Cc05g09650,Cc09g08950

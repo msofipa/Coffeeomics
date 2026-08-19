@@ -1,0 +1,26 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0099081	3	25%	0.91%	1.43E-4	3.58E-3	supramolecular polymer	Cc07g03260,Cc10g01640,Cc06g20040
+GO:0005874	3	25%	0.91%	1.43E-4	3.58E-3	microtubule	Cc07g03260,Cc10g01640,Cc06g20040
+GO:0099513	3	25%	0.91%	1.43E-4	3.58E-3	polymeric cytoskeletal fiber	Cc07g03260,Cc10g01640,Cc06g20040
+GO:0099512	3	25%	0.91%	1.43E-4	3.58E-3	supramolecular fiber	Cc07g03260,Cc10g01640,Cc06g20040
+GO:0099080	3	25%	1.0%	1.9E-4	3.58E-3	supramolecular complex	Cc07g03260,Cc10g01640,Cc06g20040
+GO:0005576	3	25%	3.0%	4.62E-3	0.0192	extracellular region	Cc01g15270,Cc02g05420,Cc04g16340
+GO:0098803	1	8.3%	0.12%	0.0141	0.0502	respiratory chain complex	Cc08g01750
+GO:0045277	1	8.3%	0.12%	0.0141	0.0502	respiratory chain complex IV	Cc08g01750
+GO:0070069	1	8.3%	0.15%	0.0175	0.0502	cytochrome complex	Cc08g01750
+GO:1902495	1	8.3%	0.26%	0.0314	0.0785	transmembrane transporter complex	Cc08g01750
+GO:1990351	1	8.3%	0.26%	0.0314	0.0785	transporter complex	Cc08g01750
+GO:0005739	1	8.3%	0.47%	0.0552	0.115	mitochondrion	Cc08g01750
+GO:0110165	12	100%	79%	0.0571	0.115	cellular anatomical structure	Cc02g23210,Cc08g01750,Cc10g12380,Cc04g15000,Cc01g15270,Cc02g05420,Cc07g03260,Cc06g13760,Cc11g14480,Cc10g01640,Cc04g16340,Cc06g20040
+GO:0005840	2	17%	8.9%	0.292	0.522	ribosome	Cc02g23210,Cc04g15000
+GO:0043228	2	17%	11%	0.393	0.654	membraneless organelle	Cc02g23210,Cc04g15000
+GO:0043232	2	17%	11%	0.393	0.654	intracellular membraneless organelle	Cc02g23210,Cc04g15000
+GO:0098796	1	8.3%	4.3%	0.408	0.654	membrane protein complex	Cc08g01750
+GO:0043229	3	25%	23%	0.547	0.76	intracellular organelle	Cc02g23210,Cc08g01750,Cc04g15000
+GO:0043226	3	25%	23%	0.547	0.76	organelle	Cc02g23210,Cc08g01750,Cc04g15000
+GO:1902494	1	8.3%	7.9%	0.628	0.785	catalytic complex	Cc08g01750
+GO:0043231	1	8.3%	12%	0.783	0.932	intracellular membrane-bounded organelle	Cc08g01750
+GO:0043227	1	8.3%	12%	0.783	0.932	membrane-bounded organelle	Cc08g01750
+GO:0016020	3	25%	47%	0.967	1.0	membrane	Cc10g12380,Cc06g13760,Cc11g14480
+GO:0032991	1	8.3%	26%	0.974	1.0	protein-containing complex	Cc08g01750
+GO:0005575	12	100%	100%	1.0	1.0	cellular_component	Cc02g23210,Cc08g01750,Cc10g12380,Cc04g15000,Cc01g15270,Cc02g05420,Cc07g03260,Cc06g13760,Cc11g14480,Cc10g01640,Cc04g16340,Cc06g20040

@@ -1,0 +1,29 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0016757	3	33%	3.9%	4.15E-3	0.116	glycosyltransferase activity	Cc10g11220,Cc07g07560,Cc11g05340
+GO:0016787	5	56%	15%	6.21E-3	0.116	hydrolase activity	Cc05g03500,Cc08g04630,Cc07g07560,Cc07g10200,Cc04g02390
+GO:0008194	2	22%	2.2%	0.0159	0.149	UDP-glycosyltransferase activity	Cc10g11220,Cc11g05340
+GO:0016762	1	11%	0.2%	0.0177	0.149	xyloglucan:xyloglucosyl transferase activity	Cc07g07560
+GO:0004553	2	22%	3.1%	0.0294	0.164	hydrolase activity, hydrolyzing O-glycosyl compounds	Cc07g07560,Cc07g10200
+GO:0030145	1	11%	0.33%	0.0297	0.164	manganese ion binding	Cc06g12080
+GO:0016798	2	22%	3.2%	0.0318	0.164	hydrolase activity, acting on glycosyl bonds	Cc07g07560,Cc07g10200
+GO:0070001	1	11%	0.52%	0.0457	0.164	aspartic-type peptidase activity	Cc05g03500
+GO:0004190	1	11%	0.52%	0.0457	0.164	aspartic-type endopeptidase activity	Cc05g03500
+GO:0003690	1	11%	0.6%	0.0528	0.164	double-stranded DNA binding	Cc06g06380
+GO:0046527	1	11%	0.63%	0.0551	0.164	glucosyltransferase activity	Cc07g07560
+GO:0030246	1	11%	1.1%	0.0947	0.221	carbohydrate binding	Cc07g10200
+GO:0016758	1	11%	1.2%	0.107	0.23	hexosyltransferase activity	Cc07g07560
+GO:0003824	7	78%	52%	0.116	0.232	catalytic activity	Cc05g03500,Cc08g04630,Cc10g11220,Cc07g07560,Cc11g05340,Cc07g10200,Cc04g02390
+GO:0004175	1	11%	1.8%	0.149	0.278	endopeptidase activity	Cc05g03500
+GO:0016740	3	33%	20%	0.263	0.461	transferase activity	Cc10g11220,Cc07g07560,Cc11g05340
+GO:0008233	1	11%	3.4%	0.267	0.461	peptidase activity	Cc05g03500
+GO:0016788	1	11%	3.6%	0.279	0.461	hydrolase activity, acting on ester bonds	Cc04g02390
+GO:0003677	1	11%	6.8%	0.467	0.689	DNA binding	Cc06g06380
+GO:0046914	1	11%	7.6%	0.51	0.713	transition metal ion binding	Cc06g12080
+GO:0046872	1	11%	11%	0.664	0.886	metal ion binding	Cc06g12080
+GO:0043169	1	11%	12%	0.674	0.886	cation binding	Cc06g12080
+GO:0003676	1	11%	12%	0.694	0.886	nucleic acid binding	Cc06g06380
+GO:0140096	1	11%	15%	0.756	0.886	catalytic activity, acting on a protein	Cc05g03500
+GO:0043167	1	11%	34%	0.975	1.0	ion binding	Cc06g12080
+GO:0036094	1	11%	35%	0.979	1.0	small molecule binding	Cc06g12080
+GO:0005488	3	33%	64%	0.987	1.0	binding	Cc06g12080,Cc07g10200,Cc06g06380
+GO:0003674	9	100%	100%	1.0	1.0	molecular_function	Cc05g03500,Cc06g12080,Cc08g04630,Cc10g11220,Cc07g07560,Cc11g05340,Cc07g10200,Cc06g06380,Cc04g02390

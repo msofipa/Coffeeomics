@@ -1,0 +1,9 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0099081	1	50%	0.91%	0.0182	0.145	supramolecular polymer	Cc04g06320
+GO:0005874	1	50%	0.91%	0.0182	0.145	microtubule	Cc04g06320
+GO:0099513	1	50%	0.91%	0.0182	0.145	polymeric cytoskeletal fiber	Cc04g06320
+GO:0099512	1	50%	0.91%	0.0182	0.145	supramolecular fiber	Cc04g06320
+GO:0099080	1	50%	1.0%	0.0199	0.145	supramolecular complex	Cc04g06320
+GO:0110165	2	100%	79%	0.621	0.828	cellular anatomical structure	Cc03g02590,Cc04g06320
+GO:0016020	1	50%	47%	0.714	0.828	membrane	Cc03g02590
+GO:0005575	2	100%	100%	1.0	1.0	cellular_component	Cc03g02590,Cc04g06320

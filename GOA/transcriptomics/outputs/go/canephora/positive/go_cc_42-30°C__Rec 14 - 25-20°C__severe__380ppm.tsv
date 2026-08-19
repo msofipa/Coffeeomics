@@ -1,0 +1,14 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0015629	1	11%	0.41%	0.0365	0.475	actin cytoskeleton	Cc06g07980
+GO:0005739	1	11%	0.47%	0.0416	0.475	mitochondrion	Cc02g38200
+GO:0005856	1	11%	0.56%	0.0493	0.475	cytoskeleton	Cc06g07980
+GO:0110165	9	100%	79%	0.117	0.475	cellular anatomical structure	Cc06g07980,Cc02g38200,Cc06g20220,Cc06g11210,Cc07g17010,Cc02g06820,Cc05g04890,Cc06g03030,Cc05g11850
+GO:0016020	6	67%	47%	0.19	0.494	membrane	Cc06g20220,Cc06g11210,Cc07g17010,Cc02g06820,Cc05g04890,Cc06g03030
+GO:0043231	2	22%	12%	0.292	0.633	intracellular membrane-bounded organelle	Cc02g38200,Cc05g11850
+GO:0043227	2	22%	12%	0.292	0.633	membrane-bounded organelle	Cc02g38200,Cc05g11850
+GO:0043229	3	33%	23%	0.345	0.633	intracellular organelle	Cc06g07980,Cc02g38200,Cc05g11850
+GO:0043226	3	33%	23%	0.345	0.633	organelle	Cc06g07980,Cc02g38200,Cc05g11850
+GO:0005634	1	11%	9.2%	0.583	0.758	nucleus	Cc05g11850
+GO:0043228	1	11%	11%	0.655	0.774	membraneless organelle	Cc06g07980
+GO:0043232	1	11%	11%	0.655	0.774	intracellular membraneless organelle	Cc06g07980
+GO:0005575	9	100%	100%	1.0	1.0	cellular_component	Cc06g07980,Cc02g38200,Cc06g20220,Cc06g11210,Cc07g17010,Cc02g06820,Cc05g04890,Cc06g03030,Cc05g11850

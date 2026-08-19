@@ -1,0 +1,8 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0007017	1	50%	1.3%	0.0253	0.177	microtubule-based process	Cc04g03100
+GO:0055085	1	50%	9.5%	0.18	0.631	transmembrane transport	Cc05g04780
+GO:0006810	1	50%	15%	0.272	0.635	transport	Cc05g04780
+GO:0051234	1	50%	15%	0.278	0.635	establishment of localization	Cc05g04780
+GO:0051179	1	50%	15%	0.281	0.635	localization	Cc05g04780
+GO:0009987	2	100%	85%	0.722	0.843	cellular process	Cc04g03100,Cc05g04780
+GO:0008150	2	100%	100%	1.0	1.0	biological_process	Cc04g03100,Cc05g04780

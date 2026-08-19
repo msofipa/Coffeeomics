@@ -1,0 +1,51 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0006749	3	19%	0.98%	4.67E-4	0.0234	glutathione metabolic process	Cc05g10110,Cc11g13710,Cc03g14520
+GO:0006575	3	19%	1.3%	9.44E-4	0.0236	modified amino acid metabolic process	Cc05g10110,Cc11g13710,Cc03g14520
+GO:0043603	3	19%	1.3%	1.08E-3	0.0236	amide metabolic process	Cc05g10110,Cc11g13710,Cc03g14520
+GO:0006790	3	19%	1.7%	2.1E-3	0.0263	sulfur compound metabolic process	Cc05g10110,Cc11g13710,Cc03g14520
+GO:0015979	2	13%	0.46%	2.39E-3	0.0263	photosynthesis	Cc06g11950,Cc02g11770
+GO:0015976	1	6.3%	0.04%	5.81E-3	0.0485	carbon utilization	Cc07g02160
+GO:0042744	2	13%	0.79%	6.85E-3	0.0489	hydrogen peroxide catabolic process	Cc09g01700,Cc05g08480
+GO:0042743	2	13%	0.79%	6.85E-3	0.0489	hydrogen peroxide metabolic process	Cc09g01700,Cc05g08480
+GO:0072593	2	13%	0.92%	9.27E-3	0.0515	reactive oxygen species metabolic process	Cc09g01700,Cc05g08480
+GO:0042445	1	6.3%	0.06%	9.67E-3	0.0515	hormone metabolic process	Cc10g02380
+GO:0009690	1	6.3%	0.06%	9.67E-3	0.0515	cytokinin metabolic process	Cc10g02380
+GO:0006979	2	13%	1.3%	0.0172	0.0716	response to oxidative stress	Cc09g01700,Cc05g08480
+GO:0031667	1	6.3%	0.11%	0.0173	0.0716	response to nutrient levels	Cc07g02160
+GO:0010817	1	6.3%	0.11%	0.0173	0.0716	regulation of hormone levels	Cc10g02380
+GO:0006829	1	6.3%	0.13%	0.0212	0.0716	zinc ion transport	Cc08g10620
+GO:0071577	1	6.3%	0.13%	0.0212	0.0716	zinc ion transmembrane transport	Cc08g10620
+GO:0009765	1	6.3%	0.24%	0.0382	0.112	photosynthesis, light harvesting	Cc10g04190
+GO:0000041	1	6.3%	0.27%	0.0419	0.116	transition metal ion transport	Cc08g10620
+GO:0065008	1	6.3%	0.33%	0.0512	0.135	regulation of biological quality	Cc10g02380
+GO:0000226	1	6.3%	0.33%	0.0512	0.135	microtubule cytoskeleton organization	Cc11g05720
+GO:0009308	1	6.3%	0.38%	0.0586	0.139	amine metabolic process	Cc10g02380
+GO:0050896	3	19%	5.8%	0.0628	0.143	response to stimulus	Cc09g01700,Cc07g02160,Cc05g08480
+GO:0007010	1	6.3%	0.49%	0.075	0.163	cytoskeleton organization	Cc11g05720
+GO:0009056	2	13%	4.3%	0.147	0.307	catabolic process	Cc09g01700,Cc05g08480
+GO:0006950	2	13%	4.4%	0.157	0.314	response to stress	Cc09g01700,Cc05g08480
+GO:0098655	1	6.3%	1.1%	0.161	0.314	monoatomic cation transmembrane transport	Cc08g10620
+GO:0034220	1	6.3%	1.2%	0.173	0.32	monoatomic ion transmembrane transport	Cc08g10620
+GO:0007017	1	6.3%	1.3%	0.186	0.332	microtubule-based process	Cc11g05720
+GO:0006091	1	6.3%	1.3%	0.194	0.334	generation of precursor metabolites and energy	Cc10g04190
+GO:0030001	1	6.3%	1.5%	0.211	0.352	metal ion transport	Cc08g10620
+GO:0008152	12	75%	62%	0.221	0.356	metabolic process	Cc05g10110,Cc09g01700,Cc10g02380,Cc11g13710,Cc05g08480,Cc06g11950,Cc02g11770,Cc10g04190,Cc07g12510,Cc03g14520,Cc05g00760,Cc05g07610
+GO:0009987	15	94%	85%	0.284	0.443	cellular process	Cc11g13710,Cc02g11770,Cc08g10620,Cc10g04190,Cc05g10110,Cc09g01700,Cc10g02380,Cc11g05720,Cc05g08480,Cc06g11950,Cc10g09750,Cc07g12510,Cc03g14520,Cc05g00760,Cc05g07610
+GO:0006996	1	6.3%	2.1%	0.287	0.443	organelle organization	Cc11g05720
+GO:0006812	1	6.3%	2.4%	0.323	0.474	monoatomic cation transport	Cc08g10620
+GO:0006520	1	6.3%	2.6%	0.344	0.491	amino acid metabolic process	Cc05g07610
+GO:0006811	1	6.3%	2.8%	0.361	0.501	monoatomic ion transport	Cc08g10620
+GO:0055085	2	13%	9.5%	0.455	0.615	transmembrane transport	Cc08g10620,Cc10g09750
+GO:0016043	1	6.3%	5.9%	0.62	0.816	cellular component organization	Cc11g05720
+GO:0006508	1	6.3%	6.0%	0.628	0.816	proteolysis	Cc07g12510
+GO:0071840	1	6.3%	6.5%	0.657	0.821	cellular component organization or biogenesis	Cc11g05720
+GO:0006810	2	13%	15%	0.704	0.859	transport	Cc08g10620,Cc10g09750
+GO:0051234	2	13%	15%	0.718	0.859	establishment of localization	Cc08g10620,Cc10g09750
+GO:0051179	2	13%	15%	0.723	0.859	localization	Cc08g10620,Cc10g09750
+GO:0005975	1	6.3%	8.4%	0.755	0.859	carbohydrate metabolic process	Cc05g00760
+GO:0065007	1	6.3%	14%	0.915	1.0	biological regulation	Cc10g02380
+GO:0009058	1	6.3%	15%	0.928	1.0	biosynthetic process	Cc05g07610
+GO:0019538	1	6.3%	28%	0.995	1.0	protein metabolic process	Cc07g12510
+GO:0044238	3	19%	55%	0.999	1.0	primary metabolic process	Cc07g12510,Cc05g00760,Cc05g07610
+GO:0043170	1	6.3%	38%	1.0	1.0	macromolecule metabolic process	Cc07g12510
+GO:0008150	16	100%	100%	1.0	1.0	biological_process	Cc11g13710,Cc02g11770,Cc08g10620,Cc10g04190,Cc05g10110,Cc09g01700,Cc10g02380,Cc11g05720,Cc07g02160,Cc05g08480,Cc06g11950,Cc10g09750,Cc07g12510,Cc03g14520,Cc05g00760,Cc05g07610

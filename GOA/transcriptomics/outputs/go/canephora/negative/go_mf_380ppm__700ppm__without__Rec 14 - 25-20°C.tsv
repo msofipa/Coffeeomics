@@ -1,0 +1,11 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0042578	3	60%	1.4%	2.38E-5	2.38E-4	phosphoric ester hydrolase activity	Cc04g02120,Cc04g09270,Cc07g01090
+GO:0016788	3	60%	3.6%	4.31E-4	2.15E-3	hydrolase activity, acting on ester bonds	Cc04g02120,Cc04g09270,Cc07g01090
+GO:0016791	2	40%	1.1%	1.19E-3	3.96E-3	phosphatase activity	Cc04g02120,Cc04g09270
+GO:0003993	1	20%	0.2%	9.86E-3	0.0246	acid phosphatase activity	Cc04g09270
+GO:0008081	1	20%	0.22%	0.0109	0.0246	phosphoric diester hydrolase activity	Cc07g01090
+GO:0016787	3	60%	15%	0.0283	0.0472	hydrolase activity	Cc04g02120,Cc04g09270,Cc07g01090
+GO:0022857	2	40%	5.9%	0.0313	0.0472	transmembrane transporter activity	Cc05g03140,Cc02g04240
+GO:0005215	2	40%	6.1%	0.0325	0.0472	transporter activity	Cc05g03140,Cc02g04240
+GO:0003824	3	60%	52%	0.545	0.606	catalytic activity	Cc04g02120,Cc04g09270,Cc07g01090
+GO:0003674	5	100%	100%	1.0	1.0	molecular_function	Cc04g02120,Cc04g09270,Cc05g03140,Cc02g04240,Cc07g01090

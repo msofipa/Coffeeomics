@@ -1,0 +1,30 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0008734	1	13%	0.01%	5.46E-4	0.0158	L-aspartate oxidase activity	Cc07g02190
+GO:0001716	1	13%	0.01%	5.46E-4	0.0158	L-amino-acid oxidase activity	Cc07g02190
+GO:0005452	1	13%	0.01%	1.09E-3	0.0158	solute:inorganic anion antiporter activity	Cc04g14210
+GO:0008131	1	13%	0.08%	5.99E-3	0.0434	primary methylamine oxidase activity	Cc07g02190
+GO:0016641	1	13%	0.1%	7.62E-3	0.0442	oxidoreductase activity, acting on the CH-NH2 group of donors, oxygen as acceptor	Cc07g02190
+GO:0016671	1	13%	0.1%	8.16E-3	0.0442	oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor	Cc09g01560
+GO:0016638	1	13%	0.13%	0.0103	0.0442	oxidoreductase activity, acting on the CH-NH2 group of donors	Cc07g02190
+GO:0016627	1	13%	0.35%	0.0275	0.0997	oxidoreductase activity, acting on the CH-CH group of donors	Cc02g29800
+GO:0071949	1	13%	0.46%	0.0365	0.118	FAD binding	Cc07g06010
+GO:0016667	1	13%	0.52%	0.0408	0.118	oxidoreductase activity, acting on a sulfur group of donors	Cc09g01560
+GO:0016491	3	38%	11%	0.0492	0.13	oxidoreductase activity	Cc02g29800,Cc09g01560,Cc07g02190
+GO:0015297	1	13%	0.65%	0.0507	0.13	antiporter activity	Cc04g14210
+GO:0015291	1	13%	0.76%	0.059	0.132	secondary active transmembrane transporter activity	Cc04g14210
+GO:0050660	1	13%	0.98%	0.0755	0.156	flavin adenine dinucleotide binding	Cc07g06010
+GO:0022804	1	13%	2.0%	0.147	0.285	active transmembrane transporter activity	Cc04g14210
+GO:0005515	3	38%	23%	0.281	0.509	protein binding	Cc07g06010,Cc01g17230,Cc03g07400
+GO:0022857	1	13%	5.9%	0.388	0.661	transmembrane transporter activity	Cc04g14210
+GO:0005215	1	13%	6.1%	0.394	0.661	transporter activity	Cc04g14210
+GO:0003677	1	13%	6.8%	0.429	0.661	DNA binding	Cc02g39990
+GO:0003676	1	13%	12%	0.651	0.944	nucleic acid binding	Cc02g39990
+GO:0000166	1	13%	22%	0.87	1.0	nucleotide binding	Cc07g06010
+GO:1901265	1	13%	23%	0.87	1.0	nucleoside phosphate binding	Cc07g06010
+GO:0043168	1	13%	23%	0.873	1.0	anion binding	Cc07g06010
+GO:1901363	1	13%	23%	0.881	1.0	heterocyclic compound binding	Cc07g06010
+GO:0005488	4	50%	64%	0.883	1.0	binding	Cc07g06010,Cc02g39990,Cc01g17230,Cc03g07400
+GO:0003824	3	38%	52%	0.885	1.0	catalytic activity	Cc02g29800,Cc09g01560,Cc07g02190
+GO:0043167	1	13%	34%	0.962	1.0	ion binding	Cc07g06010
+GO:0036094	1	13%	35%	0.968	1.0	small molecule binding	Cc07g06010
+GO:0003674	8	100%	100%	1.0	1.0	molecular_function	Cc04g14210,Cc02g29800,Cc07g06010,Cc02g39990,Cc09g01560,Cc01g17230,Cc07g02190,Cc03g07400

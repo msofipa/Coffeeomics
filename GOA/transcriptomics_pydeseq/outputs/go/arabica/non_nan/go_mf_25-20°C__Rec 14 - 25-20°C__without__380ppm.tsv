@@ -1,0 +1,27 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0016762	1	17%	0.2%	0.0118	0.307	xyloglucan:xyloglucosyl transferase activity	Cc06g13410
+GO:0046527	1	17%	0.63%	0.0371	0.482	glucosyltransferase activity	Cc06g13410
+GO:0003677	2	33%	6.8%	0.057	0.494	DNA binding	Cc11g12740,Cc05g12500
+GO:0050660	1	17%	0.98%	0.0571	0.494	flavin adenine dinucleotide binding	Cc04g01940
+GO:0016614	1	17%	1.0%	0.0603	0.494	oxidoreductase activity, acting on CH-OH group of donors	Cc04g01940
+GO:0016758	1	17%	1.2%	0.0726	0.494	hexosyltransferase activity	Cc06g13410
+GO:0003676	2	33%	12%	0.163	0.605	nucleic acid binding	Cc11g12740,Cc05g12500
+GO:0004553	1	17%	3.1%	0.171	0.605	hydrolase activity, hydrolyzing O-glycosyl compounds	Cc06g13410
+GO:0016798	1	17%	3.2%	0.178	0.605	hydrolase activity, acting on glycosyl bonds	Cc06g13410
+GO:0016757	1	17%	3.9%	0.212	0.605	glycosyltransferase activity	Cc06g13410
+GO:0022857	1	17%	5.9%	0.308	0.727	transmembrane transporter activity	Cc10g14810
+GO:0005215	1	17%	6.1%	0.313	0.727	transporter activity	Cc10g14810
+GO:0016491	1	17%	11%	0.505	1.0	oxidoreductase activity	Cc04g01940
+GO:0046872	1	17%	11%	0.517	1.0	metal ion binding	Cc07g11100
+GO:0043169	1	17%	12%	0.526	1.0	cation binding	Cc07g11100
+GO:0005488	4	67%	64%	0.628	1.0	binding	Cc07g11100,Cc04g01940,Cc11g12740,Cc05g12500
+GO:0016787	1	17%	15%	0.632	1.0	hydrolase activity	Cc06g13410
+GO:0043167	2	33%	34%	0.655	1.0	ion binding	Cc07g11100,Cc04g01940
+GO:0036094	2	33%	35%	0.678	1.0	small molecule binding	Cc07g11100,Cc04g01940
+GO:0016740	1	17%	20%	0.739	1.0	transferase activity	Cc06g13410
+GO:0000166	1	17%	22%	0.783	1.0	nucleotide binding	Cc04g01940
+GO:1901265	1	17%	23%	0.784	1.0	nucleoside phosphate binding	Cc04g01940
+GO:0043168	1	17%	23%	0.787	1.0	anion binding	Cc04g01940
+GO:1901363	1	17%	23%	0.797	1.0	heterocyclic compound binding	Cc04g01940
+GO:0003824	2	33%	52%	0.912	1.0	catalytic activity	Cc06g13410,Cc04g01940
+GO:0003674	6	100%	100%	1.0	1.0	molecular_function	Cc06g13410,Cc07g11100,Cc04g01940,Cc11g12740,Cc05g12500,Cc10g14810

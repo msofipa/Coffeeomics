@@ -1,0 +1,19 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0016036	1	25%	0.05%	1.94E-3	0.0349	cellular response to phosphate starvation	Cc06g08450
+GO:0042594	1	25%	0.06%	2.43E-3	0.0349	response to starvation	Cc06g08450
+GO:0009267	1	25%	0.06%	2.43E-3	0.0349	cellular response to starvation	Cc06g08450
+GO:0031669	1	25%	0.07%	2.91E-3	0.0349	cellular response to nutrient levels	Cc06g08450
+GO:0031667	1	25%	0.11%	4.36E-3	0.0349	response to nutrient levels	Cc06g08450
+GO:0055085	2	50%	9.5%	0.0471	0.141	transmembrane transport	Cc05g03140,Cc02g04240
+GO:0033554	1	25%	1.9%	0.0722	0.186	cellular response to stress	Cc06g08450
+GO:0051716	1	25%	1.9%	0.0755	0.186	cellular response to stimulus	Cc06g08450
+GO:0006810	2	50%	15%	0.105	0.21	transport	Cc05g03140,Cc02g04240
+GO:0051234	2	50%	15%	0.11	0.21	establishment of localization	Cc05g03140,Cc02g04240
+GO:0051179	2	50%	15%	0.112	0.21	localization	Cc05g03140,Cc02g04240
+GO:0006950	1	25%	4.4%	0.166	0.249	response to stress	Cc06g08450
+GO:0006629	1	25%	4.7%	0.176	0.249	lipid metabolic process	Cc07g01090
+GO:0050896	1	25%	5.8%	0.214	0.275	response to stimulus	Cc06g08450
+GO:0009987	4	100%	85%	0.522	0.626	cellular process	Cc05g03140,Cc02g04240,Cc07g01090,Cc06g08450
+GO:0044238	1	25%	55%	0.958	1.0	primary metabolic process	Cc07g01090
+GO:0008152	1	25%	62%	0.98	1.0	metabolic process	Cc07g01090
+GO:0008150	4	100%	100%	1.0	1.0	biological_process	Cc05g03140,Cc02g04240,Cc07g01090,Cc06g08450

@@ -1,0 +1,19 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0009698	1	50%	0.28%	5.58E-3	0.1	phenylpropanoid metabolic process	Cc06g02440
+GO:0009808	1	50%	0.28%	5.58E-3	0.1	lignin metabolic process	Cc06g02440
+GO:0019748	1	50%	0.28%	5.58E-3	0.1	secondary metabolic process	Cc06g02440
+GO:0046271	1	50%	0.28%	5.58E-3	0.1	phenylpropanoid catabolic process	Cc06g02440
+GO:0046274	1	50%	0.28%	5.58E-3	0.1	lignin catabolic process	Cc06g02440
+GO:0009056	1	50%	4.3%	0.0836	0.251	catabolic process	Cc06g02440
+GO:0006468	1	50%	15%	0.277	0.713	protein phosphorylation	Cc05g15350
+GO:0016310	1	50%	15%	0.28	0.713	phosphorylation	Cc05g15350
+GO:0036211	1	50%	18%	0.327	0.713	protein modification process	Cc05g15350
+GO:0043412	1	50%	19%	0.344	0.713	macromolecule modification	Cc05g15350
+GO:0006796	1	50%	19%	0.351	0.713	phosphate-containing compound metabolic process	Cc05g15350
+GO:0006793	1	50%	19%	0.351	0.713	phosphorus metabolic process	Cc05g15350
+GO:0008152	2	100%	62%	0.39	0.713	metabolic process	Cc05g15350,Cc06g02440
+GO:0019538	1	50%	28%	0.48	0.713	protein metabolic process	Cc05g15350
+GO:0043170	1	50%	38%	0.617	0.74	macromolecule metabolic process	Cc05g15350
+GO:0009987	2	100%	85%	0.722	0.813	cellular process	Cc05g15350,Cc06g02440
+GO:0044238	1	50%	55%	0.796	0.843	primary metabolic process	Cc05g15350
+GO:0008150	2	100%	100%	1.0	1.0	biological_process	Cc05g15350,Cc06g02440

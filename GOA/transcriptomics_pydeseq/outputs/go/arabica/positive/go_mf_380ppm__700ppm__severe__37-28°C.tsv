@@ -1,0 +1,39 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0016855	1	17%	0.03%	1.64E-3	0.0622	racemase and epimerase activity, acting on amino acids and derivatives	Cc06g08780
+GO:0016854	1	17%	0.09%	5.31E-3	0.101	racemase and epimerase activity	Cc06g08780
+GO:0005516	1	17%	0.16%	9.79E-3	0.124	calmodulin binding	Cc04g06970
+GO:0010333	1	17%	0.36%	0.0215	0.204	terpene synthase activity	Cc01g19400
+GO:0016838	1	17%	0.4%	0.0235	0.204	carbon-oxygen lyase activity, acting on phosphates	Cc01g19400
+GO:0005507	1	17%	0.46%	0.0275	0.204	copper ion binding	Cc05g04680
+GO:0016835	1	17%	0.71%	0.0418	0.227	carbon-oxygen lyase activity	Cc01g19400
+GO:0000287	1	17%	0.76%	0.0446	0.227	magnesium ion binding	Cc01g19400
+GO:0016829	1	17%	1.5%	0.0875	0.37	lyase activity	Cc01g19400
+GO:0016853	1	17%	2.3%	0.132	0.502	isomerase activity	Cc06g08780
+GO:0003824	5	83%	52%	0.134	0.502	catalytic activity	Cc02g30790,Cc02g21110,Cc05g04680,Cc06g08780,Cc01g19400
+GO:0016491	2	33%	11%	0.135	0.502	oxidoreductase activity	Cc02g21110,Cc05g04680
+GO:0046872	2	33%	11%	0.143	0.502	metal ion binding	Cc05g04680,Cc01g19400
+GO:0043169	2	33%	12%	0.149	0.502	cation binding	Cc05g04680,Cc01g19400
+GO:0043167	3	50%	34%	0.325	0.824	ion binding	Cc02g30790,Cc05g04680,Cc01g19400
+GO:0036094	3	50%	35%	0.35	0.83	small molecule binding	Cc02g30790,Cc05g04680,Cc01g19400
+GO:0046914	1	17%	7.6%	0.378	0.845	transition metal ion binding	Cc05g04680
+GO:0004672	1	17%	8.6%	0.416	0.879	protein kinase activity	Cc02g30790
+GO:0005515	2	33%	23%	0.427	0.879	protein binding	Cc02g30790,Cc04g06970
+GO:0016773	1	17%	9.2%	0.439	0.879	phosphotransferase activity, alcohol group as acceptor	Cc02g30790
+GO:0016301	1	17%	9.5%	0.452	0.879	kinase activity	Cc02g30790
+GO:0016772	1	17%	11%	0.486	0.879	transferase activity, transferring phosphorus-containing groups	Cc02g30790
+GO:0005524	1	17%	14%	0.598	0.987	ATP binding	Cc02g30790
+GO:0140096	1	17%	15%	0.61	0.987	catalytic activity, acting on a protein	Cc02g30790
+GO:0005488	4	67%	64%	0.628	0.987	binding	Cc02g30790,Cc04g06970,Cc05g04680,Cc01g19400
+GO:0035639	1	17%	16%	0.639	0.987	purine ribonucleoside triphosphate binding	Cc02g30790
+GO:0032559	1	17%	19%	0.716	1.0	adenyl ribonucleotide binding	Cc02g30790
+GO:0030554	1	17%	20%	0.73	1.0	adenyl nucleotide binding	Cc02g30790
+GO:0016740	1	17%	20%	0.739	1.0	transferase activity	Cc02g30790
+GO:0032555	1	17%	20%	0.747	1.0	purine ribonucleotide binding	Cc02g30790
+GO:0032553	1	17%	21%	0.751	1.0	ribonucleotide binding	Cc02g30790
+GO:0097367	1	17%	21%	0.755	1.0	carbohydrate derivative binding	Cc02g30790
+GO:0017076	1	17%	21%	0.76	1.0	purine nucleotide binding	Cc02g30790
+GO:0000166	1	17%	22%	0.783	1.0	nucleotide binding	Cc02g30790
+GO:1901265	1	17%	23%	0.784	1.0	nucleoside phosphate binding	Cc02g30790
+GO:0043168	1	17%	23%	0.787	1.0	anion binding	Cc02g30790
+GO:1901363	1	17%	23%	0.797	1.0	heterocyclic compound binding	Cc02g30790
+GO:0003674	6	100%	100%	1.0	1.0	molecular_function	Cc02g30790,Cc04g06970,Cc02g21110,Cc05g04680,Cc06g08780,Cc01g19400

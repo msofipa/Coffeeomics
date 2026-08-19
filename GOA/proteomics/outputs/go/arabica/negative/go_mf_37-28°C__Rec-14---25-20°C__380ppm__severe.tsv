@@ -1,0 +1,15 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0010242	1	33%	0.01%	2.05E-4	2.87E-3	oxygen evolving activity	Cc07g05350
+GO:0030145	1	33%	0.33%	1E-2	0.07	manganese ion binding	Cc06g12080
+GO:0004553	1	33%	3.1%	0.0893	0.417	hydrolase activity, hydrolyzing O-glycosyl compounds	Cc02g21830
+GO:0016798	1	33%	3.2%	0.0932	0.417	hydrolase activity, acting on glycosyl bonds	Cc02g21830
+GO:0046914	1	33%	7.6%	0.211	0.592	transition metal ion binding	Cc06g12080
+GO:0016491	1	33%	11%	0.296	0.691	oxidoreductase activity	Cc07g05350
+GO:0046872	1	33%	11%	0.305	0.691	metal ion binding	Cc06g12080
+GO:0043169	1	33%	12%	0.312	0.691	cation binding	Cc06g12080
+GO:0016787	1	33%	15%	0.393	0.691	hydrolase activity	Cc02g21830
+GO:0003824	2	67%	52%	0.536	0.75	catalytic activity	Cc07g05350,Cc02g21830
+GO:0043167	1	33%	34%	0.708	0.901	ion binding	Cc06g12080
+GO:0036094	1	33%	35%	0.723	0.901	small molecule binding	Cc06g12080
+GO:0005488	1	33%	64%	0.954	1.0	binding	Cc06g12080
+GO:0003674	3	100%	100%	1.0	1.0	molecular_function	Cc06g12080,Cc07g05350,Cc02g21830

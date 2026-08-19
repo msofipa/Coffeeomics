@@ -1,0 +1,9 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0009522	2	67%	0.24%	1.45E-5	1.16E-4	photosystem I	Cc10g12590,Cc09g06610
+GO:0009521	2	67%	0.91%	2.4E-4	9.62E-4	photosystem	Cc10g12590,Cc09g06610
+GO:0009538	1	33%	0.15%	4.41E-3	0.0118	photosystem I reaction center	Cc09g06610
+GO:0098796	2	67%	4.3%	5.28E-3	0.0118	membrane protein complex	Cc10g12590,Cc09g06610
+GO:0032991	3	100%	26%	0.0178	0.0284	protein-containing complex	Cc10g12590,Cc09g06610,Cc01g12010
+GO:0000786	1	33%	1.4%	0.0418	0.0557	nucleosome	Cc01g12010
+GO:0032993	1	33%	1.5%	0.0444	0.0557	protein-DNA complex	Cc01g12010
+GO:0005575	3	100%	100%	1.0	1.0	cellular_component	Cc10g12590,Cc09g06610,Cc01g12010

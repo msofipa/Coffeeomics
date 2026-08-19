@@ -1,0 +1,10 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0012511	1	25%	0.18%	7.05E-3	0.0634	monolayer-surrounded lipid storage body	Cc08g11890
+GO:0005811	1	25%	0.47%	0.0187	0.0842	lipid droplet	Cc08g11890
+GO:0016020	4	100%	47%	0.0467	0.14	membrane	Cc09g10840,Cc08g11890,Cc03g07460,Cc08g05310
+GO:0043228	1	25%	11%	0.376	0.847	membraneless organelle	Cc08g11890
+GO:0043232	1	25%	11%	0.376	0.847	intracellular membraneless organelle	Cc08g11890
+GO:0110165	4	100%	79%	0.385	0.847	cellular anatomical structure	Cc09g10840,Cc08g11890,Cc03g07460,Cc08g05310
+GO:0043229	1	25%	23%	0.65	0.847	intracellular organelle	Cc08g11890
+GO:0043226	1	25%	23%	0.65	0.847	organelle	Cc08g11890
+GO:0005575	4	100%	100%	1.0	1.0	cellular_component	Cc09g10840,Cc08g11890,Cc03g07460,Cc08g05310

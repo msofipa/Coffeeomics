@@ -1,0 +1,25 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0005452	1	14%	0.01%	9.55E-4	0.0229	solute:inorganic anion antiporter activity	Cc04g14210
+GO:0016671	1	14%	0.1%	7.14E-3	0.0857	oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor	Cc09g01560
+GO:0016627	1	14%	0.35%	0.0241	0.193	oxidoreductase activity, acting on the CH-CH group of donors	Cc02g29800
+GO:0071949	1	14%	0.46%	0.032	0.193	FAD binding	Cc07g06010
+GO:0016667	1	14%	0.52%	0.0357	0.193	oxidoreductase activity, acting on a sulfur group of donors	Cc09g01560
+GO:0015297	1	14%	0.65%	0.0445	0.193	antiporter activity	Cc04g14210
+GO:0015291	1	14%	0.76%	0.0518	0.193	secondary active transmembrane transporter activity	Cc04g14210
+GO:0050660	1	14%	0.98%	0.0664	0.199	flavin adenine dinucleotide binding	Cc07g06010
+GO:0022804	1	14%	2.0%	0.13	0.347	active transmembrane transporter activity	Cc04g14210
+GO:0016491	2	29%	11%	0.176	0.423	oxidoreductase activity	Cc02g29800,Cc09g01560
+GO:0005515	3	43%	23%	0.21	0.458	protein binding	Cc07g06010,Cc01g17230,Cc03g07400
+GO:0022857	1	14%	5.9%	0.349	0.698	transmembrane transporter activity	Cc04g14210
+GO:0005215	1	14%	6.1%	0.355	0.698	transporter activity	Cc04g14210
+GO:0003677	1	14%	6.8%	0.387	0.698	DNA binding	Cc02g39990
+GO:0003676	1	14%	12%	0.602	0.963	nucleic acid binding	Cc02g39990
+GO:0005488	4	57%	64%	0.784	1.0	binding	Cc07g06010,Cc02g39990,Cc01g17230,Cc03g07400
+GO:0000166	1	14%	22%	0.832	1.0	nucleotide binding	Cc07g06010
+GO:1901265	1	14%	23%	0.833	1.0	nucleoside phosphate binding	Cc07g06010
+GO:0043168	1	14%	23%	0.836	1.0	anion binding	Cc07g06010
+GO:1901363	1	14%	23%	0.844	1.0	heterocyclic compound binding	Cc07g06010
+GO:0043167	1	14%	34%	0.943	1.0	ion binding	Cc07g06010
+GO:0036094	1	14%	35%	0.95	1.0	small molecule binding	Cc07g06010
+GO:0003824	2	29%	52%	0.952	1.0	catalytic activity	Cc02g29800,Cc09g01560
+GO:0003674	7	100%	100%	1.0	1.0	molecular_function	Cc04g14210,Cc02g29800,Cc07g06010,Cc02g39990,Cc09g01560,Cc01g17230,Cc03g07400

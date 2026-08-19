@@ -1,0 +1,23 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0019825	1	14%	0.04%	2.86E-3	0.063	oxygen binding	Cc02g10510
+GO:0008194	2	29%	2.2%	9.56E-3	0.105	UDP-glycosyltransferase activity	Cc06g22490,Cc10g10410
+GO:0008483	1	14%	0.18%	0.0124	0.105	transaminase activity	Cc05g07600
+GO:0016769	1	14%	0.18%	0.0128	0.105	transferase activity, transferring nitrogenous groups	Cc05g07600
+GO:0047834	1	14%	0.38%	0.0264	0.116	D-threo-aldose 1-dehydrogenase activity	Cc02g30560
+GO:0016757	2	29%	3.9%	0.0279	0.116	glycosyltransferase activity	Cc06g22490,Cc10g10410
+GO:0070279	1	14%	0.59%	0.0404	0.127	vitamin B6 binding	Cc05g07600
+GO:0030170	1	14%	0.59%	0.0404	0.127	pyridoxal phosphate binding	Cc05g07600
+GO:0019842	1	14%	0.81%	0.055	0.135	vitamin binding	Cc05g07600
+GO:0016616	1	14%	0.9%	0.0614	0.135	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	Cc02g30560
+GO:0016614	1	14%	1.0%	0.0699	0.14	oxidoreductase activity, acting on CH-OH group of donors	Cc02g30560
+GO:0003824	6	86%	52%	0.0798	0.146	catalytic activity	Cc01g19670,Cc06g22490,Cc02g30560,Cc10g10410,Cc01g19310,Cc05g07600
+GO:0016740	3	43%	20%	0.149	0.252	transferase activity	Cc06g22490,Cc10g10410,Cc05g07600
+GO:0020037	1	14%	4.0%	0.249	0.391	heme binding	Cc02g10510
+GO:0046906	1	14%	4.0%	0.249	0.391	tetrapyrrole binding	Cc02g10510
+GO:0016491	1	14%	11%	0.559	0.769	oxidoreductase activity	Cc02g30560
+GO:0036094	2	29%	35%	0.763	0.988	small molecule binding	Cc02g10510,Cc05g07600
+GO:0043168	1	14%	23%	0.836	1.0	anion binding	Cc05g07600
+GO:1901363	1	14%	23%	0.844	1.0	heterocyclic compound binding	Cc05g07600
+GO:0043167	1	14%	34%	0.943	1.0	ion binding	Cc05g07600
+GO:0005488	2	29%	64%	0.99	1.0	binding	Cc02g10510,Cc05g07600
+GO:0003674	7	100%	100%	1.0	1.0	molecular_function	Cc01g19670,Cc06g22490,Cc02g30560,Cc02g10510,Cc10g10410,Cc01g19310,Cc05g07600

@@ -1,0 +1,38 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0003824	11	85%	52%	0.0173	0.64	catalytic activity	Cc02g19810,Cc06g06630,Cc07g16990,Cc09g01110,Cc02g05960,Cc01g19650,Cc02g14560,Cc05g14210,Cc06g06040,Cc02g35350,Cc05g13950
+GO:0052716	1	7.7%	0.16%	0.0202	0.64	hydroquinone:oxygen oxidoreductase activity	Cc02g05960
+GO:0016679	1	7.7%	0.23%	0.0298	0.64	oxidoreductase activity, acting on diphenols and related substances as donors	Cc02g05960
+GO:0016682	1	7.7%	0.23%	0.0298	0.64	oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor	Cc02g05960
+GO:0016787	5	38%	15%	0.0373	0.64	hydrolase activity	Cc02g19810,Cc01g19650,Cc02g14560,Cc05g14210,Cc05g13950
+GO:0016491	4	31%	11%	0.0469	0.64	oxidoreductase activity	Cc07g16990,Cc09g01110,Cc02g05960,Cc06g06040
+GO:0004553	2	15%	3.1%	0.0587	0.64	hydrolase activity, hydrolyzing O-glycosyl compounds	Cc02g19810,Cc05g14210
+GO:0005507	1	7.7%	0.46%	0.0587	0.64	copper ion binding	Cc02g05960
+GO:0016798	2	15%	3.2%	0.0634	0.64	hydrolase activity, acting on glycosyl bonds	Cc02g19810,Cc05g14210
+GO:0070001	1	7.7%	0.52%	0.0654	0.64	aspartic-type peptidase activity	Cc01g19650
+GO:0004190	1	7.7%	0.52%	0.0654	0.64	aspartic-type endopeptidase activity	Cc01g19650
+GO:0004497	1	7.7%	0.55%	0.0687	0.64	monooxygenase activity	Cc07g16990
+GO:0016788	2	15%	3.6%	0.0767	0.64	hydrolase activity, acting on ester bonds	Cc02g14560,Cc05g13950
+GO:0004842	1	7.7%	0.89%	0.109	0.64	ubiquitin-protein transferase activity	Cc06g06630
+GO:0019787	1	7.7%	0.91%	0.112	0.64	ubiquitin-like protein transferase activity	Cc06g06630
+GO:0016755	1	7.7%	0.93%	0.114	0.64	aminoacyltransferase activity	Cc06g06630
+GO:0004175	1	7.7%	1.8%	0.208	0.64	endopeptidase activity	Cc01g19650
+GO:0003677	2	15%	6.8%	0.218	0.64	DNA binding	Cc05g07590,Cc05g01340
+GO:0046914	2	15%	7.6%	0.26	0.64	transition metal ion binding	Cc07g16990,Cc02g05960
+GO:0016746	1	7.7%	2.7%	0.297	0.64	acyltransferase activity	Cc06g06630
+GO:0003700	1	7.7%	2.8%	0.306	0.64	DNA-binding transcription factor activity	Cc05g07590
+GO:0140110	1	7.7%	3.1%	0.333	0.64	transcription regulator activity	Cc05g07590
+GO:0008233	1	7.7%	3.4%	0.361	0.64	peptidase activity	Cc01g19650
+GO:0005506	1	7.7%	3.6%	0.375	0.64	iron ion binding	Cc07g16990
+GO:0016705	1	7.7%	3.6%	0.379	0.64	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	Cc07g16990
+GO:0016757	1	7.7%	3.9%	0.404	0.64	glycosyltransferase activity	Cc02g35350
+GO:0046906	1	7.7%	4.0%	0.412	0.64	tetrapyrrole binding	Cc07g16990
+GO:0020037	1	7.7%	4.0%	0.412	0.64	heme binding	Cc07g16990
+GO:0046872	2	15%	11%	0.447	0.64	metal ion binding	Cc07g16990,Cc02g05960
+GO:0043169	2	15%	12%	0.46	0.64	cation binding	Cc07g16990,Cc02g05960
+GO:0003676	2	15%	12%	0.489	0.64	nucleic acid binding	Cc05g07590,Cc05g01340
+GO:0140096	2	15%	15%	0.582	0.673	catalytic activity, acting on a protein	Cc06g06630,Cc01g19650
+GO:0016740	2	15%	20%	0.768	0.861	transferase activity	Cc06g06630,Cc02g35350
+GO:0043167	2	15%	34%	0.963	1.0	ion binding	Cc07g16990,Cc02g05960
+GO:0036094	2	15%	35%	0.97	1.0	small molecule binding	Cc07g16990,Cc02g05960
+GO:0005488	4	31%	64%	0.997	1.0	binding	Cc05g07590,Cc07g16990,Cc02g05960,Cc05g01340
+GO:0003674	13	100%	100%	1.0	1.0	molecular_function	Cc02g19810,Cc07g16990,Cc02g05960,Cc01g19650,Cc02g14560,Cc05g14210,Cc02g35350,Cc05g13950,Cc05g07590,Cc06g06630,Cc09g01110,Cc05g01340,Cc06g06040

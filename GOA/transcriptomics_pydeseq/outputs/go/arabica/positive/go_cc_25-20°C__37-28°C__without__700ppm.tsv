@@ -1,0 +1,33 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0042646	1	9.1%	0.03%	3.24E-3	0.104	plastid nucleoid	Cc01g16130
+GO:0042644	1	9.1%	0.03%	3.24E-3	0.104	chloroplast nucleoid	Cc01g16130
+GO:0009295	1	9.1%	0.03%	3.24E-3	0.104	nucleoid	Cc01g16130
+GO:0000127	1	9.1%	0.18%	0.0193	0.154	transcription factor TFIIIC complex	Cc11g00230
+GO:0030915	1	9.1%	0.24%	0.0256	0.164	Smc5-Smc6 complex	Cc02g14290
+GO:0090576	1	9.1%	0.24%	0.0256	0.164	RNA polymerase III transcription regulator complex	Cc11g00230
+GO:0106068	1	9.1%	0.24%	0.0256	0.164	SUMO ligase complex	Cc02g14290
+GO:0009536	1	9.1%	0.35%	0.0382	0.164	plastid	Cc02g34480
+GO:0005783	1	9.1%	0.65%	0.0691	0.246	endoplasmic reticulum	Cc04g05660
+GO:0005681	1	9.1%	0.79%	0.0842	0.269	spliceosomal complex	Cc01g01870
+GO:0043229	5	45%	23%	0.0854	0.269	intracellular organelle	Cc02g23210,Cc04g05660,Cc01g16130,Cc02g14290,Cc02g34480
+GO:0043226	5	45%	23%	0.0854	0.269	organelle	Cc02g23210,Cc04g05660,Cc01g16130,Cc02g14290,Cc02g34480
+GO:0000145	1	9.1%	0.94%	0.099	0.269	exocyst	Cc04g00360
+GO:0099023	1	9.1%	1.3%	0.134	0.306	vesicle tethering complex	Cc04g00360
+GO:0043231	3	27%	12%	0.134	0.306	intracellular membrane-bounded organelle	Cc04g05660,Cc02g14290,Cc02g34480
+GO:0043227	3	27%	12%	0.134	0.306	membrane-bounded organelle	Cc04g05660,Cc02g14290,Cc02g34480
+GO:0048046	1	9.1%	1.6%	0.167	0.315	apoplast	Cc02g39610
+GO:0005667	1	9.1%	1.9%	0.194	0.346	transcription regulator complex	Cc11g00230
+GO:0005576	1	9.1%	3.0%	0.283	0.476	extracellular region	Cc02g39610
+GO:0032991	4	36%	26%	0.318	0.508	protein-containing complex	Cc04g00360,Cc11g00230,Cc02g14290,Cc01g01870
+GO:0043228	2	18%	11%	0.351	0.534	membraneless organelle	Cc02g23210,Cc01g16130
+GO:0043232	2	18%	11%	0.351	0.534	intracellular membraneless organelle	Cc02g23210,Cc01g16130
+GO:1990234	1	9.1%	3.9%	0.354	0.534	transferase complex	Cc02g14290
+GO:1990904	1	9.1%	4.3%	0.384	0.534	ribonucleoprotein complex	Cc01g01870
+GO:0005737	1	9.1%	4.9%	0.428	0.548	cytoplasm	Cc07g04080
+GO:0140513	1	9.1%	7.2%	0.563	0.693	nuclear protein-containing complex	Cc01g01870
+GO:1902494	1	9.1%	7.9%	0.596	0.706	catalytic complex	Cc02g14290
+GO:0005840	1	9.1%	8.9%	0.644	0.736	ribosome	Cc02g23210
+GO:0005634	1	9.1%	9.2%	0.656	0.736	nucleus	Cc02g14290
+GO:0110165	8	73%	79%	0.812	0.866	cellular anatomical structure	Cc02g23210,Cc04g05660,Cc02g39610,Cc07g04080,Cc01g16130,Cc06g14100,Cc02g14290,Cc02g34480
+GO:0016020	1	9.1%	47%	0.999	1.0	membrane	Cc06g14100
+GO:0005575	11	100%	100%	1.0	1.0	cellular_component	Cc04g00360,Cc02g23210,Cc11g00230,Cc04g05660,Cc02g39610,Cc07g04080,Cc01g16130,Cc06g14100,Cc02g14290,Cc01g01870,Cc02g34480

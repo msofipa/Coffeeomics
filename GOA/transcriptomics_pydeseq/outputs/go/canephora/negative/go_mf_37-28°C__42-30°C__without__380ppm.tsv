@@ -1,0 +1,37 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0016775	1	17%	0.1%	5.72E-3	0.206	phosphotransferase activity, nitrogenous group as acceptor	Cc11g06260
+GO:0000155	1	17%	0.1%	5.72E-3	0.206	phosphorelay sensor kinase activity	Cc11g06260
+GO:0004673	1	17%	0.1%	5.72E-3	0.206	protein histidine kinase activity	Cc11g06260
+GO:0140299	1	17%	0.1%	5.72E-3	0.206	molecular sensor activity	Cc11g06260
+GO:0004672	3	50%	8.6%	0.0104	0.206	protein kinase activity	Cc11g06260,Cc04g09350,Cc05g05830
+GO:0016773	3	50%	9.2%	0.0125	0.206	phosphotransferase activity, alcohol group as acceptor	Cc11g06260,Cc04g09350,Cc05g05830
+GO:0016301	3	50%	9.5%	0.0139	0.206	kinase activity	Cc11g06260,Cc04g09350,Cc05g05830
+GO:0016772	3	50%	11%	0.0181	0.206	transferase activity, transferring phosphorus-containing groups	Cc11g06260,Cc04g09350,Cc05g05830
+GO:0140096	3	50%	15%	0.0433	0.206	catalytic activity, acting on a protein	Cc11g06260,Cc04g09350,Cc05g05830
+GO:0098772	1	17%	1.7%	0.0992	0.357	molecular function regulator activity	Cc11g06260
+GO:0016740	3	50%	20%	0.0995	0.357	transferase activity	Cc11g06260,Cc04g09350,Cc05g05830
+GO:0008194	1	17%	2.2%	0.126	0.378	UDP-glycosyltransferase activity	Cc05g05830
+GO:0003700	1	17%	2.8%	0.155	0.43	DNA-binding transcription factor activity	Cc01g15370
+GO:0140110	1	17%	3.1%	0.17	0.438	transcription regulator activity	Cc01g15370
+GO:0005524	2	33%	14%	0.202	0.485	ATP binding	Cc04g09350,Cc05g05830
+GO:0016757	1	17%	3.9%	0.212	0.485	glycosyltransferase activity	Cc05g05830
+GO:0035639	2	33%	16%	0.238	0.504	purine ribonucleoside triphosphate binding	Cc04g09350,Cc05g05830
+GO:0032559	2	33%	19%	0.318	0.637	adenyl ribonucleotide binding	Cc04g09350,Cc05g05830
+GO:0030554	2	33%	20%	0.335	0.637	adenyl nucleotide binding	Cc04g09350,Cc05g05830
+GO:0003677	1	17%	6.8%	0.343	0.637	DNA binding	Cc01g15370
+GO:0032555	2	33%	20%	0.356	0.637	purine ribonucleotide binding	Cc04g09350,Cc05g05830
+GO:0032553	2	33%	21%	0.362	0.637	ribonucleotide binding	Cc04g09350,Cc05g05830
+GO:0097367	2	33%	21%	0.366	0.637	carbohydrate derivative binding	Cc04g09350,Cc05g05830
+GO:0017076	2	33%	21%	0.374	0.637	purine nucleotide binding	Cc04g09350,Cc05g05830
+GO:0003824	4	67%	52%	0.39	0.637	catalytic activity	Cc11g06260,Cc10g04900,Cc04g09350,Cc05g05830
+GO:0000166	2	33%	22%	0.405	0.637	nucleotide binding	Cc04g09350,Cc05g05830
+GO:1901265	2	33%	23%	0.407	0.637	nucleoside phosphate binding	Cc04g09350,Cc05g05830
+GO:0043168	2	33%	23%	0.412	0.637	anion binding	Cc04g09350,Cc05g05830
+GO:1901363	2	33%	23%	0.426	0.637	heterocyclic compound binding	Cc04g09350,Cc05g05830
+GO:0003676	1	17%	12%	0.546	0.655	nucleic acid binding	Cc01g15370
+GO:0005488	4	67%	64%	0.628	0.729	binding	Cc01g15370,Cc05g06370,Cc04g09350,Cc05g05830
+GO:0016787	1	17%	15%	0.632	0.729	hydrolase activity	Cc10g04900
+GO:0043167	2	33%	34%	0.655	0.729	ion binding	Cc04g09350,Cc05g05830
+GO:0036094	2	33%	35%	0.678	0.729	small molecule binding	Cc04g09350,Cc05g05830
+GO:0005515	1	17%	23%	0.797	0.82	protein binding	Cc05g06370
+GO:0003674	6	100%	100%	1.0	1.0	molecular_function	Cc11g06260,Cc01g15370,Cc05g06370,Cc10g04900,Cc04g09350,Cc05g05830

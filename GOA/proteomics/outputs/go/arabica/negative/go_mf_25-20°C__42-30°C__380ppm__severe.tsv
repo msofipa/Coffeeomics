@@ -1,0 +1,13 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0051213	1	100%	0.2%	1.98E-3	0.0237	dioxygenase activity	Cc01g04060
+GO:0016702	1	100%	0.2%	1.98E-3	0.0237	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen	Cc01g04060
+GO:0016701	1	100%	0.29%	2.87E-3	0.0237	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen	Cc01g04060
+GO:0016491	1	100%	11%	0.11	0.331	oxidoreductase activity	Cc01g04060
+GO:0046872	1	100%	11%	0.114	0.331	metal ion binding	Cc01g04060
+GO:0043169	1	100%	12%	0.117	0.331	cation binding	Cc01g04060
+GO:0005515	1	100%	23%	0.234	0.4	protein binding	Cc01g04060
+GO:0043167	1	100%	34%	0.336	0.504	ion binding	Cc01g04060
+GO:0036094	1	100%	35%	0.348	0.504	small molecule binding	Cc01g04060
+GO:0003824	1	100%	52%	0.524	0.629	catalytic activity	Cc01g04060
+GO:0005488	1	100%	64%	0.64	0.699	binding	Cc01g04060
+GO:0003674	1	100%	100%	1.0	1.0	molecular_function	Cc01g04060

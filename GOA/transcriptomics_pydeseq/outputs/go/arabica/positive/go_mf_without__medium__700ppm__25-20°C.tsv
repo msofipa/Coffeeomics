@@ -1,0 +1,21 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0016791	1	20%	1.1%	0.0541	1.0	phosphatase activity	Cc01g14790
+GO:0042578	1	20%	1.4%	0.0658	1.0	phosphoric ester hydrolase activity	Cc01g14790
+GO:0003700	1	20%	2.8%	0.131	1.0	DNA-binding transcription factor activity	Cc10g01330
+GO:0140110	1	20%	3.1%	0.144	1.0	transcription regulator activity	Cc10g01330
+GO:0005506	1	20%	3.6%	0.166	1.0	iron ion binding	Cc06g05540
+GO:0016788	1	20%	3.6%	0.166	1.0	hydrolase activity, acting on ester bonds	Cc01g14790
+GO:0016705	1	20%	3.6%	0.167	1.0	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	Cc06g05540
+GO:0020037	1	20%	4.0%	0.185	1.0	heme binding	Cc06g05540
+GO:0046906	1	20%	4.0%	0.185	1.0	tetrapyrrole binding	Cc06g05540
+GO:0046914	1	20%	7.6%	0.327	1.0	transition metal ion binding	Cc06g05540
+GO:0016491	1	20%	11%	0.443	1.0	oxidoreductase activity	Cc06g05540
+GO:0046872	1	20%	11%	0.455	1.0	metal ion binding	Cc06g05540
+GO:0043169	1	20%	12%	0.463	1.0	cation binding	Cc06g05540
+GO:0003824	3	60%	52%	0.545	1.0	catalytic activity	Cc01g14790,Cc06g05540,Cc02g10380
+GO:0016787	1	20%	15%	0.565	1.0	hydrolase activity	Cc01g14790
+GO:0005515	1	20%	23%	0.735	1.0	protein binding	Cc06g08340
+GO:0043167	1	20%	34%	0.871	1.0	ion binding	Cc06g05540
+GO:0036094	1	20%	35%	0.883	1.0	small molecule binding	Cc06g05540
+GO:0005488	2	40%	64%	0.941	1.0	binding	Cc06g05540,Cc06g08340
+GO:0003674	5	100%	100%	1.0	1.0	molecular_function	Cc01g14790,Cc06g05540,Cc10g01330,Cc02g10380,Cc06g08340

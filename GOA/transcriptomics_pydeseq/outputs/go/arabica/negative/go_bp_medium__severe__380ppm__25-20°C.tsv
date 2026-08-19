@@ -1,0 +1,32 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0015979	2	22%	0.46%	7.31E-4	0.0226	photosynthesis	Cc06g11950,Cc02g11770
+GO:0042744	2	22%	0.79%	2.13E-3	0.033	hydrogen peroxide catabolic process	Cc09g01700,Cc05g08480
+GO:0042743	2	22%	0.79%	2.13E-3	0.033	hydrogen peroxide metabolic process	Cc09g01700,Cc05g08480
+GO:0072593	2	22%	0.92%	2.9E-3	0.033	reactive oxygen species metabolic process	Cc09g01700,Cc05g08480
+GO:0015976	1	11%	0.04%	3.27E-3	0.033	carbon utilization	Cc07g02160
+GO:0042445	1	11%	0.06%	5.45E-3	0.033	hormone metabolic process	Cc10g02380
+GO:0009690	1	11%	0.06%	5.45E-3	0.033	cytokinin metabolic process	Cc10g02380
+GO:0006979	2	22%	1.3%	5.46E-3	0.033	response to oxidative stress	Cc09g01700,Cc05g08480
+GO:0031667	1	11%	0.11%	9.79E-3	0.0337	response to nutrient levels	Cc07g02160
+GO:0010817	1	11%	0.11%	9.79E-3	0.0337	regulation of hormone levels	Cc10g02380
+GO:0050896	3	33%	5.8%	0.0127	0.0359	response to stimulus	Cc09g01700,Cc07g02160,Cc05g08480
+GO:0009765	1	11%	0.24%	0.0216	0.0559	photosynthesis, light harvesting	Cc10g04190
+GO:0000226	1	11%	0.33%	0.0291	0.0694	microtubule cytoskeleton organization	Cc11g05720
+GO:0065008	1	11%	0.33%	0.0291	0.0694	regulation of biological quality	Cc10g02380
+GO:0009308	1	11%	0.38%	0.0334	0.0694	amine metabolic process	Cc10g02380
+GO:0007010	1	11%	0.49%	0.0429	0.0831	cytoskeleton organization	Cc11g05720
+GO:0009056	2	22%	4.3%	0.0537	0.0979	catabolic process	Cc09g01700,Cc05g08480
+GO:0006950	2	22%	4.4%	0.0576	0.0992	response to stress	Cc09g01700,Cc05g08480
+GO:0007017	1	11%	1.3%	0.109	0.178	microtubule-based process	Cc11g05720
+GO:0006091	1	11%	1.3%	0.114	0.178	generation of precursor metabolites and energy	Cc10g04190
+GO:0006996	1	11%	2.1%	0.173	0.255	organelle organization	Cc11g05720
+GO:0016043	1	11%	5.9%	0.42	0.591	cellular component organization	Cc11g05720
+GO:0071840	1	11%	6.5%	0.452	0.609	cellular component organization or biogenesis	Cc11g05720
+GO:0008152	6	67%	62%	0.544	0.703	metabolic process	Cc09g01700,Cc10g02380,Cc05g08480,Cc06g11950,Cc02g11770,Cc10g04190
+GO:0055085	1	11%	9.5%	0.591	0.733	transmembrane transport	Cc10g09750
+GO:0009987	8	89%	85%	0.599	0.733	cellular process	Cc09g01700,Cc10g02380,Cc11g05720,Cc05g08480,Cc06g11950,Cc10g09750,Cc02g11770,Cc10g04190
+GO:0065007	1	11%	14%	0.751	0.862	biological regulation	Cc10g02380
+GO:0006810	1	11%	15%	0.76	0.862	transport	Cc10g09750
+GO:0051234	1	11%	15%	0.77	0.862	establishment of localization	Cc10g09750
+GO:0051179	1	11%	15%	0.773	0.862	localization	Cc10g09750
+GO:0008150	9	100%	100%	1.0	1.0	biological_process	Cc09g01700,Cc10g02380,Cc11g05720,Cc07g02160,Cc05g08480,Cc06g11950,Cc10g09750,Cc02g11770,Cc10g04190

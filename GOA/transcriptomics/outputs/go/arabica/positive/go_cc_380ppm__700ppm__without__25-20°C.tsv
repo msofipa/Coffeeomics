@@ -1,0 +1,5 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0005737	1	50%	4.9%	0.0965	0.386	cytoplasm	Cc04g03360
+GO:0110165	2	100%	79%	0.621	1.0	cellular anatomical structure	Cc05g08230,Cc04g03360
+GO:0016020	1	50%	47%	0.714	1.0	membrane	Cc05g08230
+GO:0005575	2	100%	100%	1.0	1.0	cellular_component	Cc05g08230,Cc04g03360

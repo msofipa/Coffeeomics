@@ -1,0 +1,29 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0042578	3	25%	1.4%	4.88E-4	0.0137	phosphoric ester hydrolase activity	Cc04g02120,Cc04g09270,Cc07g01090
+GO:0036033	1	8.3%	0.01%	8.19E-4	0.0137	mediator complex binding	Cc02g18370
+GO:0008083	1	8.3%	0.05%	6.53E-3	0.061	growth factor activity	Cc07g07320
+GO:0048018	1	8.3%	0.06%	7.35E-3	0.061	receptor ligand activity	Cc07g07320
+GO:0030545	1	8.3%	0.06%	7.35E-3	0.061	signaling receptor regulator activity	Cc07g07320
+GO:0030546	1	8.3%	0.06%	7.35E-3	0.061	signaling receptor activator activity	Cc07g07320
+GO:0016791	2	17%	1.1%	7.45E-3	0.061	phosphatase activity	Cc04g02120,Cc04g09270
+GO:0016788	3	25%	3.6%	7.86E-3	0.061	hydrolase activity, acting on ester bonds	Cc04g02120,Cc04g09270,Cc07g01090
+GO:0016868	1	8.3%	0.08%	8.97E-3	0.061	intramolecular phosphotransferase activity	Cc11g08330
+GO:0005102	1	8.3%	0.09%	0.0106	0.061	signaling receptor binding	Cc07g07320
+GO:0003993	1	8.3%	0.2%	0.0235	0.061	acid phosphatase activity	Cc04g09270
+GO:0016844	1	8.3%	0.21%	0.0251	0.061	strictosidine synthase activity	Cc06g18950
+GO:0008081	1	8.3%	0.22%	0.0259	0.061	phosphoric diester hydrolase activity	Cc07g01090
+GO:0016787	5	42%	15%	0.0262	0.061	hydrolase activity	Cc04g02120,Cc04g09270,Cc06g18950,Cc02g19810,Cc07g01090
+GO:0140677	1	8.3%	0.31%	0.037	0.0691	molecular function activator activity	Cc07g07320
+GO:0016866	1	8.3%	0.34%	0.0402	0.0703	intramolecular transferase activity	Cc11g08330
+GO:0044877	1	8.3%	0.35%	0.041	0.0703	protein-containing complex binding	Cc02g18370
+GO:0016810	1	8.3%	0.6%	0.0697	0.108	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	Cc06g18950
+GO:0022857	2	17%	5.9%	0.157	0.231	transmembrane transporter activity	Cc05g03140,Cc02g04240
+GO:0005215	2	17%	6.1%	0.162	0.231	transporter activity	Cc05g03140,Cc02g04240
+GO:0098772	1	8.3%	1.7%	0.189	0.252	molecular function regulator activity	Cc07g07320
+GO:0016853	1	8.3%	2.3%	0.247	0.314	isomerase activity	Cc11g08330
+GO:0004553	1	8.3%	3.1%	0.312	0.38	hydrolase activity, hydrolyzing O-glycosyl compounds	Cc02g19810
+GO:0016798	1	8.3%	3.2%	0.324	0.38	hydrolase activity, acting on glycosyl bonds	Cc02g19810
+GO:0005515	3	25%	23%	0.557	0.623	protein binding	Cc02g34460,Cc07g07320,Cc01g14750
+GO:0003824	6	50%	52%	0.676	0.728	catalytic activity	Cc04g02120,Cc04g09270,Cc06g18950,Cc02g19810,Cc07g01090,Cc11g08330
+GO:0005488	4	33%	64%	0.993	1.0	binding	Cc02g34460,Cc07g07320,Cc01g14750,Cc02g18370
+GO:0003674	12	100%	100%	1.0	1.0	molecular_function	Cc02g34460,Cc04g02120,Cc04g09270,Cc06g18950,Cc02g19810,Cc05g03140,Cc07g07320,Cc02g04240,Cc07g01090,Cc11g08330,Cc01g14750,Cc02g18370

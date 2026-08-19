@@ -1,0 +1,20 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0005576	2	17%	3.0%	0.0476	0.904	extracellular region	Cc06g05290,Cc04g16340
+GO:0005694	1	8.3%	0.41%	0.0484	0.904	chromosome	Cc06g03430
+GO:0110165	12	100%	79%	0.0571	0.904	cellular anatomical structure	Cc09g10840,Cc05g14830,Cc04g06320,Cc06g01400,Cc04g04980,Cc11g04190,Cc06g03430,Cc11g14480,Cc02g06820,Cc06g05290,Cc04g16340,Cc01g11110
+GO:0015935	1	8.3%	0.53%	0.0619	0.904	small ribosomal subunit	Cc04g04980
+GO:0099081	1	8.3%	0.91%	0.104	0.904	supramolecular polymer	Cc04g06320
+GO:0005874	1	8.3%	0.91%	0.104	0.904	microtubule	Cc04g06320
+GO:0099513	1	8.3%	0.91%	0.104	0.904	polymeric cytoskeletal fiber	Cc04g06320
+GO:0099512	1	8.3%	0.91%	0.104	0.904	supramolecular fiber	Cc04g06320
+GO:0099080	1	8.3%	1.0%	0.114	0.904	supramolecular complex	Cc04g06320
+GO:0044391	1	8.3%	1.7%	0.19	0.904	ribosomal subunit	Cc04g04980
+GO:0016020	7	58%	47%	0.296	0.904	membrane	Cc09g10840,Cc05g14830,Cc06g01400,Cc11g04190,Cc11g14480,Cc02g06820,Cc01g11110
+GO:0043228	2	17%	11%	0.393	0.904	membraneless organelle	Cc04g04980,Cc06g03430
+GO:0043232	2	17%	11%	0.393	0.904	intracellular membraneless organelle	Cc04g04980,Cc06g03430
+GO:1990904	1	8.3%	4.3%	0.41	0.904	ribonucleoprotein complex	Cc04g04980
+GO:0005840	1	8.3%	8.9%	0.676	0.904	ribosome	Cc04g04980
+GO:0043229	2	17%	23%	0.802	0.953	intracellular organelle	Cc04g04980,Cc06g03430
+GO:0043226	2	17%	23%	0.802	0.953	organelle	Cc04g04980,Cc06g03430
+GO:0032991	1	8.3%	26%	0.974	1.0	protein-containing complex	Cc04g04980
+GO:0005575	12	100%	100%	1.0	1.0	cellular_component	Cc09g10840,Cc05g14830,Cc04g06320,Cc06g01400,Cc04g04980,Cc11g04190,Cc06g03430,Cc11g14480,Cc02g06820,Cc06g05290,Cc04g16340,Cc01g11110

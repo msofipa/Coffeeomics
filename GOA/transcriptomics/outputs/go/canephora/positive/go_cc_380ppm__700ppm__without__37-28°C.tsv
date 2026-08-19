@@ -1,0 +1,11 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0005758	1	25%	0.12%	4.7E-3	0.047	mitochondrial intermembrane space	Cc04g09830
+GO:0031970	1	25%	0.12%	4.7E-3	0.047	organelle envelope lumen	Cc04g09830
+GO:0070013	1	25%	0.26%	0.0106	0.047	intracellular organelle lumen	Cc04g09830
+GO:0031974	1	25%	0.26%	0.0106	0.047	membrane-enclosed lumen	Cc04g09830
+GO:0043233	1	25%	0.26%	0.0106	0.047	organelle lumen	Cc04g09830
+GO:0031966	1	25%	0.94%	0.0372	0.0619	mitochondrial membrane	Cc07g14260
+GO:0031090	1	25%	2.8%	0.107	0.153	organelle membrane	Cc07g14260
+GO:0016020	3	75%	47%	0.262	0.327	membrane	Cc07g14260,Cc07g12020,Cc05g04890
+GO:0110165	4	100%	79%	0.385	0.428	cellular anatomical structure	Cc07g14260,Cc07g12020,Cc04g09830,Cc05g04890
+GO:0005575	4	100%	100%	1.0	1.0	cellular_component	Cc07g14260,Cc07g12020,Cc04g09830,Cc05g04890

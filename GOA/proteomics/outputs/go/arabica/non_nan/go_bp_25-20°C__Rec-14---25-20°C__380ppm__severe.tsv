@@ -1,0 +1,38 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0009765	2	50%	0.24%	3.35E-5	1.24E-3	photosynthesis, light harvesting	Cc10g16210,Cc06g01460
+GO:0006091	2	50%	1.3%	1.04E-3	0.0193	generation of precursor metabolites and energy	Cc10g16210,Cc06g01460
+GO:0009086	1	25%	0.11%	4.36E-3	0.0538	methionine biosynthetic process	Cc06g07310
+GO:0006555	1	25%	0.11%	4.36E-3	0.0538	methionine metabolic process	Cc06g07310
+GO:0009067	1	25%	0.17%	6.78E-3	0.0538	aspartate family amino acid biosynthetic process	Cc06g07310
+GO:0000097	1	25%	0.22%	8.71E-3	0.0538	sulfur amino acid biosynthetic process	Cc06g07310
+GO:0000096	1	25%	0.25%	0.0102	0.0538	sulfur amino acid metabolic process	Cc06g07310
+GO:0000413	1	25%	0.32%	0.0126	0.0581	protein peptidyl-prolyl isomerization	Cc10g01600
+GO:0018208	1	25%	0.32%	0.0126	0.0581	peptidyl-proline modification	Cc10g01600
+GO:0044272	1	25%	0.51%	0.0202	0.0749	sulfur compound biosynthetic process	Cc06g07310
+GO:0018193	1	25%	0.67%	0.0264	0.0889	peptidyl-amino acid modification	Cc10g01600
+GO:0170034	1	25%	0.68%	0.0269	0.0889	L-amino acid biosynthetic process	Cc06g07310
+GO:0170038	1	25%	0.75%	0.0298	0.0889	proteinogenic amino acid biosynthetic process	Cc06g07310
+GO:1901607	1	25%	0.86%	0.034	0.0899	alpha-amino acid biosynthetic process	Cc06g07310
+GO:0008652	1	25%	0.92%	0.0364	0.0899	amino acid biosynthetic process	Cc06g07310
+GO:0170033	1	25%	1.1%	0.0416	0.0961	L-amino acid metabolic process	Cc06g07310
+GO:0006457	1	25%	1.1%	0.0435	0.0961	protein folding	Cc10g01600
+GO:0170039	1	25%	1.1%	0.0435	0.0961	proteinogenic amino acid metabolic process	Cc06g07310
+GO:1901605	1	25%	1.2%	0.0463	0.0961	alpha-amino acid metabolic process	Cc06g07310
+GO:0006790	1	25%	1.7%	0.0644	0.119	sulfur compound metabolic process	Cc06g07310
+GO:0046394	1	25%	2.0%	0.0768	0.135	carboxylic acid biosynthetic process	Cc06g07310
+GO:0016053	1	25%	2.0%	0.0768	0.135	organic acid biosynthetic process	Cc06g07310
+GO:0006520	1	25%	2.6%	0.0999	0.161	amino acid metabolic process	Cc06g07310
+GO:0044283	1	25%	2.7%	0.104	0.161	small molecule biosynthetic process	Cc06g07310
+GO:0019752	1	25%	3.5%	0.133	0.196	carboxylic acid metabolic process	Cc06g07310
+GO:0043436	1	25%	3.5%	0.134	0.196	oxoacid metabolic process	Cc06g07310
+GO:0006082	1	25%	3.5%	0.134	0.196	organic acid metabolic process	Cc06g07310
+GO:0008152	4	100%	62%	0.152	0.201	metabolic process	Cc06g07310,Cc10g16210,Cc06g01460,Cc10g01600
+GO:0044281	1	25%	6.7%	0.243	0.31	small molecule metabolic process	Cc06g07310
+GO:0009058	1	25%	15%	0.481	0.594	biosynthetic process	Cc06g07310
+GO:0009987	4	100%	85%	0.522	0.623	cellular process	Cc06g07310,Cc10g16210,Cc06g01460,Cc10g01600
+GO:0036211	1	25%	18%	0.547	0.632	protein modification process	Cc10g01600
+GO:0043412	1	25%	19%	0.57	0.639	macromolecule modification	Cc10g01600
+GO:0019538	1	25%	28%	0.73	0.794	protein metabolic process	Cc10g01600
+GO:0044238	2	50%	55%	0.756	0.799	primary metabolic process	Cc06g07310,Cc10g01600
+GO:0043170	1	25%	38%	0.853	0.877	macromolecule metabolic process	Cc10g01600
+GO:0008150	4	100%	100%	1.0	1.0	biological_process	Cc06g07310,Cc10g16210,Cc06g01460,Cc10g01600

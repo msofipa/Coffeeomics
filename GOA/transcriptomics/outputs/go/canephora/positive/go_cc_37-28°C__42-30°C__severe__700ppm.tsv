@@ -1,0 +1,16 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0032040	1	20%	0.29%	0.0146	0.22	small-subunit processome	Cc02g38790
+GO:0030684	1	20%	0.38%	0.019	0.22	preribosome	Cc02g38790
+GO:0000786	1	20%	1.4%	0.0687	0.344	nucleosome	Cc04g03840
+GO:0032993	1	20%	1.5%	0.0729	0.344	protein-DNA complex	Cc04g03840
+GO:1990904	1	20%	4.3%	0.197	0.592	ribonucleoprotein complex	Cc02g38790
+GO:0140513	1	20%	7.2%	0.313	0.784	nuclear protein-containing complex	Cc02g38790
+GO:0005634	1	20%	9.2%	0.384	0.824	nucleus	Cc11g09350
+GO:0032991	2	40%	26%	0.391	0.824	protein-containing complex	Cc04g03840,Cc02g38790
+GO:0043231	1	20%	12%	0.47	0.824	intracellular membrane-bounded organelle	Cc11g09350
+GO:0043227	1	20%	12%	0.47	0.824	membrane-bounded organelle	Cc11g09350
+GO:0043229	1	20%	23%	0.73	0.996	intracellular organelle	Cc11g09350
+GO:0043226	1	20%	23%	0.73	0.996	organelle	Cc11g09350
+GO:0016020	2	40%	47%	0.766	0.996	membrane	Cc03g07460,Cc02g36810
+GO:0110165	3	60%	79%	0.933	0.999	cellular anatomical structure	Cc11g09350,Cc03g07460,Cc02g36810
+GO:0005575	5	100%	100%	1.0	1.0	cellular_component	Cc11g09350,Cc03g07460,Cc02g36810,Cc04g03840,Cc02g38790

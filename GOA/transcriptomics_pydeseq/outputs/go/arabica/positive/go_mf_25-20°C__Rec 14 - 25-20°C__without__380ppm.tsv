@@ -1,0 +1,15 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0050660	1	50%	0.98%	0.0194	0.272	flavin adenine dinucleotide binding	Cc04g01940
+GO:0016614	1	50%	1.0%	0.0205	0.272	oxidoreductase activity, acting on CH-OH group of donors	Cc04g01940
+GO:0022857	1	50%	5.9%	0.115	0.538	transmembrane transporter activity	Cc10g14810
+GO:0005215	1	50%	6.1%	0.118	0.538	transporter activity	Cc10g14810
+GO:0016491	1	50%	11%	0.209	0.585	oxidoreductase activity	Cc04g01940
+GO:0000166	1	50%	22%	0.399	0.931	nucleotide binding	Cc04g01940
+GO:1901265	1	50%	23%	0.4	0.931	nucleoside phosphate binding	Cc04g01940
+GO:0043168	1	50%	23%	0.403	0.931	anion binding	Cc04g01940
+GO:1901363	1	50%	23%	0.412	0.931	heterocyclic compound binding	Cc04g01940
+GO:0043167	1	50%	34%	0.559	0.931	ion binding	Cc04g01940
+GO:0036094	1	50%	35%	0.575	0.931	small molecule binding	Cc04g01940
+GO:0003824	1	50%	52%	0.773	0.931	catalytic activity	Cc04g01940
+GO:0005488	1	50%	64%	0.871	0.938	binding	Cc04g01940
+GO:0003674	2	100%	100%	1.0	1.0	molecular_function	Cc04g01940,Cc10g14810

@@ -1,0 +1,161 @@
+Sample_ID,Species,Temperature,CO2_ppm,Water_Stress,Transcriptomics,Proteomic,Metabolomics
+7A,C. arabica,25/20°C,380ppm,without,True,True,False
+7B,C. arabica,25/20°C,380ppm,without,True,True,True
+7C,C. arabica,25/20°C,380ppm,without,True,True,True
+7D,C. arabica,25/20°C,380ppm,without,False,False,True
+7E,C. arabica,25/20°C,380ppm,without,False,False,True
+20B,C. arabica,25/20°C,380ppm,medium,True,True,True
+20C,C. arabica,25/20°C,380ppm,medium,True,True,True
+8A,C. arabica,25/20°C,380ppm,medium,True,True,True
+21D,C. arabica,25/20°C,380ppm,severe,False,False,True
+9A,C. arabica,25/20°C,380ppm,severe,False,False,True
+9B,C. arabica,25/20°C,380ppm,severe,True,True,True
+9C,C. arabica,25/20°C,380ppm,severe,True,True,True
+9D,C. arabica,25/20°C,380ppm,severe,False,False,True
+9E,C. arabica,25/20°C,380ppm,severe,True,True,True
+10A,C. arabica,25/20°C,700ppm,without,True,True,True
+10C,C. arabica,25/20°C,700ppm,without,True,True,True
+10B,C. arabica,25/20°C,700ppm,without,True,True,True
+10E,C. arabica,25/20°C,700ppm,without,False,False,True
+11A,C. arabica,25/20°C,700ppm,medium,False,False,True
+11B,C. arabica,25/20°C,700ppm,medium,True,True,True
+11C,C. arabica,25/20°C,700ppm,medium,True,True,True
+11D,C. arabica,25/20°C,700ppm,medium,True,True,True
+23D,C. arabica,25/20°C,700ppm,medium,False,False,True
+12A,C. arabica,25/20°C,700ppm,severe,False,False,True
+12B,C. arabica,25/20°C,700ppm,severe,True,True,True
+12C,C. arabica,25/20°C,700ppm,severe,True,True,True
+12D,C. arabica,25/20°C,700ppm,severe,True,True,True
+31A,C. arabica,37/28°C,380ppm,without,True,True,True
+31B,C. arabica,37/28°C,380ppm,without,True,True,True
+31C,C. arabica,37/28°C,380ppm,without,True,True,True
+31D,C. arabica,37/28°C,380ppm,without,False,False,True
+32D,C. arabica,37/28°C,380ppm,severe,True,True,True
+33A,C. arabica,37/28°C,380ppm,severe,True,True,True
+33B,C. arabica,37/28°C,380ppm,severe,False,False,True
+33C,C. arabica,37/28°C,380ppm,severe,False,False,True
+33D,C. arabica,37/28°C,380ppm,severe,True,True,True
+34A,C. arabica,37/28°C,700ppm,without,True,True,True
+34B,C. arabica,37/28°C,700ppm,without,False,False,True
+34C,C. arabica,37/28°C,700ppm,without,True,True,True
+34D,C. arabica,37/28°C,700ppm,without,True,True,True
+35A,C. arabica,37/28°C,700ppm,severe,False,False,True
+35B,C. arabica,37/28°C,700ppm,severe,True,True,True
+36A,C. arabica,37/28°C,700ppm,severe,True,True,True
+36B,C. arabica,37/28°C,700ppm,severe,False,False,True
+36C,C. arabica,37/28°C,700ppm,severe,True,True,True
+43A,C. arabica,42/30°C,380ppm,without,True,True,True
+43B,C. arabica,42/30°C,380ppm,without,True,True,True
+43C,C. arabica,42/30°C,380ppm,without,True,True,True
+43D,C. arabica,42/30°C,380ppm,without,False,False,True
+45A,C. arabica,42/30°C,380ppm,severe,True,True,True
+45B,C. arabica,42/30°C,380ppm,severe,False,False,True
+45C,C. arabica,42/30°C,380ppm,severe,True,True,True
+45D,C. arabica,42/30°C,380ppm,severe,False,False,True
+45E,C. arabica,42/30°C,380ppm,severe,True,True,True
+46A,C. arabica,42/30°C,700ppm,without,True,True,True
+46B,C. arabica,42/30°C,700ppm,without,False,False,True
+46C,C. arabica,42/30°C,700ppm,without,True,True,True
+46D,C. arabica,42/30°C,700ppm,without,True,True,True
+48A,C. arabica,42/30°C,700ppm,severe,False,False,True
+48B,C. arabica,42/30°C,700ppm,severe,True,True,True
+48C,C. arabica,42/30°C,700ppm,severe,True,True,True
+48D,C. arabica,42/30°C,700ppm,severe,True,True,True
+55A,C. arabica,Rec 14 - 25/20°C,380ppm,without,True,True,True
+55B,C. arabica,Rec 14 - 25/20°C,380ppm,without,False,False,True
+55C,C. arabica,Rec 14 - 25/20°C,380ppm,without,True,True,True
+55D,C. arabica,Rec 14 - 25/20°C,380ppm,without,True,True,True
+55E,C. arabica,Rec 14 - 25/20°C,380ppm,without,False,False,True
+57A,C. arabica,Rec 14 - 25/20°C,380ppm,severe,True,True,True
+57B,C. arabica,Rec 14 - 25/20°C,380ppm,severe,False,False,True
+57C,C. arabica,Rec 14 - 25/20°C,380ppm,severe,False,False,True
+57D,C. arabica,Rec 14 - 25/20°C,380ppm,severe,True,True,False
+57E,C. arabica,Rec 14 - 25/20°C,380ppm,severe,True,True,True
+58A,C. arabica,Rec 14 - 25/20°C,700ppm,without,True,True,True
+58B,C. arabica,Rec 14 - 25/20°C,700ppm,without,True,True,True
+58C,C. arabica,Rec 14 - 25/20°C,700ppm,without,True,True,True
+60A,C. arabica,Rec 14 - 25/20°C,700ppm,severe,True,True,True
+60B,C. arabica,Rec 14 - 25/20°C,700ppm,severe,True,True,True
+60C,C. arabica,Rec 14 - 25/20°C,700ppm,severe,False,False,True
+60D,C. arabica,Rec 14 - 25/20°C,700ppm,severe,False,False,True
+60E,C. arabica,Rec 14 - 25/20°C,700ppm,severe,True,True,True
+1A,C. canephora,25/20°C,380ppm,without,True,True,True
+1B,C. canephora,25/20°C,380ppm,without,True,True,True
+1C,C. canephora,25/20°C,380ppm,without,True,True,True
+1D,C. canephora,25/20°C,380ppm,without,False,False,True
+1E,C. canephora,25/20°C,380ppm,without,False,False,True
+2A,C. canephora,25/20°C,380ppm,medium,True,True,True
+2B,C. canephora,25/20°C,380ppm,medium,True,True,True
+2C,C. canephora,25/20°C,380ppm,medium,True,True,True
+3A,C. canephora,25/20°C,380ppm,severe,True,True,True
+3B,C. canephora,25/20°C,380ppm,severe,True,True,True
+3C,C. canephora,25/20°C,380ppm,severe,True,True,True
+15D,C. canephora,25/20°C,380ppm,severe,False,False,True
+15E,C. canephora,25/20°C,380ppm,severe,False,False,True
+4A,C. canephora,25/20°C,700ppm,without,True,True,True
+4B,C. canephora,25/20°C,700ppm,without,True,True,True
+4C,C. canephora,25/20°C,700ppm,without,True,True,True
+4D,C. canephora,25/20°C,700ppm,without,False,False,True
+16B,C. canephora,25/20°C,700ppm,without,False,False,True
+5A,C. canephora,25/20°C,700ppm,medium,True,True,True
+5B,C. canephora,25/20°C,700ppm,medium,True,True,True
+5C,C. canephora,25/20°C,700ppm,medium,False,False,True
+5D,C. canephora,25/20°C,700ppm,medium,True,True,True
+6A,C. canephora,25/20°C,700ppm,severe,True,True,True
+6B,C. canephora,25/20°C,700ppm,severe,True,True,True
+6C,C. canephora,25/20°C,700ppm,severe,True,True,True
+18B,C. canephora,25/20°C,700ppm,severe,False,False,True
+18C,C. canephora,25/20°C,700ppm,severe,False,False,True
+25A,C. canephora,37/28°C,380ppm,without,True,True,True
+25B,C. canephora,37/28°C,380ppm,without,True,True,True
+25C,C. canephora,37/28°C,380ppm,without,True,True,True
+26D,C. canephora,37/28°C,380ppm,severe,True,True,True
+27A,C. canephora,37/28°C,380ppm,severe,False,False,True
+27B,C. canephora,37/28°C,380ppm,severe,True,True,True
+27C,C. canephora,37/28°C,380ppm,severe,True,True,True
+28A,C. canephora,37/28°C,700ppm,without,True,True,True
+28B,C. canephora,37/28°C,700ppm,without,True,True,True
+28C,C. canephora,37/28°C,700ppm,without,True,True,True
+28D,C. canephora,37/28°C,700ppm,without,False,False,True
+29D,C. canephora,37/28°C,700ppm,severe,False,False,False
+30A,C. canephora,37/28°C,700ppm,severe,True,True,True
+30B,C. canephora,37/28°C,700ppm,severe,True,True,True
+30C,C. canephora,37/28°C,700ppm,severe,False,False,True
+30D,C. canephora,37/28°C,700ppm,severe,True,True,True
+37A,C. canephora,42/30°C,380ppm,without,True,True,True
+37B,C. canephora,42/30°C,380ppm,without,True,False,False
+37C,C. canephora,42/30°C,380ppm,without,True,True,True
+37D,C. canephora,42/30°C,380ppm,without,False,True,True
+37E,C. canephora,42/30°C,380ppm,without,False,False,True
+39A,C. canephora,42/30°C,380ppm,severe,True,True,True
+39B,C. canephora,42/30°C,380ppm,severe,True,True,True
+39C,C. canephora,42/30°C,380ppm,severe,False,False,True
+39D,C. canephora,42/30°C,380ppm,severe,True,True,True
+40A,C. canephora,42/30°C,700ppm,without,True,True,True
+40B,C. canephora,42/30°C,700ppm,without,True,True,True
+40C,C. canephora,42/30°C,700ppm,without,True,True,True
+40D,C. canephora,42/30°C,700ppm,without,False,False,True
+42A,C. canephora,42/30°C,700ppm,severe,True,True,True
+42B,C. canephora,42/30°C,700ppm,severe,True,True,True
+42C,C. canephora,42/30°C,700ppm,severe,True,True,True
+42D,C. canephora,42/30°C,700ppm,severe,False,False,True
+49A,C. canephora,Rec 14 - 25/20°C,380ppm,without,True,True,True
+49B,C. canephora,Rec 14 - 25/20°C,380ppm,without,True,True,True
+49C,C. canephora,Rec 14 - 25/20°C,380ppm,without,True,True,True
+49D,C. canephora,Rec 14 - 25/20°C,380ppm,without,False,False,True
+49E,C. canephora,Rec 14 - 25/20°C,380ppm,without,False,False,True
+51A,C. canephora,Rec 14 - 25/20°C,380ppm,severe,True,True,True
+51B,C. canephora,Rec 14 - 25/20°C,380ppm,severe,True,True,True
+51C,C. canephora,Rec 14 - 25/20°C,380ppm,severe,True,True,True
+51D,C. canephora,Rec 14 - 25/20°C,380ppm,severe,False,False,True
+51E,C. canephora,Rec 14 - 25/20°C,380ppm,severe,False,False,True
+52A,C. canephora,Rec 14 - 25/20°C,700ppm,without,True,True,True
+52B,C. canephora,Rec 14 - 25/20°C,700ppm,without,False,False,True
+52C,C. canephora,Rec 14 - 25/20°C,700ppm,without,True,True,True
+52D,C. canephora,Rec 14 - 25/20°C,700ppm,without,True,True,True
+52E,C. canephora,Rec 14 - 25/20°C,700ppm,without,False,False,True
+54A,C. canephora,Rec 14 - 25/20°C,700ppm,severe,False,False,True
+54B,C. canephora,Rec 14 - 25/20°C,700ppm,severe,True,True,True
+54C,C. canephora,Rec 14 - 25/20°C,700ppm,severe,True,True,True
+54D,C. canephora,Rec 14 - 25/20°C,700ppm,severe,True,True,True
+54E,C. canephora,Rec 14 - 25/20°C,700ppm,severe,False,False,True

@@ -1,0 +1,36 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0052716	1	25%	0.16%	6.26E-3	0.219	hydroquinone:oxygen oxidoreductase activity	Cc06g02440
+GO:0016679	1	25%	0.23%	9.25E-3	0.219	oxidoreductase activity, acting on diphenols and related substances as donors	Cc06g02440
+GO:0016682	1	25%	0.23%	9.25E-3	0.219	oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor	Cc06g02440
+GO:0005507	1	25%	0.46%	0.0184	0.219	copper ion binding	Cc06g02440
+GO:0003824	4	100%	52%	0.0754	0.528	catalytic activity	Cc02g21360,Cc05g15350,Cc10g04900,Cc06g02440
+GO:0008194	1	25%	2.2%	0.0858	0.528	UDP-glycosyltransferase activity	Cc02g21360
+GO:0016757	1	25%	3.9%	0.147	0.735	glycosyltransferase activity	Cc02g21360
+GO:0016740	2	50%	20%	0.182	0.795	transferase activity	Cc02g21360,Cc05g15350
+GO:0046914	1	25%	7.6%	0.271	1.0	transition metal ion binding	Cc06g02440
+GO:0004672	1	25%	8.6%	0.302	1.0	protein kinase activity	Cc05g15350
+GO:0016773	1	25%	9.2%	0.32	1.0	phosphotransferase activity, alcohol group as acceptor	Cc05g15350
+GO:0016301	1	25%	9.5%	0.33	1.0	kinase activity	Cc05g15350
+GO:0016772	1	25%	11%	0.359	1.0	transferase activity, transferring phosphorus-containing groups	Cc05g15350
+GO:0016491	1	25%	11%	0.374	1.0	oxidoreductase activity	Cc06g02440
+GO:0046872	1	25%	11%	0.384	1.0	metal ion binding	Cc06g02440
+GO:0043169	1	25%	12%	0.392	1.0	cation binding	Cc06g02440
+GO:0043167	2	50%	34%	0.413	1.0	ion binding	Cc05g15350,Cc06g02440
+GO:0036094	2	50%	35%	0.434	1.0	small molecule binding	Cc05g15350,Cc06g02440
+GO:0005524	1	25%	14%	0.455	1.0	ATP binding	Cc05g15350
+GO:0140096	1	25%	15%	0.466	1.0	catalytic activity, acting on a protein	Cc05g15350
+GO:0016787	1	25%	15%	0.486	1.0	hydrolase activity	Cc10g04900
+GO:0035639	1	25%	16%	0.493	1.0	purine ribonucleoside triphosphate binding	Cc05g15350
+GO:0032559	1	25%	19%	0.568	1.0	adenyl ribonucleotide binding	Cc05g15350
+GO:0030554	1	25%	20%	0.582	1.0	adenyl nucleotide binding	Cc05g15350
+GO:0032555	1	25%	20%	0.6	1.0	purine ribonucleotide binding	Cc05g15350
+GO:0032553	1	25%	21%	0.605	1.0	ribonucleotide binding	Cc05g15350
+GO:0097367	1	25%	21%	0.608	1.0	carbohydrate derivative binding	Cc05g15350
+GO:0017076	1	25%	21%	0.614	1.0	purine nucleotide binding	Cc05g15350
+GO:0000166	1	25%	22%	0.639	1.0	nucleotide binding	Cc05g15350
+GO:1901265	1	25%	23%	0.64	1.0	nucleoside phosphate binding	Cc05g15350
+GO:0043168	1	25%	23%	0.644	1.0	anion binding	Cc05g15350
+GO:1901363	1	25%	23%	0.655	1.0	heterocyclic compound binding	Cc05g15350
+GO:0005515	1	25%	23%	0.655	1.0	protein binding	Cc05g15350
+GO:0005488	2	50%	64%	0.864	1.0	binding	Cc05g15350,Cc06g02440
+GO:0003674	4	100%	100%	1.0	1.0	molecular_function	Cc02g21360,Cc05g15350,Cc10g04900,Cc06g02440

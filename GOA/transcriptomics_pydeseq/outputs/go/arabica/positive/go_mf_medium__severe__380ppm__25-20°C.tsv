@@ -1,0 +1,47 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0005385	1	14%	0.08%	5.24E-3	0.241	zinc ion transmembrane transporter activity	Cc08g10620
+GO:0008483	1	14%	0.18%	0.0124	0.284	transaminase activity	Cc05g07610
+GO:0016769	1	14%	0.18%	0.0128	0.284	transferase activity, transferring nitrogenous groups	Cc05g07610
+GO:0046915	1	14%	0.19%	0.0133	0.284	transition metal ion transmembrane transporter activity	Cc08g10620
+GO:0004176	1	14%	0.23%	0.0157	0.284	ATP-dependent peptidase activity	Cc07g12510
+GO:0004222	1	14%	0.31%	0.0218	0.284	metalloendopeptidase activity	Cc07g12510
+GO:0008237	1	14%	0.53%	0.0367	0.284	metallopeptidase activity	Cc07g12510
+GO:0070279	1	14%	0.59%	0.0404	0.284	vitamin B6 binding	Cc05g07610
+GO:0030170	1	14%	0.59%	0.0404	0.284	pyridoxal phosphate binding	Cc05g07610
+GO:0019842	1	14%	0.81%	0.055	0.284	vitamin binding	Cc05g07610
+GO:0046873	1	14%	0.84%	0.0573	0.284	metal ion transmembrane transporter activity	Cc08g10620
+GO:0008324	1	14%	1.4%	0.0926	0.355	monoatomic cation transmembrane transporter activity	Cc08g10620
+GO:0015075	1	14%	1.7%	0.114	0.405	monoatomic ion transmembrane transporter activity	Cc08g10620
+GO:0004175	1	14%	1.8%	0.118	0.405	endopeptidase activity	Cc07g12510
+GO:0016887	1	14%	2.0%	0.132	0.406	ATP hydrolysis activity	Cc07g12510
+GO:0140657	1	14%	2.7%	0.174	0.501	ATP-dependent activity	Cc07g12510
+GO:0017111	1	14%	3.2%	0.201	0.544	ribonucleoside triphosphate phosphatase activity	Cc07g12510
+GO:0005515	3	43%	23%	0.21	0.544	protein binding	Cc05g10110,Cc11g13710,Cc03g14520
+GO:0016462	1	14%	3.3%	0.211	0.544	pyrophosphatase activity	Cc07g12510
+GO:0008233	1	14%	3.4%	0.214	0.544	peptidase activity	Cc07g12510
+GO:0016818	1	14%	3.4%	0.215	0.544	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	Cc07g12510
+GO:0016817	1	14%	3.4%	0.216	0.544	hydrolase activity, acting on acid anhydrides	Cc07g12510
+GO:0005488	6	86%	64%	0.218	0.544	binding	Cc05g10110,Cc10g08840,Cc11g13710,Cc07g12510,Cc03g14520,Cc05g07610
+GO:0022857	1	14%	5.9%	0.349	0.669	transmembrane transporter activity	Cc08g10620
+GO:0005215	1	14%	6.1%	0.355	0.669	transporter activity	Cc08g10620
+GO:0043167	3	43%	34%	0.436	0.772	ion binding	Cc10g08840,Cc07g12510,Cc05g07610
+GO:0036094	3	43%	35%	0.464	0.79	small molecule binding	Cc10g08840,Cc07g12510,Cc05g07610
+GO:0043168	2	29%	23%	0.497	0.817	anion binding	Cc07g12510,Cc05g07610
+GO:1901363	2	29%	23%	0.513	0.817	heterocyclic compound binding	Cc07g12510,Cc05g07610
+GO:0046872	1	14%	11%	0.572	0.877	metal ion binding	Cc10g08840
+GO:0043169	1	14%	12%	0.582	0.877	cation binding	Cc10g08840
+GO:0005524	1	14%	14%	0.654	0.941	ATP binding	Cc07g12510
+GO:0140096	1	14%	15%	0.666	0.941	catalytic activity, acting on a protein	Cc07g12510
+GO:0016787	1	14%	15%	0.689	0.941	hydrolase activity	Cc07g12510
+GO:0035639	1	14%	16%	0.695	0.941	purine ribonucleoside triphosphate binding	Cc07g12510
+GO:0032559	1	14%	19%	0.77	0.984	adenyl ribonucleotide binding	Cc07g12510
+GO:0030554	1	14%	20%	0.783	0.984	adenyl nucleotide binding	Cc07g12510
+GO:0016740	1	14%	20%	0.791	0.984	transferase activity	Cc05g07610
+GO:0032555	1	14%	20%	0.799	0.984	purine ribonucleotide binding	Cc07g12510
+GO:0032553	1	14%	21%	0.803	0.984	ribonucleotide binding	Cc07g12510
+GO:0097367	1	14%	21%	0.806	0.984	carbohydrate derivative binding	Cc07g12510
+GO:0017076	1	14%	21%	0.811	0.984	purine nucleotide binding	Cc07g12510
+GO:0000166	1	14%	22%	0.832	0.984	nucleotide binding	Cc07g12510
+GO:1901265	1	14%	23%	0.833	0.984	nucleoside phosphate binding	Cc07g12510
+GO:0003824	2	29%	52%	0.952	0.984	catalytic activity	Cc07g12510,Cc05g07610
+GO:0003674	7	100%	100%	1.0	1.0	molecular_function	Cc05g10110,Cc10g08840,Cc11g13710,Cc08g10620,Cc07g12510,Cc03g14520,Cc05g07610

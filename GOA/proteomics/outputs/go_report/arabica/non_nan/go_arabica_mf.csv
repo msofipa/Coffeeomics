@@ -1,0 +1,33 @@
+GO Term,25-20°C__37-28°C__380ppm__severe,25-20°C__37-28°C__380ppm__without,25-20°C__37-28°C__700ppm__severe,25-20°C__37-28°C__700ppm__without,25-20°C__42-30°C__380ppm__severe,25-20°C__42-30°C__380ppm__without,25-20°C__42-30°C__700ppm__severe,25-20°C__42-30°C__700ppm__without,25-20°C__Rec-14---25-20°C__380ppm__severe,25-20°C__Rec-14---25-20°C__380ppm__without,25-20°C__Rec-14---25-20°C__700ppm__severe,25-20°C__Rec-14---25-20°C__700ppm__without,37-28°C__42-30°C__380ppm__severe,37-28°C__42-30°C__380ppm__without,37-28°C__42-30°C__700ppm__severe,37-28°C__42-30°C__700ppm__without,37-28°C__Rec-14---25-20°C__380ppm__severe,37-28°C__Rec-14---25-20°C__380ppm__without,37-28°C__Rec-14---25-20°C__700ppm__severe,37-28°C__Rec-14---25-20°C__700ppm__without,380ppm__700ppm__25-20°C__medium,380ppm__700ppm__25-20°C__severe,380ppm__700ppm__25-20°C__without,380ppm__700ppm__37-28°C__severe,380ppm__700ppm__37-28°C__without,380ppm__700ppm__42-30°C__severe,380ppm__700ppm__42-30°C__without,380ppm__700ppm__Rec-14---25-20°C__severe,380ppm__700ppm__Rec-14---25-20°C__without,42-30°C__Rec-14---25-20°C__380ppm__severe,42-30°C__Rec-14---25-20°C__380ppm__without,42-30°C__Rec-14---25-20°C__700ppm__severe,42-30°C__Rec-14---25-20°C__700ppm__without,medium__severe__25-20°C__380ppm,medium__severe__25-20°C__700ppm,without__medium__25-20°C__380ppm,without__medium__25-20°C__700ppm,without__severe__25-20°C__380ppm,without__severe__25-20°C__700ppm,without__severe__37-28°C__380ppm,without__severe__37-28°C__700ppm,without__severe__42-30°C__380ppm,without__severe__42-30°C__700ppm,without__severe__Rec-14---25-20°C__380ppm,without__severe__Rec-14---25-20°C__700ppm
+GO:0003871 5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase activity,,,,,,,,,0.000205,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GO:0004097 catechol oxidase activity,,,,,,,,,,,,,,1.96e-07,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.000478
+GO:0004175 endopeptidase activity,,,,,,,,,,,,,,,,,,,,,0.000289,,,,,,,,,,,,,,,,,,,,,,,,
+GO:0004190 aspartic-type endopeptidase activity,,,,,,,,,,,,,,,,,,,,,7.37e-06,,,,,,,,,,,,,,,,,,,,,,,,
+GO:0004455 ketol-acid reductoisomerase activity,,,,,,,,,,,,,,,,,0.000546,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GO:0004497 monooxygenase activity,,,,,,,,,,,,,,2.94e-05,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.00546
+GO:0008172 S-methyltransferase activity,,,,,,,,,0.000614,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GO:0008233 peptidase activity,,,,,,,,,,,,,,,,,,,,,0.0019,,,,,,,,,,,,,,,,,,,,,,,,
+GO:0008878 glucose-1-phosphate adenylyltransferase activity,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.000546,,,,,,,,,,,,,,,
+GO:0010242 oxygen evolving activity,,,,,,,,,,,,,,,,,0.000546,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GO:0016462 pyrophosphatase activity,,,,,,0.000681,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"GO:0016679 oxidoreductase activity, acting on diphenols and related substances as donors",,,,,,,,,,,,,,5.22e-06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.00232
+"GO:0016682 oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor",,,,,,,,,,,,,,5.22e-06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.00232
+"GO:0016701 oxidoreductase activity, acting on single donors with incorporation of molecular oxygen",0.00572,,,,0.00287,,,,,,,,,,,,,,,,,,,,,,,,,0.00572,,,,,,,,,,,,,,,
+"GO:0016702 oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen",0.00395,,,,0.00198,,,,,,,,,,,,,,,,,,,,,,,,,0.00395,,,,,,,,,,,,,,,
+GO:0016787 hydrolase activity,,,,,,,,,,,,,,,,,,,,,0.00316,,,,,,,,,,,,,,,,,,,,,,,,
+"GO:0016817 hydrolase activity, acting on acid anhydrides",,,,,,0.000731,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"GO:0016818 hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides",,,,,,0.000723,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GO:0016887 ATP hydrolysis activity,,,,,,0.000153,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GO:0017111 ribonucleoside triphosphate phosphatase activity,,,,,,0.00058,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GO:0019203 carbohydrate phosphatase activity,,,,,,,,,,,,,,,,,0.00273,,,,,,,,,,,,,,,,,,,,,,,0.00136,,,,,
+GO:0030145 manganese ion binding,0.00668,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.01,,,,,,,,,,
+GO:0042085 5-methyltetrahydropteroyltri-L-glutamate-dependent methyltransferase activity,,,,,,,,,0.000205,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"GO:0042132 fructose 1,6-bisphosphate 1-phosphatase activity",,,,,,,,,,,,,,,,,0.00164,,,,,,,,,,,,,,,,,,,,,,,0.000819,,,,,
+GO:0042625 ATPase-coupled ion transmembrane transporter activity,,,,,,,,,,,,,,,,,0.00273,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"GO:0044769 ATPase activity, coupled to transmembrane movement of ions, rotational mechanism",,,,,,,,,,,,,,,,,0.00273,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"GO:0046961 proton-transporting ATPase activity, rotational mechanism",,,,,,,,,,,,,,,,,0.00273,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GO:0050308 sugar-phosphatase activity,,,,,,,,,,,,,,,,,0.00218,,,,,,,,,,,,,,,,,,,,,,,0.00109,,,,,
+GO:0050660 flavin adenine dinucleotide binding,,,,,,,,,,,0.00976,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GO:0051213 dioxygenase activity,0.00395,,,,0.00198,,,,,,,,,,,,,,,,,,,,,,,,,0.00395,,,,,,,,,,,,,,,
+GO:0070001 aspartic-type peptidase activity,,,,,,,,,,,,,,,,,,,,,7.37e-06,,,,,,,,,,,,,,,,,,,,,,,,
+GO:0070566 adenylyltransferase activity,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.000955,,,,,,,,,,,,,,,

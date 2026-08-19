@@ -1,0 +1,11 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0046914	2	100%	7.6%	5.78E-3	0.0578	transition metal ion binding	Cc06g12080,Cc10g01080
+GO:0030145	1	50%	0.33%	6.68E-3	0.0578	manganese ion binding	Cc06g12080
+GO:0005507	1	50%	0.46%	9.26E-3	0.0578	copper ion binding	Cc10g01080
+GO:0009055	1	50%	0.57%	0.0114	0.0578	electron transfer activity	Cc10g01080
+GO:0046872	2	100%	11%	0.013	0.0578	metal ion binding	Cc06g12080,Cc10g01080
+GO:0043169	2	100%	12%	0.0137	0.0578	cation binding	Cc06g12080,Cc10g01080
+GO:0043167	2	100%	34%	0.113	0.162	ion binding	Cc06g12080,Cc10g01080
+GO:0036094	2	100%	35%	0.121	0.162	small molecule binding	Cc06g12080,Cc10g01080
+GO:0005488	2	100%	64%	0.41	0.456	binding	Cc06g12080,Cc10g01080
+GO:0003674	2	100%	100%	1.0	1.0	molecular_function	Cc06g12080,Cc10g01080

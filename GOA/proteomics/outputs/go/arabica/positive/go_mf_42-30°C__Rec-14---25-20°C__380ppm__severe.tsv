@@ -1,0 +1,18 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0008878	1	50%	0.03%	5.46E-4	9.28E-3	glucose-1-phosphate adenylyltransferase activity	Cc05g09820
+GO:0070566	1	50%	0.05%	9.55E-4	9.28E-3	adenylyltransferase activity	Cc05g09820
+GO:0051213	1	50%	0.2%	3.95E-3	0.0224	dioxygenase activity	Cc01g04060
+GO:0016702	1	50%	0.2%	3.95E-3	0.0224	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen	Cc01g04060
+GO:0016701	1	50%	0.29%	5.72E-3	0.0224	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen	Cc01g04060
+GO:0016779	1	50%	0.7%	0.014	0.0397	nucleotidyltransferase activity	Cc05g09820
+GO:0016772	1	50%	11%	0.199	0.484	transferase activity, transferring phosphorus-containing groups	Cc05g09820
+GO:0016491	1	50%	11%	0.209	0.484	oxidoreductase activity	Cc01g04060
+GO:0046872	1	50%	11%	0.215	0.484	metal ion binding	Cc01g04060
+GO:0043169	1	50%	12%	0.22	0.484	cation binding	Cc01g04060
+GO:0003824	2	100%	52%	0.275	0.484	catalytic activity	Cc01g04060,Cc05g09820
+GO:0016740	1	50%	20%	0.361	0.511	transferase activity	Cc05g09820
+GO:0005515	1	50%	23%	0.412	0.539	protein binding	Cc01g04060
+GO:0043167	1	50%	34%	0.559	0.679	ion binding	Cc01g04060
+GO:0036094	1	50%	35%	0.575	0.679	small molecule binding	Cc01g04060
+GO:0005488	1	50%	64%	0.871	0.925	binding	Cc01g04060
+GO:0003674	2	100%	100%	1.0	1.0	molecular_function	Cc01g04060,Cc05g09820

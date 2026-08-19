@@ -1,0 +1,71 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0043289	1	14%	0.01%	8.5E-4	0.0595	apocarotenoid biosynthetic process	Cc07g06010
+GO:0120255	1	14%	0.01%	8.5E-4	0.0595	olefinic compound biosynthetic process	Cc07g06010
+GO:0120254	1	14%	0.01%	8.5E-4	0.0595	olefinic compound metabolic process	Cc07g06010
+GO:1902645	1	14%	0.01%	8.5E-4	0.0595	tertiary alcohol biosynthetic process	Cc07g06010
+GO:1902644	1	14%	0.01%	8.5E-4	0.0595	tertiary alcohol metabolic process	Cc07g06010
+GO:0009687	1	14%	0.01%	8.5E-4	0.0595	abscisic acid metabolic process	Cc07g06010
+GO:0009688	1	14%	0.01%	8.5E-4	0.0595	abscisic acid biosynthetic process	Cc07g06010
+GO:0016106	1	14%	0.02%	1.7E-3	0.0595	sesquiterpenoid biosynthetic process	Cc07g06010
+GO:0006714	1	14%	0.02%	1.7E-3	0.0595	sesquiterpenoid metabolic process	Cc07g06010
+GO:0006784	1	14%	0.06%	4.24E-3	0.0595	heme A biosynthetic process	Cc02g29800
+GO:0009435	1	14%	0.08%	5.93E-3	0.0595	NAD+ biosynthetic process	Cc07g02190
+GO:0046165	1	14%	0.11%	7.62E-3	0.0595	alcohol biosynthetic process	Cc07g06010
+GO:0019359	1	14%	0.12%	8.47E-3	0.0595	nicotinamide nucleotide biosynthetic process	Cc07g02190
+GO:0019363	1	14%	0.12%	8.47E-3	0.0595	pyridine nucleotide biosynthetic process	Cc07g02190
+GO:0019674	1	14%	0.12%	8.47E-3	0.0595	NAD+ metabolic process	Cc07g02190
+GO:0006783	1	14%	0.13%	9.31E-3	0.0595	heme biosynthetic process	Cc02g29800
+GO:0042168	1	14%	0.16%	0.011	0.0595	heme metabolic process	Cc02g29800
+GO:0006820	1	14%	0.19%	0.0135	0.0595	monoatomic anion transport	Cc04g14210
+GO:0006811	2	29%	2.8%	0.0145	0.0595	monoatomic ion transport	Cc08g12750,Cc04g14210
+GO:0072525	1	14%	0.22%	0.0152	0.0595	pyridine-containing compound biosynthetic process	Cc07g02190
+GO:0006066	1	14%	0.3%	0.0211	0.0702	alcohol metabolic process	Cc07g06010
+GO:0006779	1	14%	0.32%	0.0219	0.0702	porphyrin-containing compound biosynthetic process	Cc02g29800
+GO:0016114	1	14%	0.35%	0.0244	0.0742	terpenoid biosynthetic process	Cc07g06010
+GO:0046148	1	14%	0.35%	0.0244	0.0742	pigment biosynthetic process	Cc02g29800
+GO:0006721	1	14%	0.35%	0.0244	0.0742	terpenoid metabolic process	Cc07g06010
+GO:0033014	1	14%	0.4%	0.0277	0.0746	tetrapyrrole biosynthetic process	Cc02g29800
+GO:0006778	1	14%	0.4%	0.0277	0.0746	porphyrin-containing compound metabolic process	Cc02g29800
+GO:0042440	1	14%	0.44%	0.0302	0.0755	pigment metabolic process	Cc02g29800
+GO:0033013	1	14%	0.49%	0.0335	0.0809	tetrapyrrole metabolic process	Cc02g29800
+GO:0006720	1	14%	0.59%	0.0409	0.0954	isoprenoid metabolic process	Cc07g06010
+GO:0008299	1	14%	0.59%	0.0409	0.0954	isoprenoid biosynthetic process	Cc07g06010
+GO:0006164	1	14%	0.69%	0.0474	0.104	purine nucleotide biosynthetic process	Cc07g02190
+GO:0046496	1	14%	0.78%	0.0531	0.113	nicotinamide nucleotide metabolic process	Cc07g02190
+GO:0072330	1	14%	0.79%	0.0539	0.113	monocarboxylic acid biosynthetic process	Cc07g06010
+GO:0072524	1	14%	0.87%	0.0596	0.119	pyridine-containing compound metabolic process	Cc07g02190
+GO:0072522	1	14%	0.92%	0.0628	0.122	purine-containing compound biosynthetic process	Cc07g02190
+GO:0006810	3	43%	15%	0.0697	0.132	transport	Cc08g12750,Cc04g14210,Cc05g04780
+GO:0009165	1	14%	1.0%	0.07	0.132	nucleotide biosynthetic process	Cc07g02190
+GO:0051234	3	43%	15%	0.0743	0.133	establishment of localization	Cc08g12750,Cc04g14210,Cc05g04780
+GO:0009058	3	43%	15%	0.0753	0.133	biosynthetic process	Cc02g29800,Cc07g06010,Cc07g02190
+GO:0044281	2	29%	6.7%	0.0756	0.133	small molecule metabolic process	Cc07g06010,Cc07g02190
+GO:0051179	3	43%	15%	0.0759	0.133	localization	Cc08g12750,Cc04g14210,Cc05g04780
+GO:1901293	1	14%	1.2%	0.0835	0.136	nucleoside phosphate biosynthetic process	Cc07g02190
+GO:0007017	1	14%	1.3%	0.0859	0.137	microtubule-based process	Cc04g03100
+GO:0006163	1	14%	1.4%	0.0969	0.151	purine nucleotide metabolic process	Cc07g02190
+GO:0032787	1	14%	1.6%	0.105	0.16	monocarboxylic acid metabolic process	Cc07g06010
+GO:0072521	1	14%	1.8%	0.117	0.174	purine-containing compound metabolic process	Cc07g02190
+GO:0009117	1	14%	1.8%	0.12	0.175	nucleotide metabolic process	Cc07g02190
+GO:0046394	1	14%	2.0%	0.131	0.187	carboxylic acid biosynthetic process	Cc07g06010
+GO:0016053	1	14%	2.0%	0.131	0.187	organic acid biosynthetic process	Cc07g06010
+GO:0090407	1	14%	2.1%	0.135	0.187	organophosphate biosynthetic process	Cc07g02190
+GO:0055085	2	29%	9.5%	0.136	0.187	transmembrane transport	Cc08g12750,Cc05g04780
+GO:0006753	1	14%	2.2%	0.143	0.189	nucleoside phosphate metabolic process	Cc07g02190
+GO:0006812	1	14%	2.4%	0.157	0.203	monoatomic cation transport	Cc08g12750
+GO:0008610	1	14%	2.5%	0.161	0.205	lipid biosynthetic process	Cc07g06010
+GO:0055086	1	14%	2.5%	0.165	0.207	nucleobase-containing small molecule metabolic process	Cc07g02190
+GO:0044283	1	14%	2.7%	0.176	0.216	small molecule biosynthetic process	Cc07g06010
+GO:0034654	1	14%	3.3%	0.211	0.254	nucleobase-containing compound biosynthetic process	Cc07g02190
+GO:0019752	1	14%	3.5%	0.221	0.262	carboxylic acid metabolic process	Cc07g06010
+GO:0006082	1	14%	3.5%	0.222	0.262	organic acid metabolic process	Cc07g06010
+GO:0043436	1	14%	3.5%	0.222	0.262	oxoacid metabolic process	Cc07g06010
+GO:0019637	1	14%	3.7%	0.23	0.262	organophosphate metabolic process	Cc07g02190
+GO:0006629	1	14%	4.7%	0.288	0.32	lipid metabolic process	Cc07g06010
+GO:0006139	1	14%	12%	0.578	0.633	nucleobase-containing compound metabolic process	Cc07g02190
+GO:0009987	6	86%	85%	0.717	0.772	cellular process	Cc04g03100,Cc08g12750,Cc02g29800,Cc07g06010,Cc05g04780,Cc07g02190
+GO:0006793	1	14%	19%	0.78	0.827	phosphorus metabolic process	Cc07g02190
+GO:0006796	1	14%	19%	0.78	0.827	phosphate-containing compound metabolic process	Cc07g02190
+GO:0008152	3	43%	62%	0.926	0.953	metabolic process	Cc02g29800,Cc07g06010,Cc07g02190
+GO:0044238	2	29%	55%	0.964	0.977	primary metabolic process	Cc07g06010,Cc07g02190
+GO:0008150	7	100%	100%	1.0	1.0	biological_process	Cc04g03100,Cc08g12750,Cc04g14210,Cc02g29800,Cc07g06010,Cc05g04780,Cc07g02190

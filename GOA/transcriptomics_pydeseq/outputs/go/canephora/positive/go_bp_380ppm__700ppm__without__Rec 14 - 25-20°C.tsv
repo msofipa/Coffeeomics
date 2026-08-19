@@ -1,0 +1,13 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0010183	1	25%	0.01%	4.85E-4	5.83E-3	pollen tube guidance	Cc02g18370
+GO:0006935	1	25%	0.01%	4.85E-4	5.83E-3	chemotaxis	Cc02g18370
+GO:0040011	1	25%	0.01%	4.85E-4	5.83E-3	locomotion	Cc02g18370
+GO:0050918	1	25%	0.01%	4.85E-4	5.83E-3	positive chemotaxis	Cc02g18370
+GO:0042330	1	25%	0.01%	4.85E-4	5.83E-3	taxis	Cc02g18370
+GO:0008283	1	25%	0.06%	2.43E-3	5.83E-3	cell population proliferation	Cc07g07320
+GO:0005975	1	25%	8.4%	0.296	0.507	carbohydrate metabolic process	Cc11g08330
+GO:0009058	1	25%	15%	0.481	0.722	biosynthetic process	Cc06g18950
+GO:0008152	2	50%	62%	0.848	1.0	metabolic process	Cc06g18950,Cc11g08330
+GO:0009987	3	75%	85%	0.891	1.0	cellular process	Cc06g18950,Cc07g07320,Cc11g08330
+GO:0044238	1	25%	55%	0.958	1.0	primary metabolic process	Cc11g08330
+GO:0008150	4	100%	100%	1.0	1.0	biological_process	Cc06g18950,Cc07g07320,Cc11g08330,Cc02g18370

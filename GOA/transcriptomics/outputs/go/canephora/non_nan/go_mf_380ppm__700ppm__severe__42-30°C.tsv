@@ -1,0 +1,16 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0030145	1	33%	0.33%	1E-2	0.15	manganese ion binding	Cc06g12080
+GO:0003690	1	33%	0.6%	0.0179	0.15	double-stranded DNA binding	Cc06g06380
+GO:0008194	1	33%	2.2%	0.0651	0.325	UDP-glycosyltransferase activity	Cc10g11220
+GO:0016757	1	33%	3.9%	0.112	0.422	glycosyltransferase activity	Cc10g11220
+GO:0003677	1	33%	6.8%	0.189	0.568	DNA binding	Cc06g06380
+GO:0046914	1	33%	7.6%	0.211	0.568	transition metal ion binding	Cc06g12080
+GO:0046872	1	33%	11%	0.305	0.653	metal ion binding	Cc06g12080
+GO:0043169	1	33%	12%	0.312	0.653	cation binding	Cc06g12080
+GO:0003676	1	33%	12%	0.326	0.653	nucleic acid binding	Cc06g06380
+GO:0016740	1	33%	20%	0.489	0.734	transferase activity	Cc10g11220
+GO:0005488	2	67%	64%	0.705	0.962	binding	Cc06g12080,Cc06g06380
+GO:0043167	1	33%	34%	0.708	0.962	ion binding	Cc06g12080
+GO:0036094	1	33%	35%	0.723	0.962	small molecule binding	Cc06g12080
+GO:0003824	1	33%	52%	0.892	0.962	catalytic activity	Cc10g11220
+GO:0003674	3	100%	100%	1.0	1.0	molecular_function	Cc06g12080,Cc10g11220,Cc06g06380

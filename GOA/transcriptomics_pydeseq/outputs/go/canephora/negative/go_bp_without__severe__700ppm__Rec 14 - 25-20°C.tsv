@@ -1,0 +1,73 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0006879	1	14%	0.02%	1.7E-3	0.122	intracellular iron ion homeostasis	Cc06g00890
+GO:0006826	1	14%	0.06%	4.24E-3	0.153	iron ion transport	Cc06g00890
+GO:0071616	1	14%	0.07%	5.09E-3	0.153	acyl-CoA biosynthetic process	Cc11g17430
+GO:0006085	1	14%	0.07%	5.09E-3	0.153	acetyl-CoA biosynthetic process	Cc11g17430
+GO:0006086	1	14%	0.07%	5.09E-3	0.153	pyruvate decarboxylation to acetyl-CoA	Cc11g17430
+GO:0006084	1	14%	0.1%	6.78E-3	0.153	acetyl-CoA metabolic process	Cc11g17430
+GO:0006637	1	14%	0.11%	7.62E-3	0.153	acyl-CoA metabolic process	Cc11g17430
+GO:0009664	1	14%	0.18%	0.0127	0.153	plant-type cell wall organization	Cc04g16340
+GO:0098771	1	14%	0.19%	0.0135	0.153	inorganic ion homeostasis	Cc06g00890
+GO:0030003	1	14%	0.19%	0.0135	0.153	intracellular monoatomic cation homeostasis	Cc06g00890
+GO:0006873	1	14%	0.21%	0.0144	0.153	intracellular monoatomic ion homeostasis	Cc06g00890
+GO:0043604	1	14%	0.21%	0.0144	0.153	amide biosynthetic process	Cc11g17430
+GO:0071669	1	14%	0.24%	0.0169	0.153	plant-type cell wall organization or biogenesis	Cc04g16340
+GO:0000041	1	14%	0.27%	0.0185	0.153	transition metal ion transport	Cc06g00890
+GO:0055082	1	14%	0.28%	0.0194	0.153	intracellular chemical homeostasis	Cc06g00890
+GO:0055080	1	14%	0.3%	0.0211	0.153	monoatomic cation homeostasis	Cc06g00890
+GO:0050801	1	14%	0.32%	0.0219	0.153	monoatomic ion homeostasis	Cc06g00890
+GO:0009308	1	14%	0.38%	0.026	0.153	amine metabolic process	Cc04g11740
+GO:0048878	1	14%	0.39%	0.0269	0.153	chemical homeostasis	Cc06g00890
+GO:0019725	1	14%	0.42%	0.0294	0.153	cellular homeostasis	Cc06g00890
+GO:0044272	1	14%	0.51%	0.0352	0.153	sulfur compound biosynthetic process	Cc11g17430
+GO:0042592	1	14%	0.53%	0.0368	0.153	homeostatic process	Cc06g00890
+GO:0006090	1	14%	0.63%	0.0434	0.153	pyruvate metabolic process	Cc11g17430
+GO:0071555	1	14%	0.9%	0.0612	0.184	cell wall organization	Cc04g16340
+GO:0072522	1	14%	0.92%	0.0628	0.184	purine-containing compound biosynthetic process	Cc11g17430
+GO:0045229	1	14%	1.1%	0.0716	0.198	external encapsulating structure organization	Cc04g16340
+GO:1901293	1	14%	1.2%	0.0835	0.223	nucleoside phosphate biosynthetic process	Cc11g17430
+GO:0071554	1	14%	1.3%	0.0859	0.223	cell wall organization or biogenesis	Cc04g16340
+GO:0043603	1	14%	1.3%	0.0882	0.223	amide metabolic process	Cc11g17430
+GO:0030001	1	14%	1.5%	0.0984	0.236	metal ion transport	Cc06g00890
+GO:0032787	1	14%	1.6%	0.105	0.245	monocarboxylic acid metabolic process	Cc11g17430
+GO:0006790	1	14%	1.7%	0.11	0.248	sulfur compound metabolic process	Cc11g17430
+GO:0072521	1	14%	1.8%	0.117	0.255	purine-containing compound metabolic process	Cc11g17430
+GO:0090407	1	14%	2.1%	0.135	0.286	organophosphate biosynthetic process	Cc11g17430
+GO:0006753	1	14%	2.2%	0.143	0.295	nucleoside phosphate metabolic process	Cc11g17430
+GO:0006812	1	14%	2.4%	0.157	0.313	monoatomic cation transport	Cc06g00890
+GO:0055086	1	14%	2.5%	0.165	0.322	nucleobase-containing small molecule metabolic process	Cc11g17430
+GO:0006811	1	14%	2.8%	0.178	0.337	monoatomic ion transport	Cc06g00890
+GO:0034654	1	14%	3.3%	0.211	0.389	nucleobase-containing compound biosynthetic process	Cc11g17430
+GO:0019752	1	14%	3.5%	0.221	0.397	carboxylic acid metabolic process	Cc11g17430
+GO:0006082	1	14%	3.5%	0.222	0.397	organic acid metabolic process	Cc11g17430
+GO:0043436	1	14%	3.5%	0.222	0.397	oxoacid metabolic process	Cc11g17430
+GO:0019637	1	14%	3.7%	0.23	0.397	organophosphate metabolic process	Cc11g17430
+GO:0006810	2	29%	15%	0.274	0.449	transport	Cc06g00890,Cc09g01770
+GO:0051234	2	29%	15%	0.285	0.456	establishment of localization	Cc06g00890,Cc09g01770
+GO:0006629	1	14%	4.7%	0.288	0.456	lipid metabolic process	Cc07g01090
+GO:0051179	2	29%	15%	0.288	0.456	localization	Cc06g00890,Cc09g01770
+GO:0016043	1	14%	5.9%	0.345	0.517	cellular component organization	Cc04g16340
+GO:0071840	1	14%	6.5%	0.373	0.549	cellular component organization or biogenesis	Cc04g16340
+GO:0044281	1	14%	6.7%	0.386	0.556	small molecule metabolic process	Cc11g17430
+GO:2001141	1	14%	9.1%	0.485	0.685	regulation of RNA biosynthetic process	Cc05g12500
+GO:0006355	1	14%	9.1%	0.485	0.685	regulation of DNA-templated transcription	Cc05g12500
+GO:0051252	1	14%	9.1%	0.488	0.685	regulation of RNA metabolic process	Cc05g12500
+GO:0019219	1	14%	9.3%	0.495	0.685	regulation of nucleobase-containing compound metabolic process	Cc05g12500
+GO:0055085	1	14%	9.5%	0.501	0.685	transmembrane transport	Cc09g01770
+GO:0010468	1	14%	9.7%	0.511	0.685	regulation of gene expression	Cc05g12500
+GO:0010556	1	14%	9.7%	0.512	0.685	regulation of macromolecule biosynthetic process	Cc05g12500
+GO:0009889	1	14%	9.8%	0.513	0.685	regulation of biosynthetic process	Cc05g12500
+GO:0080090	1	14%	9.8%	0.515	0.685	regulation of primary metabolic process	Cc05g12500
+GO:0060255	1	14%	10%	0.534	0.685	regulation of macromolecule metabolic process	Cc05g12500
+GO:0019222	1	14%	10%	0.537	0.685	regulation of metabolic process	Cc05g12500
+GO:0006139	1	14%	12%	0.578	0.685	nucleobase-containing compound metabolic process	Cc11g17430
+GO:0050794	1	14%	13%	0.633	0.724	regulation of cellular process	Cc05g12500
+GO:0050789	1	14%	14%	0.65	0.731	regulation of biological process	Cc05g12500
+GO:0065007	1	14%	14%	0.661	0.732	biological regulation	Cc05g12500
+GO:0009058	1	14%	15%	0.683	0.745	biosynthetic process	Cc11g17430
+GO:0006793	1	14%	19%	0.78	0.838	phosphorus metabolic process	Cc11g17430
+GO:0006796	1	14%	19%	0.78	0.838	phosphate-containing compound metabolic process	Cc11g17430
+GO:0008152	3	43%	62%	0.926	0.966	metabolic process	Cc04g11740,Cc07g01090,Cc11g17430
+GO:0009987	5	71%	85%	0.926	0.966	cellular process	Cc04g11740,Cc09g01770,Cc07g01090,Cc11g17430,Cc04g16340
+GO:0044238	2	29%	55%	0.964	0.977	primary metabolic process	Cc07g01090,Cc11g17430
+GO:0008150	7	100%	100%	1.0	1.0	biological_process	Cc04g11740,Cc06g00890,Cc09g01770,Cc07g01090,Cc11g17430,Cc05g12500,Cc04g16340

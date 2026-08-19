@@ -1,0 +1,18 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0008146	1	11%	0.2%	0.0177	0.3	sulfotransferase activity	Cc09g03850
+GO:0015079	1	11%	0.25%	0.0225	0.3	potassium ion transmembrane transporter activity	Cc04g09380
+GO:0016782	1	11%	0.26%	0.0231	0.3	transferase activity, transferring sulphur-containing groups	Cc09g03850
+GO:0046873	1	11%	0.84%	0.0731	0.311	metal ion transmembrane transporter activity	Cc04g09380
+GO:0022857	2	22%	5.9%	0.0962	0.327	transmembrane transporter activity	Cc04g09380,Cc07g18620
+GO:0005215	2	22%	6.1%	0.0996	0.327	transporter activity	Cc04g09380,Cc07g18620
+GO:0008324	1	11%	1.4%	0.117	0.327	monoatomic cation transmembrane transporter activity	Cc04g09380
+GO:0005515	4	44%	23%	0.136	0.327	protein binding	Cc05g14600,Cc04g10750,Cc05g10090,Cc03g09070
+GO:0015075	1	11%	1.7%	0.145	0.327	monoatomic ion transmembrane transporter activity	Cc04g09380
+GO:0008194	1	11%	2.2%	0.183	0.327	UDP-glycosyltransferase activity	Cc02g20860
+GO:0003735	1	11%	2.3%	0.185	0.327	structural constituent of ribosome	Cc09g08950
+GO:0005198	1	11%	2.6%	0.215	0.327	structural molecule activity	Cc09g08950
+GO:0016757	1	11%	3.9%	0.301	0.393	glycosyltransferase activity	Cc02g20860
+GO:0016740	2	22%	20%	0.566	0.687	transferase activity	Cc02g20860,Cc09g03850
+GO:0005488	4	44%	64%	0.939	1.0	binding	Cc05g14600,Cc04g10750,Cc05g10090,Cc03g09070
+GO:0003824	2	22%	52%	0.986	1.0	catalytic activity	Cc02g20860,Cc09g03850
+GO:0003674	9	100%	100%	1.0	1.0	molecular_function	Cc04g09380,Cc05g14600,Cc07g18620,Cc09g08950,Cc02g20860,Cc04g10750,Cc05g10090,Cc09g03850,Cc03g09070

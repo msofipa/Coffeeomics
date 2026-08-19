@@ -1,0 +1,33 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0006869	2	40%	0.58%	3.29E-4	0.0105	lipid transport	Cc06g18440,Cc06g18430
+GO:0008610	1	20%	2.5%	0.118	1.0	lipid biosynthetic process	Cc06g14080
+GO:0006810	2	40%	15%	0.159	1.0	transport	Cc06g18440,Cc06g18430
+GO:0051234	2	40%	15%	0.166	1.0	establishment of localization	Cc06g18440,Cc06g18430
+GO:0051179	2	40%	15%	0.168	1.0	localization	Cc06g18440,Cc06g18430
+GO:0006629	1	20%	4.7%	0.215	1.0	lipid metabolic process	Cc06g14080
+GO:0006355	1	20%	9.1%	0.378	1.0	regulation of DNA-templated transcription	Cc02g15550
+GO:2001141	1	20%	9.1%	0.378	1.0	regulation of RNA biosynthetic process	Cc02g15550
+GO:0051252	1	20%	9.1%	0.38	1.0	regulation of RNA metabolic process	Cc02g15550
+GO:0019219	1	20%	9.3%	0.386	1.0	regulation of nucleobase-containing compound metabolic process	Cc02g15550
+GO:0010468	1	20%	9.7%	0.4	1.0	regulation of gene expression	Cc02g15550
+GO:0010556	1	20%	9.7%	0.401	1.0	regulation of macromolecule biosynthetic process	Cc02g15550
+GO:0009889	1	20%	9.8%	0.402	1.0	regulation of biosynthetic process	Cc02g15550
+GO:0080090	1	20%	9.8%	0.404	1.0	regulation of primary metabolic process	Cc02g15550
+GO:0060255	1	20%	10%	0.42	1.0	regulation of macromolecule metabolic process	Cc02g15550
+GO:0019222	1	20%	10%	0.423	1.0	regulation of metabolic process	Cc02g15550
+GO:0050794	1	20%	13%	0.512	1.0	regulation of cellular process	Cc02g15550
+GO:0050789	1	20%	14%	0.527	1.0	regulation of biological process	Cc02g15550
+GO:0065007	1	20%	14%	0.538	1.0	biological regulation	Cc02g15550
+GO:0006468	1	20%	15%	0.556	1.0	protein phosphorylation	Cc01g03570
+GO:0009058	1	20%	15%	0.56	1.0	biosynthetic process	Cc06g14080
+GO:0016310	1	20%	15%	0.56	1.0	phosphorylation	Cc01g03570
+GO:0036211	1	20%	18%	0.628	1.0	protein modification process	Cc01g03570
+GO:0043412	1	20%	19%	0.652	1.0	macromolecule modification	Cc01g03570
+GO:0006796	1	20%	19%	0.661	1.0	phosphate-containing compound metabolic process	Cc01g03570
+GO:0006793	1	20%	19%	0.661	1.0	phosphorus metabolic process	Cc01g03570
+GO:0019538	1	20%	28%	0.805	1.0	protein metabolic process	Cc01g03570
+GO:0044238	2	40%	55%	0.867	1.0	primary metabolic process	Cc06g14080,Cc01g03570
+GO:0043170	1	20%	38%	0.909	1.0	macromolecule metabolic process	Cc01g03570
+GO:0008152	2	40%	62%	0.93	1.0	metabolic process	Cc06g14080,Cc01g03570
+GO:0009987	2	40%	85%	0.998	1.0	cellular process	Cc06g14080,Cc01g03570
+GO:0008150	5	100%	100%	1.0	1.0	biological_process	Cc06g18440,Cc06g18430,Cc06g14080,Cc02g15550,Cc01g03570

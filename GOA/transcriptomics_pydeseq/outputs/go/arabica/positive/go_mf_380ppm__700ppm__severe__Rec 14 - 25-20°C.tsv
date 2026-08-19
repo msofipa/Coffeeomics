@@ -1,0 +1,47 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0005542	1	7.7%	0.01%	1.77E-3	0.0816	folic acid binding	Cc05g06480
+GO:0072341	1	7.7%	0.05%	6.19E-3	0.142	modified amino acid binding	Cc05g06480
+GO:0008289	2	15%	0.93%	6.24E-3	0.142	lipid binding	Cc06g18440,Cc06g18430
+GO:0033218	1	7.7%	0.11%	0.0141	0.162	amide binding	Cc05g06480
+GO:0043177	1	7.7%	0.26%	0.0332	0.305	organic acid binding	Cc05g06480
+GO:0031406	1	7.7%	0.26%	0.0332	0.305	carboxylic acid binding	Cc05g06480
+GO:0016627	1	7.7%	0.35%	0.0443	0.305	oxidoreductase activity, acting on the CH-CH group of donors	Cc02g29800
+GO:0019842	1	7.7%	0.81%	0.0998	0.574	vitamin binding	Cc05g06480
+GO:0005488	11	85%	64%	0.1	0.574	binding	Cc06g18440,Cc08g16920,Cc06g18430,Cc06g14080,Cc05g06480,Cc11g17460,Cc01g19570,Cc02g15550,Cc01g06150,Cc01g03570,Cc01g14750
+GO:0043565	1	7.7%	1.3%	0.157	0.722	sequence-specific DNA binding	Cc02g15550
+GO:0005515	5	38%	23%	0.166	0.722	protein binding	Cc11g17460,Cc01g19570,Cc01g06150,Cc01g03570,Cc01g14750
+GO:0016491	3	23%	11%	0.167	0.722	oxidoreductase activity	Cc08g16920,Cc06g14080,Cc02g29800
+GO:0046983	1	7.7%	2.2%	0.254	0.9	protein dimerization activity	Cc01g19570
+GO:0046914	2	15%	7.6%	0.26	0.9	transition metal ion binding	Cc08g16920,Cc06g14080
+GO:0003700	1	7.7%	2.8%	0.306	0.939	DNA-binding transcription factor activity	Cc02g15550
+GO:0140110	1	7.7%	3.1%	0.333	0.957	transcription regulator activity	Cc02g15550
+GO:0008270	1	7.7%	3.1%	0.339	0.957	zinc ion binding	Cc08g16920
+GO:0016798	1	7.7%	3.2%	0.346	0.957	hydrolase activity, acting on glycosyl bonds	Cc05g08230
+GO:0005506	1	7.7%	3.6%	0.375	0.957	iron ion binding	Cc06g14080
+GO:0046872	2	15%	11%	0.447	1.0	metal ion binding	Cc08g16920,Cc06g14080
+GO:0043169	2	15%	12%	0.46	1.0	cation binding	Cc08g16920,Cc06g14080
+GO:0003677	1	7.7%	6.8%	0.597	1.0	DNA binding	Cc02g15550
+GO:0043167	4	31%	34%	0.686	1.0	ion binding	Cc08g16920,Cc06g14080,Cc05g06480,Cc01g03570
+GO:0004672	1	7.7%	8.6%	0.689	1.0	protein kinase activity	Cc01g03570
+GO:0016773	1	7.7%	9.2%	0.715	1.0	phosphotransferase activity, alcohol group as acceptor	Cc01g03570
+GO:0036094	4	31%	35%	0.718	1.0	small molecule binding	Cc08g16920,Cc06g14080,Cc05g06480,Cc01g03570
+GO:0016301	1	7.7%	9.5%	0.728	1.0	kinase activity	Cc01g03570
+GO:0016772	1	7.7%	11%	0.764	1.0	transferase activity, transferring phosphorus-containing groups	Cc01g03570
+GO:0003824	6	46%	52%	0.767	1.0	catalytic activity	Cc08g16920,Cc06g14080,Cc02g29800,Cc05g08230,Cc05g06480,Cc01g03570
+GO:0016740	2	15%	20%	0.768	1.0	transferase activity	Cc05g06480,Cc01g03570
+GO:0003676	1	7.7%	12%	0.819	1.0	nucleic acid binding	Cc02g15550
+GO:0043168	2	15%	23%	0.832	1.0	anion binding	Cc05g06480,Cc01g03570
+GO:1901363	2	15%	23%	0.843	1.0	heterocyclic compound binding	Cc05g06480,Cc01g03570
+GO:0005524	1	7.7%	14%	0.861	1.0	ATP binding	Cc01g03570
+GO:0140096	1	7.7%	15%	0.87	1.0	catalytic activity, acting on a protein	Cc01g03570
+GO:0016787	1	7.7%	15%	0.885	1.0	hydrolase activity	Cc05g08230
+GO:0035639	1	7.7%	16%	0.89	1.0	purine ribonucleoside triphosphate binding	Cc01g03570
+GO:0032559	1	7.7%	19%	0.935	1.0	adenyl ribonucleotide binding	Cc01g03570
+GO:0030554	1	7.7%	20%	0.941	1.0	adenyl nucleotide binding	Cc01g03570
+GO:0032555	1	7.7%	20%	0.949	1.0	purine ribonucleotide binding	Cc01g03570
+GO:0032553	1	7.7%	21%	0.951	1.0	ribonucleotide binding	Cc01g03570
+GO:0097367	1	7.7%	21%	0.952	1.0	carbohydrate derivative binding	Cc01g03570
+GO:0017076	1	7.7%	21%	0.955	1.0	purine nucleotide binding	Cc01g03570
+GO:0000166	1	7.7%	22%	0.964	1.0	nucleotide binding	Cc01g03570
+GO:1901265	1	7.7%	23%	0.964	1.0	nucleoside phosphate binding	Cc01g03570
+GO:0003674	13	100%	100%	1.0	1.0	molecular_function	Cc06g18440,Cc08g16920,Cc06g18430,Cc06g14080,Cc11g17460,Cc01g19570,Cc02g15550,Cc01g14750,Cc02g29800,Cc05g08230,Cc05g06480,Cc01g06150,Cc01g03570

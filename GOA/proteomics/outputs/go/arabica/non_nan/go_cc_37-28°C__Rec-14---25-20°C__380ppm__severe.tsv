@@ -1,0 +1,14 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0098796	3	75%	4.3%	2.95E-4	3.84E-3	membrane protein complex	Cc04g00160,Cc07g05350,Cc09g06610
+GO:0009538	1	25%	0.15%	5.88E-3	0.0382	photosystem I reaction center	Cc09g06610
+GO:0033180	1	25%	0.15%	5.88E-3	0.0382	proton-transporting V-type ATPase, V1 domain	Cc04g00160
+GO:0033178	1	25%	0.18%	7.05E-3	0.0382	proton-transporting two-sector ATPase complex, catalytic domain	Cc04g00160
+GO:0009522	1	25%	0.24%	9.39E-3	0.0382	photosystem I	Cc09g06610
+GO:0009654	1	25%	0.53%	0.021	0.0456	photosystem II oxygen evolving complex	Cc07g05350
+GO:1990204	1	25%	0.77%	0.0303	0.0562	oxidoreductase complex	Cc07g05350
+GO:0009521	1	25%	0.91%	0.036	0.0585	photosystem	Cc09g06610
+GO:0032991	3	75%	26%	0.0572	0.0826	protein-containing complex	Cc04g00160,Cc07g05350,Cc09g06610
+GO:1902494	1	25%	7.9%	0.28	0.364	catalytic complex	Cc07g05350
+GO:0016020	1	25%	47%	0.918	1.0	membrane	Cc06g01460
+GO:0110165	1	25%	79%	0.998	1.0	cellular anatomical structure	Cc06g01460
+GO:0005575	4	100%	100%	1.0	1.0	cellular_component	Cc04g00160,Cc07g05350,Cc06g01460,Cc09g06610

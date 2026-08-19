@@ -1,0 +1,27 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0006749	3	43%	0.98%	3.11E-5	8.1E-4	glutathione metabolic process	Cc05g10110,Cc11g13710,Cc03g14520
+GO:0006575	3	43%	1.3%	6.4E-5	8.32E-4	modified amino acid metabolic process	Cc05g10110,Cc11g13710,Cc03g14520
+GO:0043603	3	43%	1.3%	7.38E-5	8.32E-4	amide metabolic process	Cc05g10110,Cc11g13710,Cc03g14520
+GO:0006790	3	43%	1.7%	1.47E-4	9.53E-4	sulfur compound metabolic process	Cc05g10110,Cc11g13710,Cc03g14520
+GO:0006829	1	14%	0.13%	9.31E-3	0.0484	zinc ion transport	Cc08g10620
+GO:0071577	1	14%	0.13%	9.31E-3	0.0484	zinc ion transmembrane transport	Cc08g10620
+GO:0000041	1	14%	0.27%	0.0185	0.0689	transition metal ion transport	Cc08g10620
+GO:0098655	1	14%	1.1%	0.074	0.241	monoatomic cation transmembrane transport	Cc08g10620
+GO:0034220	1	14%	1.2%	0.0796	0.241	monoatomic ion transmembrane transport	Cc08g10620
+GO:0030001	1	14%	1.5%	0.0984	0.256	metal ion transport	Cc08g10620
+GO:0006812	1	14%	2.4%	0.157	0.37	monoatomic cation transport	Cc08g10620
+GO:0006520	1	14%	2.6%	0.168	0.37	amino acid metabolic process	Cc05g07610
+GO:0006811	1	14%	2.8%	0.178	0.37	monoatomic ion transport	Cc08g10620
+GO:0008152	6	86%	62%	0.193	0.37	metabolic process	Cc05g10110,Cc11g13710,Cc07g12510,Cc03g14520,Cc05g00760,Cc05g07610
+GO:0009987	7	100%	85%	0.32	0.555	cellular process	Cc05g10110,Cc11g13710,Cc08g10620,Cc07g12510,Cc03g14520,Cc05g00760,Cc05g07610
+GO:0006508	1	14%	6.0%	0.351	0.57	proteolysis	Cc07g12510
+GO:0005975	1	14%	8.4%	0.459	0.702	carbohydrate metabolic process	Cc05g00760
+GO:0055085	1	14%	9.5%	0.501	0.724	transmembrane transport	Cc08g10620
+GO:0006810	1	14%	15%	0.671	0.918	transport	Cc08g10620
+GO:0051234	1	14%	15%	0.681	0.918	establishment of localization	Cc08g10620
+GO:0009058	1	14%	15%	0.683	0.918	biosynthetic process	Cc05g07610
+GO:0051179	1	14%	15%	0.684	0.918	localization	Cc08g10620
+GO:0044238	3	43%	55%	0.845	0.955	primary metabolic process	Cc07g12510,Cc05g00760,Cc05g07610
+GO:0019538	1	14%	28%	0.899	0.974	protein metabolic process	Cc07g12510
+GO:0043170	1	14%	38%	0.965	1.0	macromolecule metabolic process	Cc07g12510
+GO:0008150	7	100%	100%	1.0	1.0	biological_process	Cc05g10110,Cc11g13710,Cc08g10620,Cc07g12510,Cc03g14520,Cc05g00760,Cc05g07610

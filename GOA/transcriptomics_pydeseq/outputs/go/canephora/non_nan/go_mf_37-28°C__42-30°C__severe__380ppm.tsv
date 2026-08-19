@@ -1,0 +1,23 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0046527	2	50%	0.63%	2.32E-4	5.1E-3	glucosyltransferase activity	Cc02g15480,Cc05g05510
+GO:0016758	2	50%	1.2%	9.15E-4	0.0101	hexosyltransferase activity	Cc02g15480,Cc05g05510
+GO:0004553	2	50%	3.1%	5.42E-3	0.0397	hydrolase activity, hydrolyzing O-glycosyl compounds	Cc03g01070,Cc05g05510
+GO:0016798	2	50%	3.2%	5.9E-3	0.0397	hydrolase activity, acting on glycosyl bonds	Cc03g01070,Cc05g05510
+GO:0016762	1	25%	0.2%	7.89E-3	0.0397	xyloglucan:xyloglucosyl transferase activity	Cc05g05510
+GO:0016757	2	50%	3.9%	8.63E-3	0.0397	glycosyltransferase activity	Cc02g15480,Cc05g05510
+GO:0016759	1	25%	0.22%	8.71E-3	0.0397	cellulose synthase activity	Cc02g15480
+GO:0016760	1	25%	0.22%	8.71E-3	0.0397	cellulose synthase (UDP-forming) activity	Cc02g15480
+GO:0004866	1	25%	0.29%	0.0114	0.0397	endopeptidase inhibitor activity	Cc02g29530
+GO:0030414	1	25%	0.29%	0.0114	0.0397	peptidase inhibitor activity	Cc02g29530
+GO:0061135	1	25%	0.29%	0.0114	0.0397	endopeptidase regulator activity	Cc02g29530
+GO:0061134	1	25%	0.29%	0.0117	0.0397	peptidase regulator activity	Cc02g29530
+GO:0035251	1	25%	0.41%	0.0163	0.0397	UDP-glucosyltransferase activity	Cc02g15480
+GO:0004857	1	25%	0.91%	0.0358	0.0563	enzyme inhibitor activity	Cc02g29530
+GO:0140678	1	25%	0.91%	0.0358	0.0563	molecular function inhibitor activity	Cc02g29530
+GO:0030234	1	25%	1.5%	0.0592	0.0815	enzyme regulator activity	Cc02g29530
+GO:0098772	1	25%	1.7%	0.0673	0.0871	molecular function regulator activity	Cc02g29530
+GO:0008194	1	25%	2.2%	0.0858	0.105	UDP-glycosyltransferase activity	Cc02g15480
+GO:0016787	2	50%	15%	0.114	0.132	hydrolase activity	Cc03g01070,Cc05g05510
+GO:0016740	2	50%	20%	0.182	0.2	transferase activity	Cc02g15480,Cc05g05510
+GO:0003824	3	75%	52%	0.349	0.366	catalytic activity	Cc03g01070,Cc02g15480,Cc05g05510
+GO:0003674	4	100%	100%	1.0	1.0	molecular_function	Cc03g01070,Cc02g29530,Cc02g15480,Cc05g05510

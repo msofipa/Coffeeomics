@@ -1,0 +1,8 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0005618	1	50%	0.82%	0.0164	0.115	cell wall	Cc06g13410
+GO:0030312	1	50%	0.91%	0.0182	0.115	external encapsulating structure	Cc06g13410
+GO:0048046	1	50%	1.6%	0.0327	0.115	apoplast	Cc06g13410
+GO:0005576	1	50%	3.0%	0.0586	0.115	extracellular region	Cc06g13410
+GO:0110165	2	100%	79%	0.621	0.869	cellular anatomical structure	Cc06g13410,Cc10g14810
+GO:0016020	1	50%	47%	0.714	0.869	membrane	Cc10g14810
+GO:0005575	2	100%	100%	1.0	1.0	cellular_component	Cc06g13410,Cc10g14810

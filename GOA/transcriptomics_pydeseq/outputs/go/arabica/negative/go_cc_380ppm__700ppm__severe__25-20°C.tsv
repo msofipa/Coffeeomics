@@ -1,0 +1,8 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0030286	1	50%	0.24%	4.71E-3	0.0329	dynein complex	Cc04g03100
+GO:0005875	1	50%	0.41%	8.23E-3	0.0329	microtubule associated complex	Cc04g03100
+GO:1902494	1	50%	7.9%	0.152	0.354	catalytic complex	Cc04g03100
+GO:0032991	1	50%	26%	0.454	0.795	protein-containing complex	Cc04g03100
+GO:0016020	1	50%	47%	0.714	1.0	membrane	Cc05g04780
+GO:0110165	1	50%	79%	0.955	1.0	cellular anatomical structure	Cc05g04780
+GO:0005575	2	100%	100%	1.0	1.0	cellular_component	Cc04g03100,Cc05g04780

@@ -1,0 +1,7 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0009058	3	100%	15%	3.46E-3	0.0208	biosynthetic process	Cc01g19670,Cc01g19310,Cc05g07600
+GO:0006520	1	33%	2.6%	0.0759	0.228	amino acid metabolic process	Cc05g07600
+GO:0008152	3	100%	62%	0.243	0.487	metabolic process	Cc01g19670,Cc01g19310,Cc05g07600
+GO:0009987	3	100%	85%	0.614	0.921	cellular process	Cc01g19670,Cc01g19310,Cc05g07600
+GO:0044238	1	33%	55%	0.908	1.0	primary metabolic process	Cc05g07600
+GO:0008150	3	100%	100%	1.0	1.0	biological_process	Cc01g19670,Cc01g19310,Cc05g07600

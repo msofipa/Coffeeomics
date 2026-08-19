@@ -1,0 +1,354 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0015979	15	10%	0.46%	3.11E-17	1.1E-14	photosynthesis	Cc03g03590,Cc01g17500,Cc06g22740,Cc10g12590,Cc01g18800,Cc05g00840,Cc02g11770,Cc09g08490,Cc11g16230,Cc05g15930,Cc08g01300,Cc05g06070,Cc06g11950,Cc09g06610,Cc04g16560
+GO:0009765	10	6.8%	0.24%	3.81E-13	6.72E-11	photosynthesis, light harvesting	Cc04g16410,Cc11g16910,Cc09g09010,Cc09g02010,Cc10g16210,Cc09g09020,Cc02g21720,Cc06g01460,Cc05g12720,Cc05g09930
+GO:0006091	12	8.2%	1.3%	5.2E-7	6.12E-5	generation of precursor metabolites and energy	Cc04g16410,Cc02g16950,Cc11g16910,Cc09g09010,Cc09g02010,Cc10g16210,Cc09g09020,Cc02g21720,Cc06g01460,Cc03g03330,Cc05g12720,Cc05g09930
+GO:0006457	11	7.5%	1.1%	5.58E-7	6.12E-5	protein folding	Cc02g13840,Cc02g25610,Cc01g05820,Cc10g11150,Cc06g12530,Cc01g10720,Cc02g02350,Cc07g04080,Cc10g01540,Cc09g03930,Cc01g07750
+GO:0015995	3	2.0%	0.1%	2.92E-4	0.0206	chlorophyll biosynthetic process	Cc06g22740,Cc06g17100,Cc04g16560
+GO:0015994	3	2.0%	0.16%	1.4E-3	0.0821	chlorophyll metabolic process	Cc06g22740,Cc06g17100,Cc04g16560
+GO:0006779	3	2.0%	0.32%	0.0107	0.54	porphyrin-containing compound biosynthetic process	Cc06g22740,Cc06g17100,Cc04g16560
+GO:0042026	2	1.4%	0.12%	0.013	0.571	protein refolding	Cc01g10720,Cc07g04080
+GO:0046148	3	2.0%	0.35%	0.0145	0.571	pigment biosynthetic process	Cc06g22740,Cc06g17100,Cc04g16560
+GO:0009116	3	2.0%	0.35%	0.0145	0.571	nucleoside metabolic process	Cc08g09250,Cc10g06450,Cc02g10400
+GO:0032259	4	2.7%	0.68%	0.0174	0.571	methylation	Cc01g20900,Cc08g11070,Cc06g02140,Cc06g10050
+GO:1901668	1	0.68%	0.01%	0.0178	0.571	regulation of superoxide dismutase activity	Cc06g12530
+GO:1901671	1	0.68%	0.01%	0.0178	0.571	positive regulation of superoxide dismutase activity	Cc06g12530
+GO:0072598	1	0.68%	0.01%	0.0178	0.571	protein localization to chloroplast	Cc10g12130
+GO:0051341	1	0.68%	0.01%	0.0178	0.571	regulation of oxidoreductase activity	Cc06g12530
+GO:0051353	1	0.68%	0.01%	0.0178	0.571	positive regulation of oxidoreductase activity	Cc06g12530
+GO:0006004	1	0.68%	0.01%	0.0178	0.571	fucose metabolic process	Cc02g03720
+GO:0072657	1	0.68%	0.01%	0.0178	0.571	protein localization to membrane	Cc10g12130
+GO:0045038	1	0.68%	0.01%	0.0178	0.571	protein import into chloroplast thylakoid membrane	Cc10g12130
+GO:0065002	1	0.68%	0.01%	0.0178	0.571	intracellular protein transmembrane transport	Cc10g12130
+GO:0044743	1	0.68%	0.01%	0.0178	0.571	protein transmembrane import into intracellular organelle	Cc10g12130
+GO:0033014	3	2.0%	0.4%	0.0205	0.571	tetrapyrrole biosynthetic process	Cc06g22740,Cc06g17100,Cc04g16560
+GO:0006778	3	2.0%	0.4%	0.0205	0.571	porphyrin-containing compound metabolic process	Cc06g22740,Cc06g17100,Cc04g16560
+GO:0042440	3	2.0%	0.44%	0.0258	0.571	pigment metabolic process	Cc06g22740,Cc06g17100,Cc04g16560
+GO:0006284	2	1.4%	0.18%	0.0285	0.571	base-excision repair	Cc06g15700,Cc09g04660
+GO:0019318	3	2.0%	0.47%	0.0318	0.571	hexose metabolic process	Cc09g07970,Cc02g03720,Cc10g00410
+GO:0006816	2	1.4%	0.19%	0.0322	0.571	calcium ion transport	Cc01g14170,Cc07g07030
+GO:0006040	2	1.4%	0.19%	0.0322	0.571	amino sugar metabolic process	Cc03g11090,Cc08g05740
+GO:0033013	3	2.0%	0.49%	0.034	0.571	tetrapyrrole metabolic process	Cc06g22740,Cc06g17100,Cc04g16560
+GO:0005996	3	2.0%	0.52%	0.0409	0.571	monosaccharide metabolic process	Cc09g07970,Cc02g03720,Cc10g00410
+GO:0008152	102	69%	62%	0.0461	0.571	metabolic process	Cc10g10160,Cc11g16910,Cc09g04660,Cc03g07260,Cc01g05180,Cc01g10530,Cc11g16230,Cc07g08840,Cc01g16990,Cc06g17100,Cc02g10180,Cc05g06070,Cc10g06450,Cc03g03590,Cc10g12590,Cc02g27290,Cc08g16840,Cc02g16950,Cc04g05440,Cc04g05320,Cc01g20900,Cc07g14790,Cc09g09020,Cc03g11090,Cc09g01700,Cc01g17500,Cc02g13830,Cc02g10200,Cc02g11770,Cc06g12230,Cc01g16370,Cc04g06440,Cc06g10050,Cc05g15930,Cc07g06750,Cc07g14820,Cc05g00840,Cc09g02010,Cc03g10700,Cc10g16210,Cc06g11030,Cc02g21720,Cc02g25800,Cc03g03330,Cc03g02760,Cc03g06960,Cc05g04080,Cc01g11930,Cc06g11950,Cc07g12510,Cc09g06610,Cc05g09930,Cc08g11220,Cc09g07970,Cc08g12710,Cc03g02730,Cc08g05740,Cc07g07950,Cc08g01300,Cc02g03720,Cc10g04590,Cc07g10200,Cc06g22740,Cc01g17930,Cc09g08490,Cc11g11410,Cc05g12720,Cc08g02120,Cc02g17170,Cc04g16410,Cc11g10600,Cc06g10640,Cc08g00620,Cc09g06910,Cc06g01460,Cc08g11070,Cc05g05510,Cc08g15670,Cc06g19980,Cc11g08590,Cc09g09010,Cc07g07530,Cc11g14470,Cc06g15700,Cc10g09980,Cc01g16060,Cc02g29650,Cc10g00410,Cc02g10400,Cc10g04610,Cc04g16560,Cc06g02140,Cc01g18800,Cc08g09250,Cc06g18940,Cc07g09780,Cc02g06410,Cc02g15480,Cc11g01200,Cc02g26410,Cc05g08480,Cc08g02620
+GO:0044042	4	2.7%	0.95%	0.0503	0.571	glucan metabolic process	Cc01g17930,Cc03g03330,Cc02g15480,Cc05g05510
+GO:0042451	1	0.68%	0.04%	0.0526	0.571	purine nucleoside biosynthetic process	Cc10g06450
+GO:1901659	1	0.68%	0.04%	0.0526	0.571	glycosyl compound biosynthetic process	Cc10g06450
+GO:0034404	1	0.68%	0.04%	0.0526	0.571	nucleobase-containing small molecule biosynthetic process	Cc10g06450
+GO:1903963	1	0.68%	0.04%	0.0526	0.571	arachidonate transport	Cc06g11030
+GO:0046129	1	0.68%	0.04%	0.0526	0.571	purine ribonucleoside biosynthetic process	Cc10g06450
+GO:0009119	1	0.68%	0.04%	0.0526	0.571	ribonucleoside metabolic process	Cc10g06450
+GO:0015909	1	0.68%	0.04%	0.0526	0.571	long-chain fatty acid transport	Cc06g11030
+GO:0015908	1	0.68%	0.04%	0.0526	0.571	fatty acid transport	Cc06g11030
+GO:0015976	1	0.68%	0.04%	0.0526	0.571	carbon utilization	Cc11g14720
+GO:0042278	1	0.68%	0.04%	0.0526	0.571	purine nucleoside metabolic process	Cc10g06450
+GO:0032309	1	0.68%	0.04%	0.0526	0.571	icosanoid secretion	Cc06g11030
+GO:0006047	1	0.68%	0.04%	0.0526	0.571	UDP-N-acetylglucosamine metabolic process	Cc03g11090
+GO:0006048	1	0.68%	0.04%	0.0526	0.571	UDP-N-acetylglucosamine biosynthetic process	Cc03g11090
+GO:0050482	1	0.68%	0.04%	0.0526	0.571	arachidonate secretion	Cc06g11030
+GO:0071715	1	0.68%	0.04%	0.0526	0.571	icosanoid transport	Cc06g11030
+GO:0009163	1	0.68%	0.04%	0.0526	0.571	nucleoside biosynthetic process	Cc10g06450
+GO:0042753	1	0.68%	0.04%	0.0526	0.571	positive regulation of circadian rhythm	Cc01g14200
+GO:0046128	1	0.68%	0.04%	0.0526	0.571	purine ribonucleoside metabolic process	Cc10g06450
+GO:0043174	1	0.68%	0.04%	0.0526	0.571	nucleoside salvage	Cc10g06450
+GO:0006166	1	0.68%	0.04%	0.0526	0.571	purine ribonucleoside salvage	Cc10g06450
+GO:0042455	1	0.68%	0.04%	0.0526	0.571	ribonucleoside biosynthetic process	Cc10g06450
+GO:0010207	1	0.68%	0.05%	0.0695	0.571	photosystem II assembly	Cc05g06070
+GO:0017038	1	0.68%	0.05%	0.0695	0.571	protein import	Cc10g12130
+GO:0030091	1	0.68%	0.05%	0.0695	0.571	protein repair	Cc03g02760
+GO:0046349	1	0.68%	0.05%	0.0695	0.571	amino sugar biosynthetic process	Cc03g11090
+GO:0042752	1	0.68%	0.05%	0.0695	0.571	regulation of circadian rhythm	Cc01g14200
+GO:0009250	3	2.0%	0.66%	0.0714	0.571	glucan biosynthetic process	Cc01g17930,Cc03g03330,Cc02g15480
+GO:0006952	4	2.7%	1.1%	0.0768	0.571	defense response	Cc03g01290,Cc11g08370,Cc01g11400,Cc01g16150
+GO:0016051	4	2.7%	1.1%	0.0792	0.571	carbohydrate biosynthetic process	Cc01g17930,Cc11g14470,Cc03g03330,Cc02g15480
+GO:0072596	1	0.68%	0.06%	0.0861	0.571	establishment of protein localization to chloroplast	Cc10g12130
+GO:0006013	1	0.68%	0.06%	0.0861	0.571	mannose metabolic process	Cc09g07970
+GO:0008356	1	0.68%	0.06%	0.0861	0.571	asymmetric cell division	Cc11g11950
+GO:0050896	13	8.8%	5.8%	0.0876	0.571	response to stimulus	Cc03g01290,Cc11g08370,Cc11g14720,Cc10g12130,Cc09g04660,Cc01g11400,Cc01g16150,Cc03g02760,Cc09g01700,Cc06g15700,Cc05g08480,Cc07g04080,Cc10g01860
+GO:0019264	1	0.68%	0.07%	0.102	0.571	glycine biosynthetic process from serine	Cc07g07950
+GO:0006545	1	0.68%	0.07%	0.102	0.571	glycine biosynthetic process	Cc07g07950
+GO:0015718	1	0.68%	0.07%	0.102	0.571	monocarboxylic acid transport	Cc06g11030
+GO:0035999	1	0.68%	0.07%	0.102	0.571	tetrahydrofolate interconversion	Cc07g07950
+GO:0009408	1	0.68%	0.07%	0.102	0.571	response to heat	Cc07g04080
+GO:0005976	4	2.7%	1.2%	0.109	0.571	polysaccharide metabolic process	Cc01g17930,Cc03g03330,Cc02g15480,Cc05g05510
+GO:0000271	3	2.0%	0.79%	0.11	0.571	polysaccharide biosynthetic process	Cc01g17930,Cc03g03330,Cc02g15480
+GO:0044281	14	9.5%	6.7%	0.118	0.571	small molecule metabolic process	Cc09g07970,Cc08g09250,Cc02g16950,Cc08g12710,Cc02g06410,Cc03g02730,Cc07g08840,Cc07g07950,Cc03g11090,Cc02g03720,Cc10g06450,Cc10g00410,Cc02g10400,Cc07g14820
+GO:0006950	10	6.8%	4.4%	0.118	0.571	response to stress	Cc03g01290,Cc09g01700,Cc11g08370,Cc06g15700,Cc09g04660,Cc05g08480,Cc01g11400,Cc01g16150,Cc07g04080,Cc03g02760
+GO:0009226	1	0.68%	0.08%	0.118	0.571	nucleotide-sugar biosynthetic process	Cc03g11090
+GO:0006730	1	0.68%	0.08%	0.118	0.571	one-carbon metabolic process	Cc07g07950
+GO:0030243	2	1.4%	0.42%	0.129	0.589	cellulose metabolic process	Cc01g17930,Cc02g15480
+GO:0030244	2	1.4%	0.42%	0.129	0.589	cellulose biosynthetic process	Cc01g17930,Cc02g15480
+GO:0009266	1	0.68%	0.1%	0.134	0.6	response to temperature stimulus	Cc07g04080
+GO:0006112	1	0.68%	0.1%	0.134	0.6	energy reserve metabolic process	Cc03g03330
+GO:0005977	1	0.68%	0.1%	0.134	0.6	glycogen metabolic process	Cc03g03330
+GO:0005978	1	0.68%	0.1%	0.134	0.6	glycogen biosynthetic process	Cc03g03330
+GO:0043101	1	0.68%	0.11%	0.15	0.636	purine-containing compound salvage	Cc10g06450
+GO:0046653	1	0.68%	0.11%	0.15	0.636	tetrahydrofolate metabolic process	Cc07g07950
+GO:0071806	1	0.68%	0.11%	0.15	0.636	protein transmembrane transport	Cc10g12130
+GO:0031667	1	0.68%	0.11%	0.15	0.636	response to nutrient levels	Cc11g14720
+GO:0071586	1	0.68%	0.11%	0.15	0.636	CAAX-box protein processing	Cc08g02620
+GO:0016104	1	0.68%	0.12%	0.165	0.661	triterpenoid biosynthetic process	Cc10g10160
+GO:0006544	1	0.68%	0.12%	0.165	0.661	glycine metabolic process	Cc07g07950
+GO:0009627	1	0.68%	0.12%	0.165	0.661	systemic acquired resistance	Cc01g16150
+GO:0006722	1	0.68%	0.12%	0.165	0.661	triterpenoid metabolic process	Cc10g10160
+GO:0050790	2	1.4%	0.5%	0.166	0.661	regulation of catalytic activity	Cc06g12530,Cc05g05150
+GO:0006508	12	8.2%	6.0%	0.169	0.661	proteolysis	Cc05g04080,Cc11g01200,Cc07g06750,Cc10g04590,Cc04g05320,Cc01g16060,Cc08g02620,Cc06g12230,Cc07g12510,Cc02g29650,Cc07g07530,Cc10g04610
+GO:0005975	16	11%	8.4%	0.17	0.661	carbohydrate metabolic process	Cc09g07970,Cc02g27290,Cc01g17930,Cc08g16840,Cc02g13830,Cc02g16950,Cc08g12710,Cc11g14470,Cc03g03330,Cc02g15480,Cc02g17170,Cc02g03720,Cc06g10640,Cc07g10200,Cc10g00410,Cc05g05510
+GO:0065009	2	1.4%	0.51%	0.172	0.661	regulation of molecular function	Cc06g12530,Cc05g05150
+GO:0009225	1	0.68%	0.13%	0.18	0.661	nucleotide-sugar metabolic process	Cc03g11090
+GO:0098542	1	0.68%	0.13%	0.18	0.661	defense response to other organism	Cc01g16150
+GO:0070588	1	0.68%	0.13%	0.18	0.661	calcium ion transmembrane transport	Cc07g07030
+GO:0140546	1	0.68%	0.13%	0.18	0.661	defense response to symbiont	Cc01g16150
+GO:0051274	2	1.4%	0.55%	0.191	0.675	beta-glucan biosynthetic process	Cc01g17930,Cc02g15480
+GO:0051273	2	1.4%	0.55%	0.191	0.675	beta-glucan metabolic process	Cc01g17930,Cc02g15480
+GO:0046348	1	0.68%	0.15%	0.194	0.675	amino sugar catabolic process	Cc08g05740
+GO:1901072	1	0.68%	0.15%	0.194	0.675	glucosamine-containing compound catabolic process	Cc08g05740
+GO:0006568	1	0.68%	0.15%	0.194	0.675	L-tryptophan metabolic process	Cc02g06410
+GO:0006022	1	0.68%	0.15%	0.194	0.675	aminoglycan metabolic process	Cc08g05740
+GO:0006026	1	0.68%	0.15%	0.194	0.675	aminoglycan catabolic process	Cc08g05740
+GO:0006030	1	0.68%	0.15%	0.194	0.675	chitin metabolic process	Cc08g05740
+GO:0006032	1	0.68%	0.15%	0.194	0.675	chitin catabolic process	Cc08g05740
+GO:0015980	1	0.68%	0.15%	0.194	0.675	energy derivation by oxidation of organic compounds	Cc03g03330
+GO:0016998	1	0.68%	0.15%	0.194	0.675	cell wall macromolecule catabolic process	Cc08g05740
+GO:0042430	1	0.68%	0.15%	0.194	0.675	indole-containing compound metabolic process	Cc02g06410
+GO:0009987	129	88%	85%	0.206	0.675	cellular process	Cc10g10160,Cc11g16910,Cc09g04660,Cc01g14170,Cc03g07260,Cc01g05180,Cc01g10530,Cc11g16230,Cc07g08840,Cc01g16990,Cc06g17100,Cc02g10180,Cc05g06070,Cc10g06450,Cc07g12300,Cc01g09770,Cc01g07750,Cc02g13840,Cc03g01290,Cc03g03590,Cc10g12590,Cc02g27290,Cc08g16840,Cc02g16950,Cc04g05440,Cc10g14530,Cc04g05320,Cc01g20900,Cc07g14790,Cc09g09020,Cc11g13590,Cc03g11090,Cc09g01700,Cc07g04080,Cc01g17500,Cc02g13830,Cc10g11150,Cc02g10200,Cc09g03470,Cc02g11770,Cc06g12230,Cc01g16370,Cc04g06440,Cc06g10050,Cc05g15930,Cc04g14980,Cc07g06750,Cc10g01540,Cc07g14820,Cc05g00840,Cc10g12130,Cc09g02010,Cc03g10700,Cc10g16210,Cc06g11030,Cc11g11950,Cc02g21720,Cc02g25800,Cc03g03330,Cc03g02760,Cc03g06960,Cc05g04080,Cc01g05820,Cc01g10720,Cc01g11930,Cc06g11950,Cc07g12510,Cc09g06610,Cc05g09930,Cc08g11220,Cc09g07970,Cc11g14930,Cc08g12710,Cc03g02730,Cc08g05740,Cc05g14860,Cc07g07950,Cc08g01300,Cc02g03720,Cc10g04590,Cc04g12980,Cc06g12530,Cc02g02350,Cc07g10200,Cc09g03930,Cc06g22740,Cc01g17930,Cc09g08490,Cc11g11410,Cc05g12720,Cc08g02120,Cc02g17170,Cc04g16410,Cc11g10600,Cc06g10640,Cc08g00620,Cc09g06910,Cc07g07030,Cc06g01460,Cc08g11070,Cc05g05510,Cc08g15670,Cc06g19980,Cc11g08590,Cc09g09010,Cc07g07530,Cc10g08020,Cc11g14470,Cc02g25610,Cc06g15700,Cc10g09980,Cc01g16060,Cc02g29650,Cc10g00410,Cc02g10400,Cc10g04610,Cc04g16560,Cc06g02140,Cc01g18800,Cc08g09250,Cc09g07580,Cc06g18940,Cc07g09780,Cc02g06410,Cc02g15480,Cc11g01200,Cc02g26410,Cc05g08480,Cc08g02620
+GO:0007264	1	0.68%	0.16%	0.209	0.675	small GTPase-mediated signal transduction	Cc04g12980
+GO:0071900	1	0.68%	0.16%	0.209	0.675	regulation of protein serine/threonine kinase activity	Cc05g05150
+GO:0005992	1	0.68%	0.16%	0.209	0.675	trehalose biosynthetic process	Cc11g14470
+GO:0000079	1	0.68%	0.16%	0.209	0.675	regulation of cyclin-dependent protein serine/threonine kinase activity	Cc05g05150
+GO:0006869	2	1.4%	0.58%	0.211	0.675	lipid transport	Cc06g11030,Cc11g09700
+GO:1901135	6	4.1%	2.7%	0.216	0.675	carbohydrate derivative metabolic process	Cc03g11090,Cc08g09250,Cc10g06450,Cc02g16950,Cc08g05740,Cc02g10400
+GO:0141124	1	0.68%	0.17%	0.223	0.675	intracellular signaling cassette	Cc04g12980
+GO:0046942	1	0.68%	0.17%	0.223	0.675	carboxylic acid transport	Cc06g11030
+GO:0015849	1	0.68%	0.17%	0.223	0.675	organic acid transport	Cc06g11030
+GO:0005991	1	0.68%	0.17%	0.223	0.675	trehalose metabolic process	Cc11g14470
+GO:0051301	1	0.68%	0.17%	0.223	0.675	cell division	Cc11g11950
+GO:0009072	2	1.4%	0.61%	0.224	0.675	aromatic amino acid metabolic process	Cc02g06410,Cc07g14820
+GO:0009664	1	0.68%	0.18%	0.237	0.675	plant-type cell wall organization	Cc10g14530
+GO:0015833	1	0.68%	0.18%	0.237	0.675	peptide transport	Cc11g14930
+GO:0046839	1	0.68%	0.18%	0.237	0.675	phospholipid dephosphorylation	Cc08g02120
+GO:0046856	1	0.68%	0.18%	0.237	0.675	phosphatidylinositol dephosphorylation	Cc08g02120
+GO:0006857	1	0.68%	0.18%	0.237	0.675	oligopeptide transport	Cc11g14930
+GO:0006090	2	1.4%	0.63%	0.237	0.675	pyruvate metabolic process	Cc02g16950,Cc03g02730
+GO:0009628	2	1.4%	0.64%	0.244	0.675	response to abiotic stimulus	Cc10g12130,Cc07g04080
+GO:0016042	1	0.68%	0.19%	0.25	0.675	lipid catabolic process	Cc06g11030
+GO:0042886	1	0.68%	0.19%	0.25	0.675	amide transport	Cc11g14930
+GO:0043094	1	0.68%	0.19%	0.25	0.675	metabolic compound salvage	Cc10g06450
+GO:0019752	7	4.8%	3.5%	0.255	0.675	carboxylic acid metabolic process	Cc02g16950,Cc08g12710,Cc02g06410,Cc03g02730,Cc07g08840,Cc07g07950,Cc07g14820
+GO:0006082	7	4.8%	3.5%	0.26	0.675	organic acid metabolic process	Cc02g16950,Cc08g12710,Cc02g06410,Cc03g02730,Cc07g08840,Cc07g07950,Cc07g14820
+GO:0043436	7	4.8%	3.5%	0.26	0.675	oxoacid metabolic process	Cc02g16950,Cc08g12710,Cc02g06410,Cc03g02730,Cc07g08840,Cc07g07950,Cc07g14820
+GO:0006629	9	6.1%	4.7%	0.261	0.675	lipid metabolic process	Cc05g04080,Cc10g10160,Cc04g05440,Cc01g05180,Cc06g11030,Cc07g08840,Cc02g25800,Cc08g02120,Cc03g06960
+GO:0043207	1	0.68%	0.22%	0.277	0.703	response to external biotic stimulus	Cc01g16150
+GO:0046351	1	0.68%	0.22%	0.277	0.703	disaccharide biosynthetic process	Cc11g14470
+GO:0006760	1	0.68%	0.22%	0.277	0.703	folic acid-containing compound metabolic process	Cc07g07950
+GO:0043085	1	0.68%	0.22%	0.277	0.703	positive regulation of catalytic activity	Cc06g12530
+GO:0051707	1	0.68%	0.22%	0.277	0.703	response to other organism	Cc01g16150
+GO:0006575	3	2.0%	1.3%	0.279	0.703	modified amino acid metabolic process	Cc10g09980,Cc02g26410,Cc07g07950
+GO:0006979	3	2.0%	1.3%	0.288	0.703	response to oxidative stress	Cc09g01700,Cc05g08480,Cc03g02760
+GO:0001932	1	0.68%	0.23%	0.29	0.703	regulation of protein phosphorylation	Cc05g05150
+GO:0044419	1	0.68%	0.23%	0.29	0.703	biological process involved in interspecies interaction between organisms	Cc01g16150
+GO:0006563	1	0.68%	0.23%	0.29	0.703	L-serine metabolic process	Cc07g07950
+GO:0045859	1	0.68%	0.23%	0.29	0.703	regulation of protein kinase activity	Cc05g05150
+GO:0009070	1	0.68%	0.23%	0.29	0.703	serine family amino acid biosynthetic process	Cc07g07950
+GO:0044093	1	0.68%	0.23%	0.29	0.703	positive regulation of molecular function	Cc06g12530
+GO:0009312	1	0.68%	0.23%	0.29	0.703	oligosaccharide biosynthetic process	Cc11g14470
+GO:0042558	1	0.68%	0.24%	0.303	0.703	pteridine-containing compound metabolic process	Cc07g07950
+GO:0006006	1	0.68%	0.24%	0.303	0.703	glucose metabolic process	Cc10g00410
+GO:0042325	1	0.68%	0.24%	0.303	0.703	regulation of phosphorylation	Cc05g05150
+GO:0009738	1	0.68%	0.24%	0.303	0.703	abscisic acid-activated signaling pathway	Cc03g01290
+GO:0043549	1	0.68%	0.24%	0.303	0.703	regulation of kinase activity	Cc05g05150
+GO:0071669	1	0.68%	0.24%	0.303	0.703	plant-type cell wall organization or biogenesis	Cc10g14530
+GO:0030258	1	0.68%	0.24%	0.303	0.703	lipid modification	Cc08g02120
+GO:0009607	1	0.68%	0.24%	0.303	0.703	response to biotic stimulus	Cc01g16150
+GO:0051174	1	0.68%	0.25%	0.315	0.703	regulation of phosphorus metabolic process	Cc05g05150
+GO:0055086	5	3.4%	2.5%	0.321	0.703	nucleobase-containing small molecule metabolic process	Cc03g11090,Cc08g09250,Cc10g06450,Cc02g16950,Cc02g10400
+GO:0042744	2	1.4%	0.79%	0.323	0.703	hydrogen peroxide catabolic process	Cc09g01700,Cc05g08480
+GO:0042743	2	1.4%	0.79%	0.323	0.703	hydrogen peroxide metabolic process	Cc09g01700,Cc05g08480
+GO:0015711	1	0.68%	0.27%	0.327	0.703	organic anion transport	Cc06g11030
+GO:0010411	1	0.68%	0.27%	0.327	0.703	xyloglucan metabolic process	Cc05g05510
+GO:0033365	1	0.68%	0.27%	0.327	0.703	protein localization to organelle	Cc10g12130
+GO:1901136	2	1.4%	0.8%	0.33	0.703	carbohydrate derivative catabolic process	Cc02g16950,Cc08g05740
+GO:0044036	1	0.68%	0.28%	0.339	0.709	cell wall macromolecule metabolic process	Cc08g05740
+GO:0090150	1	0.68%	0.29%	0.351	0.729	establishment of protein localization to membrane	Cc10g12130
+GO:0001510	1	0.68%	0.29%	0.351	0.729	RNA methylation	Cc08g11070
+GO:0071805	1	0.68%	0.3%	0.363	0.745	potassium ion transmembrane transport	Cc05g14860
+GO:0009416	1	0.68%	0.3%	0.363	0.745	response to light stimulus	Cc10g12130
+GO:0030001	3	2.0%	1.5%	0.367	0.745	metal ion transport	Cc01g14170,Cc07g07030,Cc05g14860
+GO:0016485	1	0.68%	0.32%	0.374	0.755	protein processing	Cc08g02620
+GO:0000413	1	0.68%	0.32%	0.374	0.755	protein peptidyl-prolyl isomerization	Cc08g11220
+GO:0031399	1	0.68%	0.32%	0.374	0.755	regulation of protein modification process	Cc05g05150
+GO:0005984	1	0.68%	0.32%	0.374	0.755	disaccharide metabolic process	Cc11g14470
+GO:0018208	1	0.68%	0.32%	0.374	0.755	peptidyl-proline modification	Cc08g11220
+GO:0009314	1	0.68%	0.32%	0.374	0.755	response to radiation	Cc10g12130
+GO:0051338	1	0.68%	0.33%	0.385	0.755	regulation of transferase activity	Cc05g05150
+GO:0051668	1	0.68%	0.33%	0.385	0.755	localization within membrane	Cc10g12130
+GO:0072593	2	1.4%	0.92%	0.394	0.761	reactive oxygen species metabolic process	Cc09g01700,Cc05g08480
+GO:0042546	1	0.68%	0.34%	0.396	0.761	cell wall biogenesis	Cc05g05510
+GO:0009311	1	0.68%	0.34%	0.396	0.761	oligosaccharide metabolic process	Cc11g14470
+GO:0016114	1	0.68%	0.35%	0.407	0.773	terpenoid biosynthetic process	Cc10g10160
+GO:0006721	1	0.68%	0.35%	0.407	0.773	terpenoid metabolic process	Cc10g10160
+GO:0032787	3	2.0%	1.6%	0.41	0.773	monocarboxylic acid metabolic process	Cc02g16950,Cc03g02730,Cc07g08840
+GO:0046903	1	0.68%	0.36%	0.418	0.78	secretion	Cc06g11030
+GO:0006749	2	1.4%	0.98%	0.426	0.791	glutathione metabolic process	Cc10g09980,Cc02g26410
+GO:0009733	1	0.68%	0.38%	0.428	0.791	response to auxin	Cc10g01860
+GO:0009755	1	0.68%	0.41%	0.458	0.843	hormone-mediated signaling pathway	Cc03g01290
+GO:0170033	2	1.4%	1.1%	0.462	0.845	L-amino acid metabolic process	Cc02g06410,Cc07g07950
+GO:0009073	1	0.68%	0.44%	0.478	0.869	aromatic amino acid family biosynthetic process	Cc07g14820
+GO:0098655	2	1.4%	1.1%	0.48	0.869	monoatomic cation transmembrane transport	Cc07g07030,Cc05g14860
+GO:0170039	2	1.4%	1.1%	0.485	0.874	proteinogenic amino acid metabolic process	Cc02g06410,Cc07g07950
+GO:0008610	4	2.7%	2.5%	0.496	0.889	lipid biosynthetic process	Cc10g10160,Cc04g05440,Cc07g08840,Cc02g25800
+GO:0043414	1	0.68%	0.46%	0.496	0.889	macromolecule methylation	Cc08g11070
+GO:0051604	1	0.68%	0.46%	0.496	0.889	protein maturation	Cc08g02620
+GO:0048518	2	1.4%	1.1%	0.503	0.889	positive regulation of biological process	Cc07g14150,Cc01g14200
+GO:0051246	1	0.68%	0.47%	0.505	0.889	regulation of protein metabolic process	Cc05g05150
+GO:0006644	2	1.4%	1.2%	0.508	0.889	phospholipid metabolic process	Cc06g11030,Cc08g02120
+GO:0006813	1	0.68%	0.49%	0.514	0.894	potassium ion transport	Cc05g14860
+GO:0034220	2	1.4%	1.2%	0.519	0.899	monoatomic ion transmembrane transport	Cc07g07030,Cc05g14860
+GO:1901605	2	1.4%	1.2%	0.519	0.899	alpha-amino acid metabolic process	Cc02g06410,Cc07g07950
+GO:0009191	1	0.68%	0.53%	0.548	0.939	ribonucleoside diphosphate catabolic process	Cc02g16950
+GO:0009261	1	0.68%	0.53%	0.548	0.939	ribonucleotide catabolic process	Cc02g16950
+GO:0009134	1	0.68%	0.53%	0.548	0.939	nucleoside diphosphate catabolic process	Cc02g16950
+GO:0009137	1	0.68%	0.53%	0.548	0.939	purine nucleoside diphosphate catabolic process	Cc02g16950
+GO:0009135	1	0.68%	0.53%	0.548	0.939	purine nucleoside diphosphate metabolic process	Cc02g16950
+GO:0006096	1	0.68%	0.53%	0.548	0.939	glycolytic process	Cc02g16950
+GO:0009154	1	0.68%	0.53%	0.548	0.939	purine ribonucleotide catabolic process	Cc02g16950
+GO:0072523	1	0.68%	0.53%	0.548	0.939	purine-containing compound catabolic process	Cc02g16950
+GO:0072526	1	0.68%	0.53%	0.548	0.939	pyridine-containing compound catabolic process	Cc02g16950
+GO:0019364	1	0.68%	0.53%	0.548	0.939	pyridine nucleotide catabolic process	Cc02g16950
+GO:0006195	1	0.68%	0.53%	0.548	0.939	purine nucleotide catabolic process	Cc02g16950
+GO:0009605	1	0.68%	0.53%	0.548	0.939	response to external stimulus	Cc01g16150
+GO:0009179	1	0.68%	0.53%	0.548	0.939	purine ribonucleoside diphosphate metabolic process	Cc02g16950
+GO:0009181	1	0.68%	0.53%	0.548	0.939	purine ribonucleoside diphosphate catabolic process	Cc02g16950
+GO:0009185	1	0.68%	0.53%	0.548	0.939	ribonucleoside diphosphate metabolic process	Cc02g16950
+GO:0046032	1	0.68%	0.53%	0.548	0.939	ADP catabolic process	Cc02g16950
+GO:0046031	1	0.68%	0.53%	0.548	0.939	ADP metabolic process	Cc02g16950
+GO:0045944	1	0.68%	0.55%	0.556	0.939	positive regulation of transcription by RNA polymerase II	Cc07g14150
+GO:0046394	3	2.0%	2.0%	0.56	0.939	carboxylic acid biosynthetic process	Cc07g08840,Cc07g07950,Cc07g14820
+GO:0016053	3	2.0%	2.0%	0.56	0.939	organic acid biosynthetic process	Cc07g08840,Cc07g07950,Cc07g14820
+GO:0007017	2	1.4%	1.3%	0.562	0.939	microtubule-based process	Cc09g07580,Cc10g08020
+GO:0071554	2	1.4%	1.3%	0.562	0.939	cell wall organization or biogenesis	Cc10g14530,Cc05g05510
+GO:0009132	1	0.68%	0.56%	0.564	0.939	nucleoside diphosphate metabolic process	Cc02g16950
+GO:1901137	2	1.4%	1.3%	0.568	0.939	carbohydrate derivative biosynthetic process	Cc03g11090,Cc10g06450
+GO:0044283	4	2.7%	2.7%	0.57	0.939	small molecule biosynthetic process	Cc10g06450,Cc07g08840,Cc07g07950,Cc07g14820
+GO:0043603	2	1.4%	1.3%	0.578	0.939	amide metabolic process	Cc10g09980,Cc02g26410
+GO:0009166	1	0.68%	0.58%	0.58	0.939	nucleotide catabolic process	Cc02g16950
+GO:0006720	1	0.68%	0.59%	0.587	0.939	isoprenoid metabolic process	Cc10g10160
+GO:0008299	1	0.68%	0.59%	0.587	0.939	isoprenoid biosynthetic process	Cc10g10160
+GO:0072594	1	0.68%	0.62%	0.602	0.939	establishment of protein localization to organelle	Cc10g12130
+GO:0044085	1	0.68%	0.64%	0.616	0.939	cellular component biogenesis	Cc05g05510
+GO:1901292	1	0.68%	0.64%	0.616	0.939	nucleoside phosphate catabolic process	Cc02g16950
+GO:0046488	1	0.68%	0.66%	0.623	0.939	phosphatidylinositol metabolic process	Cc08g02120
+GO:0018193	1	0.68%	0.67%	0.63	0.939	peptidyl-amino acid modification	Cc08g11220
+GO:0006886	2	1.4%	1.4%	0.631	0.939	intracellular protein transport	Cc04g14980,Cc10g12130
+GO:0046434	1	0.68%	0.7%	0.649	0.951	organophosphate catabolic process	Cc02g16950
+GO:0009725	1	0.68%	0.72%	0.656	0.956	response to hormone	Cc10g01860
+GO:0016052	1	0.68%	0.72%	0.656	0.956	carbohydrate catabolic process	Cc02g16950
+GO:0051254	1	0.68%	0.73%	0.662	0.957	positive regulation of RNA metabolic process	Cc07g14150
+GO:0045893	1	0.68%	0.73%	0.662	0.957	positive regulation of DNA-templated transcription	Cc07g14150
+GO:1902680	1	0.68%	0.73%	0.662	0.957	positive regulation of RNA biosynthetic process	Cc07g14150
+GO:0006633	1	0.68%	0.74%	0.668	0.957	fatty acid biosynthetic process	Cc07g08840
+GO:0016311	1	0.68%	0.74%	0.668	0.957	dephosphorylation	Cc08g02120
+GO:0009719	1	0.68%	0.74%	0.668	0.957	response to endogenous stimulus	Cc10g01860
+GO:0046034	1	0.68%	0.74%	0.668	0.957	ATP metabolic process	Cc02g16950
+GO:0009891	1	0.68%	0.75%	0.674	0.957	positive regulation of biosynthetic process	Cc07g14150
+GO:0170038	1	0.68%	0.75%	0.674	0.957	proteinogenic amino acid biosynthetic process	Cc07g07950
+GO:0010557	1	0.68%	0.75%	0.674	0.957	positive regulation of macromolecule biosynthetic process	Cc07g14150
+GO:0046496	1	0.68%	0.78%	0.685	0.957	nicotinamide nucleotide metabolic process	Cc02g16950
+GO:0006812	3	2.0%	2.4%	0.691	0.957	monoatomic cation transport	Cc01g14170,Cc07g07030,Cc05g14860
+GO:0009205	1	0.68%	0.79%	0.691	0.957	purine ribonucleoside triphosphate metabolic process	Cc02g16950
+GO:0009144	1	0.68%	0.79%	0.691	0.957	purine nucleoside triphosphate metabolic process	Cc02g16950
+GO:0072330	1	0.68%	0.79%	0.691	0.957	monocarboxylic acid biosynthetic process	Cc07g08840
+GO:0006790	2	1.4%	1.7%	0.702	0.957	sulfur compound metabolic process	Cc10g09980,Cc02g26410
+GO:0006650	1	0.68%	0.84%	0.713	0.968	glycerophospholipid metabolic process	Cc08g02120
+GO:0006281	2	1.4%	1.7%	0.714	0.968	DNA repair	Cc06g15700,Cc09g04660
+GO:0006631	1	0.68%	0.85%	0.718	0.968	fatty acid metabolic process	Cc07g08840
+GO:1901607	1	0.68%	0.86%	0.723	0.97	alpha-amino acid biosynthetic process	Cc07g07950
+GO:0072524	1	0.68%	0.87%	0.728	0.973	pyridine-containing compound metabolic process	Cc02g16950
+GO:0072521	2	1.4%	1.8%	0.736	0.98	purine-containing compound metabolic process	Cc10g06450,Cc02g16950
+GO:0046486	1	0.68%	0.9%	0.738	0.98	glycerolipid metabolic process	Cc08g02120
+GO:0042221	1	0.68%	0.9%	0.738	0.98	response to chemical	Cc10g01860
+GO:0071555	1	0.68%	0.9%	0.738	0.98	cell wall organization	Cc10g14530
+GO:0006520	3	2.0%	2.6%	0.74	0.98	amino acid metabolic process	Cc02g06410,Cc07g07950,Cc07g14820
+GO:0009141	1	0.68%	0.91%	0.742	0.98	nucleoside triphosphate metabolic process	Cc02g16950
+GO:0006974	2	1.4%	1.8%	0.746	0.98	DNA damage response	Cc06g15700,Cc09g04660
+GO:0008652	1	0.68%	0.92%	0.747	0.98	amino acid biosynthetic process	Cc07g07950
+GO:0072522	1	0.68%	0.92%	0.747	0.98	purine-containing compound biosynthetic process	Cc10g06450
+GO:0010604	1	0.68%	0.95%	0.756	0.98	positive regulation of macromolecule metabolic process	Cc07g14150
+GO:0009056	5	3.4%	4.3%	0.759	0.98	catabolic process	Cc09g01700,Cc02g16950,Cc05g08480,Cc06g11030,Cc08g05740
+GO:0009893	1	0.68%	0.96%	0.76	0.98	positive regulation of metabolic process	Cc07g14150
+GO:0033554	2	1.4%	1.9%	0.762	0.98	cellular response to stress	Cc06g15700,Cc09g04660
+GO:0048522	1	0.68%	1.0%	0.773	0.982	positive regulation of cellular process	Cc07g14150
+GO:0071705	3	2.0%	2.7%	0.773	0.982	nitrogen compound transport	Cc04g14980,Cc10g12130,Cc11g14930
+GO:0006811	3	2.0%	2.8%	0.776	0.982	monoatomic ion transport	Cc01g14170,Cc07g07030,Cc05g14860
+GO:0034655	1	0.68%	1.0%	0.781	0.982	nucleobase-containing compound catabolic process	Cc02g16950
+GO:0051716	2	1.4%	1.9%	0.784	0.982	cellular response to stimulus	Cc06g15700,Cc09g04660
+GO:0045229	1	0.68%	1.1%	0.793	0.989	external encapsulating structure organization	Cc10g14530
+GO:0019637	4	2.7%	3.7%	0.793	0.989	organophosphate metabolic process	Cc03g11090,Cc02g16950,Cc06g11030,Cc08g02120
+GO:0016567	1	0.68%	1.1%	0.797	0.989	protein ubiquitination	Cc01g16370
+GO:0009150	1	0.68%	1.1%	0.797	0.989	purine ribonucleotide metabolic process	Cc02g16950
+GO:0009451	1	0.68%	1.1%	0.797	0.989	RNA modification	Cc08g11070
+GO:0015031	2	1.4%	2.0%	0.801	0.989	protein transport	Cc04g14980,Cc10g12130
+GO:0035556	1	0.68%	1.1%	0.804	0.989	intracellular signal transduction	Cc04g12980
+GO:0008104	2	1.4%	2.0%	0.806	0.989	intracellular protein localization	Cc04g14980,Cc10g12130
+GO:0006357	1	0.68%	1.1%	0.807	0.989	regulation of transcription by RNA polymerase II	Cc07g14150
+GO:0033036	2	1.4%	2.1%	0.809	0.989	macromolecule localization	Cc04g14980,Cc10g12130
+GO:0019693	1	0.68%	1.1%	0.811	0.989	ribose phosphate metabolic process	Cc02g16950
+GO:0009259	1	0.68%	1.1%	0.811	0.989	ribonucleotide metabolic process	Cc02g16950
+GO:0032446	1	0.68%	1.1%	0.818	0.989	protein modification by small protein conjugation	Cc01g16370
+GO:0006753	2	1.4%	2.2%	0.836	0.997	nucleoside phosphate metabolic process	Cc03g11090,Cc02g16950
+GO:1901293	1	0.68%	1.2%	0.842	1.0	nucleoside phosphate biosynthetic process	Cc03g11090
+GO:0046907	2	1.4%	2.3%	0.851	1.0	intracellular transport	Cc04g14980,Cc10g12130
+GO:0006351	1	0.68%	1.3%	0.859	1.0	DNA-templated transcription	Cc11g11410
+GO:0007165	2	1.4%	2.3%	0.864	1.0	signal transduction	Cc03g01290,Cc04g12980
+GO:0009058	18	12%	15%	0.866	1.0	biosynthetic process	Cc06g22740,Cc01g17930,Cc10g10160,Cc04g05440,Cc06g18940,Cc01g10530,Cc11g11410,Cc11g14470,Cc07g08840,Cc02g25800,Cc03g03330,Cc06g17100,Cc07g07950,Cc02g15480,Cc03g11090,Cc10g06450,Cc04g16560,Cc07g14820
+GO:0080090	11	7.5%	9.8%	0.867	1.0	regulation of primary metabolic process	Cc07g09170,Cc07g14150,Cc11g13820,Cc05g05150,Cc08g10810,Cc02g15780,Cc07g07780,Cc02g30730,Cc02g13910,Cc04g04250,Cc02g05270
+GO:0006355	10	6.8%	9.1%	0.868	1.0	regulation of DNA-templated transcription	Cc07g09170,Cc07g14150,Cc11g13820,Cc08g10810,Cc02g15780,Cc07g07780,Cc02g30730,Cc02g13910,Cc04g04250,Cc02g05270
+GO:2001141	10	6.8%	9.1%	0.868	1.0	regulation of RNA biosynthetic process	Cc07g09170,Cc07g14150,Cc11g13820,Cc08g10810,Cc02g15780,Cc07g07780,Cc02g30730,Cc02g13910,Cc04g04250,Cc02g05270
+GO:0051649	2	1.4%	2.4%	0.869	1.0	establishment of localization in cell	Cc04g14980,Cc10g12130
+GO:0045184	2	1.4%	2.4%	0.869	1.0	establishment of protein localization	Cc04g14980,Cc10g12130
+GO:0034654	3	2.0%	3.3%	0.872	1.0	nucleobase-containing compound biosynthetic process	Cc03g11090,Cc10g06450,Cc11g11410
+GO:0051252	10	6.8%	9.1%	0.873	1.0	regulation of RNA metabolic process	Cc07g09170,Cc07g14150,Cc11g13820,Cc08g10810,Cc02g15780,Cc07g07780,Cc02g30730,Cc02g13910,Cc04g04250,Cc02g05270
+GO:0065003	1	0.68%	1.4%	0.876	1.0	protein-containing complex assembly	Cc05g06070
+GO:0006163	1	0.68%	1.4%	0.884	1.0	purine nucleotide metabolic process	Cc02g16950
+GO:0019219	10	6.8%	9.3%	0.887	1.0	regulation of nucleobase-containing compound metabolic process	Cc07g09170,Cc07g14150,Cc11g13820,Cc08g10810,Cc02g15780,Cc07g07780,Cc02g30730,Cc02g13910,Cc04g04250,Cc02g05270
+GO:0051641	2	1.4%	2.5%	0.893	1.0	cellular localization	Cc04g14980,Cc10g12130
+GO:0060255	11	7.5%	10%	0.905	1.0	regulation of macromolecule metabolic process	Cc07g09170,Cc07g14150,Cc11g13820,Cc05g05150,Cc08g10810,Cc02g15780,Cc07g07780,Cc02g30730,Cc02g13910,Cc04g04250,Cc02g05270
+GO:0019222	11	7.5%	10%	0.91	1.0	regulation of metabolic process	Cc07g09170,Cc07g14150,Cc11g13820,Cc05g05150,Cc08g10810,Cc02g15780,Cc07g07780,Cc02g30730,Cc02g13910,Cc04g04250,Cc02g05270
+GO:0070647	1	0.68%	1.6%	0.911	1.0	protein modification by small protein conjugation or removal	Cc01g16370
+GO:0043687	1	0.68%	1.6%	0.912	1.0	post-translational protein modification	Cc01g16370
+GO:0043933	1	0.68%	1.7%	0.915	1.0	protein-containing complex organization	Cc05g06070
+GO:0010468	10	6.8%	9.7%	0.916	1.0	regulation of gene expression	Cc07g09170,Cc07g14150,Cc11g13820,Cc08g10810,Cc02g15780,Cc07g07780,Cc02g30730,Cc02g13910,Cc04g04250,Cc02g05270
+GO:0010556	10	6.8%	9.7%	0.917	1.0	regulation of macromolecule biosynthetic process	Cc07g09170,Cc07g14150,Cc11g13820,Cc08g10810,Cc02g15780,Cc07g07780,Cc02g30730,Cc02g13910,Cc04g04250,Cc02g05270
+GO:0009889	10	6.8%	9.8%	0.919	1.0	regulation of biosynthetic process	Cc07g09170,Cc07g14150,Cc11g13820,Cc08g10810,Cc02g15780,Cc07g07780,Cc02g30730,Cc02g13910,Cc04g04250,Cc02g05270
+GO:0009057	1	0.68%	1.7%	0.921	1.0	macromolecule catabolic process	Cc08g05740
+GO:0009117	1	0.68%	1.8%	0.933	1.0	nucleotide metabolic process	Cc02g16950
+GO:0006259	2	1.4%	2.9%	0.935	1.0	DNA metabolic process	Cc06g15700,Cc09g04660
+GO:0065007	15	10%	14%	0.945	1.0	biological regulation	Cc03g01290,Cc07g09170,Cc07g14150,Cc11g13820,Cc08g10810,Cc02g15780,Cc07g07780,Cc04g04250,Cc01g14200,Cc04g12980,Cc06g12530,Cc05g05150,Cc02g30730,Cc02g13910,Cc02g05270
+GO:0055085	9	6.1%	9.5%	0.945	1.0	transmembrane transport	Cc10g12130,Cc11g14930,Cc01g14170,Cc09g03470,Cc07g12300,Cc07g07030,Cc01g09770,Cc11g13590,Cc05g14860
+GO:0022607	1	0.68%	1.9%	0.945	1.0	cellular component assembly	Cc05g06070
+GO:0032774	1	0.68%	2.0%	0.947	1.0	RNA biosynthetic process	Cc11g11410
+GO:0090407	1	0.68%	2.1%	0.954	1.0	organophosphate biosynthetic process	Cc03g11090
+GO:0141187	1	0.68%	2.1%	0.954	1.0	nucleic acid biosynthetic process	Cc11g11410
+GO:0050789	14	9.5%	14%	0.959	1.0	regulation of biological process	Cc03g01290,Cc07g09170,Cc07g14150,Cc11g13820,Cc08g10810,Cc02g15780,Cc07g07780,Cc04g04250,Cc01g14200,Cc04g12980,Cc05g05150,Cc02g30730,Cc02g13910,Cc02g05270
+GO:0016192	1	0.68%	2.2%	0.961	1.0	vesicle-mediated transport	Cc04g14980
+GO:0050794	13	8.8%	13%	0.965	1.0	regulation of cellular process	Cc03g01290,Cc07g09170,Cc07g14150,Cc11g13820,Cc08g10810,Cc02g15780,Cc07g07780,Cc04g04250,Cc04g12980,Cc05g05150,Cc02g30730,Cc02g13910,Cc02g05270
+GO:0009059	5	3.4%	7.1%	0.983	1.0	macromolecule biosynthetic process	Cc01g17930,Cc01g10530,Cc11g11410,Cc03g03330,Cc02g15480
+GO:0016310	14	9.5%	15%	0.984	1.0	phosphorylation	Cc11g08590,Cc02g10200,Cc03g10700,Cc03g07260,Cc07g14790,Cc03g02730,Cc04g06440,Cc01g16990,Cc02g10180,Cc11g10600,Cc01g11930,Cc08g00620,Cc09g06910,Cc08g15670
+GO:0006793	19	13%	19%	0.986	1.0	phosphorus metabolic process	Cc11g08590,Cc02g16950,Cc02g10200,Cc03g10700,Cc03g07260,Cc07g09780,Cc07g14790,Cc06g11030,Cc03g02730,Cc04g06440,Cc01g16990,Cc08g02120,Cc02g10180,Cc03g11090,Cc11g10600,Cc01g11930,Cc08g00620,Cc09g06910,Cc08g15670
+GO:0006796	19	13%	19%	0.986	1.0	phosphate-containing compound metabolic process	Cc11g08590,Cc02g16950,Cc02g10200,Cc03g10700,Cc03g07260,Cc07g09780,Cc07g14790,Cc06g11030,Cc03g02730,Cc04g06440,Cc01g16990,Cc08g02120,Cc02g10180,Cc03g11090,Cc11g10600,Cc01g11930,Cc08g00620,Cc09g06910,Cc08g15670
+GO:0006468	13	8.8%	15%	0.991	1.0	protein phosphorylation	Cc11g08590,Cc02g10200,Cc03g10700,Cc03g07260,Cc07g14790,Cc04g06440,Cc01g16990,Cc02g10180,Cc11g10600,Cc01g11930,Cc08g00620,Cc09g06910,Cc08g15670
+GO:0019538	29	20%	28%	0.992	1.0	protein metabolic process	Cc08g11220,Cc11g08590,Cc02g10200,Cc03g07260,Cc01g10530,Cc06g12230,Cc01g16370,Cc04g06440,Cc07g07530,Cc01g16990,Cc02g10180,Cc07g06750,Cc10g04590,Cc01g16060,Cc02g29650,Cc10g04610,Cc04g05320,Cc03g10700,Cc07g14790,Cc03g02760,Cc05g04080,Cc11g01200,Cc11g10600,Cc01g11930,Cc08g00620,Cc08g02620,Cc07g12510,Cc09g06910,Cc08g15670
+GO:0006139	9	6.1%	12%	0.992	1.0	nucleobase-containing compound metabolic process	Cc03g11090,Cc08g09250,Cc10g06450,Cc02g16950,Cc06g15700,Cc09g04660,Cc02g10400,Cc11g11410,Cc08g11070
+GO:0006810	12	8.2%	15%	0.994	1.0	transport	Cc04g14980,Cc10g12130,Cc11g14930,Cc01g14170,Cc09g03470,Cc07g12300,Cc06g11030,Cc07g07030,Cc01g09770,Cc11g09700,Cc11g13590,Cc05g14860
+GO:0051234	12	8.2%	15%	0.996	1.0	establishment of localization	Cc04g14980,Cc10g12130,Cc11g14930,Cc01g14170,Cc09g03470,Cc07g12300,Cc06g11030,Cc07g07030,Cc01g09770,Cc11g09700,Cc11g13590,Cc05g14860
+GO:0044238	65	44%	55%	0.996	1.0	primary metabolic process	Cc08g11220,Cc09g07970,Cc10g10160,Cc08g12710,Cc09g04660,Cc03g07260,Cc01g05180,Cc01g10530,Cc07g08840,Cc01g16990,Cc07g07950,Cc02g10180,Cc02g03720,Cc10g06450,Cc10g04590,Cc07g10200,Cc02g27290,Cc01g17930,Cc08g16840,Cc02g16950,Cc04g05440,Cc04g05320,Cc07g14790,Cc11g11410,Cc08g02120,Cc02g17170,Cc03g11090,Cc11g10600,Cc06g10640,Cc08g00620,Cc09g06910,Cc08g11070,Cc05g05510,Cc08g15670,Cc06g19980,Cc11g08590,Cc02g13830,Cc02g10200,Cc06g12230,Cc01g16370,Cc04g06440,Cc07g07530,Cc11g14470,Cc07g06750,Cc06g15700,Cc01g16060,Cc02g29650,Cc10g00410,Cc02g10400,Cc10g04610,Cc07g14820,Cc08g09250,Cc03g10700,Cc02g06410,Cc06g11030,Cc02g25800,Cc03g03330,Cc02g15480,Cc03g02760,Cc03g06960,Cc05g04080,Cc11g01200,Cc01g11930,Cc08g02620,Cc07g12510
+GO:0051179	12	8.2%	15%	0.996	1.0	localization	Cc04g14980,Cc10g12130,Cc11g14930,Cc01g14170,Cc09g03470,Cc07g12300,Cc06g11030,Cc07g07030,Cc01g09770,Cc11g09700,Cc11g13590,Cc05g14860
+GO:0006396	1	0.68%	3.8%	0.997	1.0	RNA processing	Cc06g19980
+GO:0071840	3	2.0%	6.5%	0.997	1.0	cellular component organization or biogenesis	Cc05g06070,Cc10g14530,Cc05g05510
+GO:0036211	15	10%	18%	0.997	1.0	protein modification process	Cc08g11220,Cc11g08590,Cc02g10200,Cc03g10700,Cc03g07260,Cc07g14790,Cc01g16370,Cc04g06440,Cc01g16990,Cc02g10180,Cc11g10600,Cc01g11930,Cc08g00620,Cc09g06910,Cc08g15670
+GO:0006412	1	0.68%	3.9%	0.997	1.0	translation	Cc01g10530
+GO:0043412	16	11%	19%	0.997	1.0	macromolecule modification	Cc08g11220,Cc11g08590,Cc02g10200,Cc03g10700,Cc03g07260,Cc07g14790,Cc01g16370,Cc04g06440,Cc01g16990,Cc02g10180,Cc11g10600,Cc01g11930,Cc08g00620,Cc09g06910,Cc08g11070,Cc08g15670
+GO:0016043	2	1.4%	5.9%	0.999	1.0	cellular component organization	Cc05g06070,Cc10g14530
+GO:0016070	2	1.4%	5.9%	0.999	1.0	RNA metabolic process	Cc11g11410,Cc08g11070
+GO:0090304	4	2.7%	8.8%	0.999	1.0	nucleic acid metabolic process	Cc06g15700,Cc09g04660,Cc11g11410,Cc08g11070
+GO:0043170	38	26%	38%	0.999	1.0	macromolecule metabolic process	Cc08g11220,Cc11g08590,Cc09g04660,Cc02g10200,Cc03g07260,Cc01g10530,Cc06g12230,Cc01g16370,Cc08g05740,Cc04g06440,Cc07g07530,Cc01g16990,Cc02g10180,Cc07g06750,Cc10g04590,Cc06g15700,Cc01g16060,Cc02g29650,Cc10g04610,Cc01g17930,Cc04g05320,Cc03g10700,Cc07g14790,Cc11g11410,Cc03g03330,Cc02g15480,Cc03g02760,Cc05g04080,Cc11g01200,Cc11g10600,Cc01g11930,Cc08g00620,Cc08g02620,Cc07g12510,Cc09g06910,Cc08g11070,Cc05g05510,Cc08g15670
+GO:0008150	147	100%	100%	1.0	1.0	biological_process	Cc10g10160,Cc11g16910,Cc09g04660,Cc01g14170,Cc03g07260,Cc01g05180,Cc01g10530,Cc11g16230,Cc07g08840,Cc01g16990,Cc06g17100,Cc02g10180,Cc05g06070,Cc10g06450,Cc07g12300,Cc01g09770,Cc01g07750,Cc02g13840,Cc03g01290,Cc03g03590,Cc10g12590,Cc02g27290,Cc11g14720,Cc08g16840,Cc02g16950,Cc04g05440,Cc10g14530,Cc04g05320,Cc07g14150,Cc01g20900,Cc07g14790,Cc09g09020,Cc11g13590,Cc03g11090,Cc09g01700,Cc05g05150,Cc07g04080,Cc11g09700,Cc02g05270,Cc01g17500,Cc02g13830,Cc10g11150,Cc02g10200,Cc09g03470,Cc02g11770,Cc01g11400,Cc06g12230,Cc01g16370,Cc04g06440,Cc06g10050,Cc05g15930,Cc04g14980,Cc07g06750,Cc10g01540,Cc07g14820,Cc05g00840,Cc10g12130,Cc09g02010,Cc03g10700,Cc10g16210,Cc06g11030,Cc11g11950,Cc02g21720,Cc02g25800,Cc03g03330,Cc04g04250,Cc03g02760,Cc03g06960,Cc05g04080,Cc01g05820,Cc01g10720,Cc01g11930,Cc06g11950,Cc07g12510,Cc09g06610,Cc05g09930,Cc08g11220,Cc07g09170,Cc09g07970,Cc11g08370,Cc11g14930,Cc08g12710,Cc08g10810,Cc01g16150,Cc03g02730,Cc08g05740,Cc05g14860,Cc07g07950,Cc08g01300,Cc02g03720,Cc10g04590,Cc04g12980,Cc06g12530,Cc02g02350,Cc07g10200,Cc09g03930,Cc06g22740,Cc01g17930,Cc02g15780,Cc07g07780,Cc09g08490,Cc11g11410,Cc05g12720,Cc08g02120,Cc02g17170,Cc04g16410,Cc11g10600,Cc06g10640,Cc08g00620,Cc09g06910,Cc07g07030,Cc06g01460,Cc08g11070,Cc05g05510,Cc08g15670,Cc06g19980,Cc11g08590,Cc09g09010,Cc11g13820,Cc07g07530,Cc10g08020,Cc11g14470,Cc02g25610,Cc06g15700,Cc10g09980,Cc01g16060,Cc02g29650,Cc10g00410,Cc02g30730,Cc02g10400,Cc10g01860,Cc02g13910,Cc10g04610,Cc04g16560,Cc06g02140,Cc01g18800,Cc08g09250,Cc09g07580,Cc06g18940,Cc07g09780,Cc02g06410,Cc02g15480,Cc01g14200,Cc11g01200,Cc02g26410,Cc05g08480,Cc08g02620

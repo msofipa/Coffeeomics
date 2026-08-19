@@ -1,0 +1,52 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0050017	1	17%	0.01%	4.09E-4	0.0209	L-3-cyanoalanine synthase activity	Cc02g38200
+GO:0042085	1	17%	0.01%	4.09E-4	0.0209	5-methyltetrahydropteroyltri-L-glutamate-dependent methyltransferase activity	Cc06g07310
+GO:0003871	1	17%	0.01%	4.09E-4	0.0209	5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase activity	Cc06g07310
+GO:0004124	1	17%	0.02%	1.23E-3	0.0209	cysteine synthase activity	Cc02g38200
+GO:0008172	1	17%	0.02%	1.23E-3	0.0209	S-methyltransferase activity	Cc06g07310
+GO:0016887	2	33%	2.0%	5.7E-3	0.0485	ATP hydrolysis activity	Cc02g07500,Cc04g05910
+GO:0016846	1	17%	0.1%	5.72E-3	0.0485	carbon-sulfur lyase activity	Cc02g38200
+GO:0017111	2	33%	3.2%	0.0137	0.0872	ribonucleoside triphosphate phosphatase activity	Cc02g07500,Cc04g05910
+GO:0016462	2	33%	3.3%	0.0152	0.0872	pyrophosphatase activity	Cc02g07500,Cc04g05910
+GO:0016818	2	33%	3.4%	0.0158	0.0872	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	Cc02g07500,Cc04g05910
+GO:0016817	2	33%	3.4%	0.0159	0.0872	hydrolase activity, acting on acid anhydrides	Cc02g07500,Cc04g05910
+GO:0004866	1	17%	0.29%	0.0171	0.0872	endopeptidase inhibitor activity	Cc00g30520
+GO:0030414	1	17%	0.29%	0.0171	0.0872	peptidase inhibitor activity	Cc00g30520
+GO:0061135	1	17%	0.29%	0.0171	0.0872	endopeptidase regulator activity	Cc00g30520
+GO:0061134	1	17%	0.29%	0.0175	0.0872	peptidase regulator activity	Cc00g30520
+GO:0046982	1	17%	0.48%	0.0283	0.0903	protein heterodimerization activity	Cc01g12010
+GO:0016765	1	17%	0.48%	0.0287	0.0903	transferase activity, transferring alkyl or aryl (other than methyl) groups	Cc02g38200
+GO:0140678	1	17%	0.91%	0.0532	0.151	molecular function inhibitor activity	Cc00g30520
+GO:0004857	1	17%	0.91%	0.0532	0.151	enzyme inhibitor activity	Cc00g30520
+GO:0030234	1	17%	1.5%	0.0875	0.223	enzyme regulator activity	Cc00g30520
+GO:0016829	1	17%	1.5%	0.0875	0.223	lyase activity	Cc02g38200
+GO:0098772	1	17%	1.7%	0.0992	0.23	molecular function regulator activity	Cc00g30520
+GO:0008168	1	17%	1.9%	0.107	0.237	methyltransferase activity	Cc06g07310
+GO:0016741	1	17%	2.0%	0.114	0.242	transferase activity, transferring one-carbon groups	Cc06g07310
+GO:0046983	1	17%	2.2%	0.127	0.258	protein dimerization activity	Cc01g12010
+GO:0008270	1	17%	3.1%	0.174	0.341	zinc ion binding	Cc06g07310
+GO:0005524	2	33%	14%	0.202	0.382	ATP binding	Cc02g07500,Cc04g05910
+GO:0016787	2	33%	15%	0.232	0.422	hydrolase activity	Cc02g07500,Cc04g05910
+GO:0035639	2	33%	16%	0.238	0.422	purine ribonucleoside triphosphate binding	Cc02g07500,Cc04g05910
+GO:0032559	2	33%	19%	0.318	0.541	adenyl ribonucleotide binding	Cc02g07500,Cc04g05910
+GO:0043167	3	50%	34%	0.325	0.541	ion binding	Cc06g07310,Cc02g07500,Cc04g05910
+GO:0030554	2	33%	20%	0.335	0.541	adenyl nucleotide binding	Cc02g07500,Cc04g05910
+GO:0003677	1	17%	6.8%	0.343	0.541	DNA binding	Cc01g12010
+GO:0016740	2	33%	20%	0.346	0.541	transferase activity	Cc02g38200,Cc06g07310
+GO:0036094	3	50%	35%	0.35	0.541	small molecule binding	Cc06g07310,Cc02g07500,Cc04g05910
+GO:0032555	2	33%	20%	0.356	0.541	purine ribonucleotide binding	Cc02g07500,Cc04g05910
+GO:0032553	2	33%	21%	0.362	0.541	ribonucleotide binding	Cc02g07500,Cc04g05910
+GO:0097367	2	33%	21%	0.366	0.541	carbohydrate derivative binding	Cc02g07500,Cc04g05910
+GO:0017076	2	33%	21%	0.374	0.541	purine nucleotide binding	Cc02g07500,Cc04g05910
+GO:0046914	1	17%	7.6%	0.378	0.541	transition metal ion binding	Cc06g07310
+GO:0003824	4	67%	52%	0.39	0.541	catalytic activity	Cc02g38200,Cc06g07310,Cc02g07500,Cc04g05910
+GO:0000166	2	33%	22%	0.405	0.541	nucleotide binding	Cc02g07500,Cc04g05910
+GO:1901265	2	33%	23%	0.407	0.541	nucleoside phosphate binding	Cc02g07500,Cc04g05910
+GO:0043168	2	33%	23%	0.412	0.541	anion binding	Cc02g07500,Cc04g05910
+GO:1901363	2	33%	23%	0.426	0.541	heterocyclic compound binding	Cc02g07500,Cc04g05910
+GO:0005515	2	33%	23%	0.427	0.541	protein binding	Cc04g05910,Cc01g12010
+GO:0046872	1	17%	11%	0.517	0.561	metal ion binding	Cc06g07310
+GO:0043169	1	17%	12%	0.526	0.561	cation binding	Cc06g07310
+GO:0003676	1	17%	12%	0.546	0.568	nucleic acid binding	Cc01g12010
+GO:0005488	4	67%	64%	0.628	0.64	binding	Cc06g07310,Cc02g07500,Cc04g05910,Cc01g12010
+GO:0003674	6	100%	100%	1.0	1.0	molecular_function	Cc02g38200,Cc06g07310,Cc00g30520,Cc02g07500,Cc04g05910,Cc01g12010

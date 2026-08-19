@@ -1,0 +1,11 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0005794	1	33%	0.32%	9.69E-3	0.0969	Golgi apparatus	Cc10g04210
+GO:0048046	1	33%	1.6%	0.0487	0.243	apoplast	Cc06g02440
+GO:0005576	1	33%	3.0%	0.0866	0.289	extracellular region	Cc06g02440
+GO:0043231	1	33%	12%	0.317	0.792	intracellular membrane-bounded organelle	Cc10g04210
+GO:0043227	1	33%	12%	0.317	0.792	membrane-bounded organelle	Cc10g04210
+GO:0110165	3	100%	79%	0.489	0.815	cellular anatomical structure	Cc10g04210,Cc06g02440,Cc02g15480
+GO:0043229	1	33%	23%	0.544	0.815	intracellular organelle	Cc10g04210
+GO:0043226	1	33%	23%	0.544	0.815	organelle	Cc10g04210
+GO:0016020	1	33%	47%	0.847	0.941	membrane	Cc02g15480
+GO:0005575	3	100%	100%	1.0	1.0	cellular_component	Cc10g04210,Cc06g02440,Cc02g15480

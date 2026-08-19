@@ -1,0 +1,15 @@
+GO Term	Study #	Study Freq.	Pop. Freq.	p-value	q-value	name	gene products
+GO:0009765	2	67%	0.24%	1.68E-5	2.35E-4	photosynthesis, light harvesting	Cc10g16210,Cc06g01460
+GO:0006091	2	67%	1.3%	5.25E-4	3.68E-3	generation of precursor metabolites and energy	Cc10g16210,Cc06g01460
+GO:0000413	1	33%	0.32%	9.44E-3	0.044	protein peptidyl-prolyl isomerization	Cc10g01600
+GO:0018208	1	33%	0.32%	9.44E-3	0.044	peptidyl-proline modification	Cc10g01600
+GO:0018193	1	33%	0.67%	0.0199	0.0557	peptidyl-amino acid modification	Cc10g01600
+GO:0006457	1	33%	1.1%	0.0328	0.0765	protein folding	Cc10g01600
+GO:0008152	3	100%	62%	0.243	0.487	metabolic process	Cc10g16210,Cc06g01460,Cc10g01600
+GO:0036211	1	33%	18%	0.447	0.783	protein modification process	Cc10g01600
+GO:0043412	1	33%	19%	0.469	0.783	macromolecule modification	Cc10g01600
+GO:0009987	3	100%	85%	0.614	0.86	cellular process	Cc10g16210,Cc06g01460,Cc10g01600
+GO:0019538	1	33%	28%	0.625	0.86	protein metabolic process	Cc10g01600
+GO:0043170	1	33%	38%	0.763	0.89	macromolecule metabolic process	Cc10g01600
+GO:0044238	1	33%	55%	0.908	0.978	primary metabolic process	Cc10g01600
+GO:0008150	3	100%	100%	1.0	1.0	biological_process	Cc10g16210,Cc06g01460,Cc10g01600
