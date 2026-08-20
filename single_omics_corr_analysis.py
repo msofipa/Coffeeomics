@@ -91,23 +91,22 @@ LAYERS = [
         "output_dir": r"C:\Users\papan\Desktop\Coffeeomics\metabolomics\correltion_matrix",
     },
 
-    # ── Add more layers here as needed, e.g.: ──────────────────────────────
-    # {
-    #     "name": "proteomics",
-    #     "input_def": "Proteomics Normalized (manual, at least 50% and above 10)",
-    #     "path": r"C:\Users\papan\Desktop\Coffeomics\proteomics\data\prot_normalized_pydeseq2_manual_50_above_10.xlsx",
-    #     "loader": "excel",
-    #     "read_kwargs": {"index_col": 0},
-    #     "output_dir": r"C:\Users\papan\Desktop\Coffeomics\proteomics\correltion_matrix",
-    # },
-    # {
-    #     "name": "transcriptomics",
-    #     "input_def": "Transcriptomics Normalized PyDESeq2",
-    #     "path": r"C:\Users\papan\Desktop\Coffeomics\transcriptomics\trans_normalizations\trans_pydeseq2_normalized_counts.csv",
-    #     "loader": "csv",
-    #     "read_kwargs": {"index_col": 0, "encoding": "cp1252", "encoding_errors": "replace"},
-    #     "output_dir": r"C:\Users\papan\Desktop\Coffeomics\transcriptomics\correltion_matrix",
-    # },
+    {
+        "name": "proteomics",
+        "input_def": "Proteomics Normalized (PyDESeq2, at least 50% and above 10)",
+        "path": r"C:\Users\papan\Desktop\Coffeeomics\proteomics\data\prot_normalized_pydeseq2_manual_50_above_10.xlsx",
+        "loader": "excel",
+        "read_kwargs": {"index_col": 0},
+        "output_dir": r"C:\Users\papan\Desktop\Coffeeomics\proteomics\correltion_matrix",
+     },
+     {
+        "name": "transcriptomics",
+        "input_def": "Transcriptomics Normalized PyDESeq2",
+        "path": r"C:\Users\papan\Desktop\Coffeeomics\transcriptomics\normalizations\trans_pydeseq2_normalized_counts.csv",
+        "loader": "csv",
+        "read_kwargs": {"index_col": 0},
+        "output_dir": r"C:\Users\papan\Desktop\Coffeeomics\transcriptomics\correltion_matrix",
+     },
 ]
 
 # ─────────────────────────────────────────────────────────────────────────

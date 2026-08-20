@@ -1,48 +1,32 @@
 """
-cross_omics_corr_analysis.py
-──────────────────────────────
-Generic "cross-layer" Pearson correlation runner: for any PAIR of omics
-layers (metabolomics vs transcriptomics, metabolomics vs proteomics,
-proteomics vs transcriptomics, ...), correlates FEATURE VALUES between the
-two layers, per sample pair, via build_and_save() in make_correlations.py,
-and saves the standard 6 figures per species, per pair:
+Cross-layer Pearson correlation runner for proteomics vs transcriptomics:
+correlates FEATURE VALUES between the two layers, per sample pair, via
+build_cross_layer_tree_and_heatmaps() in make_correlations.py, and saves,
+per species, ONLY 3 figures (same trimmed set as the single-layer runner):
 
-    1. {species}_pearson_tree
-    2. {species}_pearson_clustermap
-    3. {species}_pearson_annotated_clustermap
-    4. {species}_pearson_ordered_heatmap
-    5. {species}_gene_overlap_clustermap
-    6. {species}_gene_overlap_ordered_heatmap
-
-This is the same logic as the "Correlation between dfs" section of the
-original make_correlations.ipynb notebook (proteomics vs transcriptomics),
-generalized to loop over an arbitrary list of layer PAIRS instead of being
-hardcoded to one comparison.
+    1. {species}_pearson_tree                  - dendrogram, WITH the
+                                                  Temperature/CO2/Water-Stress
+                                                  attribute strips and legend
+    2. {species}_pearson_ordered_heatmap       - Pearson r heatmap, rows and
+                                                  columns ordered by the SAME
+                                                  sample-ID order, so the
+                                                  diagonal is meaningful
+                                                  (sample i vs itself, across
+                                                  layers).
+    3. {species}_gene_overlap_ordered_heatmap  - feature-count-per-pair
+                                                  heatmap, same ordering.
 
 ──────────────────────────────────────────────────────────────────────────
 IMPORTANT — shared feature space required
 ──────────────────────────────────────────────────────────────────────────
-build_and_save() computes pearsonr(layer_A[sample1], layer_B[sample2])
-ROW-BY-ROW, so both layers must be indexed on the SAME feature space (e.g.
-gene ID) for this to mean anything. Proteomics and transcriptomics both
-reduce naturally to gene-level index (transcripts -> genes via
-transcript_gene.csv, exactly like the notebook). Metabolomics is natively
-indexed by metabolite, NOT by gene — there is no metabolite->gene mapping
-wired in below.
+build_cross_layer_tree_and_heatmaps() computes pearsonr(layer_A[sample1],
+layer_B[sample2]) ROW-BY-ROW, so both layers must be indexed on the SAME
+feature space. Proteomics and transcriptomics both reduce naturally to
+gene-level index (transcripts -> genes via transcript_gene.csv), so this
+pair produces real, meaningful overlap.
 
-Each entry in LAYER_DEFS has an optional `feature_mapping` hook (a
-callable(df) -> df) applied right after loading, to remap that layer's row
-index onto a shared feature space. It's populated for transcriptomics
-(transcript -> gene, via TRANSCRIPT_GENE_MAP). It is left as None for
-metabolomics and proteomics. If you have a metabolite->gene (or
-metabolite->pathway, etc.) crosswalk, plug it in the same way — until then,
-metabolomics comparisons use its raw metabolite index directly, and
-run_pair() will print a loud warning if that produces ~0 shared features
-with the other layer (which is the expected outcome without a real
-crosswalk).
-
-Location suggestion: C:\\Users\\papan\\Desktop\\Coffeeomics\\cross_omics_corr_analysis.py
-(run from anywhere; all paths below are absolute)
+Metabolomics is handled separately (different feature space — metabolite,
+not gene — and no crosswalk is wired in here).
 """
 
 import sys
@@ -61,7 +45,7 @@ from integration.make_correlations import (
     safe_name,
     col_to_species,
     set_contrast_groups_merged,   # merges contrast_groups_<layer>.json across a pair
-    build_and_save,                # <- cross-layer builder (asymmetric matrix)
+    build_cross_layer_tree_and_heatmaps,   # <- trimmed cross-layer builder (3 figures)
 )
 
 # make_correlations.py already does its own sys.path.append(...) to reach
@@ -70,27 +54,14 @@ from color_maps import COLOR_MAPS
 
 
 # ─────────────────────────────────────────────────────────────────────────
-# LAYER-SPECIFIC PREPROCESSING / FEATURE MAPPING
+# FEATURE MAPPING (transcript -> gene, to align with proteomics' gene index)
 # ─────────────────────────────────────────────────────────────────────────
-
-def flatten_multiindex_columns_to_sample_id(df):
-    """
-    For files whose columns are a multi-level header
-    (Species, Temperature, CO2, Water Stress, Sample ID, ...), keep only
-    the LAST level as the column name — the short sample ID (e.g. '7B').
-    """
-    if isinstance(df.columns, pd.MultiIndex):
-        df = df.copy()
-        df.columns = df.columns.get_level_values(-1)
-    return df
-
 
 def map_transcripts_to_genes(trans_df, mapping_path):
     """
     Aggregate transcript-level rows to gene-level (mean per gene), using a
     transcript -> gene crosswalk CSV whose index is the transcript ID and
-    which has a 'gene' column — identical to the notebook's `corr` /
-    `transcript_to_gene` / `trans_mapped` logic.
+    which has a 'gene' column.
     """
     corr = pd.read_csv(mapping_path, index_col=0)
     transcript_to_gene = corr["gene"]
@@ -102,85 +73,41 @@ def map_transcripts_to_genes(trans_df, mapping_path):
     return mapped
 
 
-TRANSCRIPT_GENE_MAP = r"C:\Users\papan\Desktop\Coffeeomics\transcript_gene.csv"
+TRANSCRIPT_GENE_MAP = r"C:\Users\papan\Desktop\Coffeeomics\GOA\inputs\transcript_gene.csv"
 
 
 # ─────────────────────────────────────────────────────────────────────────
-# LAYER DEFINITIONS  ← shared registry, reused across every pair below
+# LAYER DEFINITIONS
 # ─────────────────────────────────────────────────────────────────────────
-#   name            : must match contrast_groups_<name>.json under
-#                     INTEGRATION_DIR/<name>/  ("transcriptomics" /
-#                     "proteomics" / "metabolomics")
-#   input_def       : human-readable label, used in plot titles / folder names
-#   path            : path to the data file
-#   loader          : "csv" or "excel"
-#   read_kwargs     : extra kwargs passed to the pandas reader
-#   preprocess      : OPTIONAL callable(df) -> df, applied right after loading
-#                     (e.g. collapsing a multi-index header)
-#   feature_mapping : OPTIONAL callable(df) -> df, applied AFTER preprocess,
-#                     to remap this layer's row index onto the shared
-#                     feature space used for cross-layer correlation.
-#                     None = use the index as-is.
-LAYER_DEFS = {
-    "proteomics": {
-        "name": "proteomics",
-        "input_def": "Proteomics Normalized (manual, at least 50% and above 10)",
-        "path": r"C:\Users\papan\Desktop\Coffeeomics\proteomics\data\prot_normalized_pydeseq2_manual_50_above_10.xlsx",
-        "loader": "excel",
-        "read_kwargs": {"index_col": 0},
-        "preprocess": None,
-        "feature_mapping": None,   # already gene-indexed
-    },
-    "transcriptomics": {
-        "name": "transcriptomics",
-        "input_def": "Transcriptomics Normalized PyDESeq2",
-        "path": r"C:\Users\papan\Desktop\Coffeeomics\transcriptomics\trans_normalizations\trans_pydeseq2_normalized_counts.csv",
-        "loader": "csv",
-        "read_kwargs": {"index_col": 0, "encoding": "cp1252", "encoding_errors": "replace"},
-        "preprocess": None,
-        "feature_mapping": lambda df: map_transcripts_to_genes(df, TRANSCRIPT_GENE_MAP),
-    },
-    "metabolomics": {
-        "name": "metabolomics",
-        "input_def": "Metabolomics Raw Values",
-        "path": r"C:\Users\papan\Desktop\Coffeeomics\metabolomics\data\metabolomics_counts.csv",
-        "loader": "csv",
-        "read_kwargs": {"index_col": 0, "header": [0, 1, 2, 3, 4]},
-        "preprocess": flatten_multiindex_columns_to_sample_id,
-        # No built-in metabolite -> gene crosswalk. Plug one in here if you
-        # have one, e.g.:
-        #   "feature_mapping": lambda df: map_metabolites_to_genes(df, r"...\metabolite_gene.csv"),
-        # Left as None => metabolomics' own metabolite index is used
-        # directly against the other layer's gene index.
-        "feature_mapping": None,
-    },
+# Paths / read_kwargs kept IDENTICAL to the verified-working entries in
+# single_omics_corr_analysis.py — only feature_mapping is new (needed here,
+# not needed for within-layer self-correlation).
+PROTEOMICS = {
+    "name": "proteomics",
+    "input_def": "Proteomics Normalized (PyDESeq2, at least 50% and above 10)",
+    "path": r"C:\Users\papan\Desktop\Coffeeomics\proteomics\data\prot_normalized_pydeseq2_manual_50_above_10.xlsx",
+    "loader": "excel",
+    "read_kwargs": {"index_col": 0},
+    "preprocess": None,
+    "feature_mapping": None,   # already gene-indexed
 }
 
-# ─────────────────────────────────────────────────────────────────────────
-# PAIRS TO RUN  ← edit this list to add/remove comparisons
-# ─────────────────────────────────────────────────────────────────────────
-PAIRS = [
-    {
-        "first": "metabolomics",
-        "second": "transcriptomics",
-        "output_dir": r"C:\Users\papan\Desktop\Coffeeomics\cross_layer\correltion_matrix",
-        "show_attribute_strips": True,
-    },
-    {
-        "first": "metabolomics",
-        "second": "proteomics",
-        "output_dir": r"C:\Users\papan\Desktop\Coffeeomics\cross_layer\correltion_matrix",
-        "show_attribute_strips": True,
-    },
+TRANSCRIPTOMICS = {
+    "name": "transcriptomics",
+    "input_def": "Transcriptomics Normalized PyDESeq2",
+    "path": r"C:\Users\papan\Desktop\Coffeeomics\transcriptomics\normalizations\trans_pydeseq2_normalized_counts.csv",
+    "loader": "csv",
+    "read_kwargs": {"index_col": 0},
+    "preprocess": None,
+    "feature_mapping": lambda df: map_transcripts_to_genes(df, TRANSCRIPT_GENE_MAP),
+}
 
-    # ── Add more pairs here as needed, e.g.: ───────────────────────────────
-    # {
-    #     "first": "proteomics",
-    #     "second": "transcriptomics",
-    #     "output_dir": r"C:\Users\papan\Desktop\Coffeeomics\proteomics\correltion_matrix",
-    #     "show_attribute_strips": True,
-    # },
-]
+PAIR = {
+    "first": PROTEOMICS,
+    "second": TRANSCRIPTOMICS,
+    "output_dir": r"C:\Users\papan\Desktop\Coffeeomics\integration\cross_layer_correltion_matrix",
+    "show_attribute_strips": True,
+}
 
 
 # ─────────────────────────────────────────────────────────────────────────
@@ -240,13 +167,13 @@ def build_species_groups(contrast_groups):
 
 
 # ─────────────────────────────────────────────────────────────────────────
-# PER-PAIR RUN
+# RUN
 # ─────────────────────────────────────────────────────────────────────────
 
 def run_pair(pair):
     """Build and save the cross-layer correlation figures for one pair, per species."""
-    first_def  = LAYER_DEFS[pair["first"]]
-    second_def = LAYER_DEFS[pair["second"]]
+    first_def  = pair["first"]
+    second_def = pair["second"]
 
     print(f"\n{'=' * 70}\n{first_def['input_def']}  vs  {second_def['input_def']}\n{'=' * 70}")
 
@@ -263,9 +190,8 @@ def run_pair(pair):
     if len(common_features) == 0:
         print("  ⚠  No overlapping features between these two layers. "
               "build_and_save() needs both layers on the same feature index "
-              "(e.g. gene) to produce meaningful correlations — you likely "
-              "need a feature_mapping crosswalk for one or both layers "
-              "(see the module docstring).")
+              "(e.g. gene) to produce meaningful correlations — check the "
+              "transcript_gene.csv crosswalk.")
 
     # ── Shared samples (columns) ────────────────────────────────────────────
     common_samples = first_aligned.columns.intersection(second_aligned.columns)
@@ -304,7 +230,7 @@ def run_pair(pair):
     for sp, slist in species_samples.items():
         print(f"    {sp}: {len(slist)} samples")
 
-    # One output subfolder per pair, named after both INPUT_DEF labels
+    # One output subfolder for the pair, named after both INPUT_DEF labels
     output_dir = Path(pair["output_dir"])
     comparison_folder = output_dir / (
         f"{safe_name(first_def['input_def'])}__vs__{safe_name(second_def['input_def'])}"
@@ -316,7 +242,16 @@ def run_pair(pair):
             print(f"  Skipping {sp}: fewer than 2 samples.")
             continue
 
-        build_and_save(
+        # NOTE: build_cross_layer_tree_and_heatmaps() (a) sorts BOTH the row
+        # and column sample order identically for the ordered heatmap (same
+        # sp_samples list, same _sort_key, applied to both axes), which is
+        # what makes the diagonal meaningful — cell [i, i] is sample i's
+        # value in the first layer vs sample i's value in the second layer;
+        # and (b) draws the Temperature/CO2/Water-Stress attribute strips
+        # beside the dendrogram when show_attribute_strips=True (the
+        # default). It saves only 3 figures per species (tree + 2 ordered
+        # heatmaps) — the plain/annotated clustermaps are skipped.
+        build_cross_layer_tree_and_heatmaps(
             sp=sp,
             sp_samples=sp_samples,
             prot_aligned=first_aligned,
@@ -337,9 +272,7 @@ def run_pair(pair):
 # ─────────────────────────────────────────────────────────────────────────
 
 def main():
-    for pair in PAIRS:
-        run_pair(pair)
-
+    run_pair(PAIR)
     print("\nFinished.")
 
 

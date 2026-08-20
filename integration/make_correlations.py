@@ -474,7 +474,8 @@ def build_and_save(sp, sp_samples, prot_aligned, trans_aligned, comparison_folde
 
     # ── 3. Labels and per-sample colors ───────────────────────────────────────
     original_labels    = mat.index.tolist()
-    display_labels     = [make_display_label(s) for s in original_labels]
+    #display_labels     = [make_display_label(s) for s in original_labels] #FULL LABELS
+    display_labels     = [make_display_label(s).split("|")[0].strip() for s in original_labels] #STRIPPED LABELS (JUST THE SAMPLE ID)
     label_to_group_map = {lbl: label_to_group(lbl) for lbl in original_labels}
 
     label_colors = [
@@ -1272,7 +1273,8 @@ def build_single_layer_tree_and_heatmaps(sp, sp_samples, data, comparison_folder
 
     # ── 3. Labels and per-sample colors ────────────────────────────────────
     original_labels    = mat.index.tolist()
-    display_labels     = [make_display_label(s) for s in original_labels]
+    #display_labels     = [make_display_label(s) for s in original_labels] #FULL LABELS
+    display_labels     = [make_display_label(s).split("|")[0].strip() for s in original_labels] #STRIPPED LABELS (JUST THE SAMPLE ID)
     label_to_group_map = {lbl: label_to_group(lbl) for lbl in original_labels}
 
     label_colors = [
@@ -1479,6 +1481,326 @@ def build_single_layer_tree_and_heatmaps(sp, sp_samples, data, comparison_folder
     )
     ax.set_xlabel(INPUT_DEF, fontsize=15, labelpad=12)
     ax.set_ylabel(INPUT_DEF, fontsize=15, labelpad=12)
+    ax.legend(
+        handles=legend_handles,
+        title="Contrast group",
+        bbox_to_anchor=(1.25, 1),
+        loc="upper left",
+        fontsize=15,
+        title_fontsize=15,
+        frameon=True,
+    )
+
+    plt.tight_layout()
+    save_figure(fig, comparison_folder / f"{safe_name(sp)}_gene_overlap_ordered_heatmap")
+    plt.close()
+
+def build_cross_layer_tree_and_heatmaps(sp, sp_samples, prot_aligned, trans_aligned,
+                                         comparison_folder, unique_groups, group_to_color,
+                                         COLOR_MAPS, FIRST_INPUT_DEF, SECOND_INPUT_DEF,
+                                         show_attribute_strips=True,
+                                         layers=("proteomics", "transcriptomics"),
+                                         contrast_groups_base_dir=r"C:\Users\papan\Desktop\Coffeeomics"):
+    """
+    Trimmed cross-layer variant of build_and_save(): correlates FEATURE
+    VALUES between two layers (asymmetric matrix — rows = first layer's
+    samples, columns = second layer's samples) and saves ONLY:
+
+      1. {sp}_pearson_tree                  - dendrogram, with the
+                                               Temperature/CO2/Water-Stress
+                                               attribute strips and stacked
+                                               legend layout.
+      2. {sp}_pearson_ordered_heatmap       - Pearson r, rows and columns
+                                               both ordered by the SAME
+                                               sample-ID order, so the
+                                               diagonal is meaningful
+                                               (sample i in layer A vs
+                                               sample i in layer B).
+      3. {sp}_gene_overlap_ordered_heatmap  - feature-count-per-pair,
+                                               same ordering.
+
+    The plain clustermap, annotated clustermap, and gene-overlap clustermap
+    from build_and_save() are intentionally skipped.
+
+    Parameters
+    ----------
+    sp                        : str          — species name
+    sp_samples                : list[str]    — sample column names belonging to this species
+    prot_aligned              : pd.DataFrame — first layer (features x samples)
+    trans_aligned             : pd.DataFrame — second layer (features x samples)
+    comparison_folder         : Path         — output folder for saved figures
+    unique_groups             : list[str]    — all contrast group keys in order
+    group_to_color            : dict         — contrast group key -> RGB color tuple
+    COLOR_MAPS                : dict         — attribute name -> {value: hex color}
+    FIRST_INPUT_DEF            : str         — row axis label (first layer)
+    SECOND_INPUT_DEF           : str         — column axis label (second layer)
+    show_attribute_strips     : bool         — draw Temperature/CO2/Water-Stress
+                                                strips beside the dendrogram (default True)
+    layers                    : tuple[str] | None — layers whose contrast_groups_<layer>.json
+                                                get merged (short_ids unioned per group)
+                                                via set_contrast_groups_merged() before
+                                                building. Set to None to skip and use
+                                                whatever contrast_groups is already set.
+    contrast_groups_base_dir  : str          — base_dir passed through to load_contrast_groups
+    """
+
+    if layers is not None:
+        set_contrast_groups_merged(layers, base_dir=contrast_groups_base_dir)
+
+    print(f"\nBuilding matrix for {sp} ({len(sp_samples)} samples)...")
+
+    # ── 1. Pearson cross-layer correlation matrix (asymmetric) ─────────────
+    mat            = pd.DataFrame(np.nan, index=sp_samples, columns=sp_samples)
+    n_mat          = pd.DataFrame(0,      index=sp_samples, columns=sp_samples)
+    excluded_pairs = []
+
+    for s1 in sp_samples:
+        for s2 in sp_samples:
+            v1      = prot_aligned[s1]
+            v2      = trans_aligned[s2]
+            mask    = v1.notna() & v2.notna()
+            n_valid = mask.sum()
+            n_mat.loc[s1, s2] = n_valid
+            if n_valid >= 3:
+                r, _ = pearsonr(v1[mask], v2[mask])
+                mat.loc[s1, s2] = r
+            else:
+                excluded_pairs.append((s1, s2, int(n_valid)))
+
+    if excluded_pairs:
+        print(f"  ⚠  {len(excluded_pairs)} comparison(s) excluded "
+              f"(fewer than 3 overlapping features):")
+        for s1, s2, n in excluded_pairs:
+            print(f"      {s1}  vs  {s2}  →  {n} feature(s) in common")
+    else:
+        print(f"  ✓  No comparisons excluded for {sp}.")
+
+    # ── 1b. Colormaps ──────────────────────────────────────────────────────
+    import copy
+    cmap_bad   = copy.copy(plt.get_cmap("PuOr"))
+    cmap_bad.set_bad(color="black")
+
+    cmap_genes = copy.copy(plt.get_cmap("Blues"))
+    cmap_genes.set_bad(color="black")
+
+    # ── 2. Hierarchical clustering (NaN-aware) — asymmetric, two linkages ──
+    row_lkg = linkage(nan_aware_condensed_distances(mat.values),   method="average")
+    col_lkg = linkage(nan_aware_condensed_distances(mat.values.T), method="average")
+
+    # ── 3. Labels and per-sample colors ────────────────────────────────────
+    original_labels    = mat.index.tolist()
+    display_labels     = [make_display_label(s).split("|")[0].strip() for s in original_labels]
+    label_to_group_map = {lbl: label_to_group(lbl) for lbl in original_labels}
+
+    label_colors = [
+        group_to_color.get(label_to_group_map[lbl], "black")
+        for lbl in original_labels
+    ]
+
+    sp_groups = {
+        grp for grp in label_to_group_map.values()
+        if grp is not None
+    }
+    legend_handles = [
+        mpatches.Patch(
+            facecolor=group_to_color[g],
+            label=" | ".join(g.split(" | ")[1:])
+        )
+        for g in unique_groups
+        if g in sp_groups
+    ]
+
+    # ── 4. Dendrogram — WITH attribute strips ───────────────────────────────
+    attributes = ["Temperature", "CO2_ppm", "Water_Stress"]
+
+    if show_attribute_strips:
+        annotation_matrices, _ = build_annotation_matrices(display_labels, original_labels)
+        n_attrs = len(attributes)
+        fig, axes = plt.subplots(
+            1, 2 + n_attrs,   # tree, spacer, then one axis per strip
+            figsize=(14 + 0.8 * n_attrs, 32),
+            gridspec_kw={
+                "width_ratios": [10, 8] + [0.35] * n_attrs,
+                "wspace": 0.05,
+            },
+        )
+        ax = axes[0]
+        spacer_ax = axes[1]
+        spacer_ax.axis("off")
+        strip_axes = list(axes[2:])
+    else:
+        fig, ax = plt.subplots(figsize=(8, 32))
+        strip_axes = []
+
+    ddata = dendrogram(
+        row_lkg,
+        labels=display_labels,
+        orientation="left",
+        leaf_rotation=0,
+        leaf_font_size=15,
+        ax=ax
+    )
+
+    leaf_order     = ddata["leaves"]
+    ordered_colors = [label_colors[i] for i in leaf_order]
+    for tick_label, color in zip(ax.get_yticklabels(), ordered_colors):
+        tick_label.set_color(color)
+
+    if show_attribute_strips:
+        y_positions = ax.get_yticks()
+
+        for strip_ax, attr in zip(strip_axes, attributes):
+            colors_ordered = [annotation_matrices[attr].iloc[i, 0] for i in leaf_order]
+            for y, color in zip(y_positions, colors_ordered):
+                strip_ax.add_patch(
+                    plt.Rectangle((0, y - 5), 1, 10, facecolor=color, edgecolor="white")
+                )
+            strip_ax.set_ylim(ax.get_ylim())
+            strip_ax.set_xlim(0, 1)
+            strip_ax.set_xticks([])
+            strip_ax.set_yticks([])
+            strip_ax.set_title(attr.replace("_", " "), fontsize=15, rotation=90, va="bottom")
+            for spine in strip_ax.spines.values():
+                spine.set_visible(False)
+
+    ax.set_title(
+        f"{sp} — Pearson Correlation Tree\n"
+        f"{FIRST_INPUT_DEF}  vs  {SECOND_INPUT_DEF}",
+        fontsize=15
+    )
+    ax.set_ylabel("Samples", fontsize=15)
+    ax.set_xlabel("Pearson distance  (1 − r)", fontsize=15)
+
+    leg_group = fig.legend(
+        handles=legend_handles,
+        title="Contrast group",
+        bbox_to_anchor=(-0.2, 0.8),
+        loc="upper left",
+        fontsize=15,
+        title_fontsize=15,
+        frameon=True
+    )
+    fig.add_artist(leg_group)
+
+    if show_attribute_strips:
+        for i, attr in enumerate(attributes):
+            handles = [
+                mpatches.Patch(facecolor=color, label=val)
+                for val, color in COLOR_MAPS[attr].items()
+            ]
+            leg = fig.legend(
+                handles=handles,
+                title=attr.replace("_", " "),
+                loc="upper left",
+                bbox_to_anchor=(-0.2, 0.6 - i * 0.08),
+                fontsize=15,
+                title_fontsize=15,
+                frameon=True
+            )
+            fig.add_artist(leg)
+
+    plt.tight_layout()
+    save_figure(fig, comparison_folder / f"{safe_name(sp)}_pearson_tree")
+    plt.close()
+
+    # ── 5. Ordered heatmap (Pearson r) — same order on both axes ───────────
+    # so the diagonal is meaningful: cell [i, i] = sample i in the first
+    # layer vs sample i in the second layer.
+    ordered_samples      = sorted(sp_samples, key=_sort_key)
+    ordered_display      = [make_display_label(s) for s in ordered_samples]
+    ordered_disp_to_orig = dict(zip(ordered_display, ordered_samples))
+
+    mat_ordered         = mat.loc[ordered_samples, ordered_samples].copy()
+    mat_ordered.index   = ordered_display
+    mat_ordered.columns = ordered_display
+
+    fig, ax = plt.subplots(figsize=(30, 24))
+
+    sns.heatmap(
+        mat_ordered,
+        ax=ax,
+        cmap=cmap_bad,
+        center=0,
+        linewidths=0.4,
+        linecolor="lightgrey",
+        cbar_kws={"shrink": 0.6, "label": "Pearson r"},
+    )
+
+    for tick in ax.get_xticklabels():
+        orig = ordered_disp_to_orig.get(tick.get_text(), tick.get_text())
+        grp  = label_to_group_map.get(orig)
+        tick.set_color(group_to_color.get(grp, "black"))
+        tick.set_rotation(90)
+        tick.set_fontsize(15)
+
+    for tick in ax.get_yticklabels():
+        orig = ordered_disp_to_orig.get(tick.get_text(), tick.get_text())
+        grp  = label_to_group_map.get(orig)
+        tick.set_color(group_to_color.get(grp, "black"))
+        tick.set_rotation(0)
+        tick.set_fontsize(15)
+
+    ax.set_title(
+        f"{sp} — Pearson r  (numeric / alphabetic order)\n"
+        f"Rows = {FIRST_INPUT_DEF}\nColumns = {SECOND_INPUT_DEF}",
+        fontsize=15,
+    )
+    ax.set_xlabel(SECOND_INPUT_DEF, fontsize=15, labelpad=12)
+    ax.set_ylabel(FIRST_INPUT_DEF, fontsize=15, labelpad=12)
+    ax.legend(
+        handles=legend_handles,
+        title="Contrast group",
+        bbox_to_anchor=(1.25, 1),
+        loc="upper left",
+        fontsize=15,
+        title_fontsize=15,
+        frameon=True,
+    )
+
+    plt.tight_layout()
+    save_figure(fig, comparison_folder / f"{safe_name(sp)}_pearson_ordered_heatmap")
+    plt.close()
+
+    # ── 6. Gene/feature overlap ordered heatmap — same ordering as above ───
+    n_ordered         = n_mat.loc[ordered_samples, ordered_samples].copy()
+    n_ordered.index   = ordered_display
+    n_ordered.columns = ordered_display
+
+    fig, ax = plt.subplots(figsize=(28, 24))
+
+    sns.heatmap(
+        n_ordered,
+        ax=ax,
+        cmap=cmap_genes,
+        linewidths=0.4,
+        linecolor="lightgrey",
+        annot=n_ordered.map(lambda x: str(int(x)) if pd.notna(x) else ""),
+        fmt="",
+        annot_kws={"fontsize": 5},
+        cbar_kws={"shrink": 0.6, "label": "features used"},
+    )
+
+    for tick in ax.get_xticklabels():
+        orig = ordered_disp_to_orig.get(tick.get_text(), tick.get_text())
+        grp  = label_to_group_map.get(orig)
+        tick.set_color(group_to_color.get(grp, "black"))
+        tick.set_rotation(90)
+        tick.set_fontsize(15)
+
+    for tick in ax.get_yticklabels():
+        orig = ordered_disp_to_orig.get(tick.get_text(), tick.get_text())
+        grp  = label_to_group_map.get(orig)
+        tick.set_color(group_to_color.get(grp, "black"))
+        tick.set_rotation(0)
+        tick.set_fontsize(15)
+
+    ax.set_title(
+        f"{sp} — Features used per correlation  (numeric / alphabetic order)\n"
+        f"Rows = {FIRST_INPUT_DEF}\nColumns = {SECOND_INPUT_DEF}",
+        fontsize=15,
+    )
+    ax.set_xlabel(SECOND_INPUT_DEF, fontsize=15, labelpad=12)
+    ax.set_ylabel(FIRST_INPUT_DEF, fontsize=15, labelpad=12)
     ax.legend(
         handles=legend_handles,
         title="Contrast group",
