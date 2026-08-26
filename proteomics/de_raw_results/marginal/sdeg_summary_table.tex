@@ -1,0 +1,25 @@
+\begin{table}
+\centering
+\caption{Summary of significant DEGs by omics layer and species for aggregated data}
+\label{tab:deg_prot_summary}
+\begin{tabularx}{\textwidth}{@{}llcXX@{}}
+\toprule
+Layer & Species & Treatment & Unique SDEGs & Total Instances of SDEGs \\
+\midrule
+\multirow{6}{*}{Proteomics}
+    & \multirow{3}{*}{\textbf{Icatu}$^{*}$}
+        & CO$_2$       & 1 & 1 \\
+    &   & Temperature & 36 & 62 \\
+    &   & Water       & 23 & 26 \\
+    \cmidrule(l){2-5}
+    & \multirow{3}{*}{\textbf{CL153}$^{**}$}
+        & CO$_2$       & 0 & 0 \\
+    &   & Temperature & 31 & 59 \\
+    &   & Water       & 9 & 11 \\
+\bottomrule
+\end{tabularx}
+\vspace{0.5em}
+\footnotesize
+$^{*}$ \textit{C. arabica}\\ Total Instances of SDEGs are all instances for which we have a number (all entries of the matrix that are non nan) and all genes (rows) for wich at least one entrie is non nan
+$^{**}$ \textit{C. canephora}
+\end{table}
