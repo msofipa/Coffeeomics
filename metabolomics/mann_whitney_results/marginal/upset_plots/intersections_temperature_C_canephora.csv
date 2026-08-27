@@ -1,0 +1,5 @@
+﻿combination,n_contrasts,n_metabolites,metabolites
+25/20°C vs 42/30°C,1,11,Citrate; Glucose-6-phosphate; Glycerol-3-phosphate; Histidine; Phenylalanine; Phosphoric acid; Putrescine; Pyroglutamate; Quinate; Tyrosine; Valine
+25/20°C vs 37/28°C & 25/20°C vs 42/30°C & 37/28°C vs 42/30°C,3,8,Dehydroascorbate; Erythritol; Glucose; Glycerate; Pyruvate; Succinate; Threonine; beta-Alanine
+25/20°C vs 42/30°C & 37/28°C vs 42/30°C,2,4,2-Oxoglutarate; Fucose; Isoleucine; myo-Inositol
+25/20°C vs 37/28°C & 25/20°C vs 42/30°C,2,3,Asparagine; Malate; Raffinose

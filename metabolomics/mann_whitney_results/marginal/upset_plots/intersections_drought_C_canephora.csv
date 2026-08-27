@@ -1,0 +1,8 @@
+﻿combination,n_contrasts,n_metabolites,metabolites
+medium vs severe & severe vs without,2,12,2-Oxoglutarate; Arginine; Histidine; Lysine; Ornithine; Phenylalanine; Pyruvate; Serine; Sucrose; Tyrosine; Valine; beta-Alanine
+severe vs without,1,8,Aspartate; Fumarate; Isoleucine; Nicotinic acid; Proline; Spermine; Threonate; Tyramine
+medium vs severe & medium vs without,2,5,Galactinol; Glucose; Glucose-6-phosphate; Phosphoric acid; Raffinose
+medium vs severe & medium vs without & severe vs without,3,4,Cystine; Fructose; Glycerate; Tryptophan
+medium vs without & severe vs without,2,4,GABA; Putrescine; Quinate; Rhamnose
+medium vs without,1,3,Dehydroascorbate; Fucose; Succinate
+medium vs severe,1,2,Citrate; Erythritol
