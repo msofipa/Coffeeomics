@@ -1,6 +1,4 @@
 """
-inspect_mofa_output.py
------------------------
 Diagnostic-only script: opens the ALREADY-TRAINED MOFA model file and
 prints its internal HDF5 structure, so the variance-explained table in
 fit_mofa_model.py can be reshaped correctly -- against ground truth,

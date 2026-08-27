@@ -1,6 +1,4 @@
 """
-build_mofa_input.py
---------------------
 Assembles transcriptomics, proteomics, and metabolomics matrices from the
 Coffeeomics project into the long-format DataFrame that mofapy2 expects:
 
