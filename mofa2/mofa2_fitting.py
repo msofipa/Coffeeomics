@@ -1,41 +1,3 @@
-"""
-fit_mofa_model.py
-------------------
-Fits a MOFA2 model on the assembled Coffeeomics long-format multi-omics
-input (produced by build_mofa_input.py) and saves the trained model to an
-HDF5 file for downstream analysis.
-
-Follows the structure of the official mofapy2 long-dataframe template:
-https://github.com/bioFAM/MOFA2/blob/master/inst/scripts/template_script_dataframe.py
-
-    entry_point() -> set_data_options() -> set_data_df() -> set_model_options()
-    -> set_train_options() -> build() -> run() -> save()
-
-Design choices tied to this project:
-  - scale_views=True: transcriptomics (VST counts), proteomics (log
-    intensities), and metabolomics (log abundances) have very different
-    dynamic ranges, so each view is scaled to unit variance before fitting
-    -- otherwise the view with the largest raw variance would dominate the
-    latent factors regardless of actual biological signal.
-  - groups = species (already encoded in the "group" column of the long
-    input). Temperature / CO2 / water stress are NOT modeled as MOFA
-    groups or covariates here -- they get correlated against fitted factor
-    scores AFTER training, in a separate downstream script. If a
-    continuous-covariate model of the stress gradients is wanted later,
-    that's what MEFISTO (MOFA's extension) is for, not vanilla MOFA2.
-  - factors=15 is a generous starting point. Expect to prune down based on
-    variance explained (R2) once the model has converged -- factors
-    explaining near-zero variance in every view/group are candidates to drop
-    and refit, or just ignore in interpretation.
-  - No missing-value imputation before fitting. Gaps from the proteomics
-    50%-completeness filter, and any remaining metabolomics sample gaps
-    (e.g. the still-unresolved 10B/28C absence flagged by
-    build_mofa_input.py), are left as NaN in the long-format input --
-    mofapy2 fills these in internally when building its per-view matrices.
-
->>> EDIT THE "CONFIG" SECTION BELOW BEFORE RUNNING <<<
-"""
-
 from __future__ import annotations
 
 import pickle
@@ -64,7 +26,7 @@ except ImportError as e:
     ) from e
 
 # =========================================================================
-# CONFIG -- edit these paths for your machine
+# CONFIG 
 # =========================================================================
 
 BASE_DIR = Path(r"C:\Users\papan\Desktop\Coffeeomics")

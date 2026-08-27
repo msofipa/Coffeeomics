@@ -28,13 +28,6 @@ Design choices tied to the project's known conventions:
     absent from contrast_groups.json (and vice versa), directly relevant to
     the open question about ~52 unmatched metabolomics samples.
 
->>> EDIT THE "CONFIG" SECTION BELOW BEFORE RUNNING <<<
-This script cannot see your actual files, so the paths, sheet names, and
-"already flat vs. MultiIndex" assumptions below are best guesses based on
-the project's established conventions. Adjust as needed -- the diagnostic
-output at the bottom will tell you quickly if a loader guessed wrong
-(e.g. feature/sample counts that look transposed, or near-total sample
-mismatch against contrast_groups.json).
 """
 
 from __future__ import annotations
@@ -48,7 +41,7 @@ import numpy as np
 import pandas as pd
 
 # =========================================================================
-# CONFIG -- edit these paths for your machine
+# CONFIG 
 # =========================================================================
 
 BASE_DIR = Path(r"C:\Users\papan\Desktop\Coffeeomics")
