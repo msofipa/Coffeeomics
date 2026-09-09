@@ -55,9 +55,9 @@ ARD_FACTORS = True
 # --- Training options ---
 N_ITER = 1000
 CONVERGENCE_MODE = "medium"   # "fast" | "medium" | "slow"
-DROP_R2 = None                # e.g. 0.01 to auto-drop near-zero-variance factors during training
+DROP_R2 = 0.01                # e.g. 0.01 to auto-drop near-zero-variance factors during training
 GPU_MODE = False
-SEED = 42
+SEED = 15
 
 # =========================================================================
 # Load assembled long-format input
@@ -129,18 +129,7 @@ def fit_mofa(data: pd.DataFrame):
 # Post-training summary: variance explained per factor/view/group
 # =========================================================================
 
-
 def summarize_variance_explained(ent, output_csv: Path):
-    """
-    Extract variance explained (R2) per factor, per view, per group and
-    save a tidy CSV -- the first thing worth checking post-fit to decide
-    which of the N_FACTORS factors carry real signal vs. noise.
-
-    mofapy2's internal return shape for calculate_variance_explained() has
-    varied across versions, so this reshapes defensively: if the expected
-    structure isn't there, it prints the raw object and pickles it instead
-    of silently producing an empty/wrong table.
-    """
     try:
         r2 = ent.model.calculate_variance_explained()
     except Exception as e:
@@ -150,15 +139,23 @@ def summarize_variance_explained(ent, output_csv: Path):
     try:
         records = []
         group_names = ent.data_opts.get("groups_names") if hasattr(ent.data_opts, "get") else None
+        view_names = ent.data_opts.get("views_names") if hasattr(ent.data_opts, "get") else None
+
         for group_idx, r2_group in enumerate(r2):
             group_name = group_names[group_idx] if group_names else f"group_{group_idx}"
+
+            # r2_group comes back as a bare (n_views x n_factors) array with no
+            # axis labels attached -- rows are views, columns are factors.
             r2_group_df = pd.DataFrame(r2_group)
-            for factor_idx, row in r2_group_df.iterrows():
-                for view_name, value in row.items():
+            if view_names and r2_group_df.shape[0] == len(view_names):
+                r2_group_df.index = view_names
+
+            for view_label, row in r2_group_df.iterrows():
+                for factor_idx, value in row.items():
                     records.append({
                         "group": group_name,
                         "factor": f"Factor{factor_idx + 1}",
-                        "view": view_name,
+                        "view": view_label,
                         "r2": value,
                     })
         tidy = pd.DataFrame(records)
@@ -185,7 +182,6 @@ def summarize_variance_explained(ent, output_csv: Path):
         print(f"Raw variance-explained object pickled to {raw_path} for manual "
               f"inspection -- structure may differ by mofapy2 version.")
         return None
-
 
 # =========================================================================
 # Main

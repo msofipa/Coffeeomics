@@ -1,4 +1,6 @@
 """
+build_mofa_input.py
+--------------------
 Assembles transcriptomics, proteomics, and metabolomics matrices from the
 Coffeeomics project into the long-format DataFrame that mofapy2 expects:
 
@@ -26,6 +28,13 @@ Design choices tied to the project's known conventions:
     absent from contrast_groups.json (and vice versa), directly relevant to
     the open question about ~52 unmatched metabolomics samples.
 
+>>> EDIT THE "CONFIG" SECTION BELOW BEFORE RUNNING <<<
+This script cannot see your actual files, so the paths, sheet names, and
+"already flat vs. MultiIndex" assumptions below are best guesses based on
+the project's established conventions. Adjust as needed -- the diagnostic
+output at the bottom will tell you quickly if a loader guessed wrong
+(e.g. feature/sample counts that look transposed, or near-total sample
+mismatch against contrast_groups.json).
 """
 
 from __future__ import annotations
@@ -39,7 +48,7 @@ import numpy as np
 import pandas as pd
 
 # =========================================================================
-# CONFIG 
+# CONFIG -- edit these paths for your machine
 # =========================================================================
 
 BASE_DIR = Path(r"C:\Users\papan\Desktop\Coffeeomics")
@@ -52,9 +61,11 @@ CONTRAST_GROUPS_METABOLOMICS_PATH = BASE_DIR / "metabolomics" / "contrast_groups
 
 # Adjust these to the actual normalized/filtered matrices you want MOFA to see.
 # Expectation: features (genes/proteins/metabolites) as rows, samples as columns.
+
 TRANSCRIPTOMICS_PATH = BASE_DIR / "transcriptomics" / "normalizations" / "trans_pydeseq2_normalized_counts.csv"
 PROTEOMICS_PATH = BASE_DIR / "proteomics" / "data" / "prot_normalized_pydeseq2_manual_50_above_10.xlsx"
 METABOLOMICS_PATH = BASE_DIR / "metabolomics" / "data" / "metabolomics_counts.csv"
+
 
 OUTPUT_LONG_DF_PATH = BASE_DIR / "integration" / "mofa2" / "mofa_input_long.csv"
 
@@ -62,6 +73,15 @@ OUTPUT_LONG_DF_PATH = BASE_DIR / "integration" / "mofa2" / "mofa_input_long.csv"
 # Metabolomics (50 features) is left untouched.
 N_TOP_VARIABLE_TRANSCRIPTS = 5000
 N_TOP_VARIABLE_PROTEINS = 5000
+
+# NOTE: "37B" (transcriptomics only) and "37D" (proteomics/metabolomics only)
+# under "C. canephora | 42/30°C | 380ppm | without" are CONFIRMED to be two
+# distinct, real samples -- not a mislabeling. Despite the same-looking
+# cross-layer mismatch pattern as the 10D/10B case, no correction applies
+# here. Left as an explicit empty dict (rather than removed) so this
+# decision is documented and doesn't get silently re-investigated later.
+TRANSCRIPTOMICS_SAMPLE_ID_RENAMES = {}
+TRANSCRIPTOMICS_SAMPLES_TO_DROP = []
 
 # --- Known, manually-confirmed corrections to the metabolomics matrix ---
 # These come from the user's own verification against raw sample records,
@@ -76,8 +96,8 @@ N_TOP_VARIABLE_PROTEINS = 5000
 #     diagnostic run -- "10D" is almost certainly that mislabeled column.
 #   - "29D" does not correspond to a real sample and should be dropped.
 METABOLOMICS_SAMPLE_ID_RENAMES = {"10D": "10B"}
-METABOLOMICS_SAMPLES_TO_DROP = ["29D"]
- 
+METABOLOMICS_SAMPLES_TO_DROP = ["29D","52E", "35A"]
+
 # Samples confirmed to exist in ALL THREE layers but currently absent from
 # the metabolomics matrix. This is a genuine data gap (not a naming issue)
 # -- these should be recovered/investigated upstream. The script only
@@ -126,6 +146,39 @@ def _print_header_sanity_check(df: pd.DataFrame, path: Path) -> None:
           f"first columns={cols_preview}")
 
 
+def check_no_duplicate_columns(df: pd.DataFrame, view_name: str) -> None:
+    """
+    Raise loudly if two columns share the same sample ID after loading and
+    any manual corrections. A silent duplicate here (e.g. a rename target
+    that already existed) survives the wide->long melt as two full sets of
+    rows for that sample and view, which mofapy2's set_data_df() will only
+    catch much later as an opaque AssertionError. Catch it here instead,
+    with the actual conflicting values shown, so it's clear whether this is
+    a real duplicate measurement or a mislabeling that needs a different fix.
+    """
+    dup_mask = df.columns.duplicated(keep=False)
+    if not dup_mask.any():
+        return
+
+    dup_names = sorted(set(df.columns[dup_mask]))
+    print(f"\n[ERROR] {view_name}: duplicate sample column name(s) found after "
+          f"loading/corrections: {dup_names}")
+    for name in dup_names:
+        sub = df.loc[:, df.columns == name]
+        print(f"\n  Columns named {name!r} ({sub.shape[1]} of them) -- "
+              f"first few feature values side by side:")
+        print(sub.head(5).to_string())
+    raise ValueError(
+        f"{view_name}: sample ID(s) {dup_names} appear more than once as a "
+        f"column. If this came from a manual rename in "
+        f"METABOLOMICS_SAMPLE_ID_RENAMES, the target name already existed in "
+        f"the source file -- check the printed values above to decide "
+        f"whether these are genuinely duplicate measurements (pick one, or "
+        f"average them) or two different samples that were mislabeled the "
+        f"same way, before rerunning."
+    )
+
+
 def flatten_multiindex_to_sample_id(df: pd.DataFrame) -> pd.DataFrame:
     """
     Collapse a 5-level MultiIndex column header
@@ -148,6 +201,21 @@ def looks_like_flat_sample_columns(df: pd.DataFrame) -> bool:
 # =========================================================================
 # Metadata: invert contrast_groups.json into sample -> condition lookup
 # =========================================================================
+
+
+def rename_meta_index(meta: pd.DataFrame, renames: dict, layer_name: str) -> pd.DataFrame:
+    """
+    Apply the same sample-ID renames to a per-layer metadata table's index
+    that were applied to that layer's data columns. Needed when the mislabel
+    exists in the layer's own contrast_groups file too (not just the data
+    matrix) -- otherwise a renamed data column has nothing to merge against.
+    """
+    applicable = {old: new for old, new in renames.items() if old in meta.index}
+    if applicable:
+        print(f"  [correction] renaming {layer_name} contrast-groups sample ID(s): "
+              f"{applicable}")
+        meta = meta.rename(index=applicable)
+    return meta
 
 
 def load_sample_metadata(contrast_groups_path: Path) -> pd.DataFrame:
@@ -229,6 +297,12 @@ def load_transcriptomics(path: Path, meta: pd.DataFrame) -> pd.DataFrame:
     df = read_table_flex(path)
     if not looks_like_flat_sample_columns(df):
         df = flatten_multiindex_to_sample_id(df)
+    rename_map = {old: new for old, new in TRANSCRIPTOMICS_SAMPLE_ID_RENAMES.items()
+                  if old in df.columns}
+    if rename_map:
+        print(f"  [correction] renaming transcriptomics sample column(s): {rename_map}")
+        df = df.rename(columns=rename_map)
+    check_no_duplicate_columns(df, "transcriptomics")
     df = select_top_variable_features(df, N_TOP_VARIABLE_TRANSCRIPTS)
     df.index.name = "feature"
     print(f"  -> {df.shape[0]} features x {df.shape[1]} samples after feature selection")
@@ -241,6 +315,7 @@ def load_proteomics(path: Path, meta: pd.DataFrame) -> pd.DataFrame:
     df = read_table_flex(path)
     if not looks_like_flat_sample_columns(df):
         df = flatten_multiindex_to_sample_id(df)
+    check_no_duplicate_columns(df, "proteomics")
     df = select_top_variable_features(df, N_TOP_VARIABLE_PROTEINS)
     df.index.name = "feature"
     print(f"  -> {df.shape[0]} features x {df.shape[1]} samples after feature selection")
@@ -274,18 +349,20 @@ def apply_metabolomics_id_corrections(df: pd.DataFrame) -> pd.DataFrame:
 
 def load_metabolomics(path: Path, meta: pd.DataFrame) -> pd.DataFrame:
     print(f"Loading metabolomics from {path} ...")
-    # Metabolomics file is known to use the 5-level MultiIndex header
     df = read_table_flex(path, header=[0, 1, 2, 3, 4])
     df = flatten_multiindex_to_sample_id(df)
     df = apply_metabolomics_id_corrections(df)
+    check_no_duplicate_columns(df, "metabolomics")
     df.index.name = "feature"
-    # Log-transform abundances (metabolomics values are typically raw intensities)
+    # Log-transform abundances
     numeric = df.apply(pd.to_numeric, errors="coerce")
-    log_df = np.log2(numeric.clip(lower=1e-6))
+    n_zeros = int((numeric == 0).sum().sum())
+    numeric = numeric.mask(numeric == 0)  # treat 0 as non-detect / missing, not a true zero abundance
+    print(f"  -> {n_zeros} zero entries treated as missing (dropped before MOFA sees them)")
+    log_df = np.log2(numeric.clip(lower=1e-6))  # detection limit at 1e-6; avoid -inf for near-zero non-missing values
     print(f"  -> {log_df.shape[0]} features x {log_df.shape[1]} samples (log2-transformed)")
     long_df = wide_to_long(log_df, "metabolomics")
     return attach_group(long_df, meta, "metabolomics")
-
 
 # =========================================================================
 # Diagnostics: sample overlap between each view and contrast_groups.json
@@ -350,6 +427,8 @@ def main():
     ]:
         try:
             meta = load_sample_metadata(path)
+            if view_name == "transcriptomics":
+                meta = rename_meta_index(meta, TRANSCRIPTOMICS_SAMPLE_ID_RENAMES, "transcriptomics")
             view_metas[view_name] = meta
             print(f"  [{view_name}] -> {len(meta)} samples, "
                   f"{meta['species'].nunique()} species (from {path.name})")

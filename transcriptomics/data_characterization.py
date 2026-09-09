@@ -3,7 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import re
 
-sample_info = pd.read_csv(r"C:\Users\papan\Desktop\Coffeomics\sample_information.csv", header=0, index_col="Sample_ID")
+sample_info = pd.read_csv(r"C:\Users\papan\Desktop\Coffeeomics\sample_information.csv", header=0, index_col="Sample_ID")
 
 def analyzes_df_entries (df):
     # Count NaNs
@@ -110,9 +110,10 @@ def sample_info_characterization(data):
     print(f"{data['CO2_ppm'].value_counts()}", "\n")
     print(f"{data['Water_Stress'].value_counts()}", "\n")
 
+
 def load_clean_data(sheet):
-    count_data = pd.read_excel(r'C:\Users\papan\Desktop\Coffeomics\data_to_normalize.xlsx', sheet_name=sheet, index_col=0)
-    print(f'Number of individual samples for {sheet}: {len(count_data.columns)}/{len(sample_info)}')
+    count_data = pd.read_csv(r"...\trans_pydeseq2_normalized_counts.csv", index_col=0)
+    print(f'Number of individual samples: {len(count_data.columns)}/{len(sample_info)}')
     return count_data
 
 
@@ -127,4 +128,7 @@ def count_attribute (df, attribute=None, value=None):
     common_samples = df.columns.intersection(filtered)
     print(f"{len(common_samples)}/{len(filtered)} existing samples") 
     return common_samples
+
+if __name__ == "__main__":
+    sample_info_characterization(sample_info)
 
